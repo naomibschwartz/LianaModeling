@@ -1,0 +1,431 @@
+LinFamily        Genus      Species     VoucheVoucheVoucheVoucheVoucheVoucheVoucheVoucheLiana N(indStem dbh
+   ACTINIDIACEAE Saurauia   bullosa     P6981                                                    1  15      
+   ACTINIDIACEAE Saurauia   bullosa                                                              1   3      
+   ACTINIDIACEAE Saurauia   bullosa                                                              1  11      
+   ACTINIDIACEAE Saurauia   bullosa                                                              1   5
+   ACTINIDIACEAE Saurauia   bullosa                                                              1   4      
+   ACTINIDIACEAE Saurauia   bullosa                                                              1   3      
+   ACTINIDIACEAE Saurauia   bullosa                                                              1   8
+   ACTINIDIACEAE Saurauia   bullosa                                                              1   5
+   ACTINIDIACEAE Saurauia   bullosa                                                              1   6
+   ACTINIDIACEAE Saurauia   bullosa                                                              1  11
+   ACTINIDIACEAE Saurauia   bullosa                                                              1 2.5
+   ACTINIDIACEAE Saurauia   bullosa                                                              1   8
+   ACTINIDIACEAE Saurauia   bullosa                                                              1  18
+   ACTINIDIACEAE Saurauia   bullosa                                                              1   6
+   ACTINIDIACEAE Saurauia   bullosa                                                              1   4
+   ACTINIDIACEAE Saurauia   bullosa                                                              1  17
+   ACTINIDIACEAE Saurauia   bullosa                                                              1  16
+   AQUIFOLIACEAE Ilex       M1          P6956                                                    1  70
+   AQUIFOLIACEAE Ilex       M1                                                                   1   5
+   AQUIFOLIACEAE Ilex       M1                                                                   1  16
+   AQUIFOLIACEAE Ilex       M1                                                                   1   3
+   ARACEAE       Anthurium  M1          N?                                                       1 2.5
+   ARACEAE       Anthurium  scabrinerve N?                                                       1 2.5
+   ARALIACEAE    Oreopanax  M1          N?                                                       1   7
+   ARALIACEAE    Oreopanax  M1          N?                                                       1   3
+   ARALIACEAE    Oreopanax  M1          N?                                                       1   6
+   ARALIACEAE    Oreopanax  M1          N?                                                       1 2.5
+   ARALIACEAE    Oreopanax  M1          N?                                                       1   5
+   ARALIACEAE    Oreopanax  M1          N?                                                       1   3
+   ARALIACEAE    Oreopanax  M1          N?                                                       1 3.5
+   ARALIACEAE    Oreopanax  M1          N?                                                       1   9
+   ARALIACEAE    Oreopanax  M2          N?                                                       1   4
+   ARALIACEAE    Schefflera M1          P3932?                                                   1   3
+   ARALIACEAE    Schefflera M1          P3932?                                                   1  15
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   6
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   7
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   4
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   7
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1  13
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   5
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   9
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   8
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1  15
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   6
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   6
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   4
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   6
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   7
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1 2.5
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   3
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   8
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   7
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   4
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1  10
+   ASTERACEAE    Grosvenoriarimbachii   P3983                                                    1   5
+   ASTERACEAE    M1         M1          N?                                                       1  21
+   ASTERACEAE    M1         M1          N?                                                       1   8
+   ASTERACEAE    M1         M1          N?                                                       1   3
+   ASTERACEAE    M2         M1          N?                                                       1 2.5
+   ASTERACEAE    M3         M1          N?                                                       1   7
+   ASTERACEAE    M3         M1          N?                                                       1   6
+   ASTERACEAE    Munnozia   jussieui    N?                                                       1   7
+   ASTERACEAE    Munnozia   jussieui    N?                                                       1   4
+   ASTERACEAE    Munnozia   jussieui    N?                                                       1   6
+   ASTERACEAE    Munnozia   jussieui    N?                                                       1   6
+   ASTERACEAE    Munnozia   jussieui    N?                                                       1   3
+   ASTERACEAE    Munnozia   jussieui    N?                                                       1 2.5
+   BORAGINACEAE  Tournefortiscabrida    T48                                                      1  16
+   BORAGINACEAE  Tournefortiscabrida    T48                                                      1   5
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   3
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   3
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   7
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   3
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   3
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   7
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1 2.5
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   6
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   4
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   9
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   3
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   5
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   4
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   5
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   3
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   8
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   5
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   3
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   7
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   7
+   CAPRIFOLIACEAEViburnum   triphyllum  T47                                                      1   3
+   CHLORANTHACEAEHedyosmum  cumbalense  P6965                                                    1   6
+   CUNONIACEAE   Weinmannia pinnata     T71                                                      1  25
+   CUNONIACEAE   Weinmannia pinnata     T71                                                      1  28
+   CUNONIACEAE   Weinmannia pinnata     T71                                                      1  28
+   CUNONIACEAE   Weinmannia rollottii   N?                                                       1   3
+   CUNONIACEAE   Weinmannia rollottii   N?                                                       1  62
+   CUNONIACEAE   Weinmannia rollottii   N?                                                       1   4
+   CUNONIACEAE   Weinmannia rollottii   N?                                                       1   5
+   CUNONIACEAE   Weinmannia rollottii   N?                                                       1  41
+   CUNONIACEAE   Weinmannia rollottii   N?                                                       1  35
+   CYATHEACEAE   Cyathea    caracasana  T76                                                      1  14
+   CYATHEACEAE   Cyathea    straminea   N?                                                       1  21
+   ERICACAEAE    Macleania  rupestris   N?                                                       1   3
+   ERICACAEAE    Macleania  rupestris   N?                                                       1   4
+   GROSSULARIACEAEscallonia M1          N?                                                       1   6
+   GROSSULARIACEAEscallonia M1          N?                                                       1  16
+   GROSSULARIACEAEscallonia M1          N?                                                       1   4
+   GROSSULARIACEAEscallonia M1          N?                                                       1   3
+   GROSSULARIACEAEscallonia M1          N?                                                       1  30
+   GROSSULARIACEAEscallonia M1          N?                                                       1   3
+   LAURACEAE     Ocotea     M1          P6989                                                    1  70
+   LAURACEAE     Ocotea     M1          P6989                                                    1   7
+   LAURACEAE     Ocotea     M1          P6989                                                    1 130
+   LAURACEAE     Ocotea     M1          P6989                                                    1  14
+   LAURACEAE     Ocotea     M1          P6989                                                    1   3
+   LAURACEAE     Ocotea     M1          P6989                                                    1  35
+   LAURACEAE     Ocotea     M1          P6989                                                    1  15
+   LAURACEAE     Ocotea     M1          P6989                                                    1   9
+   LAURACEAE     Ocotea     M1          P6989                                                    1 2.5
+   LAURACEAE     Ocotea     M1          P6989                                                    1   5
+   LAURACEAE     Ocotea     M1          P6989                                                    1  10
+   LAURACEAE     Ocotea     M1          P6989                                                    1  15
+   LAURACEAE     Ocotea     M1          P6989                                                    1  69
+   LAURACEAE     Ocotea     M1          P6989                                                    1  10
+   LAURACEAE     Ocotea     M1          P6989                                                    1   5
+   LAURACEAE     Ocotea     M1          P6989                                                    1  57
+   LAURACEAE     Ocotea     M1          P6989                                                    1   4
+   LAURACEAE     Ocotea     M1          P6989                                                    1  70
+   LAURACEAE     Ocotea     M1          P6989                                                    1   4
+   LAURACEAE     Ocotea     M1          P6989                                                    1  54
+   LAURACEAE     Ocotea     M1          P6989                                                    1  31
+   LAURACEAE     Ocotea     M2          N?                                                       1  38
+   MELASTOMATACEAAxinaea    macrophylla T98                                                      1   9
+   MELASTOMATACEAAxinaea    macrophylla T98                                                      1   5
+   MELASTOMATACEAAxinaea    macrophylla T98                                                      1   4
+   MELASTOMATACEAMiconia    M1          N?                                                       1  15
+   MELASTOMATACEAMiconia    M1          N?                                                       1  15
+   MELASTOMATACEAMiconia    M1          N?                                                       1  13
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   3
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   7
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   3
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   5
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  12
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  10
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   7
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   7
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   7
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   6
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   3
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  14
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   4
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  10
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   4
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   9
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  14
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   7
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   8
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   3
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  17
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   5
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   5
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  15
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   3
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   4
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   8
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   4
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  22
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   4
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   3
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  12
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   5
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   8
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   5
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   5
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   4
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  12
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   4
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   7
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  11
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   5
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   5
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  14
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1 2.5
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   9
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  25
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   7
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   7
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  25
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   3
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   9
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  14
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   6
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   9
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  10
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   4
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  12
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   3
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  13
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  12
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   5
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  19
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  39
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   3
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   6
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  12
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   8
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   6
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1  13
+   MELASTOMATACEAMiconia    ochracea    P5285                                                    1   6
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   6
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   5
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   4
+   MELASTOMATACEAMiconia    theazans    T7                                                       1  17
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   4
+   MELASTOMATACEAMiconia    theazans    T7                                                       1  25
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   9
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   4
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   8
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   7
+   MELASTOMATACEAMiconia    theazans    T7                                                       1  36
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   7
+   MELASTOMATACEAMiconia    theazans    T7                                                       1  11
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   4
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   6
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   3
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   4
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   3
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   4
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   7
+   MELASTOMATACEAMiconia    theazans    T7                                                       1  19
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   9
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   9
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   6
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   4
+   MELASTOMATACEAMiconia    theazans    T7                                                       1  18
+   MELASTOMATACEAMiconia    theazans    T7                                                       1   5
+   MELASTOMATACEAMiconia    theazans    T7                                                       1  22
+   MELIACEAE     Ruagea     hirsuta     P6986                                                    1 2.5
+   MELIACEAE     Ruagea     hirsuta     P6986                                                    1   5
+   MELIACEAE     Ruagea     hirsuta     P6986                                                    1  22
+   MELIACEAE     Ruagea     hirsuta     P6986                                                    1  11
+   MELIACEAE     Ruagea     hirsuta     P6986                                                    1 3.5
+   MELIACEAE     Ruagea     hirsuta     P6986                                                    1 2.5
+   MELIACEAE     Ruagea     hirsuta     P6986                                                    1   8
+   PIPERACEAE    Piper      M1          N?                                                       1   6
+   PIPERACEAE    Piper      M1          N?                                                       1   6
+   PIPERACEAE    Piper      M1          N?                                                       1  11
+   PIPERACEAE    Piper      M1          N?                                                       1   7
+   PIPERACEAE    Piper      M1          N?                                                       1   7
+   PIPERACEAE    Piper      M1          N?                                                       1   9
+   PIPERACEAE    Piper      M1          N?                                                       1  14
+   PIPERACEAE    Piper      M1          N?                                                       1 2.5
+   PIPERACEAE    Piper      M1          N?                                                       1   5
+   PIPERACEAE    Piper      M1          N?                                                       1   7
+   PIPERACEAE    Piper      M1          N?                                                       1  12
+   PIPERACEAE    Piper      M1          N?                                                       1   7
+   PIPERACEAE    Piper      M1          N?                                                       1   8
+   PIPERACEAE    Piper      M1          N?                                                       1   5
+   PIPERACEAE    Piper      M1          N?                                                       1   8
+   PIPERACEAE    Piper      M1          N?                                                       1   8
+   PIPERACEAE    Piper      M1          N?                                                       1   9
+   PIPERACEAE    Piper      M1          N?                                                       1   8
+   PIPERACEAE    Piper      M1          N?                                                       1   5
+   PIPERACEAE    Piper      M1          N?                                                       1   3
+   PIPERACEAE    Piper      M1          N?                                                       1   7
+   PIPERACEAE    Piper      M1          N?                                                       1   3
+   PIPERACEAE    Piper      M1          N?                                                       1 2.5
+   PIPERACEAE    Piper      M1          N?                                                       1  15
+   PIPERACEAE    Piper      M1          N?                                                       1   5
+   PIPERACEAE    Piper      M1          N?                                                       1   7
+   PIPERACEAE    Piper      M1          N?                                                       1   5
+   PIPERACEAE    Piper      M1          N?                                                       1  10
+   PIPERACEAE    Piper      M1          N?                                                       1   7
+   PIPERACEAE    Piper      M2          N?                                                       1   3
+   PIPERACEAE    Piper      M2          N?                                                       1   6
+   PIPERACEAE    Piper      M2          N?                                                       1 2.5
+   PIPERACEAE    Piper      M2          N?                                                       1   7
+   PIPERACEAE    Piper      M2          N?                                                       1  10
+   PIPERACEAE    Piper      M3          N?                                                       1   3
+   PIPERACEAE    Piper      M3          N?                                                       1   4
+   PIPERACEAE    Piper      M3          N?                                                       1 2.5
+   PIPERACEAE    Piper      M3          N?                                                       1   4
+   PIPERACEAE    Piper      M3          N?                                                       1  18
+   PIPERACEAE    Piper      M3          N?                                                       1   3
+   PIPERACEAE    Piper      M3          N?                                                       1   4
+   POLYGALACEAE  Monnina    M1          N?                                                       1   5
+   POLYGALACEAE  Monnina    M1          N?                                                       1   7
+   POLYGALACEAE  Monnina    M1          N?                                                       1   5
+   RANUNCULACEAE Clematis   M1          N?                                                       1   3
+   RANUNCULACEAE Clematis   M1          N?                                                       1  19
+   RANUNCULACEAE Clematis   M1          N?                                                       1   4
+   RANUNCULACEAE Clematis   M1          N?                                                       1   6
+   RANUNCULACEAE Clematis   M1          N?                                                       1   4
+   ROSACEAE      Prunus     rugosa      P6969                                                    1  16
+   ROSACEAE      Prunus     rugosa      P6969                                                    1   6
+   ROSACEAE      Prunus     rugosa      P6969                                                    1  17
+   ROSACEAE      Prunus     rugosa      P6969                                                    1  26
+   ROSACEAE      Prunus     rugosa      P6969                                                    1   3
+   ROSACEAE      Prunus     rugosa      P6969                                                    1   5
+   ROSACEAE      Prunus     rugosa      P6969                                                    1  35
+   ROSACEAE      Prunus     rugosa      P6969                                                    1   5
+   ROSACEAE      Prunus     rugosa      P6969                                                    1   6
+   ROSACEAE      Prunus     rugosa      P6969                                                    1  11
+   ROSACEAE      Prunus     rugosa      P6969                                                    1   4
+   ROSACEAE      Prunus     rugosa      P6969                                                    1   5
+   RUBIACEAE     Palicourea M1          ?                                                        1   3
+   RUBIACEAE     Palicourea M1          ?                                                        1   7
+   RUBIACEAE     Palicourea M1          ?                                                        1  12
+   RUBIACEAE     Palicourea M1          ?                                                        1   3
+   RUBIACEAE     Palicourea M1          ?                                                        1   6
+   RUBIACEAE     Palicourea M1          ?                                                        1   8
+   RUBIACEAE     Palicourea M1          ?                                                        1   4
+   RUBIACEAE     Palicourea M1          ?                                                        1  11
+   RUBIACEAE     Palicourea M1          ?                                                        1  15
+   RUBIACEAE     Palicourea M1          ?                                                        1   4
+   RUBIACEAE     Palicourea M1          ?                                                        1   7
+   RUBIACEAE     Palicourea M1          ?                                                        1  11
+   RUBIACEAE     Palicourea M1          ?                                                        1   7
+   RUBIACEAE     Palicourea M1          ?                                                        1   6
+   RUBIACEAE     Palicourea M1          ?                                                        1   5
+   RUBIACEAE     Palicourea M1          ?                                                        1  14
+   RUBIACEAE     Palicourea M1          ?                                                        1 2.5
+   RUBIACEAE     Palicourea M1          ?                                                        1   3
+   RUBIACEAE     Palicourea M1          ?                                                        1 7.1
+   RUBIACEAE     Palicourea M1          ?                                                        1   5
+   RUBIACEAE     Palicourea M1          ?                                                        1   3
+   RUBIACEAE     Palicourea M1          ?                                                        1   6
+   RUBIACEAE     Palicourea M1          ?                                                        1   9
+   RUBIACEAE     Palicourea M1          ?                                                        1   4
+   RUBIACEAE     Palicourea M1          ?                                                        1  12
+   RUBIACEAE     Palicourea M1          ?                                                        1   4
+   RUBIACEAE     Palicourea M1          ?                                                        1   5
+   RUBIACEAE     Palicourea M1          ?                                                        1   4
+   RUBIACEAE     Palicourea M1          ?                                                        1  10
+   RUBIACEAE     Palicourea M1          ?                                                        1   9
+   RUBIACEAE     Palicourea M1          ?                                                        1   7
+   RUBIACEAE     Palicourea M1          ?                                                        1   4
+   RUBIACEAE     Palicourea M1          ?                                                        1   4
+   RUBIACEAE     Palicourea M1          ?                                                        1   8
+   RUBIACEAE     Palicourea M1          ?                                                        1  18
+   RUBIACEAE     Palicourea M1          ?                                                        1   8
+   RUBIACEAE     Palicourea M1          ?                                                        1  14
+   RUBIACEAE     Palicourea M1          ?                                                        1 2.5
+   RUBIACEAE     Palicourea M1          ?                                                        1   3
+   RUBIACEAE     Palicourea M1          ?                                                        1   4
+   RUBIACEAE     Palicourea M1          ?                                                        1   3
+   RUBIACEAE     Palicourea M1          ?                                                        1   6
+   RUBIACEAE     Palicourea M1          ?                                                        1   7
+   RUBIACEAE     Palicourea M1          ?                                                        1   4
+   RUBIACEAE     Palicourea M1          ?                                                        1   6
+   RUBIACEAE     Palicourea M1          ?                                                        1  17
+   RUBIACEAE     Palicourea M1          ?                                                        1   3
+   RUBIACEAE     Palicourea M2          ?                                                        1   3
+   RUBIACEAE     Palicourea M2          ?                                                        1  14
+   RUBIACEAE     Palicourea M2          ?                                                        1   6
+   RUBIACEAE     Palicourea M2          ?                                                        1   4
+   RUBIACEAE     Palicourea M2          ?                                                        1   5
+   RUBIACEAE     Palicourea M2          ?                                                        1  14
+   RUBIACEAE     Palicourea M2          ?                                                        1   4
+   RUBIACEAE     Palicourea M2          ?                                                        1   4
+   RUBIACEAE     Palicourea M2          ?                                                        1   5
+   RUBIACEAE     Palicourea M2          ?                                                        1   5
+   RUBIACEAE     Palicourea M2          ?                                                        1   7
+   RUBIACEAE     Palicourea M2          ?                                                        1   3
+   RUBIACEAE     Palicourea M2          ?                                                        1   4
+   RUBIACEAE     Palicourea M2          ?                                                        1  18
+   RUBIACEAE     Palicourea M2          ?                                                        1   5
+   RUBIACEAE     Palicourea M2          ?                                                        1   4
+   RUBIACEAE     Palicourea M2          ?                                                        1  13
+   RUBIACEAE     Palicourea M2          ?                                                        1   6
+   RUBIACEAE     Palicourea M2          ?                                                        1   4
+   RUBIACEAE     Palicourea M2          ?                                                        1 2.5
+   RUBIACEAE     Palicourea M2          ?                                                        1   5
+   RUBIACEAE     Palicourea M2          ?                                                        1   3
+   RUBIACEAE     Palicourea M2          ?                                                        1   7
+   RUBIACEAE     Palicourea M2          ?                                                        1   9
+   RUBIACEAE     Palicourea M2          ?                                                        1   5
+   RUBIACEAE     Palicourea M2          ?                                                        1   6
+   RUBIACEAE     Palicourea M2          ?                                                        1   5
+   RUBIACEAE     Palicourea M2          ?                                                        1   4
+   RUBIACEAE     Palicourea M2          ?                                                        1   5
+   RUBIACEAE     Palicourea M2          ?                                                        1   6
+   RUBIACEAE     Palicourea M2          ?                                                        1  10
+   RUBIACEAE     Palicourea M2          ?                                                        1   3
+   RUBIACEAE     Palicourea M2          ?                                                        1   8
+   RUBIACEAE     Palicourea M2          ?                                                        1   8
+   RUBIACEAE     Palicourea M2          ?                                                        1   7
+   RUBIACEAE     Palicourea M2          ?                                                        1   7
+   RUBIACEAE     Palicourea M2          ?                                                        1   9
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   3
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   5
+   SABIACEAE     Meliosma   arenosa     T30                                                      1  17
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   5
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   8
+   SABIACEAE     Meliosma   arenosa     T30                                                      1  14
+   SABIACEAE     Meliosma   arenosa     T30                                                      1  15
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   7
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   3
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   6
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   4
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   5
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   7
+   SABIACEAE     Meliosma   arenosa     T30                                                      1 2.5
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   7
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   6
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   8
+   SABIACEAE     Meliosma   arenosa     T30                                                      1  11
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   9
+   SABIACEAE     Meliosma   arenosa     T30                                                      1  29
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   4
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   6
+   SABIACEAE     Meliosma   arenosa     T30                                                      1  12
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   6
+   SABIACEAE     Meliosma   arenosa     T30                                                      1  10
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   6
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   6
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   5
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   5
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   6
+   SABIACEAE     Meliosma   arenosa     T30                                                      1  10
+   SABIACEAE     Meliosma   arenosa     T30                                                      1   6
+   SOLANACEAE    Sessea     corymbosa   T43                                                      1   4
+   SOLANACEAE    Sessea     corymbosa   T43                                                      1   4
+   SOLANACEAE    Sessea     corymbosa   T43                                                      1   4
+   SOLANACEAE    Sessea     corymbosa   T43                                                      1   3
+   SOLANACEAE    Sessea     corymbosa   T43                                                      1  30
+   SOLANACEAE    Solanum    M1          ?                                                        1   6
+   VERBENACEAE   Aegiphila  monticola   P3890                                                    1   7
+   VERBENACEAE   Aegiphila  monticola   P3890                                                    1   6
+   VERBENACEAE   Aegiphila  monticola   P3890                                                    1   4

@@ -1,0 +1,327 @@
+LineFAMILY      GENUS       SPECIES    vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+  2 ACTINIDIACEASAURAUIA    M1         80076                                                 2    9   15
+  3 ACTINIDIACEASAURAUIA    M1         80076                                                 1    6
+  8 ACTINIDIACEASAURAUIA    M1         80076                                                 1  2.5
+  6 AMARANTHACEACHAMISSOA/TOM1         80165                                           L     1    4
+ 10 AMARANTHACEACHAMISSOA/TOM1         80165                                           L     1    4
+  2 AMARANTHACEAIRESINE     M1         80094                                           L     1    3
+  2 ANACARDIACEATAPIRIRA    GUIANENSIS 80072                                                 1    3
+  1 ANNONACEAE  GUATTERIA   M1         80053 80125 80128                                     1    3
+  4 ANNONACEAE  GUATTERIA   M1         80053 80125 80128                                     1    4
+  4 ANNONACEAE  GUATTERIA   M1         80053 80125 80128                                     2    3    3
+  6 ANNONACEAE  GUATTERIA   M1         80053 80125 80128                                     1    3
+  9 ANNONACEAE  GUATTERIA   M2         80212                                                 1    8
+ 10 ANNONACEAE  GUATTERIA   M3         80233                                                 1   20
+  5 ANNONACEAE  GUATTERIA   M4         80149                                                 1    5
+  5 ANNONACEAE  M1          M1         80148                                                 1    7
+  1 ANNONACEAE  ROLLINIA    M1         80056                                                 1   29
+  4 ANNONACEAE  ROLLINIA    M1         80056                                                 1   36
+  9 AQUIFOLIACEAILEX        M1         80209                                           L     1  2.5
+  1 ARACEAE     PHILODENDRONM1         80040 80132                                     H     1  2.5
+  4 ARACEAE     PHILODENDRONM1         80040 80132                                     H     1    3
+  7 ARACEAE     PHILODENDRONM1         80040 80132                                     H     1  2.5
+  4 ARACEAE     PHILODENDRONVERRUCOSUM 80126                                           H     1  2.5
+  1 ARALIACEAE  SCHEFFLERA  M1         80060                                           H     1    3
+  2 ARALIACEAE  SCHEFFLERA  M1         80060                                           H     1    3
+  7 ARALIACEAE  SCHEFFLERA  M1         80060                                           H     1    3
+ 10 ARALIACEAE  SCHEFFLERA  M1         80060                                           H     1  2.5
+  2 ARALIACEAE  SCHEFFLERA  M2         80078                                           H     1  2.5
+ 10 ARALIACEAE  SCHEFFLERA  M2         80078                                                 1    3
+  6 ARALIACEAE  SCHEFFLERA  M3         80176                                                 1  2.5
+  8 ARALIACEAE  SCHEFFLERA  M4         80199                                           H     1    3
+  5 ARECACEAE   AIPHANES    M1         80140                                                 1  2.5
+  5 ARECACEAE   AIPHANES    M1         80140                                                 1    4
+  6 ARECACEAE   AIPHANES    M1         80140                                                 1    4
+  9 ARECACEAE   AIPHANES    M1         80140                                                 1    4
+ 10 ARECACEAE   AIPHANES    M1         80140                                                 1    7
+  4 ARECACEAE   BACTRIS     M1         80119                                                 1    9
+  6 ARECACEAE   BACTRIS     M1         80119                                                 1   10
+  5 ARECACEAE   GEONOMA     M1         80158                                                 1  2.5
+  9 ARECACEAE   GEONOMA     M1         80158                                                 1  2.5
+  6 ARECACEAE   PRESTOEA    M1         80171                                                 1    3
+  1 ARECACEAE   WETTINIA    M1         80032                                                 9   14   15   14   15    9    7   13    7   13
+  2 ARECACEAE   WETTINIA    M1         80032                                                 5    8    4   14    8    6
+  3 ARECACEAE   WETTINIA    M1         80032                                                 1    5
+  4 ARECACEAE   WETTINIA    M1         80032                                                 4   16   20   15    7
+  5 ARECACEAE   WETTINIA    M1         80032                                                 4   16   14    3   14
+  6 ARECACEAE   WETTINIA    M1         80032                                                 2    9    9
+  7 ARECACEAE   WETTINIA    M1         80032                                                 4    9   10   16    8
+  8 ARECACEAE   WETTINIA    M1         80032                                                 3   11   12    5
+  9 ARECACEAE   WETTINIA    M1         80032                                                 3   11   15    7
+ 10 ARECACEAE   WETTINIA    M1         80032                                                 6    8   14   10   14    3    6
+  2 ASPLENIACEAEPOLYBOTRYA CM1         80088                                           H     1  2.5
+  6 ASTERACEAE  M1          M1         80170                                           L     1    6
+  4 ASTERACEAE  M2          M1         80121                                                 1  2.5
+  1 ASTERACEAE  MIKANIA     M1         80039                                           L     1  2.5
+  3 ASTERACEAE  MIKANIA     M2         80112                                           L     1    4
+  5 ASTERACEAE  MIKANIA     M3         80150                                           L     1  2.5
+  3 ASTERACEAE  VERNONIA    M1         80117                                           L     1  2.5
+  2 BIGNONIACEAEAMPHILOPHIUMPANICULATUM80095 80111                                     L     1  2.5
+  3 BIGNONIACEAEAMPHILOPHIUMPANICULATUM80095 80111                                     L     1    5
+  3 BIGNONIACEAEANEMOPAEGMA M1         80115 80156                                     L     1    3
+  8 BIGNONIACEAEANEMOPAEGMA M1         80115 80156                                     L     1  2.5
+  5 BIGNONIACEAEANEMOPAEGNA M1         80115 80156                                     L     1    3
+  1 BIGNONIACEAELUNDIA      PUBERULA   80036 80213                                     L     1    3
+  9 BIGNONIACEAELUNDIA      PUBERULA   80036 80213                                     L     1    4
+  5 BIGNONIACEAEPITHECOCTENICRUCIGERUM 80141                                           L     2    6   10
+  7 BIGNONIACEAEPITHECOCTENICRUCIGERUM 80141                                           L     1    9
+  9 BIGNONIACEAEPITHECOCTENICRUCIGERUM 80141                                                 1    8  
+ 10 BIGNONIACEAEPITHECOCTENICRUCIGERUM 80141                                                 1    5
+  5 BOMBACACEAE QUARARIBEA  M1         80147                                                 1   31
+  3 BORAGINACEAECORDIA      M1         80108                                                 1    3
+  3 BROMELIACEAEPITCAIRNIA  M1         80110 80208                                     H     1  2.5
+  4 BROMELIACEAEPITCAIRNIA  M1         80110 80208                                     H     1  2.5  
+  5 BROMELIACEAEPITCAIRNIA  M1         80110 80208                                     H     1  2.5
+  8 BROMELIACEAEPITCAIRNIA  M1         80110 80208                                     H     1  2.5
+  1 CECROPIACEAEPOUROUMA    M1         80050                                                 2    8    8
+  3 CECROPIACEAEPOUROUMA    M1         80050                                                 1    8
+  5 CECROPIACEAEPOUROUMA    M1         80050                                                 1  2.5
+  8 CECROPIACEAEPOUROUMA    M1         80050                                                 1  2.5
+ 10 CHLORANTHACEHEDYOSMUM   M1         80232                                                 1    3
+  1 CLUSIACEAE  CHRYSOCHLAMYM1         80051                                                 1  2.5
+  2 CLUSIACEAE  CHRYSOCHLAMYM1         80051                                                 1  2.5
+  5 CLUSIACEAE  CHRYSOCHLAMYM1         80051                                                 1    5
+  7 CLUSIACEAE  CHRYSOCHLAMYM1         80051                                                 1  2.5
+  8 CLUSIACEAE  CHRYSOCHLAMYM1         80051                                                 1  2.5
+  2 CLUSIACEAE  CLUSIA      M1         80073                                           H     1    3
+  4 CLUSIACEAE  CLUSIA      M2         80122                                           H     1    3
+  5 CLUSIACEAE  CLUSIA      M3         80157                                                 1   25    5
+  8 CLUSIACEAE  CLUSIA      M4         80192                                           H     1    3
+  4 CUCURBITACEAGURANIA     M1         80127                                           L     1  2.5
+  9 CUCURBITACEAGURANIA     M1         80127                                           L     1    3
+ 10 CUCURBITACEAGURANIA     M1         80127                                           L     1    3
+  2 CYATHEACEAE CYATHEA     M1         80074 80105 80130 80164                               2    3    4
+  3 CYATHEACEAE CYATHEA     M1         80074 80105 80130 80164                               3    3    4    3
+  4 CYATHEACEAE CYATHEA     M1         80074 80105 80130 80164                               1    4
+  6 CYATHEACEAE CYATHEA     M1         80074 80105 80130 80164                               5    4    3    5    4    3
+  7 CYATHEACEAE CYATHEA     M1         80074 80105 80130 80164                               2    4    4
+  8 CYATHEACEAE CYATHEA     M1         80074 80105 80130 80164                               2    3    3
+  9 CYATHEACEAE CYATHEA     M1         80074 80105 80130 80164                               1    4
+ 10 CYATHEACEAE CYATHEA     M1         80074 80105 80130 80164                               1    3
+  7 CYATHEACEAE M1          M1         80182                                                 1    6
+  9 CYATHEACEAE SPHAEROPTERIM1         80216                                                 1   10
+  4 CYCLANTHACEAASPLUNDIA   M1         80123                                           H     1    3
+  3 CYCLANTHACEATHORACOCARPUM1         80101                                           H     2  2.5    3
+  7 CYCLANTHACEATHORACOCARPUM1         80101                                           H     1  2.5
+  1 DICHAPETALACDICHAPETALUMM1         80064                                           L     1    3
+  5 DICHAPETALACDICHAPETALUMM1         80064                                           L     1  2.5
+  7 DICHAPETALACDICHAPETALUMM1         80064                                           L     2    3  2.5
+  1 DICKSONIACEADICKSONIA   M1         80042                                                 1   36
+  3 DICKSONIACEADICKSONIA   M1         80042                                                 1   20
+  9 DICKSONIACEADICKSONIA   M1         80042                                                 1   12
+  1 ERICACEAE   M1          M1         80037                                           L     3    4    4    5
+  4 ERICACEAE   M1          M1         80037                                           H     1  2.5
+  3 ERICACEAE   M2          M1         80102                                           H     1  2.5
+  8 ERICACEAE   M3          M1         80200                                           H     1    4
+  3 ERICACEAE   PSAMMISIA   M1         80113                                           L     1  2.5
+  4 ERICACEAE   PSAMMISIA   M1         80113                                           L     1  2.5
+  3 EUPHORBIACEAHYERONIMA   LATIFOLIA  80109                                                 1   59
+  6 EUPHORBIACEAHYERONIMA   LATIFOLIA  80109                                                 1   30
+  7 EUPHORBIACEAHYERONIMA   LATIFOLIA  80109                                                 1   36
+  3 EUPHORBIACEAHYERONIMA   M1         80099                                                 1    7
+  1 EUPHORBIACEASAPIUM      M1         80067                                                 1   31
+  2 EUPHORBIACEASAPIUM      M1         80067                                                 2   12   17
+  3 EUPHORBIACEASAPIUM      M1         80067                                                 1   29
+  7 EUPHORBIACEASAPIUM      M2         80184                                                 1   10
+  8 EUPHORBIACEASAPIUM      M2         80197                                                 1   14
+  5 FABACEAE    DUSSIA      M1         80155 80177                                           1    4
+  6 FABACEAE    DUSSIA      M1         80155 80177                                           1    4
+  1 FABACEAE    INGA        M1         80049                                                 1    4
+  8 FABACEAE    INGA        M10        80202                                                 1  2.5
+  1 FABACEAE    INGA        M2         80052                                                 1   51
+  6 FABACEAE    INGA        M2         80052                                                 1   15
+  1 FABACEAE    INGA        M3         80057                                                 1    5
+  1 FABACEAE    INGA        M4         80059                                                 1  2.5
+  9 FABACEAE    INGA        M4         80215                                                 1    3
+  1 FABACEAE    INGA        M5         80066                                                 1  2.5
+  2 FABACEAE    INGA        M6         80071                                                 1   22
+  4 FABACEAE    INGA        M7         80124                                                 1    4
+  6 FABACEAE    INGA        M8         80169                                                 1    9
+  8 FABACEAE    INGA        M9         80196                                                 1   40
+  1 FABACEAE    PITHECELLOBIM1         80033                                                 2    8    6    9
+  2 FABACEAE    PITHECELLOBIM1         80033                                                 2    4    8
+  3 FABACEAE    PITHECELLOBIM1         80033                                                 1    8  
+  4 FABACEAE    PITHECELLOBIM1         80033                                                 1   11
+  8 FABACEAE    PITHECELLOBIM1         80033                                                 1    7
+  8 FABACEAE    PITHECELLOBIM1         80033                                                 1    5
+  9 FABACEAE    SCLEROLOBIUMM1         80214                                                 1   70
+  7 FLACOURTIACECASEAREA/XYLM1         80181                                                 1  2.5
+  7 FLACOURTIACECASEARIA    JAVATENSIS 80180                                                 1    4
+  3 FLACOURTIACECASEARIA    M1         80118                                                 1   13
+  8 FLACOURTIACECASEARIA    M1         80118                                                 1    4
+  4 FLACOURTIACECASEARIA    M2         80133                                                 1   27
+  5 FLACOURTIACECASEARIA    M2         80133                                                 2   15   44
+  6 FLACOURTIACECASEARIA    M2         80133                                                 1   30
+  7 FLACOURTIACECASEARIA    M2         80133                                                 1   18
+  8 FLACOURTIACECASEARIA    M3         80195                                                 1   13
+  6 ICACINACEAE CALATOLA    M1         80163                                                 1    8
+  6 INDET       RUTAC?/DENDRM1         80168                                                 1  2.5
+  3 LAURACEAE   ANIBA       M1         80107 80173 80186 80198                               1   12
+  4 LAURACEAE   ANIBA       M1         80107 80173 80186 80198                               1  2.5
+  5 LAURACEAE   ANIBA       M1         80107 80173 80186 80198                               3    5   29   19
+  6 LAURACEAE   ANIBA       M1         80107 80173 80186 80198                               2  2.5  2.5
+  7 LAURACEAE   ANIBA       M1         80107 80173 80186 80198                               3   14    4    4
+  7 LAURACEAE   ANIBA       M1         80107 80173 80186 80198                               1    4
+  8 LAURACEAE   ANIBA       M1         80107 80173 80186 80198                               3   15   55    3
+  9 LAURACEAE   ANIBA       M1         80107 80173 80186 80198                               2   10   11
+  3 LAURACEAE   ANIBA?      M2         80103                                                 1    4
+  1 LAURACEAE   M1          M1         80062                                                 1   25
+  2 LAURACEAE   M2          M1         80079                                                 1    4    4
+  4 LAURACEAE   M3          M1         80120                                                 2   14   14
+  6 LAURACEAE   M4          M1         80162                                                 1    4
+  8 LAURACEAE   M5          M1         80191                                                 1    3
+ 10 LAURACEAE   M6          M1         80230                                                 1  2.5
+  1 LAURACEAE   OCOTEA      CERNUA     80069                                                 1    8
+  7 LAURACEAE   OCOTEA      CERNUA     80069                                                 1   12
+  1 LAURACEAE   OCOTEA      M1         80063 80223                                           1   15
+  3 LAURACEAE   OCOTEA      M1         80063 80223                                           3  2.5    5    8
+  6 LAURACEAE   OCOTEA      M1         80063 80223                                           1    8
+  7 LAURACEAE   OCOTEA      M1         80063 80223                                           1  2.5
+  9 LAURACEAE   OCOTEA      M1         80063 80223                                           1    8
+ 10 LAURACEAE   OCOTEA      M1         80063 80223                                           1   13
+  5 LAURACEAE   OCOTEA      M2         80154 80146                                           1    3
+  5 LAURACEAE   OCOTEA      M2         80154 80146                                           1    5
+  5 LAURACEAE   OCOTEA      M3         80153                                                 1    9
+  8 LAURACEAE   PERSEA      M1         80193                                                 1    4
+  3 LECYTHIDACEAESCHWEILERA M1         80114 80098                                           1    5
+  3 LECYTHIDACEAESCHWEILERA M1         80114 80098                                           1   18
+  4 LECYTHIDACEAESCHWEILERA M2         80135                                                 1  2.5
+  8 LECYTHIDACEAESCHWEILERA M3         80194                                                 1    3
+  5 LECYTHIDACEALECYTHIS?   M1         80152                                                 1  2.5
+  2 MALPIGHIACEAM1          M1         80092 80145 80222                               L     1    7
+  5 MALPIGHIACEAM1          M1         80092 80145 80222                               L     1  2.5
+ 10 MALPIGHIACEAM1          M1         80092 80145 80222                               L     1    5
+  5 MARCGRAVIACEMARCGRAVIA  M1         80142                                           H     1  2.5
+  6 MARCGRAVIACEMARCGRAVIA  M1         80142                                           H     1  2.5
+  8 MARCGRAVIACEMARCGRAVIA  M1         80142                                           H     1    3
+  5 MARCGRAVIACESOUROUBEA   M1         80151                                           H     1  2.5
+  6 MELASTOMATACCONOSTEGIA  M1         80167 80174                                           2    5  2.5
+ 10 MELASTOMATACCONOSTEGIA  M1         80167 80174                                           1    4
+  4 MELASTOMATACHENRIETTEA  M1         80139                                                 1    3
+  5 MELASTOMATACHENRIETTEA  M1         80139                                                 2    3  2.5
+  1 MELASTOMATACMICONIA     M1         80038                                                 1  2.5
+  5 MELASTOMATACMICONIA     M10        80144 80204                                           1  2.5
+  8 MELASTOMATACMICONIA     M10        80144 80204                                           1    3
+ 10 MELASTOMATACMICONIA     M11        80221                                                 1    3
+ 10 MELASTOMATACMICONIA     M12        80224                                                 1    6
+  1 MELASTOMATACMICONIA     M2         80047 80166 80189                                     1    5
+  6 MELASTOMATACMICONIA     M2         80047 80166 80189                                     1  2.5
+  7 MELASTOMATACMICONIA     M2         80047 80116 80189                                     1    3
+  1 MELASTOMATACMICONIA     M3         80048                                                 2    4    7
+  4 MELASTOMATACMICONIA     M3         80048                                                 1  2.5
+  8 MELASTOMATACMICONIA     M3         80048                                                 1    3
+  9 MELASTOMATACMICONIA     M3         80048                                                 1    6
+ 10 MELASTOMATACMICONIA     M3         80048                                                 2    5    5
+  2 MELASTOMATACMICONIA     M4         80070                                                 1  2.5
+  2 MELASTOMATACMICONIA     M5         80075                                                 1    8
+  3 MELASTOMATACMICONIA     M5         80075                                                 1    8
+  2 MELASTOMATACMICONIA     M6         80084                                                 1    4
+  2 MELASTOMATACMICONIA     M7         80087 80129                                           1   41
+  4 MELASTOMATACMICONIA     M7         80087 80129                                           1   23
+  4 MELASTOMATACMICONIA     M7         80087 80129                                           1   20
+  4 MELASTOMATACMICONIA     M8         80138                                                 1    4
+  5 MELASTOMATACMICONIA     M9         80201 80143                                           1    5
+  8 MELASTOMATACMICONIA     M9         80201 80143                                           1    9
+  6 MELASTOMATACTOPOBAEA    DODSONORUM 80046                                           H     1    3
+  1 MELASTOMATACTOPOBAEA    DODSONORUM 80046                                           H     1  2.5  
+  3 MELASTOMATACTOPOBAEA    DODSONORUM 80046                                           H     1  2.5  2.5
+  1 MELASTOMATACTOPOBAEA    M1         80065                                           H     1  2.5
+  4 MELASTOMATACTOPOBAEA    M2         80134                                           H     1    5
+ 10 MELASTOMATACTOPOBAEA    M3         80218                                           H     1    3
+  8 MELASTOMATACTOPOBAEA    {DEDSONORUM}                                               H     1    3
+  7 MELASTOMATACTOPOBAEA    {DODSORORUM}                                               H     1  2.5
+  3 MELIACEAE   CEDRELLA    M1         80100                                                 1   32
+ 10 MELIACEAE   GUAREA      INGA CF    80228                                                 1  2.5
+  6 MELIACEAE   GUAREA      KUNTHII    80175                                                 1    3    4
+  8 MELIACEAE   GUAREA      KUNTHII    80175                                                 1    5
+  7 MELIACEAE   TRICHILIA   M1         80185                                                 1    9
+  1 MELIACEAE   TRICHILIA/RUM1         80044                                                 1  2.5
+  1 MENISPERMACEABUTA?      M1         80054                                           L     1    4
+  1 MONIMIACEAE MOLLINEDIA  M1         80068                                                 1  2.5
+  9 MORACEAE    CASTILLA    M1         80210                                                 1   15
+  1 MORACEAE    FICUS       M1         80043                                           H     1    7   45   68   10
+  1 MORACEAE    HELICOSTYLISM1         80055                                                 1   12
+  2 MYRISTICACEAOTOBA       M1         80091                                                 1   10
+  3 MYRISTICACEAOTOBA       M1         80091                                                 1   19
+  5 MYRISTICACEAOTOBA       M1         80091                                                 1   10
+  6 MYRISTICACEAOTOBA       M1         80091                                                 1    7
+  7 MYRISTICACEAOTOBA       M1         80091                                                 1    5
+  3 MYRSINACEAE CYBIANTHUS  M1         80096                                                 1  2.5
+  6 MYRSINACEAE CYBIANTHUS  M1         80179                                                 1    3
+ 10 MYRTACEAE   EUGENIA     M1         80227                                                 1   13
+  9 MYRTACEAE   M1          M1         80211                                                 1    9
+  8 MYRTACEAE   MELASTOM.CF M1         80207                                                 1    6
+  1 NYCTAGINACEANEEA        M1         80034 80203                                           1    5   13
+  8 NYCTAGINACEANEEA        M1         80034 80203                                           1    7  2.5
+  9 NYCTAGINACEANEEA        M1         80034 80203                                           4    7    4    5    5
+ 10 NYCTAGINACEANEEA        M1         80034 80203                                           2    3  2.5    8
+  1 NYCTAGINACEANEEA        M2         80083 80041                                           3  2.5    5    3
+  2 NYCTAGINACEANEEA        M2         80083 80041                                           1    7
+ 10 PASSIFLORACEPASSIFLORA  AURICULATA 80226                                           L     1  2.5
+  3 PASSIFLORACEPASSIFLORA  M1         80106                                           L     1    3
+  5 PASSIFLORACEPASSIFLORA  M1         80106                                           L     1  2.5
+  5 PIPERACEAE  SARCORHACHISM1         80159                                           H     1  2.5
+  6 PIPERACEAE  SARCORHACHISM1         80159                                           H     1    3
+  1 POACEAE     CHUSQUEA    M1         80045                                           L     2  2.5  2.5
+  5 POACEAE     CHUSQUEA    M1         80045                                           L     1  2.5
+  6 POACEAE     CHUSQUEA    M1         80045                                           L     1  2.5
+  7 POLYGONACEAECOCCOLOBA   M1         80188                                                 1    4    4
+  6 PROTEACEAE  PANOPSIS    M1         80161                                                 1   20
+  4 QUIINACEAE  QUIINA      M1         80136                                                 2  2.5    8
+  9 QUIINACEAE  QUIINA      M1         80136                                                 1   15
+  2 ROSACEAE    RUBUS       M1         80090                                           L     2  2.5    4
+  2 RUBIACEAE   COUSSAREA   M1         80089                                                 3    6    5    9
+  6 RUBIACEAE   COUSSAREA   M1         80089                                                 1  2.5
+  8 RUBIACEAE   COUSSAREA   M1         80089                                                 2  2.5  2.5
+  9 RUBIACEAE   COUSSAREA   M1         80089                                                 2    8    6
+  2 RUBIACEAE   COUSSAREA   M2         80093                                                 1   17
+  7 RUBIACEAE   COUSSAREA   M2         80190                                                 1  2.5
+  8 RUBIACEAE   COUSSAREA   M2         80190                                                 1    3
+  4 RUBIACEAE   ELAEAGIA?   M1         80137                                                 1  2.5
+  6 RUBIACEAE   ELAEAGIA?   M1         80137                                                 1    3
+  2 RUBIACEAE   FARAMEA     M1         80085                                                 1  2.5
+  4 RUBIACEAE   FARAMEA     M2         80131                                                 2    9    7
+  5 RUBIACEAE   FARAMEA     M2         80131                                                 1   12
+  6 RUBIACEAE   FARAMEA     M2         80131                                                 1    9
+  6 RUBIACEAE   FARAMEA     M2         80131                                                 1   13
+ 10 RUBIACEAE   FARAMEA     M2         80131                                                 1   10
+  1 RUBIACEAE   HYDRANGEA CFM1         80061                                           H     1  2.5
+  2 RUBIACEAE   M1          M1         80080                                                 1    3
+  8 RUBIACEAE   M1          M1         80205                                                 1    4
+ 10 RUBIACEAE   M1          M1         80225                                                 1  2.5
+  3 RUBIACEAE   PALICOUREA  M1         80097                                                 1  2.5
+  5 RUBIACEAE   PALICOUREA  M1         80097                                                 1  2.5
+  3 RUBIACEAE   PALICOUREA  M2         80116                                                 1   11
+ 10 RUBIACEAE   PALICOUREA  M2         80116                                                 1    3
+  1 RUBIACEAE   PSYCHOTRIA  M1         80058                                                 1    4
+  2 RUBIACEAE   PSYCHOTRIA  M1         80058                                                 1  2.5
+  6 RUBIACEAE   PSYCHOTRIA  M1         80058                                                 1    4
+  9 RUBIACEAE   PSYCHOTRIA  M1         80058                                                 1    4
+  7 RUBIACEAE   RUDGEA      M1         80183                                                 1    3
+  8 RUBIACEAE   RUDGEA      M1         80206                                                 1    8
+  2 RUBIACEAE   SCHRADERA   M1         80077                                           H     1  2.5
+  7 RUBIACEAE   SCHRADERA   M1         80077                                           H     1  2.5
+  4 RUBIACEAE   SCHRADERA   M2                                                         H     1  2.5
+  6 RUTACEAE    ZANTHOXYLON M1         80178                                                 1  2.5
+ 10 SABIACEAE   MELIOSMA    SUMACENSIS 80219                                                 1   16
+ 10 SAPINDACEAE MATAYBA     M1         80220                                                 1  2.5    4
+  3 SAPINDACEAE PAULLINIA   M1         80104 80160 80187                               L     1  2.5
+  5 SAPINDACEAE PAULLINIA   M1         80104 80160 80187                               L     1  2.5
+  7 SAPINDACEAE PAULLINIA   M1         80104 80160 80187                               L     1  2.5
+  2 SAPOTACEAE  POUTERIA    M1         80082 80083                                           1   25
+  6 SAPOTACEAE  POUTERIA    M1         80082 80083                                           1   43
+ 10 SAPOTACEAE  POUTERIA    M2         80217                                                 1   31
+  1 URTICARIACEAURERA       M1         80035                                                 1  2.5
+  6 VERBENACEAE AEGIPHILA   M1         80172                                           L     1  2.5
+  2 VIOLACEAE   GLOEOSPERMUMM1         80086                                                 1    6
+  4 VIOLACEAE   GLOEOSPERMUMM1         80086                                                 1    2
+  6 VIOLACEAE   GLOEOSPERMUMM1         80086                                                 1    8    9
+  9 VIOLACEAE   GLOEOSPERMUMM1         80086                                                 2    6   11  2.5
+ 10 VIOLACEAE   GLOEOSPERMUMM1         80086                                                 1    6
+  2 VOCHYSIACEAEVOCHYSIA    M1         80081 80231                                           2    4    5
+  6 VOCHYSIACEAEVOCHYSIA    M1         80081 80231                                           1    5
+  7 VOCHYSIACEAEVOCHYSIA    M1         80081 80231                                           2   13    5
+  8 VOCHYSIACEAEVOCHYSIA    M1         80081 80231                                           1    3
+  9 VOCHYSIACEAEVOCHYSIA    M1         80081 80231                                           1  2.5
+ 10 VOCHYSIACEAEVOCHYSIA    M1         80081 80231                                           2   10   50
+ 10 ZINGIBERACEARENEALMIA   M1         80229                                                 1    3

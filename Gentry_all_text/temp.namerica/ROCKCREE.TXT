@@ -1,0 +1,48 @@
+LineFamily       Genus            Species        vouchevouchevouchevouchevouchevouchevouchevoucheLianN(IndStemStemStemStemStemStemStem
+  1 ACERACEAE    ACER             RUBRUM                                                                2   3   11
+  2 ACERACEAE    ACER             RUBRUM                                                                7 2.5   4 2.5   3   5   5   4
+  3 ACERACEAE    ACER             RUBRUM                                                                1   8
+  4 ACERACEAE    ACER             RUBRUM                                                                2   8   4   4   5
+  1 BETULACEAE   ALNUS            SERRULATA                                                             1   4 2.5   3 2.5
+  1 BETULACEAE   OSTRYA           VIRGINIANA                                                            3   4   3   5
+  3 BETULACEAE   OSTRYA           VIRGINIANA                                                            2   4   6
+  2 CORNACEAE    CORNUS           FLORIDA                                                               1 2.5
+  3 CUPRESSACEAE JUNIPERUS        VIRGINIANA                                                            1  19
+  1 EBENACEAE    DIOSPYROS        VIRGINIANA                                                            2   8   7
+  3 ERICACEAE    VACCINIUM        ARBOREUM                                                              3   5 2.5   3   3
+  1 FABACEAE     CERCIS           CANADENSIS                                                            1   4
+  1 FAGACEAE     QUERCUS          ALBA                                                                  7   5  11  18  10  13  10   5
+  2 FAGACEAE     QUERCUS          ALBA                                                                  2  17  11
+  4 FAGACEAE     QUERCUS          ALBA                                                                  1  41
+  1 FAGACEAE     QUERCUS          COCCINEA                                                              2  51  11
+  2 FAGACEAE     QUERCUS          COCCINEA                                                              2  27  23
+  3 FAGACEAE     QUERCUS          COCCINEA                                                              1  23
+  4 FAGACEAE     QUERCUS          COCCINEA                                                              3  20  23  24
+  1 HAMAMELIDACEAHAMAMELIS        VERNALIS                                                              2 2.5 2.5
+  1 JUGLANDACEAE CARYA            TOMENTOSA                                                             1   6
+  2 JUGLANDACEAE CARYA            TOMENTOSA                                                             5   7   6   5   7   7
+  3 JUGLANDACEAE CARYA            TOMENTOSA                                                             4   5   6   6  11
+  4 JUGLANDACEAE CARYA            TOMENTOSA                                                             6 2.5   5   8   9   8   7
+  1 LAURACEAE    SASSAFRAS        ALBIDUM                                                               1 2.5
+  2 LAURACEAE    SASSAFRAS        ALBIDUM                                                               1   3
+  2 NYSSACEAE    NYSSA            SYLVATICA                                                             4 2.5 2.5 2.5   5
+  3 NYSSACEAE    NYSSA            SYLVATICA                                                             3   3   4  10
+  4 NYSSACEAE    NYSSA            SYLVATICA                                                             6   3   7 2.5 2.5   4   3
+  1 PINACEAE     PINUS            ECHINATA                                                              1  46
+  3 PINACEAE     PINUS            ECHINATA                                                              6  19  16  16  33  25  28  13
+  4 PINACEAE     PINUS            ECHINATA                                                              3  20  33  38
+  1 ROSACEAE     AMELANCHIER      ARBOREA                                                               1   4 2.5
+  2 ROSACEAE     AMELANCHIER      ARBOREA                                                               2   5   4
+  3 ROSACEAE     AMELANCHIER      ARBOREA                                                               2   6 2.5
+  4 ROSACEAE     AMELANCHIER      ARBOREA                                                               2   4   5
+  1 ULMACEAE     ULMUS            ALATA                                                                 1   9
+
+
+
+
+
+
+
+
+
+

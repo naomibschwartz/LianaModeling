@@ -1,0 +1,80 @@
+LinFamily     Genus      species    vouchvouchvouchvouchvouchvouchvouchvouchLIAN(INDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 2 AEXTOXICACEAextoxicon punctatum                                                3   18   80    5
+ 3 AEXTOXICACEAextoxicon punctatum                                                3   15   60   35   23
+ 4 AEXTOXICACEAextoxicon punctatum                                                1   44
+ 5 AEXTOXICACEAextoxicon punctatum                                                4  2.5  2.5   54   37   27
+ 6 AEXTOXICACEAextoxicon punctatum                                                5   34   30   30   37    5
+ 7 AEXTOXICACEAextoxicon punctatum                                                8   26   67   41   45   11    8    5   37   19
+ 8 AEXTOXICACEAextoxicon punctatum                                               10   77   48    9   14   42   46   21   22   69   34
+ 9 AEXTOXICACEAextoxicon punctatum                                               11   21    8   29   33   38   25   23   18   35   38 37   34
+10 AEXTOXICACEAextoxicon punctatum                                                5   31   25   31   14   63
+ 6 EUCRYPHIACEEucryphia  cordifolia                                               3  2.5   58   84
+ 7 EUCRYPHIACEEucryphia  cordifolia                                               1   75
+ 9 EUCRYPHIACEEucryphia  cordifolia                                               2    8   38
+10 EUCRYPHIACEEucryphia  cordifolia                                               3   70   21   92
+ 1 FAGACEAE   Nothofagus obliqua                                                 10   21   14  2.5    5    8   12   13   15   31   33
+ 2 FAGACEAE   Nothofagus obliqua                                                  5   34   55   38   52   52
+ 3 FAGACEAE   Nothofagus obliqua                                                  1   46
+ 4 FAGACEAE   Nothofagus obliqua                                                  3   34   68   54
+ 2 LARDIZABALABoquila    trifoliolata                                       L     1  2.5
+ 4 LARDIZABALABoquila    trifoliolata                                       L     1  2.5
+ 7 LAURACEAE  Persea     lingue                                                   1   47
+ 2 MONIMIACEAELaurelia   sempervirens                                             2    9   70   21   20    8   24   18   30
+ 4 MONIMIACEAELaurelia   sempervirens                                            14    5   25    5    8   17   20    5    8    9  7.5 41   12   34   19   17
+ 5 MONIMIACEAELaurelia   sempervirens                                             2   29   22   49
+ 6 MONIMIACEAELaurelia   sempervirens                                             2    8   10
+ 1 MYRTACEAE  Amomyrtus  luma                                                    14    5    5    5    5    5    9   16    8   11   19 2.5  5    2.5  5    2.5
+ 2 MYRTACEAE  Amomyrtus  luma                                                    14  7.5    7  2.5    5   11    5    5  7.5  2.5    9 5    2.5  2.5  5    5
+ 3 MYRTACEAE  Amomyrtus  luma                                                     7  2.5   12    8  2.5    5    9    5  2.5  2.5    5 15
+ 4 MYRTACEAE  Amomyrtus  luma                                                     1  2.5
+ 5 MYRTACEAE  Amomyrtus  luma                                                     3  2.5    9    8    5
+ 6 MYRTACEAE  Amomyrtus  luma                                                    16  7.5   11    5   16   14    9    8  2.5  7.5  2.5 2.5  9    5    2.5  2.5  2.5
+ 7 MYRTACEAE  Amomyrtus  luma                                                    10  2.5  2.5    5    5  2.5  2.5  2.5    5    5    5
+ 8 MYRTACEAE  Amomyrtus  luma                                                     1    5
+ 9 MYRTACEAE  Amomyrtus  luma                                                    15  2.5  2.5  7.5  2.5  2.5  7.5  2.5  2.5  2.5    5 2.5  5    5    5    2.5  2.5
+10 MYRTACEAE  Amomyrtus  luma                                                     3  2.5    8  2.5
+ 6 MYRTACEAE  Amomyrtus  meli                                                     3  7.5    5   32
+ 7 MYRTACEAE  Amomyrtus  meli                                                     3  2.5    5   40  7.5   15
+ 8 MYRTACEAE  Amomyrtus  meli                                                     1  7.5
+10 MYRTACEAE  Luma       apiculata                                                2   11   14
+ 1 MYRTACEAE  Luma       apiculata M                                              1   30
+ 3 MYRTACEAE  Luma       apiculata M                                              1    9
+ 6 MYRTACEAE  Luma       apiculata M                                              1  2.5
+ 9 MYRTACEAE  Myrceugeniaplanipes                                                 2    5    5
+ 1 POACEAE    Chusquea   quila                                              L     4  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5
+ 2 POACEAE    Chusquea   quila                                              L     3  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5 2.5  2.5  2.5  2.5  2.5
+ 3 POACEAE    Chusquea   quila                                              L     3  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5
+ 4 POACEAE    Chusquea   quila                                              L     2  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5 2.5  2.5  2.5  2.5  2.5
+ 5 POACEAE    Chusquea   quila                                              L     1  2.5  2.5
+ 7 POACEAE    Chusquea   quila                                              L     1  2.5  2.5
+ 9 POACEAE    Chusquea   quila                                              L     1  2.5  2.5
+10 POACEAE    Chusquea   quila                                              L     3  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5
+ 1 PODOCARPACEPodocarpus saligna                                                  3   27   30  2.5  2.5
+ 2 PODOCARPACEPodocarpus saligna                                                  6  7.5  2.5  2.5  2.5    5  2.5   15
+ 3 PODOCARPACEPodocarpus saligna                                                  5  2.5   13   10   15    5
+ 4 PODOCARPACEPodocarpus saligna                                                  6  2.5    9  2.5   12   13    5
+ 5 PODOCARPACEPodocarpus saligna                                                  4   37   33  2.5  7.5
+ 8 PODOCARPACEPodocarpus saligna                                                  3  2.5  2.5  2.5
+ 9 PODOCARPACEPodocarpus saligna                                                  1    8
+ 3 PROTEACEAE Gevuina    avellana                                                 2   10   12   22   23
+ 5 PROTEACEAE Gevuina    avellana                                                 2   21  2.5
+10 PROTEACEAE Gevuina    avellana                                                 1    5   17
+ 2 PROTEACEAE Lomatia    dentata                                                  1  2.5
+ 7 PROTEACEAE Lomatia    dentata                                                  1  2.5
+ 8 PROTEACEAE Lomatia    dentata                                                  3  2.5   13   15
+10 PROTEACEAE Lomatia    dentata                                                  4   11    8    5   25  2.5   10
+ 6 RHAMNACEAE Rhamnus    diffusus                                                 1  2.5
+ 1 VERBENACEAERhaphithamnspinosus                                                 1  2.5  2.5
+ 2 VERBENACEAERhaphithamnspinosus                                                 1    8
+ 4 VERBENACEAERhaphithamnspinosus                                                 1   12
+ 5 VERBENACEAERhaphithamnspinosus                                                 2  7.5  2.5
+10 VERBENACEAERhaphithamnspinosus                                                 1  2.5
+ 1 VITACEAE   Cissus     striata                                            L     2  2.5  2.5
+ 3 VITACEAE   Cissus     striata                                            L     1  2.5
+ 5 VITACEAE   Cissus     striata                                            L     2  2.5    5
+ 7 VITACEAE   Cissus     striata                                            L     1  2.5
+10 VITACEAE   Cissus     striata                                            L     2  2.5  2.5
+ 5 WINTERACEAEDrimys     winteri                                                  1   42
+10 WINTERACEAEDrimys     winteri                                                  1   45
+
+

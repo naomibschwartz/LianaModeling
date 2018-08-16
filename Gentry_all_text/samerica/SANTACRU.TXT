@@ -1,0 +1,144 @@
+LinFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(ISTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 2 APOCYNACEAEAspidospermcylindrocar73609 74081                                         1   45
+ 3 APOCYNACEAEAspidospermcylindrocar73609 74081                                         1   12
+ 4 APOCYNACEAEAspidospermcylindrocar73609 74081                                         1   11
+ 7 APOCYNACEAEAspidospermcylindrocar73609 74081                                         2   12   11
+ 8 APOCYNACEAEAspidospermcylindrocar73609 74081                                         1    8
+10 APOCYNACEAEAspidospermcylindrocar73609 74081                                         2   21   38
+ 6 APOCYNACEAEAspidospermM1         74069                                               1   10
+10 APOCYNACEAEForsteroniaM1         74079                                           L   2    3    5
+ 9 ARECACEAE  Scheelea   princeps                                                       1   27   34
+ 2 ASTERACEAE Eupatorium vitalbae   73611                                           L   2    3  2.5
+ 4 ASTERACEAE Eupatorium vitalbae   73611                                           L   1  2.5
+ 6 ASTERACEAE Eupatorium vitalbae   73611                                           L   1  2.5
+ 3 ASTERACEAE Vernonia   baccharoide73615                                               1    3
+ 4 BASELLACEAEM1         M1         73618                                           L   2  2.5  2.5
+ 1 BIGNONIACEAAdenocalymnpurpurascen73600                                           L   2  2.5  2.5
+ 2 BIGNONIACEAAdenocalymnpurpurascen73600                                           L   1  2.5
+ 5 BIGNONIACEAAdenocalymnpurpurascen73600                                           L   2  2.5    7
+ 7 BIGNONIACEAAdenocalymnpurpurascen73600                                           L   5  2.5  2.5 2.5  2.5  5
+ 8 BIGNONIACEAAdenocalymnpurpurascen73600                                           L   1  2.5
+ 9 BIGNONIACEAAdenocalymnpurpurascen73600                                           L   1  2.5
+10 BIGNONIACEAAdenocalymnpurpurascen73600                                           L   1    9
+10 BIGNONIACEAArrabidaea platyphylla74078                                           L   1    4
+ 4 BIGNONIACEAArrabidaea poeppigii  73619                                           L   1    3
+ 2 BIGNONIACEAArrabidaea spicata    73606                                           L   1    9
+ 3 BIGNONIACEAArrabidaea spicata    73606                                           L   1  2.5
+ 5 BIGNONIACEAArrabidaea spicata    73606                                           L   2    5    8
+10 BIGNONIACEAArrabidaea spicata    73606                                           L   1    4
+10 BIGNONIACEACuspidaria lateriflora 7084                                           L   1  2.5
+ 9 BIGNONIACEAMacfadyena unguis-cati                                                L   1    9
+10 BIGNONIACEAMansoa     difficilis                                                 L   1  2.5
+ 2 BIGNONIACEAMansoa     verrucifera73608                                           L   1  2.5
+ 1 BIGNONIACEAMelloa     quadrivalvi                                                L   1    8
+ 7 BIGNONIACEAMelloa     quadrivalvi                                                L   1    7
+ 9 BIGNONIACEAMelloa     quadrivalvi                                                L   1    5
+ 1 BIGNONIACEAParabignonichodatii   73602                                           L   2   14  2.5
+ 2 BIGNONIACEAParabignonichodatii   73602                                           L   1    4
+ 7 BIGNONIACEAParabignonichodatii   73602                                           L   2    5   13
+ 9 BIGNONIACEAParabignonichodatii   73602                                           L   1    4
+10 BIGNONIACEAParabignonichodatii   73602                                           L   1   12
+ 1 BIGNONIACEAPerianthomevellozoi   73603                                           L   1  2.5
+ 5 BIGNONIACEAPerianthomevellozoi   73603                                           L   1  2.5
+ 6 BIGNONIACEAPerianthomevellozoi   73603                                           L   1  2.5
+10 BIGNONIACEAUrbanolophinunezii    74083                                           L   1  2.5
+ 9 BOMBACACEAEChorisia   speciosa                                                       1   49
+ 7 BORAGINACEACordia     alliodora  74065                                               1    7
+ 8 BORAGINACEACordia     alliodora  74065                                               2   12   10
+10 BORAGINACEACordia     alliodora  74065                                               1    6
+10 CACTACEAE  Opuntia    brasiliensi                                                    1    6
+ 3 CAPPARIDACECapparis   retusa     73838                                               1    3
+ 4 CECROPIACEACecropia   M1                                                             1    5
+ 3 CELASTRACEAHippocrateavolubilis  73617                                           L   1  2.5
+ 4 CELASTRACEAHippocrateavolubilis  73617                                           L   1    4
+10 CELASTRACEAHippocrateavolubilis  73617                                           L   1    4
+10 CONVOLVULACM1         M1         74085                                           L   1    6
+ 2 CUCURBITACESiolmatra  M1         73605                                           L   2  2.5    3
+ 9 CUCURBITACESiolmatra  M1         73605                                           L   2  2.5    6
+ 3 FABACEAE   Acacia     glomerosa  73612                                               2    8    5 3
+ 4 FABACEAE   Acacia     glomerosa  73612                                               2    5  2.5
+ 5 FABACEAE   Acacia     glomerosa  73612                                               3   12    4 16
+ 6 FABACEAE   Acacia     glomerosa  73612                                               1  2.5
+ 1 FABACEAE   Anadenanthecolubrina                                                      1   36
+ 3 FABACEAE   Anadenanthecolubrina                                                      1   45
+ 4 FABACEAE   Anadenanthecolubrina                                                      1   58
+ 7 FABACEAE   Anadenanthecolubrina                                                      1   40
+ 5 FABACEAE   Dalbergia  monetaria  73632                                           L   1    8
+ 4 FABACEAE   Nissolia   fruticosa                                                  L   1  2.5
+ 8 FABACEAE   Piptadenia M1         74072                                           L   1  2.5
+ 7 FABACEAE   PlatymisciuM1         74067                                               1    7
+ 1 FLACOURTIACCasearia   gossypiospe                                                    2    9    7
+ 3 FLACOURTIACCasearia   gossypiospe                                                    1  2.5
+ 5 FLACOURTIACCasearia   gossypiospe                                                    1   22
+ 7 FLACOURTIACCasearia   gossypiospe                                                    2    3   15
+ 9 FLACOURTIACCasearia   gossypiospe                                                    1   20
+10 FLACOURTIACCasearia   gossypiospe                                                    2   12    5
+ 9 FLACOURTIACProckia    crucis     74075                                               1    5
+ 6 MYRTACEAE  MyrcianthesM1         74063                                               1    5
+ 8 MYRTACEAE  MyrcianthesM1         74063                                               1    3
+ 1 MYRTACEAE  Myrciaria  cauliflora                                                     1   16
+ 2 MYRTACEAE  Myrciaria  cauliflora                                                     3  2.5    3 6    14
+ 4 MYRTACEAE  Myrciaria  cauliflora                                                     1   14    9
+ 5 MYRTACEAE  Myrciaria  cauliflora                                                     1    9    9
+ 9 MYRTACEAE  Myrciaria  cauliflora                                                     1   15   12
+ 2 NYCTAGINACEBougainvillmodesta                                                        2   65   41 30
+ 7 NYCTAGINACEBougainvillmodesta                                                        1   74
+ 2 NYCTAGINACENeea       M1         73607                                               1    8
+ 3 NYCTAGINACENeea       M2         74073                                               1  2.5
+ 8 NYCTAGINACENeea       M2         74073                                               2    7    7
+ 9 NYCTAGINACENeea       M2         74073                                               1    3
+10 NYCTAGINACENeea       M2         74073                                               1    4
+ 9 NYCTAGINACEPisonia    M1         74074                                           L   1    3
+ 2 PHYTOLACCACAchatocarpunigricans  73604                                               1    8    6    8    7   12   11
+ 3 PHYTOLACCACAchatocarpunigricans  73604                                               1  2.5
+ 9 PHYTOLACCACAchatocarpunigricans  73604                                               1    6    9
+ 3 PHYTOLACCACGallesia   integriflor                                                    1    6   13 18
+ 5 PHYTOLACCACGallesia   integriflor                                                    1   59
+10 PHYTOLACCACGallesia   integriflor                                                    1   56
+ 1 PIPERACEAE Piper      amalago                                                        2  2.5  2.5    4
+10 POLYGONACEACoccoloba  meisneriana73982                                               1    8
+ 2 POLYGONACEATriplaris  M1                                                             2    8    5
+ 3 POLYGONACEATriplaris  M1                                                             1    9
+ 5 POLYGONACEATriplaris  M1                                                             1  2.5
+ 9 POLYGONACEATriplaris  M1                                                             2    5    3 5
+ 8 RHAMNACEAE Ziziphus   guaranitica74071                                               1    6
+10 RUTACEAE   Zanthoxylumrhoifolium 74076                                               1   20
+ 8 SAPINDACEAEAllophylus edulis                                                         1    5
+10 SAPINDACEAEAllophylus M1         74080                                               1  2.5
+10 SAPINDACEAEThinouia   M1         74077                                           L   2    3   11
+ 6 SAPOTACEAE Chrysophyllgonocarpum                                                     1    5    3
+ 7 SAPOTACEAE Chrysophyllgonocarpum                                                     1   13   11
+ 8 SAPOTACEAE Chrysophyllgonocarpum                                                     1   20
+ 3 SAPOTACEAE Sideroxylonobtusifoliu                                                    1   23
+ 3 SOLANACEAE Solanum    schletendal                                                    1  2.5
+ 1 SOLANACEAE Solanum    tumescens  73621                                               1    4
+ 4 STERCULIACEGuazuma    tomentosa                                                      1    5
+ 1 TRIGONIACEATrigonia   boliviensis73601                                           L   2    5    4 2.5
+ 2 TRIGONIACEATrigonia   boliviensis73601                                           L   2    4    3
+ 3 TRIGONIACEATrigonia   boliviensis73601                                           L   2    4    7
+ 4 TRIGONIACEATrigonia   boliviensis73601                                           L   2    6    5
+ 5 TRIGONIACEATrigonia   boliviensis73601                                           L   1  2.5
+ 9 TRIGONIACEATrigonia   boliviensis73601                                           L   1    5
+ 3 ULMACEAE   Celtis     iguanaea                                                   L   1  2.5
+ 4 ULMACEAE   Celtis     iguanaea                                                   L   1    4
+ 6 ULMACEAE   Celtis     iguanaea                                                   L   2  2.5  2.5
+ 2 ULMACEAE   Phyllostylorhamnoides                                                     2   25    6
+ 4 ULMACEAE   Phyllostylorhamnoides                                                     4   21   14 16   8
+ 5 ULMACEAE   Phyllostylorhamnoides                                                     1   18
+ 7 ULMACEAE   Phyllostylorhamnoides                                                     1   11
+ 9 ULMACEAE   Phyllostylorhamnoides                                                     1   25
+ 3 ULMACEAE   Trema      micrantha                                                      1  2.5
+ 4 ULMACEAE   Trema      micrantha                                                      1    4
+ 1 URTICACEAE Urera      baccifera                                                      1    3    3 3    3
+ 3 URTICACEAE Urera      baccifera                                                      1    4
+ 4 URTICACEAE Urera      baccifera                                                      1    5
+ 6 URTICACEAE Urera      baccifera                                                      4    5    4 3    3    3    5
+ 3 VERBENACEAEAegiphila  M1         73614                                               1    6
+ 2 VITACEAE   Cissus     cf verticillata                                            L   1    5
+
+
+
+
+
+
+

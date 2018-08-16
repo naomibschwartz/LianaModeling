@@ -1,0 +1,96 @@
+LineFamily    Genus            Species        vouchevouchevouchevouchevouchevouchevouchevoucheLianN(IndStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStem
+6   ACERACEAE ACER             PLATANOIDES                                                           1 2.5
+1   ACERACEAE ACER             PSEUDOPLATANUS                                                        4 2.5   3 2.5   7
+10  ACERACEAE ACER             PSEUDOPLATANUS                                                        2   3   4
+2   ACERACEAE ACER             PSEUDOPLATANUS                                                        9  11 2.5 2.5   3   3 2.5   3   3   5
+3   ACERACEAE ACER             PSEUDOPLATANUS                                                        1   3
+4   ACERACEAE ACER             PSEUDOPLATANUS                                                        3 2.5 2.5 2.5
+5   ACERACEAE ACER             PSEUDOPLATANUS                                                        1   7
+7   ACERACEAE ACER             PSEUDOPLATANUS                                                        1 2.5
+8   ACERACEAE ACER             PSEUDOPLATANUS                                                        1   4
+9   ACERACEAE ACER             PSEUDOPLATANUS                                                        9 2.5 2.5 2.5 2.5  11  12   5   5 2.5
+10  BERBERIDACBERBERIS         VULGARIS                                                              1 2.5
+5   BERBERIDACBERBERIS         VULGARIS                                                              1 2.5
+6   BETULACEAEBETULA           PENDULA                                                               1  20
+7   BETULACEAEBETULA           PENDULA                                                               1  23
+1   BETULACEAECARPINUS         BETULUS                                                               4 2.5   4   4   4
+10  BETULACEAECARPINUS         BETULUS                                                               2   4   3
+2   BETULACEAECARPINUS         BETULUS                                                               1   8
+4   BETULACEAECARPINUS         BETULUS                                                               3   5   4   3   9
+5   BETULACEAECARPINUS         BETULUS                                                               4 2.5   3 2.5   9
+6   BETULACEAECARPINUS         BETULUS                                                               1   7
+7   BETULACEAECARPINUS         BETULUS                                                               2   3   3
+8   BETULACEAECARPINUS         BETULUS                                                               1   7
+9   BETULACEAECARPINUS         BETULUS                                                               4   4   7 2.5   8
+5   BETULACEAECORYLUS          AVELLANA                                                              1   4   4   4 2.5
+6   CORNACEAE CORNUS           MAS                                                                   1 2.5
+7   CORNACEAE CORNUS           MAS                                                                   1   3
+2   FAGACEAE  FAGUS            SYLVATICA                                                             2   3   4
+1   FAGACEAE  QUERCUS          ROBUR                                                                 2  39  24
+2   FAGACEAE  QUERCUS          ROBUR                                                                 5  31  21  24  20  22  21
+3   FAGACEAE  QUERCUS          ROBUR                                                                 1  34
+4   FAGACEAE  QUERCUS          ROBUR                                                                 1  52
+5   FAGACEAE  QUERCUS          ROBUR                                                                 1   8
+6   FAGACEAE  QUERCUS          ROBUR                                                                 6   9  18  19   9   9  17
+7   FAGACEAE  QUERCUS          ROBUR                                                                10  14   9  16  24  10   6   7  17  14  15
+8   FAGACEAE  QUERCUS          ROBUR                                                                 5   5  26  21  18  17
+9   FAGACEAE  QUERCUS          ROBUR                                                                 2  24  31
+10  OLEACEAE  FRAXINUS         EXCELSIOR                                                             1   4
+3   OLEACEAE  FRAXINUS         EXCELSIOR                                                             2   4   4
+4   OLEACEAE  FRAXINUS         EXCELSIOR                                                            11 2.5 2.5   5   4   4   5 2.5   5   5 2.5   4
+5   OLEACEAE  FRAXINUS         EXCELSIOR                                                             6  21  20   8  13  11   9
+6   OLEACEAE  FRAXINUS         EXCELSIOR                                                             8  13  12   6 2.5   8  11   8  12
+7   OLEACEAE  FRAXINUS         EXCELSIOR                                                             4   4  13   6  14
+8   OLEACEAE  FRAXINUS         EXCELSIOR                                                             2   6 2.5
+1   PINACEAE  PICEA            ABIES                                                                 2  31  16
+10  PINACEAE  PICEA            ABIES                                                                 1  41
+2   PINACEAE  PICEA            ABIES                                                                 4  22  21  42  25
+8   PINACEAE  PICEA            ABIES                                                                 2  20  22
+4   PINACEAE  PINUS            SYLVESTRIS                                                            1  75
+3   ROSACEAE  CRATAEGUS        LAEVIGATA                                                             1 2.5 2.5 2.5
+8   ROSACEAE  CRATAEGUS        LAEVIGATA                                                             1   3
+9   ROSACEAE  CRATAEGUS        LAEVIGATA                                                             2 2.5   3 2.5
+1   ROSACEAE  CRATAEGUS        MACROCARPA                                                            2   4   3 2.5 2.5
+2   ROSACEAE  CRATAEGUS        MACROCARPA                                                            1 2.5
+3   ROSACEAE  CRATAEGUS        MACROCARPA                                                            1 2.5
+4   ROSACEAE  CRATAEGUS        MACROCARPA                                                            2 2.5 2.5
+8   ROSACEAE  CRATAEGUS        MACROCARPA                                                            2 2.5 2.5   4   3 2.5
+3   ROSACEAE  CRATAEGUS        MOMOGYNA                                                              1 2.5   3
+1   ROSACEAE  CRATAEGUS        MONOGYNA                                                              4   4   7   4   6   5
+10  ROSACEAE  CRATAEGUS        MONOGYNA                                                              5   5 2.5 2.5   3   5   5   8
+2   ROSACEAE  CRATAEGUS        MONOGYNA                                                              1   7   6
+4   ROSACEAE  CRATAEGUS        MONOGYNA                                                              1 2.5
+5   ROSACEAE  CRATAEGUS        MONOGYNA                                                              1   4   3
+8   ROSACEAE  CRATAEGUS        MONOGYNA                                                              1 2.5 2.5   3
+1   ROSACEAE  PRUNUS           MAHALEB                                                               3 2.5 2.5 2.5
+10  ROSACEAE  PRUNUS           MAHALEB                                                               1   3
+4   ROSACEAE  PRUNUS           MAHALEB                                                               1 2.5   3
+6   ROSACEAE  PRUNUS           MAHALEB                                                               1   7
+8   ROSACEAE  PRUNUS           MAHALEB                                                               1   4   7
+9   ROSACEAE  PRUNUS           MAHALEB                                                               3 2.5   4   3
+1   ROSACEAE  SORBUS           AUCUPARIA                                                             1   4 2.5
+10  ROSACEAE  SORBUS           AUCUPARIA                                                             1   6
+7   SALICACEAESALIX            CAPREA                                                                1   5
+1   TILIACEAE TILIA            PLATYPHYLLA                                                           1   3
+2   TILIACEAE TILIA            PLATYPHYLLA                                                           1   5
+3   TILIACEAE TILIA            PLATYPHYLLA                                                           3  44  40  35
+4   TILIACEAE TILIA            PLATYPHYLLA                                                           1  17
+5   TILIACEAE TILIA            PLATYPHYLLA                                                          10 2.5 2.5   5   5   5  12   5   3   7   8   6  12
+6   TILIACEAE TILIA            PLATYPHYLLA                                                          13   5 2.5 2.5   7   7   4   5   3  10   8 2.5   7   7
+7   TILIACEAE TILIA            PLATYPHYLLA                                                          21 2.5   6   4   3   4   5   4   4   8  11   4   6 2.5   5   5   5  10 2.5  10   9
+8   TILIACEAE TILIA            PLATYPHYLLA                                                          10   6   4  10  11  15   7  15  12   6 2.5 2.5   4   3
+9   TILIACEAE TILIA            PLATYPHYLLA                                                           4 2.5   3   4   7
+1   ULMACEAE  ULMUS            GLABRA                                                                1   3
+5   ULMACEAE  ULMUS            GLABRA                                                                3   6   5   6
+6   ULMACEAE  ULMUS            GLABRA                                                                1   7
+
+
+
+
+
+
+
+
+
+
+

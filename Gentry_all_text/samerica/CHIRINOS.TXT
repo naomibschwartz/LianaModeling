@@ -1,0 +1,240 @@
+LinFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 7 ACTINIDIACESaurauia   M1                                                              1  2.5
+ 2 ACTINIDIACESaurauia   M2         61164                                                1    5
+ 6 ANACARDIACEMauria     heterophyll61234                                                1   10
+ 1 ANNONACEAE Annona     M1         61125                                                2    8    5
+ 2 ANNONACEAE Annona     M1         61125                                                2    4  2.5
+ 3 APOCYNACEAEForsteroniasubcordata 61182                                           L    1  2.5
+ 2 APOCYNACEAEM1         M1         61157                                           L    1    5
+ 2 APOCYNACEAEM2         M1         61160                                           L    1    3
+ 7 ARACEAE    Anthurium  cf lutescen61247                                           H    1  2.5
+ 9 ARACEAE    Anthurium  cf lutescen61247                                           H    1    3
+ 6 ARACEAE    Philodendrocf cuneatum61233                                           H    1  2.5
+ 1 ARALIACEAE DendropanaxM1         61122                                                1    6
+ 4 ARALIACEAE Oreopanax  M1         61203                                                1    6
+ 6 ARALIACEAE Oreopanax  M1         61203                                                1    5
+ 6 ARALIACEAE Oreopanax  M2                                                              1    4
+ 2 ARALIACEAE Schefflera pentandra  61172                                                1   10
+ 1 ARECACEAE  Ceroxylon  M1         61129                                                3  2.5  2.5 2.5  6    6    6    5    6    6    28
+ 2 ASTERACEAE Mikania    M1         61154                                           L    1  2.5
+ 5 ASTERACEAE Mikania    M1         61154                                           L    1    3
+ 6 ASTERACEAE Mikania    M1         61154                                           L    1  2.5
+10 ASTERACEAE Mikania    M1         61154                                           L    1  2.5
+ 1 ASTERACEAE Pollalesta discolor   61130                                                2   17   10
+ 3 ASTERACEAE Pollalesta discolor   61130                                                4   17    7 14   4
+ 6 ASTERACEAE Pollalesta discolor   61130                                                1    4   11
+ 7 ASTERACEAE Pollalesta discolor   61130                                                1    3    3
+ 8 ASTERACEAE Pollalesta discolor   61130                                                1  2.5
+10 ASTERACEAE Pollalesta discolor   61130                                                1    3
+ 1 ASTERACEAE Senecio    M1         61115                                           L    1  2.5
+ 2 ASTERACEAE Vernonia   M1         61173                                                1  2.5
+ 4 ASTERACEAE Vernonia   patens     61201                                                1  2.5
+10 ASTERACEAE Vernonia   patens     61201                                                1  2.5
+ 2 ASTERACEAE Wulffia    M1         61109                                                1  2.5
+ 4 ASTERACEAE Wulffia    M1         61109                                           L    1  2.5
+ 1 BIGNONIACEAPithecoctencrucigerum 61111                                           L    2  2.5    4
+ 2 BIGNONIACEAPithecoctencrucigerum 61111                                           L    1  2.5
+ 3 BIGNONIACEAPithecoctencrucigerum 61111                                           L    1  2.5
+ 4 BIGNONIACEAPithecoctencrucigerum 61111                                           L    1  2.5
+ 6 BIGNONIACEAPithecoctencrucigerum 61111                                           L    1  2.5
+ 7 BIGNONIACEAPithecoctencrucigerum 61111                                           L    2  2.5    3
+ 9 BIGNONIACEAPithecoctencrucigerum 61111                                           L    1  2.5
+ 5 BOMBACACEAESpirotheca M1         61212                                                3   10   14 8    81
+ 1 CECROPIACEACecropia   andina     61134                                                2   37   21
+ 7 CECROPIACEACecropia   andina     61134                                                1    9
+ 5 CECROPIACEACecropia   M1         61217                                                1    5
+ 5 CECROPIACEACecropia   M1         61217                                                1   17
+ 3 CELASTRACEAM1         M1         61184 61238 61264 61258                         L    1  2.5
+ 6 CELASTRACEAM1         M1         61184 61238 61264 61258                         L    1  2.5
+ 9 CELASTRACEAM1         M1         61184 61238 61264 61258                         L    1  2.5
+10 CELASTRACEAM1         M1         61184 61238 61264 61258                         L    2  2.5   13
+ 2 CELASTRACEAMaytenus   verticillat61165                                                1    6
+ 6 CHRYSOBALANHirtella   tubiflora  61239                                                1   15
+ 8 CHRYSOBALANHirtella   tubiflora  61239                                                1   21
+10 CLUSIACEAE Tovomita   M1         -                                                    1  2.5
+ 6 CLUSIACEAE Vismia     M1         61240                                                1  2.5
+10 CLUSIACEAE Vismia     M1         61240                                                1   18
+ 2 CUCURBITACECyclantheraM1         61156                                           L    1    5    3
+10 CUCURBITACECyclantheraM1         61156                                           L    1  2.5
+ 1 CUCURBITACEGurania    M1         61120                                           L    1  2.5
+ 3 CUCURBITACEGurania    M1         61120                                           L    1  2.5
+ 3 CYATHEACEAEAlsophila  erinacea   61182A61205                                          2   13   12
+ 4 CYATHEACEAEAlsophila  erinacea   61182A61205                                          3   11   11 6
+ 5 CYATHEACEAECyathea    caracasana 61211                                                1    8
+ 5 CYATHEACEAECyathea    M1         61245                                                4    6    8 7    8    7
+ 6 CYATHEACEAECyathea    M1         61245                                                5    7    8 8    8    7
+ 7 CYATHEACEAECyathea    M1         61245                                                1    8    7 8    6    8    8    10   9    7    7    7    8       8
+ 8 CYATHEACEAECyathea    M1         61245                                                2    6    9
+10 CYATHEACEAECyathea    M1         61245                                                1    8    6 7    7    6
+ 7 CYCLANTHACEAsplundia  aff vaguas 61243                                           H    1  2.5
+ 1 CYCLANTHACEAsplundia  M1         61126                                                1  2.5
+ 2 DICHAPETALATapura     guianensis 61163                                                1    6
+ 8 EUPHORBIACEAlchornea  acutifolia 61171                                                1  2.5
+ 4 EUPHORBIACEAlchornea  glandulosa 61204                                                1   32
+ 1 EUPHORBIACEHyeronima  duguei     61138                                                1   17
+ 2 EUPHORBIACEHyeronima  duguei     61138                                                1   17
+ 3 EUPHORBIACEHyeronima  duguei     61138                                                1   17
+ 6 EUPHORBIACEHyeronima  duguei     61138                                                4    3   16   43   20
+ 8 EUPHORBIACEHyeronima  duguei     61138                                                1   11    4
+ 9 EUPHORBIACEHyeronima  duguei     61138                                                1   41
+ 5 EUPHORBIACESapium     glandulosum61214                                                1    7
+ 3 FABACEAE   Cassia     M1         61208                                                1  2.5
+ 5 FABACEAE   Cassia     M1         61208                                                2  2.5   13
+ 8 FABACEAE   Cassia     M1         61208                                                1    5
+10 FABACEAE   Cassia     M1         61208                                                1    3
+ 5 FABACEAE   Inga       stenoptera 61215                                                1  2.5
+ 7 FLACOURTIACCasearia   mariquitens61244                                                1  2.5
+ 1 FLACOURTIACCasearia   prunifolia 61136                                                1  2.5
+ 2 FLACOURTIACCasearia   prunifolia 61136                                                3    5    3 2.5
+ 3 FLACOURTIACCasearia   prunifolia 61136                                                2    4  2.5
+ 4 FLACOURTIACCasearia   prunifolia 61136                                                4  2.5  2.5 2.5  3
+ 6 FLACOURTIACCasearia   prunifolia 61136                                                5  2.5  2.5 2.5  2.5  4
+ 7 FLACOURTIACCasearia   prunifolia 61136                                                4  2.5    4 5    4
+ 8 FLACOURTIACCasearia   prunifolia 61136                                                8  2.5  2.5 2.5  4    3    6    3    2.5
+ 9 FLACOURTIACCasearia   prunifolia 61136                                                2  2.5    4
+10 FLACOURTIACCasearia   prunifolia 61136                                                8  2.5    3 2.5  3    5    4    2.5  2.5
+ 4 FLACOURTIACHasseltia  floribunda 61202                                                1    9
+ 4 FLACOURTIACHasseltia  floribunda 61202                                                1    9
+ 4 HYDRANGEACEHydrangea  peruviana  61199                                           L    2  2.5  2.5
+ 5 HYDRANGEACEHydrangea  peruviana  61199                                           L    1  2.5
+10 HYDRANGEACEHydrangea  peruviana  61199                                           L    1  2.5
+ 6 ICACINACEAECalatola   venezuelana61237                                                1    3
+ 2 INDET      M1         M1         61162                                                1  2.5
+ 1 LAURACEAE  Aniba      M1         61112                                                1    8  2.5 9
+ 6 LAURACEAE  Aniba      M3         61253 61241                                          1  2.5
+ 8 LAURACEAE  Aniba      M3         61253 61241                                          2   12   25
+ 1 LAURACEAE  Aniba      sp nov aff 61124 61251                                          1   15
+ 8 LAURACEAE  Aniba      sp nov aff 61124 61251                                          1    3
+ 4 LAURACEAE  BielschmiedM1         61255 61256 61259 61198 61196 61200 61265 61236      4  2.5    8 11   2.5
+ 6 LAURACEAE  BielschmiedM1         61255 61256 61259 61198 61196 61200 61265 61236      2  2.5   10
+ 8 LAURACEAE  BielschmiedM1         61255 61256 61259 61198 61196 61200 61265 61236      2    3   22
+ 9 LAURACEAE  BielschmiedM1         61255 61256 61259 61198 61196 61200 61265 61236      2    5  2.5
+10 LAURACEAE  BielschmiedM1         61255 61256 61259 61198 61196 61200 61265 61236      3    5   11 2.5
+ 8 LAURACEAE  BielschmiedM2         61250                                                1    3
+ 9 LAURACEAE  BielschmiedM3         61260                                                1   26
+ 1 LAURACEAE  M1         M1         61137                                                1   11
+ 2 LAURACEAE  M2         M1         61166                                                1    6
+ 2 LAURACEAE  M3         M1         61167                                                1   18    6
+ 3 LAURACEAE  M4         M1         61177                                                1  2.5
+ 3 LAURACEAE  M5         M1         61242 61178                                          1    8
+ 6 LAURACEAE  M5         M1         61242 61178                                          1    4
+ 5 LAURACEAE  M6         M1         61125                                                1    8
+ 1 LAURACEAE  M7         M1         61112                                                1   24
+ 1 LAURACEAE  Nectandra  M1         61132 61213                                          1  2.5
+ 5 LAURACEAE  Nectandra  M1         61132 61213                                          2   16    7
+10 LAURACEAE  Ocotea     M1         61262                                                1   24
+ 1 LAURACEAE  PleurothyriM1         61114 65155                                          1   16
+ 2 LAURACEAE  PleurothyriM1         61114 65155                                          1   20   11
+ 4 LAURACEAE  PleurothyriM1         61114 65155                                          5   10   18 2.5  4    20   2.5  3
+ 9 LAURACEAE  PleurothyriM1         61114 65155                                          1    9
+ 1 LAURACEAE  Rhodostemonkunthiana  61109                                                4    4    3 13   3    10
+ 2 LAURACEAE  Rhodostemonkunthiana  61109                                                1    8
+ 7 LAURACEAE  Rhodostemonkunthiana  61109                                                1  2.5
+ 9 LAURACEAE  Rhodostemonkunthiana  61109                                                1    5
+10 LAURACEAE  Rhodostemonkunthiana  61109                                                1    5
+ 1 MALPIGHIACEM1         M1         61123                                           L    1  2.5
+ 2 MALPIGHIACEM2         M1         61158                                           L    2   10    3
+10 MARCGRAVIACNorantea   M1         -                                                    1  2.5
+ 1 MELASTOMATAMiconia    M1         61180 61206 61117                                    1    8
+ 3 MELASTOMATAMiconia    M1         61180 61206 61117                                    1    5    3
+ 5 MELASTOMATAMiconia    M1         61180 61206 61117                                    1    4
+ 1 MELASTOMATAOssaea     micrantha  61119                                                1    3
+10 MORACEAE   Ficus      M1         61261                                           L    1  2.5
+ 5 MYRTACEAE  CalyptranthM1         61263 61209                                          3    9    4 9
+10 MYRTACEAE  CalyptranthM1         61263 61209                                          5  2.5    5 8    7    4
+ 1 MYRTACEAE  Eugenia    aff. florid61113 61252 61197                                    2    3   14
+ 2 MYRTACEAE  Eugenia    aff. florid61113 61252 61197                                    2    6    3
+ 4 MYRTACEAE  Eugenia    aff. florid61113 61252 61197                                    1   15
+ 7 MYRTACEAE  Eugenia    aff. florid61113 61252 61197                                    1  2.5
+ 8 MYRTACEAE  Eugenia    aff. florid61113 61252 61197                                    1  2.5
+ 9 MYRTACEAE  Eugenia    aff. florid61113 61252 61197                                    2   13   13
+10 MYRTACEAE  Eugenia    aff. florid61113 61252 61197                                    1   19
+ 8 MYRTACEAE  MyrcianthesM1         61254                                                1  2.5
+ 1 PIPERACEAE Piper      M1         61133                                                1  2.5
+ 5 PIPERACEAE Piper      M1         61133                                                1  2.5
+ 9 PIPERACEAE Piper      M1         61133                                                1  2.5  2.5
+ 2 PODOCARPACEPodocarpus montanus   61161                                                1  110
+ 3 PODOCARPACEPodocarpus montanus   61161                                                1   85
+ 7 PODOCARPACEPodocarpus montanus   61161                                                1  100
+ 8 PODOCARPACEPodocarpus montanus   61161                                                1  108
+ 9 PODOCARPACEPodocarpus montanus   61161                                                1  110
+ 8 PODOCARPACEPodocarpus oleifolius 61249                                                1    3
+ 5 PODOCARPACEPodocarpus rospigliosi61207                                                1  2.5
+ 2 POLYGALACEAMonnina    M1         61170                                           L    1  2.5
+ 8 POLYGALACEASecuridaca cf. volubil61257                                           L    1  2.5
+ 1 RHAMNACEAE Gouania    lupuloides 61131                                           L    1  2.5
+ 4 RHAMNACEAE Gouania    lupuloides 61131                                           L    1    7
+ 3 RHAMNACEAE Rhamnus    M1         61179                                                1    3
+ 4 RUBIACEAE  Cinchona   M1         61195                                                2    7    8
+ 5 RUBIACEAE  Cinchona   M1         61195                                                2   11    4
+ 1 RUBIACEAE  Condaminea corymbosa  61118                                                1    4
+ 5 RUBIACEAE  Condaminea corymbosa  61118                                                1    3
+ 6 RUBIACEAE  Condaminea corymbosa  61118                                                2    3   16
+ 7 RUBIACEAE  Condaminea corymbosa  61118                                                1    7
+ 8 RUBIACEAE  Condaminea corymbosa  61118                                                2    5  2.5
+ 9 RUBIACEAE  Condaminea corymbosa  61118                                                4    3    9 9    2.5  10
+10 RUBIACEAE  Condaminea corymbosa  61118                                                5  2.5    3 11   2.5  11
+ 1 RUBIACEAE  Elaeagia   M1         61121                                                1    8
+ 4 RUBIACEAE  Elaeagia   M1         61121                                                1    5
+ 1 RUBIACEAE  Faramea    M1         61110 61181                                          2    3  2.5
+ 2 RUBIACEAE  Faramea    M1         61110 61181                                          1  2.5
+ 3 RUBIACEAE  Faramea    M1         61110 61181                                          1  2.5
+ 8 RUBIACEAE  Faramea    M1         61110 61181                                          2    3    3
+ 9 RUBIACEAE  Faramea    M1         61110 61181                                          3  2.5  2.5 2.5
+10 RUBIACEAE  Faramea    M1         61110 61181                                          4  2.5  2.5 4    6
+ 1 RUBIACEAE  Guettarda  sabicioides61128 65430                                          1   18
+ 2 RUBIACEAE  Guettarda  sabicioides61128 65430                                          1   20   11
+ 7 RUBIACEAE  Palicourea M1         61246                                                1  2.5
+10 RUBIACEAE  Palicourea M1         61246                                                2  2.5  2.5
+ 1 RUBIACEAE  Psychotria M1         61108 61248 61131                                    3    3  2.5
+ 2 RUBIACEAE  Psychotria M1         61108 61248 61131                                    2    8    9
+ 4 RUBIACEAE  Psychotria M1         61108 61248 61131                                    1    5
+ 5 RUBIACEAE  Psychotria M1         61108 61248 61131                                    1    5
+ 5 RUBIACEAE  Psychotria M1         61108 61248 61131                                    2    4    3
+ 6 RUBIACEAE  Psychotria M1         61108 61248 61131                                    1  2.5
+ 7 RUBIACEAE  Psychotria M1         61108 61248 61131                                    1   16    5
+ 8 RUBIACEAE  Psychotria M1         61108 61248 61131                                    2  2.5  2.5
+ 9 RUBIACEAE  Psychotria M1         61108 61248 61131                                    1    9
+10 RUBIACEAE  Psychotria M1         61108 61248 61131                                    2    7    4
+ 1 RUBIACEAE  Psychotria M2         61176 61116                                          2  2.5    7
+ 2 RUBIACEAE  Psychotria M2         61176 61116                                          1    4
+ 3 RUBIACEAE  Psychotria M2         61176 61116                                          3    5    4 2.5
+ 3 RUBIACEAE  Psychotria M2         61176 61116                                          1  2.5
+ 2 RUBIACEAE  Psychotria M3         61168                                                1  2.5
+ 3 RUBIACEAE  Psychotria M4         61175                                                4    4  2.5 2.5  2.5
+ 4 RUBIACEAE  Psychotria M4         61175                                                2    4  2.5 2.5
+ 5 RUBIACEAE  Psychotria M4         61175                                                2    3  2.5 2.5
+ 8 RUBIACEAE  Psychotria M4         61175                                                3  2.5    3 2.5
+ 9 RUBIACEAE  Psychotria M4         61175                                                3    3    5 3
+10 RUBIACEAE  Psychotria M4         61175                                                8  2.5    6 2.5  7    4    2.5  2.5  3    5    2.5  5
+ 6 SAPINDACEAECupania    M1         -                                                    1  2.5
+ 3 SAPINDACEAEPaullinia  alata ssp l-                                               L    1  2.5
+ 4 SAPINDACEAEPaullinia  alata ssp l-                                               L    1  2.5
+ 1 SOLANACEAE Solanum    M1         61127                                                1   29
+ 2 SOLANACEAE Solanum    M2         61146                                                1  2.5
+ 5 SOLANACEAE Solanum    M2         61146                                                1  2.5
+ 1 STAPHYLEACEHuertea    glandulosa                                                      2    3  2.5
+ 2 STAPHYLEACEHuertea    glandulosa                                                      1    3
+ 3 STAPHYLEACEHuertea    glandulosa                                                      1  2.5
+ 4 STAPHYLEACEHuertea    glandulosa                                                      1    9
+ 5 STAPHYLEACEHuertea    glandulosa                                                      2    6  2.5
+ 6 STAPHYLEACEHuertea    glandulosa                                                      1  2.5
+ 9 STAPHYLEACEHuertea    glandulosa                                                      1    4
+ 5 STAPHYLEACETurpinia   occidentali61210                                                1    4
+ 7 STAPHYLEACETurpinia   occidentali61210                                                1    6  2.5
+10 STAPHYLEACETurpinia   occidentali61210                                                2    3   10
+ 5 STERCULIACEHeliocarpusamericanus 61216                                                1   17
+ 2 VOCHYSIACEAVochysia   lehmanii   61159                                                1   47
+ 3 VOCHYSIACEAVochysia   lehmanii   61159                                                1  2.5
+ 4 VOCHYSIACEAVochysia   lehmanii   61159                                                3  2.5    5 50
+ 5 VOCHYSIACEAVochysia   lehmanii   61159                                                1   14
+
+
+
+
+
+
+
+
+
+

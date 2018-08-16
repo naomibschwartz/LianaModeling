@@ -1,0 +1,164 @@
+LineFAMILY      GENUS       SPECIES    vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+  1 ANACARDIACEATAPIRIRA    M1                                                               1 12.8
+  9 ANNONACEAE  ANAXOGOREA  M1                                                               1  2.8
+  1 ANNONACEAE  DUGUETIA    M1                                                               2  3.5  7.1
+  6 ANNONACEAE  DUGUETIA    M1                                                               1    3
+  7 ANNONACEAE  DUGUETIA    M1                                                               2   31  4.6
+  8 ANNONACEAE  DUGUETIA    M1                                                               1    4
+  9 ANNONACEAE  DUGUETIA    M1                                                               2  2.7  4.3
+ 10 ANNONACEAE  DUGUETIA    M1                                                               2    5  2.7
+  1 ANNONACEAE  GUATTERIA   M1                                                               1   10
+  4 ANNONACEAE  XYLOPIA     M1                                                               1  9.9
+  1 APOCYNACEAE ASPIDOSPERMAM1                                                               3  3.5  3.5    5
+  6 APOCYNACEAE ASPIDOSPERMAM1                                                               3  4.4 46.1  2.6
+  7 APOCYNACEAE ASPIDOSPERMAM1                                                               7 11.7  2.6  3.6  3.4  3.2  2.8  2.6
+  8 APOCYNACEAE ASPIDOSPERMAM1                                                               5  2.5 70.5 65.5   63 12.6
+  9 APOCYNACEAE ASPIDOSPERMAM1                                                               9 16.7  2.5 34.6  2.8 42.9 40.9 30.7   22 19.1
+ 10 APOCYNACEAE ASPIDOSPERMAM1                                                               6  3.1  3.2 11.2  3.1  9.5  2.7
+  1 APOCYNACEAE M1          M1                                                         L     1    9
+  7 APOCYNACEAE M1          M1                                                         L     1  2.6
+  8 APOCYNACEAE M1          M1                                                         L     1  3.8
+  9 APOCYNACEAE M1          M1                                                         L     2  2.8    3
+  2 APOCYNACEAE TABERNAEMONTM1                                                               1   19
+  4 ARECACEAE   ASTROCARYUM M1                                                               1  5.2
+  1 ARECACEAE   EUTERPE     M1                                                               1 13.7
+  2 BOMBACACEAE CATOSTEMMA  M1                                                               1  3.4
+  2 BORAGINACEAECORDIA      M1                                                               1 11.8
+  1 BURSERACEAE CREPIDOSPERMM1                                                               1  6.1
+  8 BURSERACEAE CREPIDOSPERMM1                                                               1 17.5
+  2 BURSERACEAE DACRYODES   M1                                                               1  3.5
+  3 CECROPIACEAECECROPIA    SOLADOPHY                                                        1 41.6
+  8 CECROPIACEAECECROPIA    SOLADOPHY                                                        1 13.5
+  5 CECROPIACEAEPOUROUMA    M1                                                               1  2.8
+ 10 CECROPIACEAEPOUROUMA    M2                                                               1  5.8
+  1 CELASTRACEAEGOUPIA      M1                                                               1   16
+  4 CHRYSOBALANAHIRTELLA    M1                                                               1    4
+ 10 CHRYSOBALANAHIRTELLA    M2                                                               1    3
+  5 CHRYSOBALANALICANIA     M1                                                               2  3.6  3.2
+  7 CHRYSOBALANALICANIA     M1                                                               1 73.7
+  6 CHRYSOBALANALICANIA     M2                                                               1 71.6
+  8 CHRYSOBALANALICANIA     M2                                                               2 15.5 33.9
+  2 CHRYSOBALANAPARINARI    M1                                                               1  6.1
+  2 CLUSIACEAE  H. ALTERNAS M1                                                               1  3.8
+  9 CLUSIACEAE  TOVIMITA    M2                                                               2  8.9    9
+  2 CLUSIACEAE  TOVOMITA    M1                                                               1  2.5
+  5 CLUSIACEAE  TOVOMITA    M2                                                               1 11.2
+  3 COMBRETACEAEM1          M1                                                               1    4
+  1 DILLENIACEAEDOLIOCARPUS M1                                                         L     1  5.5
+  6 DILLENIACEAEDOLIOCARPUS M1                                                         L     3  2.6  2.5  5.6
+  7 DILLENIACEAEDOLIOCARPUS M1                                                         L     2  5.8    3
+  8 DILLENIACEAEDOLIOCARPUS M1                                                         L     4  3.2  4.5    6  5.8
+  9 DILLENIACEAEDOLIOCARPUS M1                                                         L     2  4.9  3.2  3.5
+ 10 DILLENIACEAEDOLIOCARPUS M1                                                         L     2    5  5.8
+  1 DILLENIACEAEPINZONA     M1                                                         L     1  4.5
+  8 DILLENIACEAETETRACERA   ASPENULA                                                   L     1   33
+  5 ELAEOCARPACESLOANEA     M1                                                               1   44
+  6 EUPHORBIACEAM1          M1                                                               1 11.8
+  8 EUPHORBIACEAM1          M1                                                               1  4.4
+  4 FABACEAE    ALBIZIA     M1                                                               1  8.1
+  3 FABACEAE    BAUHINIA    M1                                                         L     1  7.4
+  3 FABACEAE    CLATHROTROPIM1                                                               1  7.1
+  3 FABACEAE    INGA        M1                                                               1 22.4
+  5 FABACEAE    INGA        M2                                                               1   28
+  7 FABACEAE    INGA        M3                                                               1 41.3
+  7 FABACEAE    M1          M1                                                               1   14
+  7 FABACEAE    M2          M1                                                               1  2.5
+ 10 FABACEAE    M3          M1                                                         L     1  4.8
+  8 FABACEAE    M4          M1                                                               1  103
+  3 FABACEAE    M5          M1                                                               1 18.7
+  3 FABACEAE    M6          M1                                                               1 56.6
+  1 FABACEAE    SWARTZIA    M1                                                               1 14.2
+  6 FABACEAE    SWARTZIA    M1                                                               2    9  4.4
+  7 FABACEAE    SWARTZIA    M1                                                               3 11.4  3.6  2.8
+  8 FABACEAE    SWARTZIA    M1                                                               3    3  5.7  3.8
+ 10 FABACEAE    SWARTZIA    M1                                                               5  6.2    3 14.2 14.7   10
+  3 FABACEAE    ZYGIA       M1                                                               1  7.8
+  7 FABACEAE    ZYGIA       M1                                                               2  3.1    6
+  8 FLACOURTIACECASEARIA    M1                                                               1  5.2
+  2 FLACOURTIACEM1          M1                                                               1  7.2
+  1 INDET       M1          M1                                                         L     1    5
+  8 INDET       M10         M1                                                               1  5.5
+  9 INDET       M11         M1                                                               1  5.2
+  9 INDET       M12         M1                                                               1    3
+  9 INDET       M12         M1                                                               3  4.1
+ 10 INDET       M12         M1                                                               1  2.5
+  1 INDET       M2          M1                                                         L     1  6.7
+  1 INDET       M3          M1                                                         L     2  7.2  4.6
+  7 INDET       M3          M1                                                         L     2    3    3
+ 10 INDET       M3          M1                                                         L     1    4
+  2 INDET       M4          M1                                                         L     2  2.8  3.6
+  6 INDET       M4          M1                                                         L     2  3.6  5.9
+  7 INDET       M4          M1                                                         L     1  3.2
+  8 INDET       M4          M1                                                         L     3    3    4 17.7
+  9 INDET       M4          M1                                                         L     2    5    3
+  2 INDET       M5          M1                                                               1    4  
+  4 INDET       M5          M1                                                               1 34.2
+  4 INDET       M7          M1                                                               1  3.3
+  7 INDET       M8          M1                                                               1 18.2
+  8 INDET       M9          M1                                                               1 30.2
+  2 LAURACEAE   M1          M1                                                               1 13.3
+  3 LAURACEAE   M2          M1                                                               1 14.4
+  5 LAURACEAE   M3          M1                                                               1  3.7
+  6 LAURACEAE   M4          M1                                                               1  3.9
+  9 LAURACEAE   M4          M1                                                               2  2.5    4
+ 10 LAURACEAE   M4          M1                                                               3    3  3.4    4
+  7 LAURACEAE   M5          M1                                                               1  6.8
+ 10 LAURACEAE   M6          M1                                                               2  7.7  3.2
+ 10 LAURACEAE   M7          M1                                                               1  6.2
+  4 LAURACEAE   NECTANDRA   M1                                                               1  9.8
+  1 LECYTHIDACEAESCHWEILERA M1                                                               3 73.1 12.3    3
+  7 LECYTHIDACEAESCHWEILERA M1                                                               2  6.8  2.3
+  8 LECYTHIDACEAESCHWEILERA M1                                                               1  4.8
+ 10 LECYTHIDACEAESCHWEILERA M1                                                               1  3.8
+ 10 LECYTHIDACEAESCHWEILERA M2                                                               1 11.2
+  6 MELASTOMATACMICONIA     M1                                                               1  6.7
+  8 MELASTOMATACMICONIA     M1                                                               2  3.2    6
+  8 MELASTOMATACMICONIA     M1                                                               1    4  2.5
+  6 MELASTOMATACMICONIA     M2                                                               3  3.9  6.5  6.5
+  9 MELASTOMATACMICONIA     M2                                                               1  4.9
+  8 MELASTOMATACMICONIA     M3                                                               1  3.5
+  9 MELASTOMATACMICONIA     M4                                                               1    5
+  6 MELIACEAE   M1          M1                                                               1    6
+  8 MELIACEAE   M1          M1                                                               2  3.7  3.1
+  1 MENISPERMACEM1          M1                                                         L     1 10.5
+  2 MORACEAE    BROSIMUM    M1                                                               1  5.9
+  8 MORACEAE    BROSIMUM    M1                                                               2  3.1    7
+  7 MORACEAE    BROSIMUM    M2                                                               1   16
+  6 MORACEAE    M1          M1                                                               1  3.5
+  7 MORACEAE    M2          M1                                                               1  3.2
+ 10 MORACEAE    M3          M1                                                               1    7
+  8 MORACEAE    MORA        M1                                                               1   10
+  2 MORACEAE    SOROCCA     M1                                                               1  3.3
+  6 MYRISTICACEAVIROLA      M1                                                               3  5.3 12.8 11.6
+  5 MYRISTICACEAVIROLA      M2                                                               1  7.8
+  5 MYRISTICACEAVIROLA      M2                                                               1  3.5
+  7 MYRISTICACEAVIROLA      M2                                                               1  9.7
+  9 MYRISTICACEAVIROLA      M2                                                               1    8
+  8 MYRSINACEAE?M1          M1                                                               1  6.3
+  5 MYRTACEAE   M1          M1                                                               4    5    7    3  5.3
+  6 MYRTACEAE   M1          M1                                                               4   20 31.3    8  6.6
+  7 MYRTACEAE   M1          M1                                                               5  5.6  4.8  7.4  4.1  6.8
+  8 MYRTACEAE   M1          M1                                                               3  2.5    5  7.2
+  9 MYRTACEAE   M1          M1                                                               1  4.9
+ 10 MYRTACEAE   M1          M1                                                               1  3.2
+  2 OLACACEAE   M1          M1                                                               1  5.1
+  6 OLACACEAE   M1          M1                                                               3  4.2  3.2  4.6
+  7 OLACACEAE   M1          M1                                                               5  3.8  2.8    3    3    3
+  8 OLACACEAE   M1          M1                                                               1    6
+  9 OLACACEAE   M1          M1                                                               1   18
+  5 RUBIACEAE   ALIBERTIA   M1                                                               1  2.6
+  4 RUBIACEAE   DUROIA      M1                                                               1  4.2
+  9 RUBIACEAE   DUROIA      M2                                                               1    7
+  3 RUBIACEAE   M1          M1                                                               1    9
+  9 RUBIACEAE   M2          M1                                                               1  8.9
+  4 RUBIACEAE   REMIJIA     M1                                                               1    4
+  9 RUBIACEAE   RUDGEA      M1                                                               1  8.9
+  7 SAPINDACEAE TALISIA     M1                                                               2    6  3.6
+  8 SAPINDACEAE?M1          M1                                                               2  6.4  7.5
+  7 SAPOTACEAE  CHRYSOPHYLLUM1                                                               1 23.6
+  4 SAPOTACEAE  POUTERIA    M1                                                               1  4.1
+  9 SAPOTACEAE  POUTERIA    M1                                                               1    3
+  3 ULMACEAE    M1          M1                                                               1   10  
+ 10 ULMACEAE    M1          M1                                                               1   32
+  7 VIOLACEAE   PAYPOYROLA  M1                                                               1  4.8
+  7 VIOLACEAE   PAYPOYROLA  M1                                                               1  8.8

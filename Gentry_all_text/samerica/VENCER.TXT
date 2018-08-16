@@ -1,0 +1,352 @@
+LinFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 1 ACTINIDIACESaurauia   M1         45247                                                 1  7.5    5
+ 2 ACTINIDIACESaurauia   M1         45247                                                 1  2.5    5  7.5
+ 4 ACTINIDIACESaurauia   M1         45247                                                 2    5   10
+ 8 ACTINIDIACESaurauia   M1         45247                                                 1   15    5
+ 2 ANACARDIACETapirira   guianensis 45300                                                 1   23
+ 4 ANACARDIACETapirira   guianensis 45300                                                 1  2.5
+ 8 ANACARDIACETapirira   guianensis 45300                                                 1  2.5
+ 4 ANNONACEAE CremastospeM1         45355 45371                                           2  2.5  7.5
+ 1 ANNONACEAE Guatteria  M1         45228 45453                                           1   15
+ 8 ANNONACEAE Guatteria  M1         45228 45453                                           1  2.5
+ 4 ANNONACEAE Guatteria  M2         45369                                                 1   20
+ 9 ANNONACEAE Guatteria  M3         45476 45477                                           2  2.5  2.5
+ 3 ANNONACEAE M1         M1         45325 45452                                           1  2.5
+ 8 ANNONACEAE M1         M1         45325 45452                                           1  2.5
+ 6 ANNONACEAE Oxandra    M1         45418                                                 1   24
+10 APOCYNACEAEPrestonia  M1         45522                                           L     1  2.5
+ 1 ARACEAE    Anthurium  M1         45245                                           H     1  2.5
+ 3 ARACEAE    Anthurium  truncicolum45321                                           H     1  2.5
+ 5 ARACEAE    Philodendroverrucosum                                                 H     2  2.5  2.5
+ 1 ARALIACEAE DendropanaxM1         45392 45389 45271 45362                               1  2.5
+ 4 ARALIACEAE DendropanaxM1         45392 45389 45271 45362                               1    9
+ 5 ARALIACEAE DendropanaxM1         45392 45389 45271 45362                               1  2.5
+ 5 ARALIACEAE DendropanaxM1         45392 45389 45271 45362                               1   12
+ 1 ARALIACEAE Oreopanax  M1         45227                                                 1   13
+ 4 ARALIACEAE Oreopanax  M2         45366                                                 1   13
+ 6 ARALIACEAE Schefflera M1         45421                                                 1  2.5
+ 4 ARECACEAE  Geonoma    M1         45351                                                 1  2.5
+ 1 ARECACEAE  Prestoea   M1         45269 45442                                           1  7.5
+ 3 ARECACEAE  Prestoea   M1         45269 45442                                           2  7.5    5
+ 7 ARECACEAE  Prestoea   M1         45269 45442                                           1    5
+ 8 ARECACEAE  Prestoea   M1         45269 45442                                           1    5
+ 9 ARECACEAE  Prestoea   M1         45269 45442                                           2    5    5
+10 ARECACEAE  Prestoea   M1         45269 45442                                           1    5
+ 4 ASTERACEAE Mikania    M1         45348                                           L     1   18
+ 5 ASTERACEAE Mikania    M1         45348                                           L     1  2.5
+10 ASTERACEAE Mikania    M2         45527A                                          L     1  2.5
+ 4 ASTERACEAE Senecio?   M1         45520 45359                                           1  2.5
+10 ASTERACEAE Senecio?   M1         45520 45359                                           1    5
+ 5 ASTERACEAE Wulffia    baccata                                                    L     1  2.5
+ 9 BIGNONIACEASchlegelia M1         45493                                           L     1  2.5
+ 3 BORAGINACEATournefortimicrocalyx 45310 45353                                     L     1  7.5
+ 4 BORAGINACEATournefortimicrocalyx 45310 45353                                     L     1  2.5
+ 5 CECROPIACEACoussapoa  villosa    45379                                                 1   58
+10 CECROPIACEACoussapoa  villosa    45379                                                 2   24   12  105
+ 6 CELASTRACEAMaytenus   M1         45417                                                 1    5
+ 5 CELASTRACEAPeritassa  laevigata  45393                                           L     1  2.5
+ 2 CELASTRACEAPerrottetiaM1         45297 45303                                           1   12
+ 3 CELASTRACEAPerrottetiaM1         45297 45303                                           3  7.5   35   25 19
+ 1 CELASTRACEASalacia    spectabilis45361 45491 45519 45267                         L     1    5
+ 4 CELASTRACEASalacia    spectabilis45361 45491 45519 45267                         L     1  2.5
+ 5 CELASTRACEASalacia    spectabilis45361 45491 45519 45267                         L     1  2.5
+ 7 CELASTRACEASalacia    spectabilis45361 45491 45519 45267                         L     1  2.5
+ 9 CELASTRACEASalacia    spectabilis45361 45491 45519 45267                         L     1  2.5
+10 CELASTRACEASalacia    spectabilis45361 45491 45519 45267                         L     2  2.5  2.5
+10 CHLORANTHACHedyosmum  cuatrecazan45518                                                 1   22
+ 1 CLUSIACEAE ChrysochlamM1         45240                                                 1    5
+ 3 CLUSIACEAE ChrysochlamM1         45240                                                 1  2.5
+ 4 CLUSIACEAE ChrysochlamM1         45240                                                 3  2.5  2.5    5 2.5  7.5
+ 5 CLUSIACEAE ChrysochlamM1         45240                                                 4    5  2.5    5 5    2.5
+ 6 CLUSIACEAE ChrysochlamM1         45240                                                 4  2.5  2.5  2.5 5    2.5  5
+ 7 CLUSIACEAE ChrysochlamM1         45240                                                 2  2.5  2.5    5
+ 8 CLUSIACEAE ChrysochlamM1         45240                                                 4  2.5    5  2.5 2.5  2.5  7.5
+ 3 CLUSIACEAE Clusia     haughtii   45323                                           H     1    5
+ 3 CLUSIACEAE Clusia     M1         45446                                           H     1  7.5
+ 9 CLUSIACEAE Clusia     M2         45473                                                 1   35
+ 1 CLUSIACEAE Clusia     trochiformi45270                                           H     2  2.5  2.5
+ 6 CLUSIACEAE Clusia     weberbaueri45407                                           H     1  7.5
+ 1 CLUSIACEAE Tovomita   M1         45236                                                 2    5    5
+ 3 CLUSIACEAE Tovomita   M2         45333 45427 45367                                     1    5
+ 4 CLUSIACEAE Tovomita   M2         45333 45427 45367                                     1  7.5
+ 6 CLUSIACEAE Tovomita   M2         45333 45427 45367                                     1   11
+ 9 CLUSIACEAE Tovomita   M3         45459                                                 6  7.5    5    5 7.5  7.5  2.5
+10 CLUSIACEAE Tovomita   M4         45490                                                 1   25
+ 7 CUNONIACEAEWeinmannia M1         45440                                                 1    5
+ 9 CUNONIACEAEWeinmannia M1         45440                                                 2  2.5   10
+ 3 CYATHEACEAECyathea    divergens  45329A                                                1  7.5
+ 1 CYCLANTHACEAsplundia  M1         45253 45435                                     H     2  2.5  2.5
+ 4 CYCLANTHACEAsplundia  M1         45253 45435                                     H     2  2.5  2.5
+ 7 CYCLANTHACEAsplundia  M1         45253 45435                                     H     1  2.5
+ 9 CYCLANTHACEAsplundia  M1         45253 45435                                     H     1  2.5
+ 3 CYCLANTHACEAsplundia  M2         45305                                           H     2  2.5  2.5
+ 4 CYCLANTHACEAsplundia  M2         45305                                           H     2  2.5  2.5
+ 6 DICHAPETALADichapetaluM1         45428                                           L     1  2.5
+ 5 DICHAPETALATapura     M1         45373                                                 1    5
+ 3 ELAEOCARPACSloanea    M1         45326                                                 1  2.5
+ 1 ERICACEAE  Psammisia  M1         45279                                           L     1    5
+ 5 ERICACEAE  Psammisia  M1         45279                                           L     2  2.5  2.5
+ 6 ERICACEAE  Psammisia  M1         45279                                           L     3    5  2.5  2.5
+ 7 ERICACEAE  Psammisia  M1         45279                                           L     1  2.5
+ 9 ERICACEAE  Psammisia  M1         45279                                           L     1  2.5
+ 3 ERICACEAE  Psammisia  M2         45309                                           L     1  2.5
+ 3 ERICACEAE  Psammisia  M3         45324                                           L     1    5
+ 3 EUPHORBIACEAlchornea  iricurana  45307                                                 1   28
+ 4 EUPHORBIACEHyeronima  duquei     45352                                                 2  2.5  2.5
+ 2 EUPHORBIACEHyeronima  moritziana 45283 45416 45380 45536                               1  2.5
+ 6 EUPHORBIACEHyeronima  moritziana 45283 45416 45380 45536                               2  2.5   22
+ 9 EUPHORBIACEHyeronima  moritziana 45283 45416 45380 45536                               1  2.5
+10 EUPHORBIACEHyeronima  moritziana 45283 45416 45380 45536                               1   32
+ 4 EUPHORBIACEHyeronima  oblonga    45377 45474                                           1  2.5
+ 5 EUPHORBIACEHyeronima  oblonga    45377 45474                                           1  2.5
+ 9 EUPHORBIACEHyeronima  oblonga    45377 45474                                           2  2.5    9  2.5
+10 EUPHORBIACEHyeronima  oblonga    45377 45474                                           2  7.5   11
+ 1 FABACEAE   Dussia     M1         45275 45444                                           1   29
+ 7 FABACEAE   Dussia     M1         45275 45444                                           1  2.5
+ 5 FABACEAE   Erythrina  sp. nov. af45387                                                 1   12
+ 1 FABACEAE   Inga       juglandifol45378 45230                                           2   19   23
+ 5 FABACEAE   Inga       juglandifol45378 45230                                           1  2.5
+ 9 FABACEAE   Inga       juglandifol45378 45230                                           1   16
+ 5 FABACEAE   Inga       punctata   45375                                                 1  2.5
+ 1 FABACEAE   Inga       quarternata45468 45465 45252 45432                               1  2.5
+ 7 FABACEAE   Inga       quarternata45468 45465 45252 45432                               1  2.5
+ 9 FABACEAE   Inga       quarternata45468 45465 45252 45432                               2   16  7.5
+ 9 FABACEAE   Inga       quarternata45468 45465 45252 45432                               1  2.5
+ 5 FLACOURTIACBanara     guianensis 45391A                                                1   11
+ 9 FLACOURTIACBanara     guianensis 45391A                                                1    5
+10 FLACOURTIACHasseltia  floribunda 45528                                                 1  2.5
+ 7 FLACOURTIACNeosprucea M1                                                               1   13
+ 8 FLACOURTIACNeosprucea M1                                                               1    5
+ 3 HYDRANGEACEHydrangea  M1         45334                                           L     1   14
+ 6 HYDRANGEACEHydrangea  M2         45404                                           L     1  7.5
+10 ICACINACEAECitronella incarum    45527                                                 2    5  7.5
+ 3 INDET      M1         M1         45332                                                 2  2.5  2.5
+ 7 INDET      M1         M1         45332                                                 2  2.5  7.5  2.5 2.5
+ 4 LACISTEMATALozania    mutisiana  45358                                                 1  2.5
+ 1 LAURACEAE  Aniba      muca       45423 45533 45273                                     1   10
+ 2 LAURACEAE  Aniba      muca       45423 45533 45273                                     1    8    5    5 5
+ 4 LAURACEAE  Aniba      muca       45423 45533 45273                                     2  2.5  2.5
+ 6 LAURACEAE  Aniba      muca       45423 45533 45273                                     2   11    5
+ 7 LAURACEAE  Aniba      muca       45423 45533 45273                                     1    5
+10 LAURACEAE  Aniba      muca       45423 45533 45273                                     4  2.5    8    9 2.5
+ 1 LAURACEAE  BielschmiedM1         45237                                                 1    5
+ 3 LAURACEAE  BielschmiedM2         45526 45329                                           1  7.5
+ 6 LAURACEAE  BielschmiedM2         45526 45329                                           1  2.5
+ 7 LAURACEAE  BielschmiedM3         45451 45473 45479                                     1   20
+ 8 LAURACEAE  BielschmiedM3         45451 45473 45479                                     2  2.5  2.5
+ 2 LAURACEAE  cf Phoebe  triplinervi45292                                                 1    5
+ 7 LAURACEAE  EndlicheriaM1         45436                                                 1  7.5
+ 1 LAURACEAE  M1         M1         45244 45429 45282                                     1    5
+ 2 LAURACEAE  M1         M1         45244 45429 45282                                     2  2.5    5
+ 7 LAURACEAE  M1         M1         45244 45429 45282                                     1   35    5  2.5
+ 7 LAURACEAE  M10        M1         45437                                                 1  2.5
+ 8 LAURACEAE  M11        M1         45463                                                 1    5
+ 9 LAURACEAE  M11        M1         45463                                                 1   14
+ 9 LAURACEAE  M12        M1         45469 45480                                           2    5   13
+10 LAURACEAE  M13        M1         45523                                                 1   10
+10 LAURACEAE  M13        M1         45532                                                 1  2.5
+ 2 LAURACEAE  M2         M1         45291                                                 1   11
+ 2 LAURACEAE  M3         M1         45425 45289                                           1  2.5
+ 4 LAURACEAE  M3         M1         45425 45289                                           1  2.5
+ 6 LAURACEAE  M3         M1         45425 45289                                           1  2.5
+ 3 LAURACEAE  M4         M1         45330                                                 1    8
+ 5 LAURACEAE  M5         M1         45386                                                 1  2.5
+ 5 LAURACEAE  M6         M1         45382 45412 45384                                     2  2.5    9
+ 6 LAURACEAE  M6         M1         45382 45412 45384                                     1  2.5
+ 5 LAURACEAE  M7         M1         45390 45441                                           1   15
+ 7 LAURACEAE  M7         M1         45390 45441                                           1    5
+ 8 LAURACEAE  M8         M1         45458 45492                                           2  2.5  2.5
+ 9 LAURACEAE  M8         M1         45458 45492                                           1   21
+ 7 LAURACEAE  M9         M1         45431                                                 1    5
+ 4 LAURACEAE  Nectandra  arnottiana 45525 45364                                           1    5
+10 LAURACEAE  Nectandra  arnottiana 45525 45364                                           1  2.5
+ 2 LAURACEAE  Nectandra  kunthiana  45294                                                 1    5
+ 2 LAURACEAE  Nectandra  M1         45411 45298                                           1  2.5
+ 6 LAURACEAE  Nectandra  M1         45411 45298                                           1  7.5
+ 1 LAURACEAE  Nectandra  M2         45466 45234                                           1    5
+ 9 LAURACEAE  Nectandra  M2         45466 45234                                           1  2.5
+10 LAURACEAE  Ocotea     cernua     45521                                                 1  2.5  7.5
+ 6 LAURACEAE  Ocotea     javitensis 45424 45419 45426                                     1  2.5
+ 6 LAURACEAE  Ocotea     javitensis 45424 45419 45426                                     4  2.5  2.5    5 15
+ 1 LAURACEAE  Ocotea     M1         45238                                                 1  7.5
+ 2 LAURACEAE  Ocotea     M2         45281 45464 45517                                     1    5
+ 9 LAURACEAE  Ocotea     M2         45281 45464 45517                                     1  2.5  2.5  2.5
+10 LAURACEAE  Ocotea     M2         45281 45464 45517                                     1  2.5
+10 LAURACEAE  Ocotea     M3         45537                                                 1   16
+10 LAURACEAE  Persea     M1         45526                                                 1   11
+ 1 LAURACEAE  Phoebe     triplinervi45246 45370                                           1    5
+ 4 LAURACEAE  Phoebe     triplinervi45246 45370                                           1   12
+ 4 MAGNOLIACEATalauma    M1         45388 45350                                           2  2.5  7.5  2.5
+ 5 MAGNOLIACEATalauma    M1         45388 45350                                           1   12
+ 7 MARCGRAVIACNorantea   M1         45448                                           L     1   11
+ 1 MELASTOMATABlakea     M1         45229 45460                                     H     1  2.5
+ 8 MELASTOMATABlakea     M1         45229 45460                                     H     1  2.5
+ 3 MELASTOMATAM1         M1         45302                                                 1  7.5
+ 5 MELASTOMATAM1         M1         45302                                                 1    5
+ 7 MELASTOMATAM1         M1         45302                                                 1    5
+ 1 MELASTOMATAMiconia    barbeyana  45450A                                                1  2.5
+ 8 MELASTOMATAMiconia    barbeyana  45450A                                                2  2.5   19
+ 1 MELASTOMATAMiconia    M1         45278                                                 1   10
+ 2 MELASTOMATAMiconia    M1         45278                                                 1   13
+ 5 MELASTOMATAMiconia    M1         45278                                                 1  2.5
+ 2 MELASTOMATAMiconia    M2         45284                                                 1  2.5
+ 4 MELASTOMATAMiconia    M3         45363                                                 1  7.5
+ 5 MELASTOMATAMiconia    M3         45363                                                 1    5
+ 2 MELASTOMATAMiconia    theazans   45534 45287                                           2    5    5
+ 3 MELASTOMATAMiconia    theazans   45534 45287                                           1  2.5  2.5    5
+ 8 MELASTOMATAMiconia    theazans   45534 45287                                           1  2.5
+ 9 MELASTOMATAMiconia    theazans   45534 45287                                           1  2.5
+10 MELASTOMATAMiconia    theazans   45534 45287                                           2    5  2.5
+ 6 MELIACEAE  Cedrela    montana    45406                                                 1    5
+ 1 MELIACEAE  Guarea     kunthiana  45531 45274 45472 45285 45376 45301 45357             1  2.5
+ 2 MELIACEAE  Guarea     kunthiana  45531 45274 45472 45285 45376 45301 45357             1  2.5
+ 2 MELIACEAE  Guarea     kunthiana  45531 45274 45472 45285 45376 45301 45357             1   13
+ 3 MELIACEAE  Guarea     kunthiana  45531 45274 45472 45285 45376 45301 45357             1  2.5
+ 4 MELIACEAE  Guarea     kunthiana  45531 45274 45472 45285 45376 45301 45357             1  2.5
+ 5 MELIACEAE  Guarea     kunthiana  45531 45274 45472 45285 45376 45301 45357             2    5  2.5
+ 9 MELIACEAE  Guarea     kunthiana  45531 45274 45472 45285 45376 45301 45357             1   17
+10 MELIACEAE  Guarea     kunthiana  45531 45274 45472 45285 45376 45301 45357             1   10
+ 1 MELIACEAE  Ruagea     glabra     45242                                                 1    5
+ 2 MELIACEAE  Ruagea     glabra     45242                                                 2    5  2.5
+ 4 MELIACEAE  Ruagea     glabra     45242                                                 2  2.5  2.5
+ 7 MELIACEAE  Ruagea     glabra     45242                                                 1    5
+10 MELIACEAE  Ruagea     glabra     45242                                                 1   10
+ 1 MELIACEAE  Trichilia  septentrion45231                                                 1   13
+ 2 MELIACEAE  Trichilia  septentrion45231                                                 1  2.5
+ 5 MELIACEAE  Trichilia  septentrion45231                                                 1  7.5    5
+ 4 MONIMIACEAEMollinedia tessmannii 45360 45381 45524 45360                               1  2.5
+ 5 MONIMIACEAEMollinedia tessmannii 45360 45381 45524 45360                               1   10
+ 6 MONIMIACEAEMollinedia tessmannii 45360 45381 45524 45360                               1  2.5
+ 6 MONIMIACEAEMollinedia tessmannii 45360 45381 45524 45360                               1  2.5
+10 MONIMIACEAEMollinedia tessmannii 45360 45381 45524 45360                               1    5
+ 3 MONIMIACEAESiparuna   M1         45327                                                 1  2.5
+ 2 MORACEAE   Clarisia   biflora    45293                                                 1   50
+ 3 MORACEAE   Clarisia   biflora    45293                                                 1   33
+ 6 MORACEAE   Clarisia   biflora    45293                                                 1   23
+ 8 MORACEAE   Clarisia   biflora    45293                                                 1   20
+ 9 MORACEAE   Clarisia   biflora    45293                                                 3   25   26   25
+10 MORACEAE   Clarisia   biflora    45293                                                 2    5    5
+ 6 MORACEAE   Ficus      M1         45113                                                 1   10
+ 6 MORACEAE   Ficus      maxima     45420             45420                               1   24
+ 6 MORACEAE   Ficus      subandina  45430 45494 45408                               H     1  2.5
+ 7 MORACEAE   Ficus      subandina  45430 45494 45408                               H     1  2.5
+ 9 MORACEAE   Ficus      subandina  45430 45494 45408                               H     1    5
+ 3 MORACEAE   Morus      insignis                                                         1   26
+ 1 MORACEAE   NaucleopsisM1         45235                                                 1    9
+ 3 MORACEAE   Pseudolmedimacrophylla45529 45454 45475 45331                               1  2.5
+ 8 MORACEAE   Pseudolmedimacrophylla45529 45454 45475 45331                               1   14
+ 9 MORACEAE   Pseudolmedimacrophylla45529 45454 45475 45331                               1   14
+10 MORACEAE   Pseudolmedimacrophylla45529 45454 45475 45331                               1   29
+ 4 MORACEAE   Sorocea    trophoides 45422 45349                                           1  2.5
+ 5 MORACEAE   Sorocea    trophoides 45422 45349                                           1  2.5
+ 6 MORACEAE   Sorocea    trophoides 45422 45349                                           1    5
+ 7 MORACEAE   Sorocea    trophoides 45422 45349                                           1  2.5
+ 8 MORACEAE   Sorocea    trophoides 45422 45349                                           1  2.5
+ 1 MYRISTICACEOtoba      parvifolia 45295                                                 3   60   34    5
+ 2 MYRISTICACEOtoba      parvifolia 45295                                                 2   33    5
+ 3 MYRISTICACEOtoba      parvifolia 45295                                                 2  2.5   36
+ 4 MYRISTICACEOtoba      parvifolia 45295                                                 5   12  2.5  2.5 62   2.5
+ 7 MYRISTICACEOtoba      parvifolia 45295                                                 2    5   19
+ 9 MYRISTICACEOtoba      parvifolia 45295                                                 2  2.5  2.5
+10 MYRISTICACEOtoba      parvifolia 45295                                                 3  2.5  2.5   40 2.5
+ 4 MYRSINACEAECybianthus occigranate45356                                                 1  2.5
+ 7 MYRSINACEAEGeissanthusM1         45439                                                 1  2.5  2.5
+ 7 MYRSINACEAEStylogyne  M1         45439                                                 1  2.5  2.5
+ 4 MYRTACEAE  Calyptranthplicata    45346                                                 2    5    5
+ 7 MYRTACEAE  Calyptranthplicata    45346                                                 1    8
+ 9 MYRTACEAE  Calyptranthplicata    45346                                                 1  2.5
+ 5 OLACACEAE  Heisteria  M1                                                               1    9
+10 PIPERACEAE Piper      M1         45530                                                 1  2.5
+ 4 RUBIACEAE  Chiococca  M1         45347                                           L     1  2.5
+ 1 RUBIACEAE  Chomelia   cf barbella45438 45382A45248                                     1    5
+ 5 RUBIACEAE  Chomelia   cf barbella45438 45382A45248                                     1   35
+ 7 RUBIACEAE  Chomelia   cf barbella45438 45382A45248                                     1    8
+ 8 RUBIACEAE  Chomelia   cf barbella45438 45382A45248                                     1   19  2.5  2.5
+ 1 RUBIACEAE  Coussarea  M1         45232                                                 1  7.5
+ 2 RUBIACEAE  Coussarea  M2         45286                                                 1  2.5
+ 3 RUBIACEAE  Coussarea  M2         45286                                                 5  2.5    5  2.5 2.5  2.5  2.5  2.5
+ 4 RUBIACEAE  Coussarea  M2         45286                                                 1    5
+ 5 RUBIACEAE  Coussarea  M2         45286                                                 1  2.5
+ 6 RUBIACEAE  Coussarea  M2         45286                                                 3    5    5  2.5 2.5
+ 7 RUBIACEAE  Coussarea  M2         45286                                                 1    5
+ 8 RUBIACEAE  Coussarea  M2         45286                                                 3  2.5  2.5  2.5
+ 9 RUBIACEAE  Coussarea  M2         45286                                                 3    5  2.5  2.5
+10 RUBIACEAE  Coussarea  M2         45286                                                 2    5  2.5
+ 8 RUBIACEAE  Coussarea  M3         45450                                                 1  2.5
+ 5 RUBIACEAE  Eleagia    cf karsteni45383                                                 1    5
+ 1 RUBIACEAE  Faramea    M1         45249 45478                                           1    5
+ 9 RUBIACEAE  Faramea    M1         45249 45478                                           1  2.5
+ 2 RUBIACEAE  Faramea    M2                                                               1  2.5
+ 3 RUBIACEAE  Faramea    M2                                                               1    5
+ 4 RUBIACEAE  Faramea    M2                                                               2    5  2.5
+ 6 RUBIACEAE  Faramea    M2                                                               4    9   18  7.5 2.5
+ 7 RUBIACEAE  Faramea    M2                                                               2    5   18
+ 8 RUBIACEAE  Faramea    M2                                                               2    9    5
+ 9 RUBIACEAE  Faramea    M2                                                               1  2.5
+10 RUBIACEAE  Faramea    M2                                                               4   14  7.5  2.5 2.5
+ 9 RUBIACEAE  Faramea    M3         45471                                                 2  2.5  2.5
+ 1 RUBIACEAE  Guettarda  M1         45251 45461                                           1    9
+ 3 RUBIACEAE  Guettarda  M1         45251 45461                                           1  2.5
+ 6 RUBIACEAE  Guettarda  M1         45251 45461                                           2  2.5    5
+ 3 RUBIACEAE  Hillia     parasitica?45322                                           H     1  2.5
+ 6 RUBIACEAE  Hillia     parasitica?45322                                           H     1  2.5
+ 1 RUBIACEAE  Hoffmania  M1         45280                                                 1  2.5
+ 7 RUBIACEAE  Hoffmania  M1         45280                                                 1  2.5
+ 2 RUBIACEAE  Hoffmania  M3         45280                                                 4  2.5  2.5  2.5 2.5  2.5
+ 5 RUBIACEAE  M1         M1         45372                                           L     1  2.5
+ 1 RUBIACEAE  Psychotria M1         45457 45308 45233 45296                               1  2.5
+ 2 RUBIACEAE  Psychotria M1         45457 45308 45233 45296                               1  2.5
+ 3 RUBIACEAE  Psychotria M1         45457 45308 45233 45296                               2    5
+ 8 RUBIACEAE  Psychotria M1         45457 45308 45233 45296                               1    5
+ 2 RUBIACEAE  Psychotria M2         45299                                                 1  2.5
+ 2 RUBIACEAE  Psychotria M3         45391 45433 45288                                     1    5
+ 3 RUBIACEAE  Psychotria M3         45391 45433 45288                                     1   10
+ 5 RUBIACEAE  Psychotria M3         45391 45433 45288                                     1    9
+ 5 RUBIACEAE  Psychotria M3         45391 45433 45288                                     1   10
+ 6 RUBIACEAE  Psychotria M3         45391 45433 45288                                     1  2.5
+ 7 RUBIACEAE  Psychotria M3         45391 45433 45288                                     1  2.5    5
+ 7 RUBIACEAE  Psychotria M3         45391 45433 45288                                     1  2.5
+ 8 RUBIACEAE  Psychotria M3         45391 45433 45288                                     2  2.5    5
+ 9 RUBIACEAE  Psychotria M3         45391 45433 45288                                     1   14
+10 RUBIACEAE  Psychotria M3         45391 45433 45288                                     1  7.5
+10 RUBIACEAE  Psychotria M4         45535                                                 1  2.5
+ 1 RUBIACEAE  Psychotria tinctoria  45241 45250                                           4  2.5  2.5  2.5   10
+ 6 RUBIACEAE  Randia     M1         45413                                                 1  2.5
+10 RUBIACEAE  Rudgea     M1         45516                                                 1  2.5
+ 5 SABIACEAE  Meliosma   aff tachire45385                                                 1    5
+ 5 SABIACEAE  Meliosma   simiarum                                                         2  2.5  7.5   10
+ 9 SABIACEAE  Meliosma   simiarum                                                         1    9
+10 SABIACEAE  Meliosma   simiarum                                                         1  2.5
+ 9 SABIACEAE  Meliosma   sumacencis 45470                                                 1  2.5
+ 1 SAPINDACEAEAllophylus incanus    45243                                                 2   17  2.5
+ 2 SAPINDACEAEAllophylus incanus    45243                                                 1   14
+ 6 SAPINDACEAEAllophylus incanus    45243                                                 1  2.5
+ 7 SAPINDACEAEAllophylus incanus    45243                                                 1   17
+ 1 SAPINDACEAEPaullinia  clathrata  45272                                           L     1  2.5
+ 5 SAPINDACEAETalisia    mollis     45443 45374                                           1  2.5
+ 7 SAPINDACEAETalisia    mollis     45443 45374                                           1  2.5
+ 9 SAPINDACEAETalisia    mollis     45443 45374                                           1    5  2.5
+ 1 SAPOTACEAE ChrysophyllM1         45409 45268                                           1   36
+ 6 SAPOTACEAE ChrysophyllM1         45409 45268                                           1   22
+ 8 SAPOTACEAE M1         M1         45456                                                 1  2.5
+ 6 SOLANACEAE Cestrum    aff. megalo45405                                                 1  2.5
+ 8 SOLANACEAE Cestrum    megalophyll45449                                                 1  2.5
+10 SOLANACEAE Cestrum    megalophyll45449                                                 1  2.5
+ 1 STAPHYLEACEHuertea    glandulosa                                                       2   16   10
+ 2 STAPHYLEACEHuertea    glandulosa                                                       1   20
+ 3 STAPHYLEACEHuertea    glandulosa                                                       1   16
+ 4 STAPHYLEACEHuertea    glandulosa                                                       4  2.5    5  2.5 16
+ 6 STAPHYLEACEHuertea    glandulosa                                                       2  2.5   20
+ 7 STAPHYLEACEHuertea    glandulosa                                                       1   30
+ 8 STAPHYLEACEHuertea    glandulosa                                                       1    9
+10 STAPHYLEACEHuertea    glandulosa                                                       3  2.5    5  2.5
+ 1 STYRACACEAEStyrax     ovatus      4535445276                                           1   10
+ 4 STYRACACEAEStyrax     ovatus      4535445276                                           1   22
+ 6 STYRACACEAEStyrax     ovatus      4535445276                                           1  2.5
+ 7 STYRACACEAEStyrax     ovatus      4535445276                                           3   16   22  2.5
+10 THEOPHRASTAClavija    M1         -                                                     1   11
+ 9 VERBENACEAEAegiphila  aff macrant45467 45479                                           2  7.5  2.5
+
+
+
+

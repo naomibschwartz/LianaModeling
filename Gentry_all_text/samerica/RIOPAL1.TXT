@@ -1,0 +1,224 @@
+LinFamily     Genus      species    voucher1   voucvoucvoucvoucvoucvoucvoucLIAN(INDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 4 ANNONACEAE Guatteria  amplifolia                                              1    5
+10 ANNONACEAE Raimondia  quinduensisDodson10102                                  1    5
+ 8 ARACEAE    Anthurium  dolichostachyum                                   H     2    5 2.5
+ 4 ARACEAE    RhodospathaM1         Dodson9869                             H     1  2.5
+ 7 ARACEAE    RhodospathaM1         Dodson9869                             H     1  2.5
+10 ARACEAE    Xanthosoma sagittifolia                                            2  2.5 7.5
+ 1 ARECACEAE  Catoblastusvelutinus  Dodson9699                                   1  7.5
+ 2 ARECACEAE  Catoblastusvelutinus  Dodson9699                                   3  7.5 7.5  5
+ 3 ARECACEAE  Catoblastusvelutinus  Dodson9699                                   3   10 2.5  7.5
+ 4 ARECACEAE  Catoblastusvelutinus  Dodson9699                                   4  7.5 7.5  5    10
+ 5 ARECACEAE  Catoblastusvelutinus  Dodson9699                                   4  7.5 7.5  5    5
+ 6 ARECACEAE  Catoblastusvelutinus  Dodson9699                                   6  7.5 7.5  10   10   7.5  10
+ 7 ARECACEAE  Catoblastusvelutinus  Dodson9699                                   4  7.5 7.5  10   10
+ 8 ARECACEAE  Catoblastusvelutinus  Dodson9699                                   3  7.5 12   7.5
+ 9 ARECACEAE  Catoblastusvelutinus  Dodson9699                                   8   10 7.5  7.5  5    7.5  10   5    7.5
+ 1 ARECACEAE  Chamaedoreapolyclada                                               1    5
+ 9 ARECACEAE  Chamaedoreapolyclada                                               1    5
+ 2 ARECACEAE  Pholidostacdactyloides                                             1    5
+ 6 ARECACEAE  Prestoea   sejuncta                                                1  2.5
+ 1 ARECACEAE  Synechanthuwarscewiczianus                                         1  2.5
+ 7 ARECACEAE  Synechanthuwarscewiczianus                                         1  2.5
+ 7 ARECACEAE  Wettinia   quinaria                                                1  7.5
+ 2 ASPLENIACEALomariopsisjapuensis                                         H     1  2.5
+ 3 ASPLENIACEALomariopsisjapuensis                                         H     1  2.5
+ 6 ASPLENIACEALomariopsisjapuensis                                         H     1  2.5
+ 7 ASPLENIACEALomariopsisjapuensis                                         H     2  2.5 2.5
+ 8 ASPLENIACEALomariopsisjapuensis                                         H     1  2.5
+10 ASPLENIACEALomariopsisjapuensis                                         H     1  2.5
+ 9 ASTERACEAE Clidemia   caudata    Dodson9978                                   1    5
+ 3 ASTERACEAE Mikania    leiostachyaDodson9891                             L     1   10
+ 4 ASTERACEAE Mikania    leiostachyaDodson9891                             L     1  2.5
+ 6 ASTERACEAE Mikania    leiostachyaDodson9891                             L     3  2.5 2.5  2.5
+ 8 ASTERACEAE Mikania    leiostachyaDodson9891                             L     1    5
+10 ASTERACEAE Wulffia    baccata                                           L     1  2.5
+ 2 BIGNONIACEAArrabidaea chica                                             L     1  2.5
+ 1 BIGNONIACEAArrabidaea verrucosa                                         L     1  2.5
+ 9 BIGNONIACEAArrabidaea verrucosa                                         L     3    5 2.5  5
+ 5 BIGNONIACEASchlegelia darienensis                                       H     1  2.5
+ 2 BIGNONIACEASchlegelia fastigiata                                        H     1  2.5
+ 6 BIGNONIACEASchlegelia fastigiata                                        H     1  2.5
+10 BIGNONIACEASchlegelia fastigiata                                        H     1  2.5
+ 1 BOMBACACEAEQuararibea asterolepisDodson9675                                   1   14
+10 BOMBACACEAEQuararibea asterolepisDodson9675                                   1   60
+ 1 BOMBACACEAEQuararibea coloradorum                                             3  2.5 20   25
+ 2 BOMBACACEAEQuararibea coloradorum                                             1   30
+ 3 BOMBACACEAEQuararibea coloradorum                                             1    5
+ 4 BOMBACACEAEQuararibea coloradorum                                             1    5
+ 5 BOMBACACEAEQuararibea coloradorum                                             1   17
+ 6 BOMBACACEAEQuararibea coloradorum                                             1  2.5
+ 7 BOMBACACEAEQuararibea coloradorum                                             1  7.5
+ 9 BOMBACACEAEQuararibea coloradorum                                             3    5 2.5  2.5
+ 1 BOMBACACEAEQuararibea grandifoliaDodson9681                                   1   15
+ 2 BOMBACACEAEQuararibea grandifoliaDodson9681                                   2   10 2.5
+ 3 BOMBACACEAEQuararibea grandifoliaDodson9681                                   1  2.5
+ 6 BOMBACACEAEQuararibea grandifoliaDodson9681                                   1  2.5
+ 8 BOMBACACEAEQuararibea grandifoliaDodson9681                                   1  2.5
+ 5 BORAGINACEACordia     dwyeri     Dodson9878                                   1  7.5
+ 3 CAPPARIDACECapparis   ecuadorica Dodson9848                                   1  2.5
+ 5 CAPPARIDACECapparis   ecuadorica Dodson9848                                   1    5
+10 CARICACEAE Carica     microcarpa                                              1  2.5
+ 1 CARICACEAE Carica     papaya                                                  1  2.5
+ 7 CARICACEAE Carica     papaya                                                  3  7.5 5    7.5
+ 5 CARICACEAE Jacaratia  spinosa                                                 1   27
+ 7 CECROPIACEACecropia   aff peltata                                             1  2.5
+ 4 CECROPIACEACoussapoa  eggersii                                                1    5
+ 6 CECROPIACEACoussapoa  eggersii                                                1  7.5
+ 8 CECROPIACEACoussapoa  eggersii                                                1   90
+ 1 CECROPIACEAPourouma   aspera                                                  1  2.5
+ 2 CECROPIACEAPourouma   aspera                                                  2    5 2.5
+ 4 CECROPIACEAPourouma   aspera                                                  1    5
+ 5 CECROPIACEAPourouma   aspera                                                  2    5 2.5
+ 3 CHRYSOBALANHirtella   mutisii    Dodson9858                                   1   14
+ 6 CLUSIACEAE Caraipa    guianensis Dodson9945                                   1    5
+ 7 CLUSIACEAE Caraipa    guianensis Dodson9945                                   1    5
+ 9 CLUSIACEAE Caraipa    guianensis Dodson9945                                   1   15
+ 5 CLUSIACEAE Clusia     frectangusta                                      H     1  2.5
+ 4 CLUSIACEAE Tovomita   weddeliana                                              2   12 2.5
+ 9 CLUSIACEAE Tovomita   weddeliana                                              1    5
+10 COSTACEAE  Costus     lima                                                    1  2.5
+ 9 CYATHEACEAETrichipteritrichiata                                               1  2.5
+ 3 CYCLANTHACEAsplundia  M1         Dodson9853                             H     1  2.5
+ 6 CYCLANTHACEAsplundia  M2         Dodson9853                             H     1  2.5
+ 1 EUPHORBIACEAcalypha   obovata    Dodson9686                             L     5  2.5  2.5  2.5  2.5  2.5
+ 3 EUPHORBIACEAcalypha   obovata    Dodson9686                             L     1  2.5
+ 6 EUPHORBIACEAcalypha   obovata    Dodson9686                             L     2  2.5  2.5
+ 7 EUPHORBIACEAcalypha   obovata    Dodson9686                             L     2  2.5  2.5
+ 8 EUPHORBIACEAcalypha   obovata    Dodson9686                             L     2  2.5  2.5
+10 EUPHORBIACEAcalypha   obovata    Dodson9686                             L     1  2.5
+ 8 EUPHORBIACEAlchornea  iracurana  Dodson9967                                   1  2.5
+ 8 EUPHORBIACEOmphalea   diandra    Dodson9966                             L     1  2.5
+ 9 EUPHORBIACEPhyllanthusanisolobus                                              1  2.5
+ 5 FABACEAE   Dioclea    reticulata                                        L     1    5
+ 2 FABACEAE   Dussia     lehmanii                                                1   10
+ 8 FABACEAE   Erythrina  megistophylla                                           1   10
+ 3 FABACEAE   Inga       alatocarpa Dodson9857                                   1  7.5
+ 4 FABACEAE   Inga       alatocarpa Dodson9857                                   1    5
+ 8 FABACEAE   Inga       alatocarpa Dodson9857                                   2   15 12
+ 4 FABACEAE   Inga       coruscans  Dodson9825                                   1  2.5
+ 9 FABACEAE   Inga       coruscans  Dodson9825                                   1   10
+ 7 FABACEAE   Inga       riopalenqueDodson9961                                   1    5
+ 8 FABACEAE   Inga       riopalenqueDodson9961                                   1  2.5
+ 4 FABACEAE   Inga       ruiziana   Dodson9870                                   1  2.5
+ 5 FABACEAE   Inga       ruiziana   Dodson9870                                   1  2.5
+ 5 FABACEAE   PithecellobmacradeniumDodson9890                                   1  2.5
+ 2 FLACOURTIACCarpotrocheramosii    Dodson9676                                   1  2.5
+ 4 HERNANDIACEHernandia  stenura    Dodson9877                                   1    5
+ 7 HERNANDIACEHernandia  stenura    Dodson9877                                   1  2.5
+ 9 HERNANDIACEHernandia  stenura    Dodson9877                                   1  2.5
+ 9 ICACINACEAECalatola   costaricensDodson9985                                   4   45 2.5  2.5  2.5
+ 7 LACISTEMATALacistema  aggregatum                                              1   12
+ 2 LAURACEAE  Nectandra  aff trianaeDodson9847                                   1  2.5
+ 2 LAURACEAE  Ocotea     dendrodaphne                                            1  2.5
+ 6 LAURACEAE  Persea     theobromifolia                                          1  2.5
+10 LECYTHIDACEGrias      tessmanii                                               2   27 25
+10 MARCGRAVIACNorantea   sodiroi                                           H     1    5
+ 9 MELASTOMATAClidemia   caudata    Dodson9978                                   1    5
+ 3 MELASTOMATAOssaea     micrantha  Dodson9682                                   2    5 5
+ 6 MELIACEAE  Carapa     guianensis Dodson9945                                   1    5
+ 7 MELIACEAE  Carapa     guianensis Dodson9945                                   1    5
+ 9 MELIACEAE  Carapa     guianensis Dodson9945                                   1   15
+ 4 MELIACEAE  Guarea     cartaguenya                                             1    5
+ 8 MELIACEAE  Guarea     glabra     Dodson9963                                   2  2.5  2.5
+ 9 MELIACEAE  Guarea     glabra     Dodson9963                                   1  7.5
+ 7 MELIACEAE  Guarea     guidonia (gDodson9963                                   1  2.5
+ 3 MENDONCIACEMendoncia  retusa     Dodson 9854                            L     1  2.5
+ 5 MENDONCIACEMendoncia  retusa     Dodson 9854                            L     1  2.5
+ 4 MENISPERMACAnomospermuM1         Dodson9873                             L     1  2.5
+ 3 MENISPERMACDisciphaniainversa    Dodson9854                             L     1  2.5
+ 5 MENISPERMACDisciphaniajuliflora                                         L     1  2.5
+ 6 MONIMIACEAESiparuna   M1                                                      1  2.5
+ 4 MORACEAE   Castilla   elastica                                                1  2.5
+ 7 MORACEAE   Castilla   elastica                                                2   17 40
+ 3 MORACEAE   Clarisia   biflora                                                 1  2.5
+ 4 MORACEAE   Clarisia   biflora                                                 1  2.5
+ 7 MORACEAE   Clarisia   biflora                                                 1  2.5
+ 1 MORACEAE   Clarisia   racemosa   Dodson9687                                   1  2.5
+ 3 MORACEAE   Clarisia   racemosa   Dodson9687                                   1  2.5
+ 8 MORACEAE   Clarisia   racemosa   Dodson9687                                   1    5
+ 9 MORACEAE   Clarisia   racemosa   Dodson9687                                   1    5
+ 2 MORACEAE   Ficus      cf turrialbDodson9694                                   1  2.5
+ 3 MORACEAE   Ficus      schippii   Dodson9861                             H     1    5 2.5
+ 4 MORACEAE   Ficus      schippii   Dodson9861                             H     1  2.5
+ 2 MORACEAE   Maquira    costaricensDodson9693                                   1  2.5
+ 7 MORACEAE   Maquira    costaricensDodson9693                                   1  2.5
+ 8 MORACEAE   Maquira    costaricensDodson9693                                   1    5
+ 5 MORACEAE   Naucleopsischiguila   Dodson9886                                   1    5
+ 4 MORACEAE   Poulsenia  armata                                                  2  2.5 2.5
+ 6 MORACEAE   Poulsenia  armata                                                  1   27
+ 1 MUSACEAE   Heliconia  curtispatha                                             1  2.5
+ 7 MUSACEAE   Heliconia  curtispatha                                             4  2.5 2.5  5    2.5  5    2.5  2.5  5    5    5    5
+ 8 MUSACEAE   Heliconia  curtispatha                                             5  2.5 2.5  5    5    2.5  5    2.5  2.5  2.5  5    5    5    5    5    5    5
+ 4 MUSACEAE   Heliconia  riopalenquensis                                         4    5 5    2.5  2.5  5    2.5  2.5  2.5  2.5
+ 5 MUSACEAE   Heliconia  riopalenquensis                                         2  2.5 2.5  2.5  2.5  5    5    5    2.5  5
+ 6 MUSACEAE   Heliconia  riopalenquensis                                         4  2.5 5    5    5    5    5    2.5  5    5    2.5  5    5    5    5    5    5
+ 6 MYRISTICACEOtoba      novogranateDodson9947                                   1  7.5
+ 8 MYRISTICACEOtoba      novogranateDodson9947                                   1  7.5
+ 9 MYRISTICACEOtoba      novogranateDodson9947                                   1  2.5
+ 2 MYRISTICACEVirola     reidii     Dodson9690                                   1    5
+ 3 MYRISTICACEVirola     sebifera   Dodson9856                                   1    5
+ 4 MYRISTICACEVirola     sebifera   Dodson9856                                   2  7.5 7.5
+ 6 MYRISTICACEVirola     sebifera   Dodson9856                                   1    5
+ 7 MYRISTICACEVirola     sebifera   Dodson9856                                   1  2.5
+ 1 MYRSINACEAEArdisia    longistaminDodson9684                                   1  2.5
+ 2 MYRSINACEAEStylogyne  gentryi    Dodson9691                                   1  2.5
+ 1 NYCTAGINACENeea       amplifolia Dodson9685                                   1    5
+ 7 OLACACEAE  Heisteria  acuminata  Dodson9959                                   1  2.5
+ 7 PHYTOLACCACTrichostigmoctandra   Dodson9960                             L     1  2.5
+ 3 PIPERACEAE Piper      angustum   Dodson9850                                   1  2.5
+ 4 PIPERACEAE Piper      angustum   Dodson9850                                   1  2.5
+ 6 PIPERACEAE Piper      angustum   Dodson9850                                   1  2.5
+ 2 PIPERACEAE Piper      imperiale  Dodson9968                                   1  2.5
+ 8 PIPERACEAE Piper      imperiale  Dodson9968                                   1  2.5
+ 4 PIPERACEAE Piper      M1         Dodson9871                             L     1  2.5
+ 2 PIPERACEAE Piper      multiplinerDodson9689                             L     1  2.5
+ 2 PIPERACEAE Piper      sanctifelicDodson9696                                   1  2.5
+ 1 POACEAE    Guadua     M1                                                      1   10 10   10   10   12   10   10   10   10
+ 6 POACEAE    Guadua     M1                                                      1  7.5 5    5    5
+10 POACEAE    Guadua     M1                                                      1  7.5 7.5
+ 4 POLYGONACEATriplaris  cumingiana Dodson9882                                   1   12
+ 9 POLYPODIACECampyloneurmagnificum Dodson9982                             H     1  2.5
+ 6 RUBIACEAE  Cephaelis  gentryi                                                 1  2.5
+ 2 RUBIACEAE  Hamelia    macrantha                                               2  2.5 5
+ 4 RUBIACEAE  Hamelia    macrantha                                               1  2.5
+ 6 RUBIACEAE  Palicourea guianensis Dodson9951                                   1  2.5
+ 4 RUBIACEAE  Palicourea M1         Dodson9879                                   1    5
+ 8 RUBIACEAE  Pentagonia grandiflora                                             1  7.5
+ 3 RUBIACEAE  Pentagonia macrophyllaDodson9862                                   1    5
+ 8 RUTACEAE   Zanthoxylumtachuelo                                                1  2.5
+ 5 SABIACEAE  Meliosma   occidentalis                                            1  2.5
+ 7 SAPINDACEAEAllophylus dodsonii   Dodson9957                                   1  2.5
+ 5 SAPOTACEAE Pouteria   lucentifoliDodson9888                                   1   45
+ 6 SAPOTACEAE Pouteria   lucentifoliDodson9888                                   1   37
+ 3 SIMAROUBACESimarouba  amara                                                   1  7.5
+ 4 SIMAROUBACESimarouba  amara                                                   1    5
+ 5 SIMAROUBACESimarouba  amara                                                   1  2.5
+ 4 SOLANACEAE Cestrum    megalophyllDodson9881                                   1  2.5
+10 SOLANACEAE Cestrum    megalophyllDodson9881                                   2  2.5 2.5
+ 4 SOLANACEAE Cyphomandrahartwegii  Dodson9867                                   1    5
+ 2 SOLANACEAE Solanum    palenquenseDodson9692                             L     1    5
+ 3 SOLANACEAE Solanum    palenquenseDodson9692                             L     5  2.5 5    5    7.5  10
+ 1 SOLANACEAE Witheringiariparia    Dodson9680                                   2  2.5 2.5
+ 6 SOLANACEAE Witheringiariparia    Dodson9680                                   1  2.5
+ 7 STAPHYLEACETurpinia   occidentalis                                            2    5 15
+ 6 STERCULIACEHerrania   balaensis                                               1  2.5
+ 8 STERCULIACEHerrania   balaensis                                               2    5 2.5
+ 5 THYMELAEACESchoenobiblpanamensis                                              1  2.5
+ 9 THYMELAEACESchoenobiblpanamensis                                              2  2.5  2.5
+ 4 ULMACEAE   Trema      integerrimaDodson4880                                   1   10
+10 URTICACEAE Urera      baccifera                                               2  2.5 2.5
+ 5 VERBENACEAEAegiphila  alba                                                    1    5
+ 6 VERBENACEAEAegiphila  alba                                                    1    5
+10 VERBENACEAEAegiphila  alba                                                    1  2.5 2.5
+10 VERBENACEAECitharexylugentryi                                                 1  2.5
+10 ZINGIBERACECostus     lima                                                    1  2.5
+
+
+
+
+
+
+
+
+

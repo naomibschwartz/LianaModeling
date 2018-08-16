@@ -1,0 +1,176 @@
+LineFAMILY      GENUS       SPECIES     vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+  2 ANNONACEAE  ANOMIANTHUS DULCIS      66680                                           L     1    4
+  3 ANNONACEAE  ANOMIANTHUS DULCIS      66680                                           L     1   13
+  2 ANNONACEAE  DESMOS      M1          66671                                           L     1    3
+ 10 ANNONACEAE  MITREPHORA  M1          66727                                                 2   10    3
+  1 APOCYNACEAE AGANOSMA    MARGINATA   66661                                           L     4    5    3    6    3
+  8 APOCYNACEAE AGANOSMA    MARGINATA   66661                                           L     1  2.5
+  1 APOCYNACEAE CHILOCARPUS M1          66659                                           L     1  2.5
+  9 APOCYNACEAE HOLARRHENA  ANTIDYSENTER66716                                                 2    5    9
+  8 APOCYNACEAE WRIGHTIA    TOMENTOSA   66705                                                 1    7
+  1 ASCLEPIADACEM1          M1          66647                                           L     1    4
+ 10 ASCLEPIADACEM1          M1          66647                                           L     1    3
+  1 ASCLEPIADACEM2          M1          66665                                           L     2    3  2.5
+  3 ASCLEPIADACEM2          M1          66665                                           L     2  2.5  2.5
+  6 ASCLEPIADACEM3          M1          66698                                           L     1  2.5
+  9 ASCLEPIADACEM3          M1          66698                                           L     2    3    5
+  1 ASCLEPIADACEMARSDENIA   M1          66653                                           L     1  2.5
+  1 ASCLEPIADACEMARSDENIA   M2          66668                                           L     1    3
+  8 ASCLEPIADACEMARSDENIA   M2          66668                                           L     1    4    3
+ 10 ASCLEPIADACEMARSDENIA   M3          66725                                           L     2    4  2.5
+  2 ASCLEPIADACESTREPTOCAULOMANDEVILLA C66677                                           L     1  2.5
+  3 ASCLEPIADACESTREPTOCAULOMANDEVILLA C66677                                           L     1  2.5
+  5 ASCLEPIADACESTREPTOCAULOMANDEVILLA C66677                                           L     1  2.5
+  7 ASCLEPIADACESTREPTOCAULOMANDEVILLA C66677                                           L     1  2.5
+  3 BOMBACACEAE BOMBAX      CEIBA       66686                                                 1   14
+  4 BOMBACACEAE BOMBAX      CEIBA       66686                                                 1  2.5
+  7 BOMBACACEAE BOMBAX      CEIBA       66686                                                 1   13
+  8 BOMBACACEAE BOMBAX      CEIBA       66686                                                 1    5
+  6 BURSERACEAE CANARIUM    SUBULATUM   66688                                                 2  2.5    3
+  8 BURSERACEAE CANARIUM    SUBULATUM   66688                                                 1   14
+  5 BURSERACEAE CANARIUM    SUBUTATUM   66688                                                 1    4   15
+ 10 CELASTRACEAECELASTRUS   M1          66730                                           L     1    6
+  5 CELASTRACEAEMICROTROPIS M1          66690                                                 1    4
+  1 CLUSIACEAE  CRATOXYLON  COCHINCHINEN66644                                                30    7    4    4    7    5    4    4    3    3    3  2.5  2.5  2.5   10    6    6    6    8   12    4    7    8    3    8    5   10    4    5    5   12
+  2 CLUSIACEAE  CRATOXYLON  COCHINCHINEN66644                                                 6  2.5  2.5  2.5    3   10  2.5    3
+  4 CLUSIACEAE  CRATOXYLON  COCHINCHINEN66644                                                 2    6    4
+  5 CLUSIACEAE  CRATOXYLON  COCHINCHINEN66644                                                 5  2.5    9   12    3    9
+  6 CLUSIACEAE  CRATOXYLON  COCHINCHINEN66644                                                 1    5
+  7 CLUSIACEAE  CRATOXYLON  COCHINCHINEN66644                                                 4    3  2.5    3  2.5
+  9 CLUSIACEAE  CRATOXYLON  COCHINCHINEN66644                                                11   19   10    5    9   13    6    6  2.5  2.5   14    5
+ 10 CLUSIACEAE  CRATOXYLON  COCHINCHINEN66644                                                12   11  2.5    5  2.5  2.5    5  2.5    8    3   13    5    9
+  8 COMBRETACEAECOMBRETUM   M1          66706                                           L     1  2.5  
+  4 COMBRETACEAETERMINALIA  MIGRIVENULOS66687                                                 1  2.5
+  8 COMBRETACEAETERMINALIA  MIGRIVENULOS66687                                                 2    6   11
+  5 CONVOLVULACEARGYREIA    M1          66691                                           L     1  2.5
+  2 DIPTEROCARPASHOREA      OBTUSA      66670 66692                                           1   47
+  3 DIPTEROCARPASHOREA      OBTUSA      66670 66692                                           3   10    3    3
+  5 DIPTEROCARPASHOREA      OBTUSA      66670 66692                                           4    4    4    4    4
+  6 DIPTEROCARPASHOREA      OBTUSA      66670 66692                                           5   12    5   11    7   28
+  7 DIPTEROCARPASHOREA      OBTUSA      66670 66692                                           7    5   33    4   30    5    5    5
+  1 DIPTEROCARPASHOREA      ROXBURGHII  66667                                                 4    5    7    5    4
+  2 DIPTEROCARPASHOREA      ROXBURGHII  66667                                                 2    4   12
+  6 EBENACEAE   DIOSPYROS   EHRETIBIDES 66697                                                 2    3    4
+  1 EUPHORBIACEAANTIDESMA   GHAESEMBILLE66666                                                 1    7
+  2 EUPHORBIACEAANTIDESMA   GHAESEMBILLE66666                                                 1    5
+  3 EUPHORBIACEAANTIDESMA   GHAESEMBILLE66666                                                 1    6
+  4 EUPHORBIACEAANTIDESMA   GHAESEMBILLE66666                                                 1    6
+  5 EUPHORBIACEAANTIDESMA   GHAESEMBILLE66666                                                 1    9
+  8 EUPHORBIACEAANTIDESMA   GHAESEMBILLE66666                                                 1   13
+ 10 EUPHORBIACEAANTIDESMA   GHAESEMBILLE66666                                                 1    4
+  1 EUPHORBIACEAAPORUSA     VILLOSA     66669                                                 1  2.5
+  6 EUPHORBIACEAAPORUSA     VILLOSA     66669                                                 1    7
+ 10 EUPHORBIACEACROTON      OBLONGIFOLIA66726                                                 1    3
+  8 EUPHORBIACEAJATROPHA    M1          66703                                                 1   10
+ 10 EUPHORBIACEAMALLOTUS    ULMAC CF    66714                                                 2    5  2.5
+  7 EUPHORBIACEAMALLOTUS?   M1          66700                                           L     1    5
+  1 EUPHORBIACEAPHYLLANTHUS EMBLICA     66657                                                 1    7
+  5 EUPHORBIACEAPHYLLANTHUS EMBLICA     66657                                                 1  2.5
+  1 FABACEAE    ALBIZIA     MYRIOPHYLLA 66646                                           L     1   10
+  8 FABACEAE    ALBIZIA     MYRIOPHYLLA 66646                                           L     1    5
+ 10 FABACEAE    BAUHINIA    HORSFIELDII 66729                                           L     2   13   20
+  2 FABACEAE    DALBERGIA   COCHINCHINEN66675                                                 1    4
+  5 FABACEAE    DALBERGIA   COCHINCHINEN66675                                                 2   19    7
+  8 FABACEAE    DALBERGIA   COCHINCHINEN66675                                                 5    4    3    7    4    5
+  1 FABACEAE    DALBERGIA   CULTRATA    66648                                                 4   11    6    3    9
+  4 FABACEAE    DALBERGIA   CULTRATA    66648                                                 1    3
+  4 FABACEAE    DALBERGIA   NIGRESCENS  66683                                                 1    9
+  7 FABACEAE    DALBERGIA   NIGRESCENS  66683                                                 1  2.5  2.5
+  8 FABACEAE    DALBERGIA   NIGRESCENS  66683                                                 3    7   10   10
+  5 FABACEAE    DALBERGIA   OLIVERI     66694                                                 1   25
+  9 FABACEAE    ERYTHROPHLOESUCIRUBRUM  66719                                                 2   70   12
+  1 FABACEAE    PTEROCARPUS MACROCARPUS 66649                                                 7   18  2.5    5   13    5    4    9
+  2 FABACEAE    PTEROCARPUS MACROCARPUS 66649                                                11    9    7   22   10   16   11    6    4    7   12    8
+  3 FABACEAE    PTEROCARPUS MACROCARPUS 66649                                                 7    5   13    3    9   19    5   11
+  4 FABACEAE    PTEROCARPUS MACROCARPUS 66649                                                 5    7   20   12   13    8
+  5 FABACEAE    PTEROCARPUS MACROCARPUS 66649                                                 6    5   30    9    8    8    5
+  6 FABACEAE    PTEROCARPUS MACROCARPUS 66649                                                 6  2.5   11    7   12    6    6
+  8 FABACEAE    PTEROCARPUS MACROCARPUS 66649                                                 5    7    8   10    6    7
+ 10 FABACEAE    PTEROCARPUS MACROCARPUS 66649                                                 3    6   11   10
+  3 FABACEAE    SINDORA     COCHINCHINEN66685                                                 3   65    4    9
+  2 FABACEAE    SINDORA     COCHINCHINEN66685                                                 1   10
+  5 FABACEAE    SINDORA     COCHINCHINEN66685                                                 2   19    7
+  1 FABACEAE    SINDORA     SIAMENSIS   66654                                                 1   16
+  8 FABACEAE    SINDORA     SIAMENSIS   66654                                                 1    4
+ 10 FABACEAE    SINDORA     SIAMENSIS   66654                                                 1  2.5
+  1 FABACEAE    XYLIA       XYLOCARPA   66664                                                 1    7
+  2 FABACEAE    XYLIA       XYLOCARPA   66664                                                 4    3   16    6   12
+  3 FABACEAE    XYLIA       XYLOCARPA   66664                                                 2    4    7
+  4 FABACEAE    XYLIA       XYLOCARPA   66664                                                 2   10    5
+  6 FABACEAE    XYLIA       XYLOCARPA   66664                                                 3    6    5   10
+  7 FABACEAE    XYLIA       XYLOCARPA   66664                                                 2    6   10
+  8 FABACEAE    XYLIA       XYLOCARPA   66664                                                 3    9    4   35
+  9 FABACEAE    XYLIA       XYLOCARPA   66664                                                 1   47
+ 10 FABACEAE    XYLIA       XYLOCARPA   66664                                                 3   37  2.5    3
+  3 IRVINGIACEAEIRVINGIA    MALAYANA    66682                                                 1   10    4
+ 10 LECYTHIDACEACAREYA      ARBOREA                                                           1   56
+  1 LECYTHIDACEACAREYA      SPHAERICA   66655                                                 1    4
+  2 LYTHRACEAE  LAGERSTROEMIDUPERREANA  66679 66721                                           1    8
+  2 LYTHRACEAE  LAGERSTROEMIDUPERREANA  66679 66721                                           1    8
+  9 LYTHRACEAE  LAGERSTROEMIDUPERREANA  66679 66721                                           1   77  
+  9 LYTHRACEAE  LAGERSTROEMILUDONII     66720                                                 1  2.5
+  9 MELASTOMATACMEMECYLON   OVATA       66717                                                 1  2.5
+  6 MELIACEAE   CHUKRASIA   VELUTINA    66684                                                 3    4    4    8
+  7 MELIACEAE   CHUKRASIA   VELUTINA    66684                                                12    4    4    6    5    4    8    5    7   10    6    7    7
+  3 MELIACEAE   CHUKRASIA   VELUTINA    66684                                                 3   10    7    5
+  5 MELIACEAE   CHUKRASIA   VELUTINA    66684                                                12    7    8    4    4    6    3    6   17    6  2.5    4    3
+ 10 MELIACEAE   WALSURA     M1          66728                                                 1  2.5
+  6 MENISPERMACEM1          M1          66696                                           L     1  2.5
+ 10 MENISPERMACEM1          M1          66696                                           L     1  2.5
+  5 MYRSINACEAE EMBILIA     M1          66693                                           L     1    4    3
+  7 MYRSINACEAE EMBILIA     M1          66693                                           L     2    3    5    4
+  1 OLACACEAE   ANACALOSA   ILICIOIDES  66663                                                 2    4  2.5
+  6 OLACACEAE   ANACALOSA   ILICIOIDES  66663                                                 2    5    7
+  1 OLEACEAE    JASMINUM    ANODOTUM CF 66645                                           L     1    4
+  8 OLEACEAE    JASMINUM    M1          66704 66715                                     L     1  2.5
+  9 OLEACEAE    JASMINUM    M1          66704 66715                                     L     1    3
+ 10 OLEACEAE    JASMINUM    M1          66704 66715                                     L     2  2.5  2.5
+  1 RUBIACEAE   GARDENIA    SOOTEPENSIS 66662                                                 1    4
+  2 RUBIACEAE   GARDENIA    SOOTEPENSIS 66662                                                 2  2.5    4
+  3 RUBIACEAE   GARDENIA    SOOTEPENSIS 66662                                                 2  2.5    3
+  4 RUBIACEAE   GARDENIA    SOOTEPENSIS 66662                                                 1  2.5
+  5 RUBIACEAE   GARDENIA    SOOTEPENSIS 66662                                                 1    3
+ 10 RUBIACEAE   GARDENIA    SOOTEPENSIS 66662                                                 1    4  2.5
+  1 RUBIACEAE   HEYDOTIS    M1          66656                                                 4    4    4    5    3    4
+  5 RUBIACEAE   HYMENODICTYOEXCELSUM    66689                                                 1    6
+  9 RUBIACEAE   HYMENODICTYOEXCELSUM    66689                                                 1    7    5
+  2 RUBIACEAE   MITRAGYNE   HIRSUTA     66676                                                 1   14
+  5 RUBIACEAE   MITRAGYNE   HIRSUTA     66676                                                 1   23
+  1 RUBIACEAE   MORINDA     COREIA      66650                                                 3   10    8    7
+  9 RUBIACEAE   MORINDA     COREIA      66650                                                 1   13
+  8 RUBIACEAE   MORINDA     CORIEA      66650                                                 1   18
+  1 RUBIACEAE   PAVETTA     M1          66658                                                 1  2.5
+  2 RUBIACEAE   PAVETTA     M1          66658                                                 1  2.5
+  4 RUBIACEAE   PAVETTA     M1          66658                                                 1    4
+  4 RUBIACEAE   PAVETTA     M1          66658                                                 1   31
+  5 RUBIACEAE   PAVETTA     M1          66658                                                 1  2.5
+  6 RUBIACEAE   PAVETTA     M1          66658                                                 3  2.5    3    7
+  7 RUBIACEAE   PAVETTA     M1          66658                                                 2    5    5
+  8 RUBIACEAE   PAVETTA     M1          66658                                                 2  2.5  2.5
+  1 RUBIACEAE   RANDIA      M1          66652                                                 2    3    4
+  1 RUTACEAE    MICROMELUM  INTEGERRIMA 66651                                                 1  2.5
+  2 RUTACEAE    MICROMELUM  INTEGERRIMA 66651                                                 2    4    6
+  8 RUTACEAE    MICROMELUM  INTEGERRIMA 66651                                                 1    4
+  9 RUTACEAE    MICROMELUM  INTEGERRIMA 66651                                                18  2.5    4    5    4    4  2.5    4    3  2.5    5    5    6    3  2.5  2.5    5    3    6    4  2.5
+  9 RUTACEAE    MURRAYA     PANICULATA  66723                                                 1  2.5  2.5
+  7 SANTALACEAE SCLEROPYRUM SALLICHIANUM CF                                             L     1   10
+  5 SANTALACEAE SCLEROPYRUM SCHOEPTIA CF66695                                                 1    3
+  2 SANTALACEAE SCLEROPYRUM WALLICHIANUM66672                                           L     1  2.5
+  3 SANTALACEAE SCLEROPYRUM WALLICHIANUM66672                                                 1  2.5    5    4  2.5
+  8 SANTALACEAE SCLEROPYRUM WALLICHIANUM66672                                           L     1    6
+  9 SAPINDACEAE ALLOPHYLUS  COBBEI      66722                                                 1  2.5
+  8 STERCULIACEAHELICTERES  HIRSUTA     66707                                                 1  2.5  2.5
+  2 STERCULIACEASTERCULIA   M1          66678                                                 3    5    7   12
+  3 STERCULIACEASTERCULIA   M1          66678                                                 2    5  2.5
+  5 STERCULIACEASTERCULIA   M1          66678                                                 1    5
+  2 TILIACEAE   COLONA      M1          66673                                                 1    6
+  8 TILIACEAE   GREWIA      M1          66702 66724                                           2   10   14
+  9 TILIACEAE   GREWIA      M1          66702 66724                                           1   14
+  8 ULMACEAE    CELTIS      CINNAMOMEA  66701                                                 1    3
+  9 ULMACEAE    CELTIS      CINNAMOMEA  66701                                                 1    3
+  2 VERBENACEAE GMELINA     ELLIPTICA   66681                                           L     1  2.5
+  6 VERBENACEAE GMELINA     ELLIPTICA   66681                                           L     2  2.5    4
+  9 VERBENACEAE VITEX       CANESCENS CF66718                                                 1    7
+  2 VERBENACEAE VITEX       LIMONIFOLIA 66674                                                 1    6
+  8 VERBENACEAE VITEX       LIMONIFOLIA 66674                                                 1   17
+  7 VITACEAE    AMPELOCISSUSM1          66699                                           L     1  2.5

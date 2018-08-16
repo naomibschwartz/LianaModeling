@@ -1,0 +1,96 @@
+LinFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTE,DSTEMD
+ 9 ACANTHACEAEAphelandra hieronyma                                                       1  2.5  2.5
+ 8 AMARANTHACEChamissoa  altissima                                                  L    3  2.5    5  2.5
+ 9 AMARANTHACEChamissoa  altissima                                                  L    6    5  2.5  2.5  2.5 9    2.5
+10 AMARANTHACEChamissoa  altissima                                                  L    1  2.5
+ 3 AMARANTHACEChamissoa  acuminata v51760                                           L    1  2.5
+ 4 AMARANTHACEChamissoa  acuminata v51760                                           L    1  2.5
+ 6 AMARANTHACEChamissoa  acuminata v51760                                           L    2  2.5  2.5
+ 9 AMARANTHACEIresine    diffusa    51793                                           L    1    5
+10 AMARANTHACEIresine    diffusa    51793                                           L    1  2.5
+ 2 BIGNONIACEAMacfadyena unguis-cati51750                                           L    3  2.5    5  2.5
+ 5 BIGNONIACEAMacfadyena unguis-cati51750                                           L    3  2.5  2.5  2.5
+ 6 BIGNONIACEAMacfadyena unguis-cati51750                                           L    1  2.5
+ 8 BIGNONIACEAMacfadyena unguis-cati51750                                           L    3  2.5  2.5    8
+ 9 BIGNONIACEAMacfadyena unguis-cati51750                                           L    3  2.5    5  2.5
+10 BIGNONIACEAMacfadyena unguis-cati51750                                           L    3  2.5  2.5  2.5
+ 1 BORAGINACEAPatagonula americana  51756                                                2  2.5   10
+ 8 CAPRIFOLIACSambucus   peruvianus                                                      1   10
+ 4 COMBRETACEATerminalia triflora                                                        2    5    8   23
+ 5 COMBRETACEATerminalia triflora                                                        2   29    9
+ 7 COMBRETACEATerminalia triflora                                                        3   18   15    5
+ 5 FABACEAE   Anadenanthecolubrina                                                       1   32
+ 9 FABACEAE   Parapiptadeexcelsa    75542                                                2   16   37
+ 7 FLACOURTIACProckia    crucis     51786                                                1  2.5
+ 7 ICACINACEAECitronella apogon     51797                                                1    5
+ 8 JUGLANDACEAJuglans    australis                                                       1   87
+ 8 LAURACEAE  Ocotea     puberula   51789                                                1   24
+ 9 LAURACEAE  Ocotea     puberula   51789                                                1    5
+ 3 LAURACEAE  Ocotea     pubescens  51754                                                1    5
+ 2 MELIACEAE  Cedrela    fissilis   51746                                                1  2.5
+ 3 MELIACEAE  Cedrela    fissilis   51746                                                1   84
+ 1 MYRSINACEAEMyrsine    laetevirens51748                                                1   30
+ 2 MYRSINACEAEMyrsine    laetevirens51748                                                1  2.5
+ 4 MYRSINACEAEMyrsine    laetevirens51748                                                1  2.5
+ 8 MYRSINACEAEMyrsine    laetevirens51748                                                1  2.5
+ 4 MYRTACEAE  Blepharocalgigantea   51787                                                1   42
+ 7 MYRTACEAE  Blepharocalgigantea   51787                                                1   69
+ 6 MYRTACEAE  Eugenia    alparata   51761                                                1  2.5
+ 7 MYRTACEAE  Eugenia    alparata   51761                                                2  2.5  7.5
+ 9 MYRTACEAE  Eugenia    pungens    51792                                                2  2.5   45
+ 1 MYRTACEAE  Eugenia    uniflora   51749                                                4    5  2.5    9   13
+ 2 MYRTACEAE  Eugenia    uniflora   51749                                                6  2.5   11  2.5  2.5 12   10
+ 3 MYRTACEAE  Eugenia    uniflora   51749                                                4  2.5  2.5  2.5    8
+ 4 MYRTACEAE  Eugenia    uniflora   51749                                                3    5  2.5  2.5
+ 5 MYRTACEAE  Eugenia    uniflora   51749                                                1    5
+ 6 MYRTACEAE  Eugenia    uniflora   51749                                                4  2.5  2.5    5  2.5
+ 7 MYRTACEAE  Eugenia    uniflora   51749                                                8  2.5  2.5  2.5   11 7.5  2.5  9    2.5  12
+ 8 MYRTACEAE  Eugenia    uniflora   51749                                                6  2.5  2.5  7.5  2.5 5    10
+ 9 MYRTACEAE  Eugenia    uniflora   51749                                                8  2.5    5  2.5   12 2.5  5    7.5  2.5
+10 MYRTACEAE  Eugenia    uniflora   51749                                               10  2.5  2.5  2.5  2.5 2.5  8    7.5  11   9    5
+ 2 MYRTACEAE  Myrrhinium loranthoide                                                     3  2.5  2.5   32
+ 4 MYRTACEAE  Myrrhinium loranthoide                                                     2   16   12
+ 5 MYRTACEAE  Myrrhinium loranthoide                                                     4    5  2.5  2.5    5
+ 6 MYRTACEAE  Myrrhinium loranthoide                                                     7  2.5    5  2.5  2.5 7.5  5    5
+ 7 MYRTACEAE  Myrrhinium loranthoide                                                     1  2.5
+10 NYCTAGINACEPisonia    ambigua                                                         1   49
+ 1 PHYTOLACCACSeguiera   parvifolia 51743                                           L    1    5
+ 2 PHYTOLACCACSeguiera   parvifolia 51743                                           L    1  2.5
+10 PHYTOLACCACSeguiera   parvifolia 51743                                           L    1   18
+ 2 PIPERACEAE Piper      amalago                                                         1  2.5
+ 4 PIPERACEAE Piper      amalago                                                         1  2.5
+ 8 PIPERACEAE Piper      amalago                                                         1    5
+ 2 PIPERACEAE Piper      hieronyma  51747                                                1  2.5  2.5
+ 3 PIPERACEAE Piper      hieronyma  51747                                                1  2.5
+ 4 PIPERACEAE Piper      hieronyma  51747                                                1  2.5  2.5
+ 2 POLYGONACEARuprechtia laxiflora  51757                                                2   38  2.5
+ 4 POLYGONACEARuprechtia laxiflora  51757                                                1   23
+ 6 POLYGONACEARuprechtia laxiflora  51757                                                3  2.5    8   29
+ 7 POLYGONACEARuprechtia laxiflora  51757                                                1    5
+ 8 POLYGONACEARuprechtia laxiflora  51757                                                2    5  2.5
+10 POLYGONACEARuprechtia laxiflora  51757                                                2  2.5   16
+ 9 RANUNCULACEClematis   M1         51794                                           L    1    5
+ 1 ROSACEAE   Prunus     tucumanensi51744                                                1  2.5
+ 1 RUTACEAE   Citrus     sinensis                                                        1   20
+ 2 SAPINDACEAEAllophylus edulis                                                          2    8    8
+ 3 SAPINDACEAEAllophylus edulis                                                          3  7.5  2.5  7.5
+ 4 SAPINDACEAEAllophylus edulis                                                          1  2.5
+ 7 SAPINDACEAEAllophylus edulis                                                          2  2.5  2.5
+10 SAPINDACEAEAllophylus edulis                                                          3   19   18  2.5
+ 6 SAPINDACEAECupania    vernalis                                                        1   22
+ 3 SAPINDACEAEThinouia   repanda    51742                                           L    1  2.5
+ 7 SAPINDACEAEUrvillea   uniloba    51796                                           L    2  2.5  2.5
+ 8 SAPINDACEAEUrvillea   uniloba    51796                                           L    1  2.5
+ 5 SAPOTACEAE Chrysophyllmarginatum 51755                                                1   15
+ 6 SAPOTACEAE Chrysophyllmarginatum 51755                                                1    5
+ 5 SOLANACEAE Solanum    cymmetricam51753                                                1  2.5
+ 9 SOLANACEAE Solanum    trichoneuro51790                                                1  2.5
+ 1 SOLANACEAE Vassobia   breviflora 51745                                                3  2.5    5    5
+ 2 SOLANACEAE Vassobia   breviflora 51745                                                1   10
+ 3 ULMACEAE   Celtis     iguanaea   51759                                           L    1    5
+ 8 ULMACEAE   Celtis     iguanaea   51759                                           L    1  2.5
+ 9 ULMACEAE   Celtis     iguanaea   51759                                           L    1  7.5
+ 9 URTICACEAE Urera      baccifera                                                       1  2.5  2.5
+10 URTICACEAE Urera      baccifera                                                       1  2.5
+ 9 VITACEAE   Cissus     tweediana  51795                                           L    1  2.5
+

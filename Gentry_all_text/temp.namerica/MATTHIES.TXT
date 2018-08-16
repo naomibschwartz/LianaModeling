@@ -1,0 +1,96 @@
+LineFamily      Genus            Species        vouchevouchevouchevouchevouchevouchevouchevoucheLianaN(IndStemStemStemStemStemStemStemStemStemStemStemStem
+1   ARALIACEAE  SCHEFFLERA       ACTINOPHYLLA                                                           1   5
+5   ARECACEAE   PTYCHOSPERMA     ELEGANS (nn)                                                           1   3
+5   ARECACEAE   ROYSTONEA        ELATA                                                                  1  19
+3   ARECACEAE   SABAL            PALMETTO                                                               1  20
+1   BURSERACEAE BURSERA          SIMARUBA                                                               1  52
+4   BURSERACEAE BURSERA          SIMARUBA                                                               1  32
+5   BURSERACEAE BURSERA          SIMARUBA                                                               1  22
+6   BURSERACEAE BURSERA          SIMARUBA                                                               1  33
+1   CARICACEAE  CARICA           PAPAYA                                                                 1 2.5
+2   CARICACEAE  CARICA           PAPAYA                                                                 3 2.5   3   4
+3   CARICACEAE  CARICA           PAPAYA                                                                 4   3   3   3 2.5
+7   CARICACEAE  CARICA           PAPAYA                                                                 4 2.5 2.5   5 2.5
+1   EUPHORBIACEADRYPETES         LATERIFLORA                                                            1   8   3
+3   EUPHORBIACEADRYPETES         LATERIFLORA                                                            1  10
+4   EUPHORBIACEADRYPETES         LATERIFLORA                                                            1   7
+5   EUPHORBIACEADRYPETES         LATERIFLORA                                                            1   4
+6   EUPHORBIACEADRYPETES         LATERIFLORA                                                            1  14
+7   FAGACEAE    QUERCUS          VIRGINIANA                                                             1  56
+1   LAURACEAE   NECTANDRA        CORIACEA                                                               3   8   5   6
+2   LAURACEAE   NECTANDRA        CORIACEA                                                               2   8   7
+3   LAURACEAE   NECTANDRA        CORIACEA                                                               2   7   8
+5   LAURACEAE   NECTANDRA        CORIACEA                                                               1   4
+7   LAURACEAE   NECTANDRA        CORIACEA                                                               1   7
+4   LAURACEAE   NECTANDRA        CORIACEAE                                                              1   4
+1   MORACEAE    FICUS            CITRIFOLIA                                                     H       1  48  15
+2   MORACEAE    FICUS            CITRIFOLIA                                                     H       1   6   5
+4   MORACEAE    FICUS            CITRIFOLIA                                                     H       1  37
+7   MORACEAE    FICUS            CITRIFOLIA                                                     H       1  15
+1   MYRSINACEAE ARDISIA          ESCALLONOIDES                                                          1   4
+2   MYRSINACEAE ARDISIA          ESCALLONOIDES                                                          1   8
+4   MYRSINACEAE ARDISIA          ESCALLONOIDES                                                          2 2.5   3
+5   MYRSINACEAE ARDISIA          ESCALLONOIDES                                                          5   3   4   6   4   6
+6   MYRSINACEAE ARDISIA          ESCALLONOIDES                                                          1   5
+7   MYRSINACEAE ARDISIA          ESCALLONOIDES                                                          1   3   3
+2   MYRTACEAE   CALYPTRANTHES    PALLENS                                                                1  16 2.5
+4   MYRTACEAE   CALYPTRANTHES    PALLENS                                                                1  10   5   3
+6   MYRTACEAE   CALYPTRANTHES    PALLENS                                                                1   3
+1   MYRTACEAE   EUGENIA          AXILLARIS                                                             12   6   3   3   4   3   6   3   4   3   6 2.5  10
+2   MYRTACEAE   EUGENIA          AXILLARIS                                                              6   4   7   3 2.5   5 2.5
+3   MYRTACEAE   EUGENIA          AXILLARIS                                                              4 2.5   3   4   3
+4   MYRTACEAE   EUGENIA          AXILLARIS                                                              9   3   6   4 2.5   3 2.5   3   4   4
+5   MYRTACEAE   EUGENIA          AXILLARIS                                                              8   6 2.5   8   4   5   4   3   3
+6   MYRTACEAE   EUGENIA          AXILLARIS                                                              7   6   4   3   6 2.5 2.5   4
+7   MYRTACEAE   EUGENIA          AXILLARIS                                                              9   5 2.5 2.5 2.5   3   4   4   4   3
+2   MYRTACEAE   EUGENIA          RHOMBEA                                                                2   3 2.5
+7   MYRTACEAE   EUGENIA          RHOMBEA                                                                2   3 2.5
+1   NYCTAGINACEAPISONIA          ACULEATA                                                       L       1  18
+4   NYCTAGINACEAPISONIA          ACULEATA                                                       L       3   5   9   7
+5   NYCTAGINACEAPISONIA          ACULEATA                                                       L       1   4
+7   NYCTAGINACEAPISONIA          ACULEATA                                                       L       2   9   6
+2   OLEACEAE    JASMINUM         FLUMINENSE                                                     L       1 2.5
+3   OLEACEAE    JASMINUM         FLUMINENSE                                                     L       3 2.5   3 2.5
+5   OLEACEAE    JASMINUM         FLUMINENSE                                                     L       1 2.5
+6   OLEACEAE    JASMINUM         FLUMINENSE                                                     L       1 2.5
+7   OLEACEAE    JASMINUM         FLUMINENSE                                                     L       1 2.5
+5   PASSIFLORACEPASSIFLORA       EDULIS                                                         L       1   3
+1   POLYGONACEAECOCCOLOBA        DIVERSIFOLIA                                                          10  17   3   3  18   6  13  22   4  13  18
+2   POLYGONACEAECOCCOLOBA        DIVERSIFOLIA                                                           7  10   6   4   6 2.5  14   8
+3   POLYGONACEAECOCCOLOBA        DIVERSIFOLIA                                                           5  11  18 2.5   6   6   6   3
+4   POLYGONACEAECOCCOLOBA        DIVERSIFOLIA                                                           7  20  25   4  18   5  17 2.5
+5   POLYGONACEAECOCCOLOBA        DIVERSIFOLIA                                                           3 2.5  11   9
+7   POLYGONACEAECOCCOLOBA        DIVERSIFOLIA                                                           6  13   9   7 2.5  13   6
+6   POLYGONACEAECOCCOLOBO        DIVERSIFOLIA                                                           1  13
+1   RHAMNACEAE  KRUGIODENDRON    FERREUM                                                                1   4
+3   RHAMNACEAE  KRUGIODENDRON    FERREUM                                                                1   3
+4   RHAMNACEAE  KRUGIODENDRON    FERREUM                                                                1  10
+7   RHAMNACEAE  KRUGIODENDRON    FERREUM                                                                2   6   8
+1   ROSACEAE    PRUNUS           MYRTIFOLIA                                                             2  20   5
+2   SAPINDACEAE EXOTHEA          PANICULATA                                                             1  34
+3   SAPINDACEAE EXOTHEA          PANICULATA                                                             4  16  10  15  16
+4   SAPINDACEAE EXOTHEA          PANICULATA                                                             1  31
+7   SAPINDACEAE EXOTHEA          PANICULATA                                                             2  13  17
+3   SAPINDACEAE SAPINDUS         MARGINATUS                                                             1   3
+5   SAPOTACEAE  CHRYSOPHYLLUM    OLIVIFORME                                                             1  14
+2   SAPOTACEAE  MANILKARA        ZAPOTA                                                                 1   9
+4   SAPOTACEAE  MASTICHODENDRON  FOETIDISSIMUM                                                          1  27  31
+5   SAPOTACEAE  MASTICHODENDRON  FOETIDISSIMUM                                                          5  22  42  23  34  25
+6   SAPOTACEAE  MASTICHODENDRON  FOETIDISSIMUM                                                          3  40  25  48
+1   SAPOTACEAE  SIDEROXYLON      FOETIDISSIMUM                                                          4  12  11  35  20
+2   SAPOTACEAE  SIDEROXYLON      FOETIDISSIMUM                                                          2  39  20
+3   SAPOTACEAE  SIDEROXYLON      FOETIDISSIMUM                                                          2   6  18
+4   SAPOTACEAE  SIDEROXYLON      FOETIDISSIMUM                                                          4  13   2  10  31
+7   SAPOTACEAE  SIDEROXYLON      FOETIDISSIMUM                                                          5  11  10  16  17  17  27
+3   SAPOTACEAE  SIDEROXYLON      FOETISSIMUM                                                            1   3
+3   SIMAROUBACEASIMAROUBA        GLAUCA                                                                 1  13
+4   SIMAROUBACEASIMAROUBA        GLAUCA                                                                 1  14
+5   SIMAROUBACEASIMAROUBA        GLAUCA                                                                 1   9
+6   SIMAROUBACEASIMAROUBA        GLAUCA                                                                 3   7  13   3
+7   SIMAROUBACEASIMAROUBA        GLAUCA                                                                 1  13
+2   SIMAROUBACEASIMARUBA         GLAUCA                                                                 4  16   3  17  27
+1   VITACEAE    PARTHENOCISSUS   M1                                                             L       1   3
+2   VITACEAE    PARTHENOCISSUS   M1                                                             L       1   3
+7   VITACEAE    PARTHENOCISSUS   M1                                                             L       1 2.5
+5   VITACEAE    VITIS            M1                                                             L       1   4
+

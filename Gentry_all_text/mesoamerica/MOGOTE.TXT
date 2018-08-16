@@ -1,0 +1,144 @@
+LinFamily      Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 1 ANACARDIACEAComocladia glabra     66082                                                1    6
+ 3 ANACARDIACEAComocladia glabra     66082                                                1  2.5
+ 6 ANACARDIACEAComocladia glabra     66082                                                1  2.5 3    4
+ 7 ANACARDIACEAComocladia glabra     66082                                                1  2.5
+ 8 ANACARDIACEAComocladia glabra     66082                                                1    3 2.5
+ 2 BIGNONIACEAEMacfadyena unguis-cati66105                                           L    2  2.5 2.5
+ 3 BIGNONIACEAEMacfadyena unguis-cati66105                                           L    1    3
+ 4 BIGNONIACEAEMacfadyena unguis-cati66105                                           L    1  2.5
+ 1 BIGNONIACEAETabebuia   heterophyll66096                                                1   12
+ 2 BIGNONIACEAETabebuia   heterophyll66096                                                1  2.5 2.5
+ 4 BIGNONIACEAETabebuia   heterophyll66096                                                1    8
+ 5 BIGNONIACEAETabebuia   heterophyll66096                                                1    8
+10 BIGNONIACEAETabebuia   heterophyll66096                                                1    6
+ 1 BIGNONIACEAEDistictis  lactiflora 66090                                           L    2  2.5 2.5
+ 6 BIGNONIACEAEDistictis  lactiflora 66090                                           L    1  2.5
+ 7 BIGNONIACEAEDistictis  lactiflora 66090                                           L    2  2.5 2.5
+ 9 BIGNONIACEAEDistictis  lactiflora 66090                                           L    1  2.5
+ 5 BORAGINACEAEBourreria  succulenta 66122                                                1   21
+ 4 BORAGINACEAECordia     alliodora  66113                                                1    4
+ 1 BURSERACEAE Bursera    simaruba                                                        7   28 22   16   21   27   50   28
+ 3 BURSERACEAE Bursera    simaruba                                                        2   33 40
+ 4 BURSERACEAE Bursera    simaruba                                                        3   33 17   23
+ 5 BURSERACEAE Bursera    simaruba                                                        2   39 26
+ 7 BURSERACEAE Bursera    simaruba                                                        4   36 32   19   28   36   55
+ 8 BURSERACEAE Bursera    simaruba                                                        3   12 14   29
+ 9 BURSERACEAE Bursera    simaruba                                                        4   17 13   34   36
+10 BURSERACEAE Bursera    simaruba                                                        3   20 19   16
+ 4 CELASTRACEAEGyminda    latifolia  66120                                                1  2.5 2.5
+ 2 CELASTRACEAEHippocrateavolubilis  66100                                           L    1    3
+ 3 CELASTRACEAEHippocrateavolubilis  66100                                           L    1  2.5
+ 8 CELASTRACEAEHippocrateavolubilis  66100                                           L    3    3 4    6
+ 2 CELASTRACEAEMaytenus   elliptica  63116                                                2    5 23
+ 4 CELASTRACEAEMaytenus   elliptica  63116                                                1  2.5 10   28   5
+ 3 CLUSIACEAE  Rheedia    M1         -                                                    1   15
+ 1 EUPHORBIACEADrypetes   alba       66084 66125 66115                                    6    4 4    3    4    2.5  3
+ 2 EUPHORBIACEADrypetes   alba       66084 66125 66115                                    4  2.5 2.5  6    3
+ 3 EUPHORBIACEADrypetes   alba       66084 66125 66115                                    4    8 2.5  2.5  3
+ 4 EUPHORBIACEADrypetes   alba       66084 66125 66115                                    1  2.5
+ 4 EUPHORBIACEADrypetes   alba       66084 66125 66115                                    8    6 4    3    2.5  3    5    2.5  6
+ 4 EUPHORBIACEADrypetes   alba       66084 66125 66115                                    3    4 2.5  5
+ 5 EUPHORBIACEADrypetes   alba       66084 66125 66115                                    8    5 3    5    2.5  5    6    13   3    7
+ 5 EUPHORBIACEADrypetes   alba       66084 66125 66115                                   13   11 7    2.5  3    5    6    6    3    9    2.5  2.5  2.5  3
+ 6 EUPHORBIACEADrypetes   alba       66084 66125 66115                                    4    3 2.5  4    2.5
+ 7 EUPHORBIACEADrypetes   alba       66084 66125 66115                                    2    8 3
+ 8 EUPHORBIACEADrypetes   alba       66084 66125 66115                                    1    3 2.5  2.5
+10 EUPHORBIACEADrypetes   alba       66084 66125 66115                                    1    8
+ 4 EUPHORBIACEADrypetes   ilicifolia 66111                                                3  2.5 3    2.5
+ 6 EUPHORBIACEADrypetes   ilicifolia 66111                                                1  2.5
+ 4 EUPHORBIACEADrypetes   lateriflora66119                                                1  2.5
+10 EUPHORBIACEADrypetes   lateriflora66119                                                1    3
+ 4 EUPHORBIACEAJatropha   hernandiifo66118                                                3    3
+ 2 FABACEAE    Erythrina  eggersii   66107                                                1    7
+10 FABACEAE    Erythrina  eggersii   66107                                                2   11 10   6
+ 2 FLACOURTIACECasearia   guianensis 66106 66102                                          1   18
+ 9 LAURACEAE   M1         M1         66886 66114                                          1    3
+ 1 MALPIGHIACEAStigmaphyllfloribundum66087                                           L    1    3
+ 2 MALPIGHIACEAStigmaphyllfloribundum66087                                           L    1  2.5
+ 5 MALPIGHIACEAStigmaphyllfloribundum66087                                           L    2  2.5 5
+ 6 MALPIGHIACEAStigmaphyllfloribundum66087                                                1  2.5
+ 7 MALPIGHIACEAStigmaphyllfloribundum66087                                           L    1  2.5
+ 8 MALPIGHIACEAStigmaphyllfloribundum66087                                           L    1    4
+ 9 MALPIGHIACEAStigmaphyllfloribundum66087                                           L    1    3
+ 7 MALPIGHIACEAStigmaphyllperiplocifo66130                                           L    1  2.5
+ 6 MORACEAE    Trophis    racemosa   66126                                                1  2.5
+ 8 MYRSINACEAE Ardisia    obovata    66133                                                1    5
+ 1 MYRTACEAE   Eugenia    foetida    66092                                                1  2.5
+ 2 MYRTACEAE   Eugenia    foetida    66092                                                1    3
+ 3 MYRTACEAE   Eugenia    foetida    66092                                                1    3
+ 5 MYRTACEAE   Eugenia    foetida    66092                                                2  2.5 3
+ 6 MYRTACEAE   Eugenia    foetida    66092                                                1    4
+ 7 MYRTACEAE   Eugenia    foetida    66092                                                1    3
+ 2 MYRTACEAE   Eugenia    pseudopsidi66095                                                1  2.5
+ 9 MYRTACEAE   M1         M1         -                                                    4    4 8    6    10
+10 MYRTACEAE   M1         M1         -                                                    2    4 3
+10 MYRTACEAE   M2         M1         -                                                    1    7
+ 1 NYCTAGINACEAGuapira    fragrans   66089                                                2   12 6    6
+ 2 NYCTAGINACEAGuapira    fragrans   66089                                                1    7
+ 3 NYCTAGINACEAGuapira    fragrans   66089                                                2    5 5
+ 4 NYCTAGINACEAGuapira    fragrans   66089                                                1  2.5
+ 6 NYCTAGINACEAGuapira    fragrans   66089                                                1  2.5
+10 NYCTAGINACEAGuapira    fragrans   66089                                                1    6
+ 8 NYCTAGINACEAGuapira    M1         66134                                                1   34
+ 1 OLEACEAE    Chionanthusdominguensi66093                                                1   15
+ 2 OLEACEAE    Chionanthusdominguensi66093                                                2    8 8
+ 3 OLEACEAE    Chionanthusdominguensi66093                                                5  2.5 11   2.5  3    2.5  7
+ 4 OLEACEAE    Chionanthusdominguensi66093                                                4    7 5    3    8
+ 5 OLEACEAE    Chionanthusdominguensi66093                                                5    5 6    6    2.5  6    7
+ 8 OLEACEAE    Chionanthusdominguensi66093                                                1  2.5
+ 9 OLEACEAE    Chionanthusdominguensi66093                                                8    5 10   8    14   10   6    9    8
+10 OLEACEAE    Chionanthusdominguensi66093                                               12    6 15   11   16   2.5  6    9    11   6    10   7    9
+ 8 PASSIFLORACEPassiflora multiflora 66132                                           L    1  2.5
+ 7 POLYGONACEAECoccoloba  diversifoli66083 66085                                          5  2.5 2.5  5    10   4    2.5  15
+ 9 POLYGONACEAECoccoloba  M1                                                              9   20 17   12   3    5    12   9    12   6    3
+10 POLYGONACEAECoccoloba  M2         -                                                    9    5 19   10   7    21   5    17   4    12
+ 2 RANUNCULACEAClematis   dioica     66101                                           L    3  2.5 2.5  4
+ 7 RANUNCULACEAClematis   dioica     66101                                           L    1  2.5
+ 1 RHAMNACEAE  Krugiodendrferreum    66091                                                6    9 3    5    5    3    2.5
+ 2 RHAMNACEAE  Krugiodendrferreum    66091                                               12    7 6    2.5  3    6    2.5  6    10   2.5  11   6    5
+ 3 RHAMNACEAE  Krugiodendrferreum    66091                                                4  2.5 9    4    4
+ 4 RHAMNACEAE  Krugiodendrferreum    66091                                                4    3 2.5  8    2.5
+ 5 RHAMNACEAE  Krugiodendrferreum    66091                                                4    5 6    8    2.5
+ 6 RHAMNACEAE  Krugiodendrferreum    66091                                                4  2.5 2.5  3    6
+ 7 RHAMNACEAE  Krugiodendrferreum    66091                                                8    3 2.5  6    6    8    3    3    11
+ 8 RHAMNACEAE  Krugiodendrferreum    66091                                                1    5
+ 9 RHAMNACEAE  Krugiodendrferreum    66091                                                5    6 6    9    6    6
+10 RHAMNACEAE  Krugiodendrferreum    66091                                                6    3 11   14   9    15   13   5
+ 4 RUBIACEAE   Antirrhea  coriacea   66112                                                1  2.5
+ 8 RUBIACEAE   Chiococca  alba                                                       L    1  2.5
+ 1 RUBIACEAE   Guettarda  scabra     66095                                                1    8
+ 7 RUBIACEAE   Randia     aculeata   66129                                                1    3
+ 1 SAPINDACEAE Exothea    paniculata 66088                                                8   10 15   21   4    10   8    8    7
+ 2 SAPINDACEAE Exothea    paniculata 66088                                                4  2.5 18   5    25
+ 3 SAPINDACEAE Exothea    paniculata 66088                                                3   15 7    14
+ 5 SAPINDACEAE Exothea    paniculata 66088                                                3    9 5    2.5
+ 6 SAPINDACEAE Exothea    paniculata 66088                                                2   10 8    6
+ 7 SAPINDACEAE Exothea    paniculata 66088                                                6   12 12   6    8    6    3    3
+ 8 SAPINDACEAE Exothea    paniculata 66088                                                5   15 17   14   2.5  2.5
+ 9 SAPINDACEAE Exothea    paniculata 66088                                                4    6 16   6    5
+10 SAPINDACEAE Exothea    paniculata 66088                                                2    8 6
+ 6 SAPINDACEAE Serjania   polyphylla 66127                                           L    1  2.5
+ 5 SAPOTACEAE  Bucida     buceras    66123                                                1   22
+ 4 SAPOTACEAE  Maistichodefoetidissim66110                                                1   27
+ 5 SAPOTACEAE  Pouteria   dictyoneura66124                                                2    4 8
+ 2 SIMAROUBACEAPicramnia  pentandra  66103                                                1  2.5
+ 3 SIMAROUBACEAPicramnia  pentandra  66103                                                2    3 2.5
+ 4 SIMAROUBACEAPicramnia  pentandra  66103                                                1  2.5
+ 7 SIMAROUBACEAPicramnia  pentandra  66103                                                2    4 3
+ 3 VERBENACEAE Citharexylufruticosum 66109                                                1    8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

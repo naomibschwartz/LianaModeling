@@ -1,0 +1,544 @@
+LinFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 1 AGAVACEAE  Dracaena   M1         1973                                                 1    3
+ 3 AGAVACEAE  Dracaena   M1         1973                                                 1  2.5
+ 5 AGAVACEAE  Dracaena   M1         1973                                                 1  2.5
+ 6 AGAVACEAE  Dracaena   M1         1973                                                 1    5
+ 9 AGAVACEAE  Dracaena   M1         1973                                                 1    8
+10 AGAVACEAE  Dracaena   M1         1973                                                 2  2.5  2.5
+ 1 AGAVACEAE  Dracaena   M2         2289  1983                                           2  2.5    4
+ 3 AGAVACEAE  Dracaena   M2         2289  1983                                           1  2.5    6  2.5
+ 8 AGAVACEAE  Dracaena   M2         2289  1983                                           1    6
+ 9 AGAVACEAE  Dracaena   M2         2289  1983                                           3  2.5    3    3
+10 AGAVACEAE  Dracaena   M2         2289  1983                                           1    3
+ 4 AGAVACEAE  Dracaena   M3         2120                                                 2    3   12    6   11 7
+ 5 AGAVACEAE  Dracaena   M3         2120                                                 1    4
+ 6 AGAVACEAE  Dracaena   M3         2120                                                 1    5
+ 7 AGAVACEAE  Dracaena   M3         2120                                                 2    3    4
+ 9 AGAVACEAE  Dracaena   M3         2120                                                 1    4
+10 AGAVACEAE  Dracaena   M3         2120                                                 2    3    3
+ 7 AGAVACEAE  Dracaena   M4         2249  2209                                           1    3
+ 8 AGAVACEAE  Dracaena   M4         2249  2209                                           1  2.5
+ 9 AGAVACEAE  Dracaena   M4         2249  2209                                           1    5
+ 3 ANACARDIACEM1         M1          2253  2063                                          1  2.5
+ 4 ANACARDIACEM1         M1         2253   2063                                          1    3
+ 6 ANACARDIACEM1         M1         2253   2063                                          1  2.5
+ 8 ANACARDIACEM1         M1         2253   2063                                          1  2.5
+ 7 ANACARDIACEProtorhus  M3         2215  2277                                           1    3
+ 9 ANACARDIACEProtorhus  M3         2215  2277                                           1    3
+ 5 ANACARDIACEProtorhus  oblongifoli2131                                                 1    6
+ 1 ANACARDIACESorindeia  madagascari2287   1980                                          1    4
+10 ANACARDIACESorindeia  madagascari2287   1980                                          2  2.5    7
+ 3 ANNONACEAE Polyalthia ghesquierea2056   2252                                          2    4   10
+ 8 ANNONACEAE Polyalthia ghesquierea2056   2252                                          1   23
+ 9 ANNONACEAE Polyalthia ghesquierea2056   2252                                          1   18
+10 ANNONACEAE Polyalthia ghesquierea2056   2252                                          1   48
+ 2 ANNONACEAE SphaerocoryM1         2037  2299                                      L    1    9
+10 ANNONACEAE SphaerocoryM1         2037  2299                                      L    1   11
+ 4 APOCYNACEAEAlafia     thouarsii   2098  2123                                     L    2  2.5    3
+ 1 APOCYNACEAELandolphia M1         1970                                            L    1    3
+ 2 APOCYNACEAELandolphia M1         1970                                            L    1    5
+ 4 APOCYNACEAELandolphia M1         1970                                            L    1  2.5
+ 7 APOCYNACEAELandolphia M1         1970                                            L    1    3
+ 8 APOCYNACEAELandolphia M1         1970                                            L    1    5
+ 9 APOCYNACEAELandolphia M1         1970                                            L    4    4  2.5    3  2.5
+ 1 APOCYNACEAELandolphia M2         1979  1962                                      L    4  2.5    3    3    4
+ 2 APOCYNACEAELandolphia M2         1979  1962                                      L    2  2.5    3
+ 3 APOCYNACEAELandolphia M2         1979  1962                                      L    1  2.5
+10 APOCYNACEAELandolphia M2         1979  1962                                      L    2    3    6
+ 1 APOCYNACEAELandolphia M3         1999  2257                                      L    2    4  2.5
+ 8 APOCYNACEAELandolphia M3         1999  2257                                      L    1    4
+ 1 APOCYNACEAELandolphia M4         2064  1984   2271                               L    1    3
+ 3 APOCYNACEAELandolphia M4         2064  1984   2271                               L    1    3  2.5
+ 9 APOCYNACEAELandolphia M4          2064  1984  2271                               L    1  2.5
+ 1 APOCYNACEAELandolphia M5         2251  2030  2189                                L    2    6  2.5
+ 3 APOCYNACEAELandolphia M5         2251  2030  2189                                L    1    3
+ 5 APOCYNACEAELandolphia M5         2251  2030  2189                                L    2    3  2.5
+ 6 APOCYNACEAELandolphia M5         2251  2030  2189                                L    5    4    3    4    4 4
+ 7 APOCYNACEAELandolphia M5          2251  2030  2189                               L    2    4  2.5
+ 8 APOCYNACEAELandolphia M5         2251  2030  2189                                L    1    4
+ 1 APOCYNACEAEMascarenhasarborescens1972  2025                                           5    5    8   13   13 3
+ 2 APOCYNACEAEMascarenhasarborescens1972  2025                                           2    3    6  2.5
+ 3 APOCYNACEAEMascarenhasarborescens1972  2025                                           1    7
+ 4 APOCYNACEAEMascarenhasarborescens1972  2025                                           5    7  2.5   10   24 14
+ 5 APOCYNACEAEMascarenhasarborescens1972  2025                                           5    3  2.5    5   25 22
+ 6 APOCYNACEAEMascarenhasarborescens1972  2025                                           2  2.5    7
+ 7 APOCYNACEAEMascarenhasarborescens1972  2025                                           6   23    6    4    4 12   2.5
+ 8 APOCYNACEAEMascarenhasarborescens1972  2025                                           1    5
+ 9 APOCYNACEAEMascarenhasarborescens1972  2025                                           7   12   10   12  2.5 11   20   12   27
+ 9 APOCYNACEAEOncinotis  tomentella 2275                                            L    2  2.5  2.5
+ 3 APOCYNACEAETabernaemoneusepala                                                        1    5
+ 1 APOCYNACEAETabernaemonmocquerysii 1967                                                2    4    5
+ 7 ARACEAE    Pothos     scandens                                                   H    1  2.5
+ 8 ARACEAE    Pothos     scandens                                                   L    1  2.5
+ 1 ARALIACEAE Polyscias  M1         1968                                                 1    4
+ 8 ARALIACEAE Polyscias  M1         1968                                                 1    9
+ 4 ARECACEAE  Dypsis     lanceana    2097                                                1  2.5
+ 2 ARECACEAE  Dypsis     pinnatifron                                                     1    6
+ 7 ARECACEAE  Dypsis     pinnatifron                                                     1  2.5
+ 8 ARECACEAE  Dypsis     pinnatifron                                                     3    9    7    6
+ 3 ARECACEAE  Vonitra    fibrosa                                                         2   15    5
+ 4 ARECACEAE  Vonitra    fibrosa                                                         1   12
+ 8 ARECACEAE  Vonitra    fibrosa                                                         1    5
+ 4 ASCLEPIADACM1         M1         2122                                            L    1    3
+ 8 ASCLEPIADACM1         M1         2122                                            L    1    5
+ 5 ASCLEPIADACM2         M1         2133  2217                                      L    1  2.5
+ 5 ASCLEPIADACM2         M1         2133  2217                                      L    1  2.5
+ 7 ASCLEPIADACM2         M1         2133  2217                                      L    2    3  2.5
+ 6 BIGNONIACEAColea      M1         2198                                                 1  2.5
+ 7 BIGNONIACEAColea      M1         2198                                                 1    3
+ 9 BIGNONIACEAColea      M2                                                              1  2.5
+ 4 BIGNONIACEARhodocolea nobilis    2260                                                 1   13
+ 7 BIGNONIACEARhodocolea nobilis    2260                                                 1    8
+ 9 BIGNONIACEARhodocolea nobilis    2260                                                 1    3
+ 5 BREXIACEAE Brexia     M1         2155                                                 1  2.5
+ 5 BURSERACEAECanarium   M1         2141                                                 1   40
+ 7 BURSERACEAECanarium   M1         2141                                                 1    7
+ 8 BURSERACEAECanarium   M1         2141                                                 2   27   28
+10 BURSERACEAECanarium   M1         2141                                                 1   15
+ 1 BURSERACEAEProtium    madagascari 1974  2210                                          1    6
+ 7 BURSERACEAEProtium    madagascari 1974  2210                                          1    7
+ 2 CLUSIACEAE CalophyllumM1         2023  2256                                           1  2.5
+ 5 CLUSIACEAE CalophyllumM1         2145   2168                                          1    5
+ 6 CLUSIACEAE CalophyllumM1         2145   2168                                          2    4    4
+ 8 CLUSIACEAE CalophyllumM1         2023  2256                                           1    3
+ 1 CLUSIACEAE Garcinia   M1         1978  2005   2013                                    3   15    9  2.5
+ 1 CLUSIACEAE Garcinia   M2          2128  2254  2208  2232                              1  2.5
+ 3 CLUSIACEAE Garcinia   M2          2128  2254  2208  2232                              1  2.5
+ 4 CLUSIACEAE Garcinia   M2         2128  2254   2208  2232                              1  2.5
+ 7 CLUSIACEAE Garcinia   M2          2128  2254  2208  2232                              1    5
+ 8 CLUSIACEAE Garcinia   M2         2128  2254   2208  2232                              1  2.5
+ 5 CLUSIACEAE Garcinia   M3         2152  2216  2153                                     1   19
+ 5 CLUSIACEAE Garcinia   M3         2152  2216  2153                                     1    7
+ 6 CLUSIACEAE Garcinia   M3         2152  2216  2153                                     2    8    8
+ 7 CLUSIACEAE Garcinia   M3         2152  2216  2153                                     1   22    5    5
+10 CLUSIACEAE Garcinia   M3         2152  2216  2153                                     2    9    4
+10 CLUSIACEAE Garcinia   megaphylla                                                      1    4
+ 2 CLUSIACEAE M2         M1         2041                                                 1   10
+ 5 CLUSIACEAE M2         M1         2041                                                 1  2.5
+ 8 CLUSIACEAE M2         M1         2041                                                 1  2.5
+10 CLUSIACEAE M2         M1         2041                                                 1    4
+ 1 CLUSIACEAE Mammea     longipetiol 1985 2064  2017  2116                               1    3
+ 2 CLUSIACEAE Mammea     longipetiol 1985 2064  2017  2116                               3   30   22    4
+ 5 CLUSIACEAE Mammea     longipetiol 1985 2064  2017  2116                               1    5
+ 6 CLUSIACEAE Mammea     longipetiol 1985 2064  2017  2116                               2    7  2.5
+ 8 CLUSIACEAE Mammea     longipetiol 1985 2064  2017  2116                               1   33
+ 2 CLUSIACEAE Mammea     M2         2059                                                 1    4
+ 5 CLUSIACEAE Mammea     M2         2059                                                 2    3  2.5
+ 9 CLUSIACEAE Mammea     M2         2059                                                 1    8
+ 4 CLUSIACEAE Symphonia  M1         2095                                                 1   17
+ 1 COMBRETACEACombretum  M1         1990                                                 2    6    4
+ 7 COMBRETACEACombretum  M1         1990                                            L    1  2.5
+ 5 COMBRETACEACombretum  M2         2129                                                 1   51
+ 7 COMBRETACEACombretum  M3         2247                                            L    1  2.5
+ 8 COMBRETACEACombretum  M3         2247                                            L    1  2.5
+ 3 CONNARACEAEM1         M1         2124                                            L    1  2.5
+ 4 CONNARACEAEM1         M1         2124                                            L    1    3
+10 CONNARACEAEM2         M1         2290                                            L    2    4    5
+10 CYATHEACEAECyathea    M1         2280                                                 1    8
+ 2 DICHAPETALADichapetaluM1         2029                                            L    2  2.5  2.5
+ 4 DICHAPETALADichapetaluM1         2029                                            L    1    5
+ 5 DICHAPETALADichapetaluM1         2029                                            L    1  2.5
+ 6 DICHAPETALADichapetaluM1         2029                                            L    1  2.5
+ 8 DICHAPETALADichapetaluM1         2029                                            L    1  2.5
+ 8 DICHAPETALADichapetaluM1         2029                                            L    1  2.5
+ 3 DICHAPETALADichapetaluM2         2058   2101                                     L    2  2.5  2.5
+ 4 DICHAPETALADichapetaluM2         2058   2101                                     L    1  2.5
+ 6 DICHAPETALADichapetaluM2         2058   2101                                     L    1  2.5
+ 7 DICHAPETALADichapetaluM2         2058   2101                                     L    1  2.5
+ 8 DICHAPETALADichapetaluM2         2058   2101                                     L    1    3
+ 6 DICHAPETALADichapetaluM3         2184                                            L    1  2.5
+ 1 DILLENIACEADillenia   triquetra  1982                                                 1    4
+ 5 DILLENIACEADillenia   triquetra  1982                                                 2  2.5    4
+ 6 DILLENIACEADillenia   triquetra  1982                                                 3   25   28   13   27
+ 7 DILLENIACEADillenia   triquetra  1982                                                 2   30   47
+ 2 DILLENIACEATetracera  M1                                                         L    1  2.5
+ 3 DILLENIACEATetracera  M1                                                         L    1  2.5
+ 6 DILLENIACEATetracera  M1                                                         L    1  2.5
+ 8 DILLENIACEATetracera  M1                                                         L    1  2.5
+ 7 EBENACEAE  Diospyros  M1          2228                                                1  2.5
+ 1 EBENACEAE  Diospyros  M10         1969                                                1  2.5
+ 2 EBENACEAE  Diospyros  M10         1969                                                2    3  2.5  2.5
+ 6 EBENACEAE  Diospyros  M10         1969                                                2  2.5    4
+ 8 EBENACEAE  Diospyros  M11        2240                                                 1   11
+ 1 EBENACEAE  Diospyros  M12         1986  2262  2117                                    2  2.5  2.5
+ 4 EBENACEAE  Diospyros  M12         1986  2262  2117                                    1   17
+ 7 EBENACEAE  Diospyros  M12         1986  2262  2117                                    2    7    7
+ 2 EBENACEAE  Diospyros  M2         2033                                                 1  2.5
+ 5 EBENACEAE  Diospyros  M2         2033                                                 1  2.5
+ 2 EBENACEAE  Diospyros  M3         2035  2291                                           1    3
+10 EBENACEAE  Diospyros  M3         2035  2291                                           1    5
+ 2 EBENACEAE  Diospyros  M4         2130  2193  2043   2224                              1    4
+ 5 EBENACEAE  Diospyros  M4         2130  2193  2043   2224                              1   28
+ 6 EBENACEAE  Diospyros  M4         2130  2193  2043   2224                              2    3    3
+ 7 EBENACEAE  Diospyros  M4         2130  2193  2043   2224                              2   12   19
+ 5 EBENACEAE  Diospyros  M5         2150   2238 2194                                     1    7
+ 6 EBENACEAE  Diospyros  M5          2150  2238  2194                                    1  2.5
+ 8 EBENACEAE  Diospyros  M5         2150   2238 2194                                     5    4  2.5    3    4 2.5
+ 5 EBENACEAE  Diospyros  M6         2162  2143                                           1   12   10
+ 6 EBENACEAE  Diospyros  M6         2162  2143                                           1   13
+ 5 EBENACEAE  Diospyros  M7          2140                                                2    3    3
+ 6 EBENACEAE  Diospyros  M7         2140                                                 1  2.5
+ 8 EBENACEAE  Diospyros  M7         2140                                                 1  2.5
+10 EBENACEAE  Diospyros  M7         2140                                                 1    5
+ 6 EBENACEAE  Diospyros  M8         2188                                                 1    3
+ 6 EBENACEAE  Diospyros  M9         2191                                            L    1  2.5
+ 2 EBENACEAE  Diospyros  megasepala  2016                                                1  2.5
+ 3 EBENACEAE  Diospyros  megasepala  2016                                                2    3  2.5
+ 5 EBENACEAE  Diospyros  megasepala  2016                                                1  2.5
+ 4 ERYTHROXYLAErythroxyluM1         2104  2263                                           1  2.5
+ 9 ERYTHROXYLAErythroxyluM1         2104  2263                                           2    5    5
+10 ERYTHROXYLAErythroxyluM1         2104  2263                                           1    3
+ 6 ERYTHROXYLAErythroxyluM2         2169                                                 1   12
+ 7 ERYTHROXYLAErythroxyluM2         2169                                                 1    3
+ 8 ERYTHROXYLAErythroxyluM3         2243                                                 1    5
+ 3 EUPHORBIACEDrypetes   madagascari 2078  2286                                          1  2.5
+10 EUPHORBIACEDrypetes   madagascari 2078  2286                                          1  2.5    5
+ 1 EUPHORBIACEM1         M1         2230  2012  1976                                     2    4   26
+ 2 EUPHORBIACEM1         M1         2230  2012  1976                                     6    7   18   11  2.5 8    8
+ 3 EUPHORBIACEM1         M1         2230  2012  1976                                     5    3  2.5    4   12 12
+ 4 EUPHORBIACEM1         M1         2230  2012  1976                                     3    5    3   22
+ 6 EUPHORBIACEM1         M1         2230  2012  1976                                     1   10
+ 7 EUPHORBIACEM1         M1         2230  2012  1976                                     2   14    5
+ 8 EUPHORBIACEM1         M1         2230  2012  1976                                     4  2.5   13   12    5
+ 9 EUPHORBIACEM1         M1         2230  2012  1976                                     3    8   21  2.5
+10 EUPHORBIACEM1         M1         2230  2012  1976                                     4  2.5    3    4   12
+10 EUPHORBIACEM11        M1          2283                                                1    4
+ 3 EUPHORBIACEM3         M1         2074                                                 3    7    4   13
+ 4 EUPHORBIACEM3         M1         2074                                                 5  2.5  2.5    3    3 2.5
+ 5 EUPHORBIACEM3         M1         2074                                                 1    3
+ 3 EUPHORBIACEM4         M1         2080                                                 3    3    3    8
+ 4 EUPHORBIACEM4         M1         2080                                                 2    6    3
+ 7 EUPHORBIACEM4         M1         2080                                                 3  2.5    3  2.5
+ 8 EUPHORBIACEM4         M1         2080                                                 2    7    3
+ 9 EUPHORBIACEM4         M1         2080                                                 5    3    4  2.5    3 4
+10 EUPHORBIACEM4         M1         2080                                                 2  2.5  2.5
+ 4 EUPHORBIACEM6         M1         2106                                                 1    6
+ 5 EUPHORBIACEM8         M1          2158                                                1   18
+ 7 EUPHORBIACEM9         M1          2212                                                1    4
+ 4 EUPHORBIACESavia      platyrachis2107  2144                                           1  2.5
+ 5 EUPHORBIACESavia      platyrachis2107  2144                                           7    3  2.5    5    6 5    5    4    4
+ 6 EUPHORBIACESavia      platyrachis2107  2144                                           8    5    3    3    3 4    2.5  2.5  2.5
+ 3 EUPHORBIACEVapaca     M1         2072                                                 1  2.5
+ 5 EUPHORBIACEVapaca     M1         2072                                                 1    6
+ 7 EUPHORBIACEVapaca     M1         2072                                                 1    3
+ 8 EUPHORBIACEVapaca     M1         2072                                                 1    8  2.5
+ 3 FABACEAE   Albizia    M1         2082                                                 1    4
+ 4 FABACEAE   Albizia    M1         2082                                                 1  2.5
+ 5 FABACEAE   M1         M1         2159  2225  2226                                     1  2.5
+ 7 FABACEAE   M1         M1         2159  2225  2226                                     1   16
+ 7 FABACEAE   M1         M1         2159  2225  2226                                     1    6
+ 3 FABACEAE   PithecellobM1         2088                                                 2    3    7
+ 4 FABACEAE   PithecellobM1         2088                                                 7    8   14    7    4 9    8    4
+ 6 FABACEAE   StrongylodoM1         2167                                            L    2    4    5
+ 2 FLACOURTACETisonia    coriacea    2044                                                3   41   26   29
+ 4 FLACOURTACETisonia    coriacea    2044                                                1   27
+ 2 FLACOURTACETisonia    glabrata   2072                                                 1   34   12    7
+ 9 FLACOURTACETisonia    humbertii   2270                                                1  2.5
+ 7 FLACOURTIACCalantica  grandiflora2214  2202                                           1   22
+ 9 FLACOURTIACCalantica  grandiflora2214  2202                                           1   15
+10 FLACOURTIACCasearia   elliptica  2293                                                 1  2.5
+ 2 FLACOURTIACHomalium   lucidum     2055                                                1   44
+ 3 FLACOURTIACHomalium   nudiflorum  2077                                                1   13
+ 5 FLACOURTIACHomalium   viguieri    2154                                                1   19
+ 5 FLACOURTIACLudia      mauritiana  2200 21621                                          1  2.5
+ 6 FLACOURTIACLudia      mauritiana  2200 21621                                          1    4
+10 FLACOURTIACLudia      mauritiana  2200 21621                                          1    5
+ 6 FLACOURTIACLudia      pinnatinerv2202                                                 1   17
+ 5 FLACOURTIACM1         M1         2132                                                 1    3
+ 6 FLACOURTIACM1         M1         2132                                                 1    3
+ 6 FLACOURTIACScolopia   orientalis  2163                                                1   16
+ 2 HAMAMALIDACDicoryphe  M1                                                              1   19
+ 4 HAMAMALIDACDicoryphe  M1                                                              1   15
+ 5 HAMAMALIDACDicoryphe  M1                                                              1   11
+ 7 HAMAMALIDACDicoryphe  M1                                                              1   13
+ 9 HIPPOCRATACM1         M1          2273                                           L    1  2.5
+ 2 ICACINACEAEM1         M1         2039                                            L    1  2.5
+ 1 INDET      M1         M1         1998                                            H    1    4
+ 2 INDET      M1         M1         1998                                            H    1  2.5
+10 INDET      M1         M1         1998                                            L    2  2.5  2.5
+ 3 INDET      M2         M1         2065                                                 1    3
+ 6 INDET      M3         M1         2187                                            L    1  2.5
+ 7 INDET      M4         M1         2206                                                 1  2.5
+ 8 INDET      M5         M1         2246                                                 2  2.5  2.5
+ 1 INDET      M6         M1         2000                                            L    1  2.5
+ 1 INDET      M7         M1         1964                                                 1    7
+ 1 LAURACEAE  CryptocaryaM1         2134  1997                                           1   28
+ 5 LAURACEAE  CryptocaryaM1         2134  1997                                           1   19
+ 8 LAURACEAE  CryptocaryaM1         2134  1997                                           1    4
+ 8 LAURACEAE  CryptocaryaM2         2250                                                 1   12
+ 1 LAURACEAE  M1         M1         1981  2103              2183                         1    3
+ 6 LAURACEAE  M1         M1         1981  2103              2183                         2  2.5    5
+ 7 LAURACEAE  M1         M1         1981  2103              2183                         2  2.5    7
+ 4 LAURACEAE  M10        M1         2258                                                 1   18
+ 8 LAURACEAE  M10        M1         2258                                                 1    6
+ 1 LAURACEAE  M2         M1         2006  2138   2102       2186   2102                  2    3    7
+ 2 LAURACEAE  M2         M1         2006  2138   2102       2186   2102                  1    3
+ 4 LAURACEAE  M2         M1         2006  2138   2102       2186   2102                  1    5
+ 5 LAURACEAE  M2         M1         2006  2138   2102       2186   2102                  1  2.5
+ 6 LAURACEAE  M2         M1         2006  2138   2102       2186   2102                  1    4
+ 2 LAURACEAE  M3         M1         2026  2018   2126  2176 2176   2126                  2   14   14
+ 4 LAURACEAE  M3         M1         2026  2018   2126  2176 2176   2126                  1    5
+ 6 LAURACEAE  M3         M1         2026  2018   2126  2176 2176   2126                  1   15
+ 4 LAURACEAE  M4         M1         2112                                                 1   17
+ 5 LAURACEAE  M5         M1         2151                                                 1    6
+ 6 LAURACEAE  M6         M1         2166  2172                                           1    4
+ 6 LAURACEAE  M6         M1         2166  2172                                           1  2.5
+ 6 LAURACEAE  M7         M1         2192  2266                                           1    5
+ 9 LAURACEAE  M7         M1         2192  2266                                           1    6
+ 6 LAURACEAE  M8         M1         2199                                                 1    5
+ 7 LAURACEAE  M9         M1         2222                                                 1    9
+ 3 LAURACEAE  Ocotea     M1         2272  2113  2114  2199  2207  2062                   1    8
+ 4 LAURACEAE  Ocotea     M1         2272  2113  2114  2199  2207  2062                   1   10
+ 4 LAURACEAE  Ocotea     M1         2272  2113  2114  2199  2207  2062                   1    3
+ 7 LAURACEAE  Ocotea     M1         2272  2113  2114  2199  2207  2062                   1   11
+ 9 LAURACEAE  Ocotea     M1         2272  2113  2114  2199  2207  2062                   1    6
+ 4 LAURACEAE  Ocotea     M2         2245  2111                                           1   23
+ 8 LAURACEAE  Ocotea     M2         2245  2111                                           1   24
+ 8 LAURACEAE  Ocotea     M3         2244                                                 1   53
+ 3 LAURACEAE  Potameia   confluens  2105   2180  2114  2199                              1    3
+ 4 LAURACEAE  Potameia   confluens  2105   2180  2114  2199                              1   19
+ 5 LAURACEAE  Potameia   confluens  2105   2180  2114  2199                              1    5
+ 6 LAURACEAE  Potameia   confluens  2105   2180  2114  2199                              2    3  2.5
+ 6 LAURACEAE  Potameia   confluens  2105   2180  2114  2199                              1    5
+ 7 LAURACEAE  Potameia   confluens  2105   2180  2114  2199                              1   22
+ 9 LAURACEAE  Potameia   confluens  2105   2180  2114  2199                              1   28
+ 4 LAURACEAE  Potameia   M1          2096                                                1    3
+ 1 LOGANIACEAENuxia      coriaceae  1989                                                 1   45
+ 2 LOGANIACEAENuxia      coriaceae  1989                                                 1   35
+ 3 LOGANIACEAENuxia      coriaceae  1989                                                 1   38
+ 1 MELASTOMATAMemecylon  M1         2001                                                 1   10
+ 8 MELASTOMATAMemecylon  M2         2241   2296                                          1  2.5
+10 MELASTOMATAMemecylon  M2         2241   2296                                          1    5
+ 3 MELASTOMATAMemecylon  M3          2071                                                2  2.5  2.5
+ 5 MELASTOMATAMemecylon  M3          2071                                                1    3
+ 6 MELASTOMATAMemecylon  M3          2071                                                1  2.5
+ 8 MELASTOMATAMemecylon  M3          2071                                                1  2.5
+ 4 MELASTOMATAMemecylon  mocquerysi 2110   2061                                          1    3
+ 5 MELASTOMATAMemecylon  mocquerysi 2110   2061                                          1  2.5
+ 6 MELASTOMATAMemecylon  mocquerysi 2110   2061                                          2  2.5  2.5
+ 3 MELASTOMATAWarneckea  M1         2079                                                 1  2.5
+ 5 MELASTOMATAWarneckea  M1         2079                                                 2    3    3
+ 7 MELASTOMATAWarneckea  M1         2079                                                 1    4
+10 MELASTOMATAWarneckea  M1         2079                                                 1    7
+ 1 MELIACEAE  M1         M1         2230  1976  2012                                     2    4   26
+ 2 MELIACEAE  M1         M1         2230  1976  2012                                     6    7   18   11  2.5 8    8
+ 3 MELIACEAE  M1         M1         2230  1976  2012                                     5    3  2.5    4   12 12
+ 4 MELIACEAE  M1         M1         2230  1976  2012                                     3    5    3   22
+ 6 MELIACEAE  M1         M1         2230  1976  2012                                     1   10
+ 7 MELIACEAE  M1         M1         2230  1976  2012                                     2   14    5
+ 8 MELIACEAE  M1         M1         2230  1976  2012                                     4  2.5   13   12    5
+ 9 MELIACEAE  M1         M1         2230  1976  2012                                     3    8   21  2.5
+10 MELIACEAE  M1         M1         2230  1976  2012                                     4  2.5    3    4   12
+ 5 MELIACEAE  M2         M1         2146                                                 1  2.5
+ 2 MELIACEAE  Malleastrummocquerysii2014  2052  2040                                     2    4    8
+ 2 MELIACEAE  Malleastrummocquerysii2014  2052  2040                                     1    7
+ 2 MELIACEAE  Malleastrummocquerysii2014  2052  2040                                     1    3
+ 3 MELIACEAE  Malleastrummocquerysii2014  2052  2040                                     4    5    6    4    4
+ 4 MELIACEAE  Malleastrummocquerysii2014  2052  2040                                     1    7
+ 5 MELIACEAE  Malleastrummocquerysii2014  2052  2040                                     2    7    5
+ 6 MELIACEAE  Malleastrummocquerysii2014  2052  2040                                     4  2.5    3    4    4
+ 7 MELIACEAE  Malleastrummocquerysii2014  2052  2040                                     1  2.5
+ 8 MELIACEAE  Malleastrummocquerysii2014  2052  2040                                     4    7    4    5    3
+ 9 MELIACEAE  Malleastrummocquerysii2014  2052  2040                                     1  2.5
+10 MELIACEAE  Malleastrummocquerysii2014  2052  2040                                     1    8
+ 2 MENDONCIACEMendoncia  flagellaris2177                                            L    1  2.5
+ 6 MENDONCIACEMendoncia  flagellaris2177                                            L    1    3
+ 7 MENDONCIACEMendoncia  flagellaris2177                                            L    1  2.5
+ 8 MENDONCIACEMendoncia  flagellaris2177                                            L    1    3
+ 9 MENDONCIACEMendoncia  flagellaris2177                                            L    1  2.5
+ 6 MENISPERMACBurasaia   M1         2182                                                 2  2.5   12
+ 8 MENISPERMACBurasaia   M1         2182                                                 1  2.5
+10 MENISPERMACBurasaia   M2         2295                                                 2   17   13    6    8
+ 2 MENISPERMACM2         M1         2115  2019  2196   2091                         L    1  2.5
+ 3 MENISPERMACM2         M1         2115  2019  2196   2091                         L    1  2.5
+ 4 MENISPERMACM2         M1         2115  2019  2196   2091                         L    1  2.5
+ 5 MENISPERMACM2         M1         2115  2019  2196   2091                         L    1  2.5
+ 6 MENISPERMACM2         M1         2115  2019  2196   2091                         L    1  2.5
+ 7 MENISPERMACM2         M1         2115  2019  2196   2091                         L    3  2.5  2.5  2.5
+ 8 MENISPERMACM2         M1         2115  2019  2196   2091                         L    1  2.5
+ 2 MENISPERMACM3         M1         2233   2053                                     L    1    3
+ 7 MENISPERMACM3         M1         2233   2053                                     L    1    3
+ 8 MENISPERMACM4         M1         2237                                            L    1  2.5
+ 6 MENISPERMACSpirospermupenduliflor 2181                                                1    5
+ 7 MENISPERMACStrychnopsithovarsii  1993                                                 1    3
+ 2 MONIMIACEAEM1         M1         2031                                                 1    9
+ 3 MONIMIACEAEM2         M1         2084                                                 1    3
+ 4 MONIMIACEAETambourissaM1         2109                                                 1   10
+ 7 MONIMIACEAETambourissaM1         2109                                                 1  2.5   11
+10 MONIMIACEAETambourissaM1         2109                                                 1   11
+ 5 MONIMIACEAETambourissaM2         2139                                                 1    4
+ 6 MONIMIACEAETambourissaperrieri   2178                                                 1    4
+10 MONIMIACEAETambourissaperrieri   2178                                                 1  2.5
+ 3 MONIMIACEAETambourissapurpurea   2089  2204                                           1    9
+ 5 MONIMIACEAETambourissapurpurea   2089  2204                                           1    4
+ 6 MONIMIACEAETambourissapurpurea   2089  2204                                           2   10    7
+ 4 MONIMIACEAETambourissaschatzii   2108  2118                                           1    5
+ 4 MONIMIACEAETambourissaschatzii   2108  2118                                           1    6
+ 6 MONIMIACEAETambourissaschatzii   2108  2118                                           1    3
+ 2 MORACEAE   Ficus      lutea       2038                                           H    1    3
+10 MORACEAE   Ficus      lutea       2038                                           H    2    3    4
+ 3 MORACEAE   Ficus      reflexa     2076                                           H    1    3
+ 9 MORACEAE   Ficus      tiliifolia 2279                                                 1    6
+ 7 MORACEAE   Trilepisiummadagascari 2205                                                1    3
+ 2 MYRSINACEAEOncostemum M1         2220  2042                                           1  2.5
+ 3 MYRSINACEAEOncostemum M1         2220  2042                                           1    6
+ 4 MYRSINACEAEOncostemum M1         2220  2042                                           1  2.5
+ 4 MYRSINACEAEOncostemum M1         2220  2042                                           1    4
+ 5 MYRSINACEAEOncostemum M1         2220  2042                                           1  2.5
+ 7 MYRSINACEAEOncostemum M1         2220  2042                                           1    4
+ 8 MYRSINACEAEOncostemum M1         2220  2042                                           1    3
+ 3 MYRSINACEAEOncostemum M2         2073                                                 1   16
+ 3 MYRSINACEAEOncostemum M3         2173  2278  2068  2236   2285                        1  2.5
+ 6 MYRSINACEAEOncostemum M3         2173  2278  2068  2236   2285                        1    3
+ 8 MYRSINACEAEOncostemum M3         2173  2278  2068  2236   2285                        1    3
+ 9 MYRSINACEAEOncostemum M3         2173  2278  2068  2236   2285                        1    3
+10 MYRSINACEAEOncostemum M3         2173  2278  2068  2236   2285                        1   15
+ 5 MYRSINACEAEOncostemum M4         2157                                                 1  2.5
+ 7 MYRSINACEAEOncostemum M5         2221                                                 2    4    4
+10 MYRSINACEAEOncostemum M5         2221                                                 2  2.5  2.5
+ 3 MYRSINACEAEOncostemum macrophyllu2067                                                 1  2.5
+ 4 MYRTACEAE             M1         2116  2051   2017  2045                              2   12    8
+ 6 MYRTACEAE             M1         2116  2051   2017  2045                              2   11   11
+10 MYRTACEAE  M10        M1         2288                                                 1   16
+10 MYRTACEAE  M11        M1         2297                                                 1  2.5
+ 1 MYRTACEAE  M2         M1         2054  1988  2142   2195                              1   10
+ 2 MYRTACEAE  M2         M1         2054  1988  2142   2195                              1    9
+ 3 MYRTACEAE  M2         M1         2054  1988  2142   2195                              2   33   53
+ 5 MYRTACEAE  M2         M1         2054  1988  2142   2195                              1   24
+ 6 MYRTACEAE  M2         M1          2054  1988  2142  2195                              1  2.5
+ 7 MYRTACEAE  M2         M1         2054  1988  2142   2195                              1   40
+ 1 MYRTACEAE  M3         M1         2086  2239  2298  2174                               1  2.5
+ 3 MYRTACEAE  M3         M1         2086  2239  2298  2174                               1   28
+ 8 MYRTACEAE  M3         M1         2086  2239  2298  2174                               2    8    3
+10 MYRTACEAE  M3         M1         2086  2239  2298  2174                               1   14    3
+ 1 MYRTACEAE  M4         M1         2100  2261  2294  2010  2008  2020                   1    7
+ 2 MYRTACEAE  M4         M1         2100  2261  2294  2010  2008  2020                   2  2.5    8
+ 3 MYRTACEAE  M4         M1         2100  2261  2294  2010  2008  2020                   1    6
+ 4 MYRTACEAE  M4         M1         2100  2261  2294  2010  2008  2020                   1    5
+ 4 MYRTACEAE  M4         M1         2100  2261  2294  2010  2008  2020                   1    6
+ 6 MYRTACEAE  M4         M1         2100  2261  2294  2010  2008  2020                   1    4
+ 9 MYRTACEAE  M4         M1         2100  2261  2294  2010  2008  2020                   1    3
+10 MYRTACEAE  M4         M1         2100  2261  2294  2010  2008  2020                   2  2.5  2.5
+ 3 MYRTACEAE  M5         M1         2053  2259  2223                                     1  2.5
+ 5 MYRTACEAE  M5         M1         2053  2259  2223                                     1    4
+ 6 MYRTACEAE  M5         M1         2053  2259  2223                                     1  2.5
+ 7 MYRTACEAE  M5         M1         2053  2259  2223                                     1    8
+ 7 MYRTACEAE  M5         M1         2053  2259  2223                                     1    6
+ 8 MYRTACEAE  M5         M1         2053  2259  2223                                     1  2.5
+ 9 MYRTACEAE  M5         M1         2053  2259  2223                                     3    3    3    7
+10 MYRTACEAE  M5         M1         2053  2259  2223                                     2  2.5    6
+ 3 MYRTACEAE  M7         M1          2137  2069  2190  2229  2197  2075                  3    3    4    5
+ 5 MYRTACEAE  M7         M1          2137  2069  2190  2229  2197  2075                  1    7
+ 6 MYRTACEAE  M7         M1          2137  2069  2190  2229  2197  2075                  1    9  2.5    3
+ 7 MYRTACEAE  M7         M1          2137  2069  2190  2229  2197  2075                  1   22
+ 6 MYRTACEAE  M9         M1         2267                                                 2  2.5    3
+ 7 MYRTACEAE  M9         M1         2267                                                 1    3
+ 9 MYRTACEAE  M9         M1         2267                                                 1    7
+10 MYRTACEAE  M9         M1         2267                                                 1    6
+ 7 OLACACEAE  M1         M1         2227                                                 1    6
+ 8 OLACACEAE  M1         M1         2227                                                 1    4
+ 5 OLEACEAE   Noronhea   crassiramos2147                                                 1    5
+ 1 PANDANACEAEPandanus   M1         1966                                                 1  2.5
+ 9 PANDANACEAEPandanus   M1         1966                                                 1  2.5
+ 1 PANDANACEAEPandanus   M2         2007                                                 1    5
+ 7 PANDANACEAEPandanus   M3         2219                                                 1    7
+ 2 PASSIFLORACParopsia   edulis      2032                                                1    4
+ 3 PASSIFLORACParopsia   madagascari2057  2099   2292                                    2    3   18
+ 4 PASSIFLORACParopsia   madagascari2057  2099   2292                                    1    9
+ 6 PASSIFLORACParopsia   madagascari2057  2099   2292                                    1    3
+ 7 PASSIFLORACParopsia   madagascari2057  2099   2292                                    1    5
+ 8 PASSIFLORACParopsia   madagascari2057  2099   2292                                    1    3
+10 PASSIFLORACParopsia   madagascari2057  2099   2292                                    1   11
+ 3 PHYSENACEAEPhysena    madagascari2085                                                 1  2.5
+10 RHIZOPHORACAnisophyllefallax     2284                                                 1   11
+ 3 RUBIACEAE  Canephora  M1         2255  2027  2090                                     1   17
+ 4 RUBIACEAE  Canephora  M1         2255  2027  2090                                     1   15
+ 5 RUBIACEAE  Canephora  M1         2255  2027  2090                                     3   18   14   15
+ 8 RUBIACEAE  Canephora  M1         2255  2027  2090                                     1  2.5
+ 9 RUBIACEAE  Canephora  M1         2255  2027  2090                                     1   18
+ 9 RUBIACEAE  Canephora  M1         2255  2027  2090                                     1   12
+ 2 RUBIACEAE  Danais     M1         2070  2024                                      L    1    6
+ 3 RUBIACEAE  Danais     M1         2070  2024                                      L    1    6
+ 3 RUBIACEAE  Danais     M1         2070  2024                                           2  2.5    3
+ 8 RUBIACEAE  Danais     M1         2070  2024                                      L    1    4
+ 4 RUBIACEAE  Danais     M2         2125                                            L    1    4
+ 5 RUBIACEAE  Danais     M2         2125                                            L    1    5
+ 1 RUBIACEAE  Gaertnera  M1         2002                                                 1  2.5
+ 5 RUBIACEAE  Gaertnera  M1         2002                                                 1    5
+ 1 RUBIACEAE  Ixora      M1         1963                                                 3  2.5    3    3
+ 3 RUBIACEAE  Ixora      M1         1963                                                 2    3    4
+ 5 RUBIACEAE  Ixora      M1         1963                                                 1    7
+ 7 RUBIACEAE  Ixora      M1         1963                                                 3    3  2.5  2.5  2.5
+ 9 RUBIACEAE  Ixora      M1         1963                                                 1    3
+10 RUBIACEAE  Ixora      M1         1963                                                 1    3
+ 1 RUBIACEAE  M1         M1         2003                                                 1  2.5
+ 2 RUBIACEAE  M1         M1         2003                                                 2    6    5
+ 7 RUBIACEAE  M1         M1         2003                                                 3    7    7    9
+ 1 RUBIACEAE  M2         M1         2036  2011  2148                                     1    8
+ 2 RUBIACEAE  M2         M1         2036  2011  2148                                     1    4
+ 3 RUBIACEAE  M2         M1         2036  2011  2148                                     1  2.5
+ 5 RUBIACEAE  M2         M1         2036  2011  2148                                     1    3
+ 9 RUBIACEAE  M3         M1         2268                                                 1  2.5
+ 2 RUBIACEAE  Psychotria M1         2149   2034                                          3    5  2.5    3
+ 3 RUBIACEAE  Psychotria M1         2149   2034                                          2  2.5  2.5
+ 4 RUBIACEAE  Psychotria M1         2149   2034                                          1  2.5
+ 5 RUBIACEAE  Psychotria M1         2149   2034                                          1  2.5
+ 5 RUBIACEAE  Psychotria M1         2149   2034                                          1  2.5
+10 RUBIACEAE  Psychotria M1         2149   2034                                          2    3    4
+ 9 RUBIACEAE  Psychotria M2         2274  2282                                           1    4
+10 RUBIACEAE  Psychotria M2         2274  2282                                           2   12    8
+ 1 RUBIACEAE  Rothmannia M1         1965  2004  1977  2081                               3   18    6    4
+ 2 RUBIACEAE  Rothmannia M1         1965  2004  1977  2081                               1    9
+ 3 RUBIACEAE  Rothmannia M1         1965  2004  1977  2081                               3    9    5    3
+ 4 RUBIACEAE  Rothmannia M1         1965  2004  1977  2081                               2    9    7
+ 5 RUBIACEAE  Rothmannia M1         1965  2004  1977  2081                               1   14
+ 6 RUBIACEAE  Rothmannia M1         1965  2004  1977  2081                               3    8   11  2.5
+ 7 RUBIACEAE  Rothmannia M1         1965  2004  1977  2081                               5  2.5  2.5  2.5    4  2.5
+ 8 RUBIACEAE  Rothmannia M1         1965  2004  1977  2081                               2   11   17
+ 9 RUBIACEAE  Rothmannia M1         1965  2004  1977  2081                               4   13    7   14    8
+10 RUBIACEAE  Rothmannia M1         1965  2004  1977  2081                               3    4    9    4
+ 8 RUBIACEAE  Tarenna    M1         2303                                                 1   35
+ 3 RUTACEAE   Vepris     M1         2050   1991                                          2  2.5   24
+ 4 RUTACEAE   Vepris     M1         2050   1991                                          1    3
+ 5 RUTACEAE   Vepris     M1         2050   1991                                          1   16
+ 6 RUTACEAE   Vepris     M1         2050   1991                                          4   24    7   12    5
+ 9 RUTACEAE   Vepris     M1         2050   1991                                          1    3
+10 RUTACEAE   Vepris     M1         2050   1991                                          1   14
+10 RUTACEAE   Vepris     M1         2050   1991                                          1    4
+10 SAPINDACEAEAllophylus M1         2281                                                 1    5
+ 4 SAPINDACEAEChouxia    sorindeioid1995  2171                                           1    4    3
+ 6 SAPINDACEAEChouxia    sorindeioid1995  2171                                           2    5  2.5
+ 7 SAPINDACEAEChouxia    sorindeioid1995  2171                                           1    3
+ 9 SAPINDACEAEChouxia    sorindeioid1995  2171                                           1  2.5
+ 7 SAPINDACEAEDeinbollia M1         2203                                                 2  2.5    4
+ 6 SAPINDACEAEM1         M1         2201                                                 1    3
+ 7 SAPINDACEAEM2         M1         2218                                                 1   12
+ 8 SAPINDACEAEM3         M1         2242                                                 1    5
+ 9 SAPINDACEAEM4         M1         2269                                                 1   13
+ 1 SAPINDACEAEMacphersonichapelieri 1996                                                 1    5
+10 SAPINDACEAEMacphersonichapelieri 1996                                                 1  2.5
+ 1 SAPINDACEAEPlagioscyphlouvelii   2009                                                 2   17   25
+ 1 SAPOTACEAE Faucherea  ambrensis  1975                                                 1   45
+ 6 SAPOTACEAE M1         M1         2175                                                 1    3
+ 4 SAPOTACEAE M2         M1         2179  2103                                           2    7   11
+ 6 SAPOTACEAE M2         M1         2179   2103                                          2    5    4
+ 7 SAPOTACEAE M2         M1         2179  2103                                           1   12
+ 7 SAPOTACEAE Mimusops   M1         2213                                                 1    3
+ 1 SOLANACEAE Solanum    M1         1987                                            L    1  2.5
+ 2 SOLANACEAE Solanum    M1         1987                                            L    2  2.5  2.5
+ 8 SOLANACEAE Solanum    M1         1987                                            L    1  2.5
+ 5 SPHAEROSEPARhopalocarplouvelii    2156                                                1   31
+ 6 STERCULIACEByttneria  M1         2170   2248                                     L    1    3
+ 8 STERCULIACEByttneria  M1         2170   2248                                     L    1    4
+ 6 STERCULIACEDombeya    M1                                                              1   27
+ 4 STRELITZIACRavenala   madagascari                                                     1   40
+ 6 STRELITZIACRavenala   madagascari                                                     2   38   39
+ 1 STRELITZIACRavenala   madagascari                                                     1   41
+ 9 VERBENACEAEClerodendruM1         2276                                                 1    3
+ 2 VIOLACEAE  Rinorea    M1         2028                                                 2  2.5    9
+ 4 VIOLACEAE  Rinorea    M2          2127                                                1    6
+ 1 VITACEAE   Cissus     M1         1971                                            L    1    8
+ 2 VITACEAE   Cissus     M1         1971                                            L    1    5
+ 5 VITACEAE   Cissus     M1         1971                                            L    2    6    5
+ 9 VITACEAE   Cissus     M1         1971                                            L    1  2.5
+10 VITACEAE   Cissus     M1         1971                                            L    1    6

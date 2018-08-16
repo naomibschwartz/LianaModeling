@@ -1,0 +1,208 @@
+LineFamily          Genus    species  vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMS
+  3 AQUIFOLIACEAE   Ilex     M1       79097                                                1    3
+  4 AQUIFOLIACEAE   Ilex     M2       79104                                                2  2.5  2.5
+  7 AQUIFOLIACEAE   Ilex     M3       79133                                           L    1    3
+  5 ARACEAE         AnthuriumM1       79114                                           L    1  2.5
+  2 ARALIACEAE      SchefflerM1       79077                                                8    9    6  2.5    3 2.5  2.5  2.5  2.5  9
+  3 ARALIACEAE      SchefflerM1       79077                                                2    3    5
+  7 ARALIACEAE      SchefflerM1       79077                                                3    4    5    5
+  3 ARALIACEAE      SchefflerM2       79093                                                3    6    6    9
+  4 ARALIACEAE      SchefflerM2       79093                                                3    5    3   12
+  8 ARALIACEAE      SchefflerM2       79093                                                1   26
+  3 ARECACEAE       CeroxylonM1       79091                                                1    4    4    4    4
+  4 ARECACEAE       CeroxylonM1       79091                                                1    4    4    4    4 4    4
+  4 ARECACEAE       CeroxylonM1       79091                                                1    4    4    4    4 4    4    4    4
+  4 ARECACEAE       CeroxylonM1       79091                                                1    4    4    4    4 4    4
+  4 ARECACEAE       CeroxylonM1       79091                                                2   16    4    4    4 4    4    4
+  3 ARECACEAE       Geonoma  M1       79089                                                1  2.5
+  4 ASTERACEAE      BaccharisM1       75075                                                2    4    5
+  4 ASTERACEAE      BaccharisM2       79106                                                2    4    5
+  7 ASTERACEAE      Mikania  M1       79132                                           L    1    6
+  3 ASTERACEAE      Senecio  M1       79098                                           L    1  2.5
+  5 ASTERACEAE      Senecio  M1       79098                                           L    1  2.5
+  6 ASTERACEAE      Senecio  M1       79098                                           L    1  2.5
+  7 ASTERACEAE      Senecio  M1       79098                                           L    1  2.5
+  8 ASTERACEAE      Senecio  M1       79098                                           L    1    3
+ 10 ASTERACEAE      Senecio  M1       79098                                           L    1    3
+  2 BRUNELLIACEAE   BrunelliaM1       79084                                                4   12    8    7    6
+  5 BRUNELLIACEAE   BrunelliaM1       79084                                                1   31
+ 10 BRUNELLIACEAE   BrunelliaM1       79084                                                1    4
+  3 CHLORANTHACEAE  HedyosmumM1       79088                                                2    4    5  2.5
+  4 CHLORANTHACEAE  HedyosmumM1       79088                                                1  2.5
+  5 CHLORANTHACEAE  HedyosmumM1       79088                                                2    4    3
+  1 CLUSIACEAE      Clusia   M1       79059                                           L    1    3    5    7   10
+  5 CLUSIACEAE      Clusia   M1       79059                                           L    1    4
+  3 CLUSIACEAE      Clusia   M2       79107 79095                                          2  2.5    3
+  4 CLUSIACEAE      Clusia   M2       79107 79095                                     L    2    5    6    3
+  4 CLUSIACEAE      Clusia   M2       79107 79095                                          3    9    4   11
+  5 CLUSIACEAE      Clusia   M2       79107 79095                                          2    3    5
+  4 CLUSIACEAE      Clusia   M3       79108                                           L    1  2.5
+  5 CLUSIACEAE      Clusia   M3       79108                                           L    1    4
+  8 CLUSIACEAE      M1       M1       79136                                                1   20
+  2 CUNONIACEAE     WeinmanniM1       79086                                                1   40
+  4 CUNONIACEAE     WeinmanniM1       79086                                                1    6
+  5 CUNONIACEAE     WeinmanniM1       79086                                                2   23   28
+  1 CYATHEACEAE     Cyathea  M1       79066                                                2    7    9
+  1 CYATHEACEAE     Cyathea  M2       79071                                                1    6
+  2 CYATHEACEAE     Cyathea  M2       79071                                                1    5
+  6 CYATHEACEAE     Cyathea  M2       79071                                                1    5
+  7 CYATHEACEAE     Cyathea  M2       79071                                                1    6
+  7 CYATHEACEAE     Cyathea  M2       79071                                                6   13    9   10    9 14   14
+  8 CYATHEACEAE     Cyathea  M2       79071                                                1    6
+  9 CYATHEACEAE     Cyathea  M2       79071                                                3    6    6    5
+ 10 CYATHEACEAE     Cyathea  M2       79071                                                1    6
+  1 CYATHEACEAE     Cyathea  M3       79103 79073                                          2   11   11
+  2 CYATHEACEAE     Cyathea  M3       79103 79073                                          3    8    8    8
+  3 CYATHEACEAE     Cyathea  M3       79103 79073                                          3    8   10    9
+  4 CYATHEACEAE     Cyathea  M3       79103 79073                                          6    8    8   10    8 10   8
+  5 CYATHEACEAE     Cyathea  M3       79103 79073                                         10   10   13    8    9 5    7    8    8    8    12
+  6 CYATHEACEAE     Cyathea  M3       79103 79073                                          6   10   10    7   11 11   10
+  8 CYATHEACEAE     Cyathea  M3       79103 79073                                          3    8   10    9
+  8 CYATHEACEAE     Cyathea  M3       79103 79073                                         10    8    9   12   11 7    9    9    10   10   11
+  9 CYATHEACEAE     Cyathea  M3       79103 79073                                         10   10   15    8   12 7    7    8    8    11   11   11
+ 10 CYATHEACEAE     Cyathea  M3       79103 79073                                         10   16   12    6   11 8    8    9    9    17
+  4 CYATHEACEAE     Cyathea  M4       79105                                                2  2.5   10
+  5 CYATHEACEAE     Cyathea  M4       79105                                                1   11
+  6 CYATHEACEAE     Cyathea  M5       79131                                                1    8
+  2 CYCLANTHACEAE   SphaeradeM1       79075                                                2  2.5    9
+  3 CYCLANTHACEAE   SphaeradeM1       79075                                                2    5    5
+  4 CYCLANTHACEAE   SphaeradeM1       79075                                                1    3
+  5 CYCLANTHACEAE   SphaeradeM1       79075                                                1    4
+  6 CYCLANTHACEAE   SphaeradeM1       79075                                                1    5
+  7 CYCLANTHACEAE   SphaeradeM1       79075                                                1    5
+  9 CYCLANTHACEAE   SphaeradeM1       79075                                                1    4
+  1 ERICACEAE       M1       M1       79060                                           L    1    7
+  2 ERICACEAE       M1       M1       79060                                           L    3    3    3    4    3 10   8
+  3 ERICACEAE       M1       M1       79060                                           L    6  2.5    3  2.5    3 4    3
+  4 ERICACEAE       M1       M1       79060                                           L    2    8  2.5
+  5 ERICACEAE       M1       M1       79060                                           L    2  2.5    3
+  7 ERICACEAE       M1       M1       79060                                           L    1    3
+  8 ERICACEAE       M1       M1       79060                                           L    1    4
+ 10 ERICACEAE       M1       M1       79060                                           L    1    3
+  2 ERICACEAE       M2       M1       79083                                           L    2    3    3
+  3 ERICACEAE       M2       M1       79083                                           L    4    3  2.5    3  2.5
+  4 ERICACEAE       M3       M1       79111                                           L    1    4
+  1 FAGACEAE        Quercus  humboldti79061                                                4   51    9   36   30 13   68
+  2 FAGACEAE        Quercus  humboldti79061                                                2   84    4
+  3 FAGACEAE        Quercus  humboldti79061                                                4   45   45   46   53
+  4 FAGACEAE        Quercus  humboldti79061                                                2    4   42   40   25
+  5 FAGACEAE        Quercus  humboldti79061                                                2   52  2.5
+  6 FAGACEAE        Quercus  humboldti79061                                                1   38
+  7 FAGACEAE        Quercus  humboldti79061                                                1   65
+  9 FAGACEAE        Quercus  humboldti79061                                                1   45
+ 10 FAGACEAE        Quercus  humboldti79061                                                1   56
+  3 HIPPOCASTANACEAEBillia   colombian79102                                                2    4    5
+  4 HIPPOCASTANACEAEBillia   colombian79102                                                1    3
+  3 LAURACEAE       M1       M1       79094                                                1   10
+  4 LAURACEAE       M2       M1       79109                                                1  2.5
+  2 LAURACEAE       Ocotea   M1       79081                                                1    5    7
+  4 LAURACEAE       Ocotea   M1       79081                                                1  2.5
+  5 LAURACEAE       Ocotea   M1       79081                                                1    4
+  7 LAURACEAE       Ocotea   M2       79135                                                1   27
+  7 LAURACEAE       Ocotea   M2       79135                                                1    6
+  8 LAURACEAE       Ocotea   M2       79135                                                1    4
+  9 LAURACEAE       Ocotea   M2       79135                                                1   15  2.5
+  9 LAURACEAE       Ocotea   M3       79141                                                1   36
+  1 MELASTOMATACEAE M1       M1       79067                                                1    4
+  2 MELASTOMATACEAE M1       M1       79067                                                1  2.5
+  5 MELASTOMATACEAE M1       M1       79067                                           L    1  2.5
+  7 MELASTOMATACEAE M1       M1       79067                                           L    1    5
+  8 MELASTOMATACEAE M1       M1       79067                                           L    1    3
+  9 MELASTOMATACEAE M1       M1       79067                                           L    1  2.5
+ 10 MELASTOMATACEAE M1       M1       79067                                           L    3    3    5    4
+  1 MELASTOMATACEAE Miconia  M1       79062                                                1  2.5  2.5
+  1 MELASTOMATACEAE Miconia  M2       79063                                                4    3    3  2.5    4
+  2 MELASTOMATACEAE Miconia  M2       79063                                                3  2.5  2.5  2.5
+  4 MELASTOMATACEAE Miconia  M2       79063                                                1    3
+  5 MELASTOMATACEAE Miconia  M2       79063                                                6  2.5  2.5  2.5    3 5    5    4
+  8 MELASTOMATACEAE Miconia  M2       79063                                                1    4
+ 10 MELASTOMATACEAE Miconia  M2       79063                                                1    4
+  1 MELASTOMATACEAE Miconia  M3       79069 79137                                          3  2.5    3    4
+  2 MELASTOMATACEAE Miconia  M3       79069 79137                                          1    4
+  4 MELASTOMATACEAE Miconia  M3       79069 79137                                          1    6
+  5 MELASTOMATACEAE Miconia  M3       79069 79137                                          4  2.5    5   10    9
+  6 MELASTOMATACEAE Miconia  M3       79069 79137                                          1    4
+  7 MELASTOMATACEAE Miconia  M3       79069 79137                                          1    5
+  8 MELASTOMATACEAE Miconia  M3       79069 79137                                          3  2.5    3   16
+  2 MELASTOMATACEAE Miconia  M4       79080                                                1    3
+  3 MELASTOMATACEAE Miconia  M4       79080                                                1  2.5
+  4 MELASTOMATACEAE Miconia  M4       79080                                                1  2.5
+  7 MELASTOMATACEAE Miconia  M4       79080                                                1    4
+  8 MELASTOMATACEAE Miconia  M4       79080                                                1  2.5
+  2 MELASTOMATACEAE Miconia  M5       79082                                           L    2  2.5    3
+  5 MELASTOMATACEAE Miconia  M5       79082                                           L    1  2.5
+  6 MELASTOMATACEAE Miconia  M5       79082                                           L    1  2.5
+  7 MELASTOMATACEAE Miconia  M5       79082                                           L    3    3    3  2.5
+  8 MELASTOMATACEAE Miconia  M5       79082                                           L    1    3
+  9 MELASTOMATACEAE Miconia  M5       79082                                           L    1    4
+  2 MELASTOMATACEAE Miconia  M6       79085                                                1    3    6
+  3 MELASTOMATACEAE Miconia  M6       79085                                                2  2.5    4    3
+  4 MELASTOMATACEAE Miconia  M6       79085                                                2    3    3    4    4       2.5
+  2 MELASTOMATACEAE Miconia  M7       79087                                                1    5
+ 10 MELASTOMATACEAE Miconia  M7       79087                                                1  2.5
+  6 MELASTOMATACEAE Miconia  M8       79128                                                5  2.5    3    3    4 5
+  7 MELASTOMATACEAE Miconia  M8       79128                                                1    3
+  8 MELASTOMATACEAE Miconia  M8       79128                                                1    3
+  9 MELASTOMATACEAE Miconia  M8       79128                                                1    6
+ 10 MELASTOMATACEAE Miconia  M8       79128                                                1    5
+  6 MELASTOMATACEAE Miconia  M9       79129                                                1    6
+  8 MELASTOMATACEAE Miconia  M9       79129                                                1    6    7
+  1 MYRSINACEAE     Myrsine  M1       79068                                                2    6    6
+  2 MYRSINACEAE     Myrsine  M1       79068                                                1    3
+  3 MYRSINACEAE     Myrsine  M1       79068                                                4    3  2.5    8    8
+  4 MYRSINACEAE     Myrsine  M1       79068                                                4    6  2.5  2.5  2.5
+  5 MYRSINACEAE     Myrsine  M1       79068                                                1    7
+  7 MYRSINACEAE     Myrsine  M1       79068                                                1    7
+  8 ONAGRACEAE      Fuchsia  M1       79140                                           L    1  2.5
+  9 ONAGRACEAE      Fuchsia  M1       79140                                           L    1    4
+  1 PIPERACEAE      Piper    M1       79065                                                1    3
+  2 PIPERACEAE      Piper    M1       79065                                                2    5    6    5    6 4
+  5 PIPERACEAE      Piper    M1       79065                                                3    5    6    3
+  6 PIPERACEAE      Piper    M1       79065                                                1    5    3    4
+  7 PIPERACEAE      Piper    M1       79065                                                5    3    5    5    3 8    3
+  9 PIPERACEAE      Piper    M1       79065                                                4  2.5    5    5    3 2.5  2.5
+ 10 PIPERACEAE      Piper    M1       79065                                                8    3    3  2.5    8 2.5  3    3    4    8
+  3 PIPERACEAE      Piper    M2       79096                                                1    6
+  9 POLYGONACEAE    MuehlenbeM1       79142                                           L    1  2.5
+  3 PROTEACEAE      Panopsis?M1       75090                                                1   23
+  3 ROSACEAE        Prunus   M1       79110 79101                                          1    3
+  4 ROSACEAE        Prunus   M1       79110 79101                                          1    7
+  6 RUBIACEAE       Cinchona M1       79130                                                2  2.5  2.5
+  7 RUBIACEAE       Cinchona M1       79130                                                1  2.5
+  9 RUBIACEAE       Cinchona M1       79130                                                2    4  2.5
+  5 RUBIACEAE       Cinchona M2       79139 79127                                          1   18
+  6 RUBIACEAE       Cinchona M2       79139 79127                                          1    3
+  8 RUBIACEAE       Cinchona M2       79139 79127                                          1    7
+  9 RUBIACEAE       Cinchona M2       79139 79127                                          1   13
+  1 RUBIACEAE       LadenbergM1       79070                                                2    3    7
+  2 RUBIACEAE       LadenbergM1       79070                                                1   32
+  4 RUBIACEAE       LadenbergM1       79070                                                3    5    5   14
+  6 RUBIACEAE       LadenbergM1       79070                                                1   30
+  8 RUBIACEAE       LadenbergM1       79070                                                1  2.5
+ 10 RUBIACEAE       LadenbergM1       79070                                                1   20   23
+  2 RUBIACEAE       PalicoureM1       79076                                                2  2.5    4
+  4 RUBIACEAE       PalicoureM1       79076                                                2    7    3
+  5 RUBIACEAE       PalicoureM1       79076                                                2    3    5
+  8 RUBIACEAE       PalicoureM1       79076                                                2    9    5    4
+  9 RUBIACEAE       PalicoureM1       79076                                                1    3
+ 10 RUBIACEAE       PalicoureM1       79076                                                2  2.5    3
+  8 RUBIACEAE       PsychotriM1       79138                                                1   10
+  2 RUTACEAE        ZanthoxylM1       79079                                                2  2.5    4
+  4 RUTACEAE        ZanthoxylM1       79079                                                3  2.5  2.5  2.5
+  7 RUTACEAE        ZanthoxylM1       79079                                                1  2.5
+  1 SYMPLOCACEAE    SymplocosM1       79072 79125                                          1    3  2.5
+  5 SYMPLOCACEAE    SymplocosM1       79072 79125                                          1   43
+  6 SYMPLOCACEAE    SymplocosM1       79072 79125                                          1    8
+  9 SYMPLOCACEAE    SymplocosM1       79072 79125                                          2   55   27
+ 10 SYMPLOCACEAE    SymplocosM1       79072 79125                                          1    6
+  2 THEACEAE        Gordonia M1       79074                                                1   29
+  2 THEACEAE        Gordonia M2       79099 79078                                          1    4
+  3 THEACEAE        Gordonia M2       79099 79078                                          1  2.5
+  3 THEACEAE        TernstroeM1       79092                                                1    9
+  4 THEACEAE        TernstroeM1       79092                                                2    3    4
+  5 THEACEAE        TernstroeM1       79092                                                1    5
+  1 VITACEAE        Cissus   M1       79064                                           L    2    3    4
+  3 VITACEAE        Cissus   M1       79064                                           L    2  2.5    6
+  7 VITACEAE        Cissus   M1       79064                                           L    1  2.5
+  3 WINTERACEAE     Drimys   M1       79100                                                1  2.5  2.5
+

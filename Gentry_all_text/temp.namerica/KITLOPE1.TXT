@@ -1,0 +1,48 @@
+LineFamily     Genus            Species        vouchevouchevouchevouchevouchevouchevouchevoucheLianN(IndStemStemStemStemStemdbh
+2   ARALIACEAE OPLOPANAX        HORRIDUM                                                              1 2.8
+3   ARALIACEAE OPLOPANAX        HORRIDUM                                                              1 2.5
+8   CAPRIFOLIACSAMBUCUS         CALLICARPA                                                            1 2.5 2.7
+1   CORNACEAE  CORNUS           STOLONIFERA                                                           1 5.1
+10  CORNACEAE  CORNUS           STOLONIFERA                                                           2 2.8 3.4 2.9 2.6 3.4   3
+4   CORNACEAE  CORNUS           STOLONIFERA                                                           2 3.1 3.5 2.8
+6   CORNACEAE  CORNUS           STOLONIFERA                                                           1 2.7
+7   CORNACEAE  CORNUS           STOLONIFERA                                                           4 3.2 2.6 3.4 3.6 2.5
+9   CORNACEAE  CORNUS           STOLONIFERA                                                           1 2.5 2.6
+1   BETULACEAE ALNUS            RUBRA                                                                 1  36
+4   BETULACEAE ALNUS            RUBRA                                                                 1  27
+8   BETULACEAE ALNUS            RUBRA                                                                 1  37
+9   BETULACEAE ALNUS            RUBRA                                                                 1  14
+4   PINACEAE   ABIES            AMABILIS                                                              1 142
+6   PINACEAE   ABIES            AMABILIS                                                              2  26 6.3
+1   PINACEAE   ABIES            LASIOCARPA                                                            1 9.2
+4   PINACEAE   ABIES            LASIOCARPA                                                            1  24
+5   PINACEAE   ABIES            LASIOCARPA                                                            2  18  14
+1   PINACEAE   PICEA            SITCHENSIS                                                            2  80  20
+10  PINACEAE   PICEA            SITCHENSIS                                                            3  19 8.6 142
+2   PINACEAE   PICEA            SITCHENSIS                                                            2 107  10
+4   PINACEAE   PICEA            SITCHENSIS                                                            2  32 186
+5   PINACEAE   PICEA            SITCHENSIS                                                            1  32
+7   PINACEAE   PICEA            SITCHENSIS                                                            1  94
+8   PINACEAE   PICEA            SITCHENSIS                                                            2  84  29
+9   PINACEAE   PICEA            SITCHENSIS                                                            2  94  63
+1   PINACEAE   THUJA            PLICATA                                                               1 102
+3   PINACEAE   THUJA            PLICATA                                                               1 129
+6   PINACEAE   THUJA            PLICATA                                                               3 108 113 127
+7   PINACEAE   THUJA            PLICATA                                                               1 6.5
+4   PINACEAE   TSUGA            HETEROPHLYYA                                                          2  19   6
+5   PINACEAE   TSUGA            HETEROPHYLLA                                                          4  11  70  40  10
+6   PINACEAE   TSUGA            HETEROPHYLLA                                                          1  29
+7   PINACEAE   TSUGA            HETEROPHYLLA                                                          2  26 5.2
+
+
+
+
+
+
+
+
+
+
+
+
+

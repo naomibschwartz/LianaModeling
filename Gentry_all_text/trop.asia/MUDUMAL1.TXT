@@ -1,0 +1,42 @@
+LineFAMILY      GENUS       SPECIES    vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 10 BIGNONIACEAERADERMACHERAXYLOCARPA  66226                                                 1   19
+  8 BIGNONIACEAESTEREOSPERMUCOLAIS     66224                                                 1   20
+  1 COMBRETACEAEANOGEISSUS  LATIFOLIA  66213                                                 5   28    7    6   10   13   13
+  2 COMBRETACEAEANOGEISSUS  LATIFOLIA  66213                                                 4   10   19   16   28
+  3 COMBRETACEAEANOGEISSUS  LATIFOLIA  66213                                                 1   22
+  4 COMBRETACEAEANOGEISSUS  LATIFOLIA  66213                                                 3   30   11   20
+  7 COMBRETACEAEANOGEISSUS  LATIFOLIA  66213                                                 1   16
+  1 COMBRETACEAETERMINALIA  TOMENTOSA  66214                                                 4   10   21   19   21
+  2 COMBRETACEAETERMINALIA  TOMENTOSA  66214                                                 5   22   12   13   23   25
+  3 COMBRETACEAETERMINALIA  TOMENTOSA  66214                                                 4   11    9    9   16
+  4 COMBRETACEAETERMINALIA  TOMENTOSA  66214                                                 1   58
+  5 COMBRETACEAETERMINALIA  TOMENTOSA  66214                                                 1   23
+  1 EUPHORBIACEAPHYLLANTHUS EMBLICA    66217                                                 2   23   23
+ 10 EUPHORBIACEAPHYLLANTHUS EMBLICA    66217                                                 1   19
+  2 FABACEAE    CASSIA      FISTULA    66221                                                 1   13
+  6 FABACEAE    CASSIA      FISTULA    66221                                                 1   16
+  8 FABACEAE    CASSIA      FISTULA    66221                                                 3   23    9    3
+  2 LYTHRACEAE  LAGERSTROEMILANCEOLATA 66220                                                 1   20
+  4 LYTHRACEAE  LAGERSTROEMILANCEOLATA 66220                                                 1   15
+  5 LYTHRACEAE  LAGERSTROEMILANCEOLATA 66220                                                 3   15   18   12
+  6 LYTHRACEAE  LAGERSTROEMILANCEOLATA 66220                                                 5   11   29   14   13   20
+  7 LYTHRACEAE  LAGERSTROEMILANCEOLATA 66220                                                 3   31   33   61
+  8 LYTHRACEAE  LAGERSTROEMILANCEOLATA 66220                                                 3   15    3   13
+  9 LYTHRACEAE  LAGERSTROEMILANCEOLATA 66220                                                 3   13   18    9
+ 10 LYTHRACEAE  LAGERSTROEMILANCEOLATA 66220                                                 2   27   12
+  1 MALVACEAE   KYDIA       CALYCINA   66215                                                 1    5
+  4 MALVACEAE   KYDIA       CALYCINA   66215                                                 3    6    5   10
+  6 MALVACEAE   KYDIA       CALYCINA   66215                                                 2    7    6
+  9 MALVACEAE   KYDIA       CALYCINA   66215                                                 1   27
+ 10 MALVACEAE   KYDIA       CALYCINA   66215                                                 2    9    9
+  2 MORACEAE    FICUS       MICROCARPA 66218                                                 1   45
+  1 RUBIACEAE   RANDIA      DUMETORUM  66216                                                 1   22
+  7 SAPINDACEAE SCHLEICHERA OLEOSA     66223                                                 1   47
+  2 STERCULIACEAERIOLAENA   QUINQUELOCU66219                                                 1   11
+  3 STERCULIACEAERIOLAENA   QUINQUELOCU66219                                                 1   11
+  7 STERCULIACEAHELICTERES  ISORA      66222                                                 1    3
+  9 VERBENACEAE GREWIA      TILIIFOLIA 66225                                                 1   91
+ 10 VERBENACEAE GREWIA      TILIIFOLIA 66225                                                 1  2.5
+  1 VERBENACEAE TECTONA     GRANDIS    66212                                                 2   14   24
+  2 VERBENACEAE TECTONA     GRANDIS    66212                                                 1   50
+ 10 VERBENACEAE TECTONA     GRANDIS    66212                                                 1   51

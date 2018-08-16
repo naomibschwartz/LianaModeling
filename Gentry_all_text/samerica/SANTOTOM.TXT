@@ -1,0 +1,176 @@
+LinFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 3 AMARANTHACEChamissoa? M1         71983 72041                                          2    4  2.5
+ 9 AMARANTHACEChamissoa? M1         71983 72041                                          1  2.5
+ 1 ANACARDIACEAstronium  M1         71949                                                5   10   46   30   32   29   20   18
+ 3 AMARANTHACEChamissoa  M1         71983                                           L    2    4  2.5
+ 5 ANACARDIACESpondias   mombin     72014                                                2   17   15
+ 6 ANNONACEAE Oxandra    M1         72032                                                1   14
+ 7 ANNONACEAE Oxandra    M1         72032                                                4  2.5    5   12    5
+ 8 ANNONACEAE Oxandra    M1         72032                                                2   11  2.5
+ 9 ANNONACEAE Oxandra    M1         72032                                               11   10    9   11  2.5    4    8   14    3   12    6 5
+ 1 APOCYNACEAEAspidospermM1         71950 72044                                          1   22
+ 2 APOCYNACEAEAspidospermM1         71950 72044                                          1    3
+ 8 APOCYNACEAEAspidospermM1         71950 72044                                          1   34
+ 1 APOCYNACEAEForsteroniaspicata    71966                                           L    1  2.5
+ 3 APOCYNACEAEForsteroniaspicata    71966                                           L    6    3  2.5    4    3    8    3
+ 4 APOCYNACEAEForsteroniaspicata    71966                                           L    1  2.5
+ 1 ARECACEAE  AstrocaryumM1         71949                                                5   10   46   30   32   29   20   18  2.5  2.5    5
+ 2 ARECACEAE  AstrocaryumM1         71949                                                1    9
+ 3 ARECACEAE  AstrocaryumM1         71949                                                5   19   17    3   13   13
+ 4 ARECACEAE  AstrocaryumM1         71949                                                6    6   27    6    9    6   19
+ 5 ARECACEAE  AstrocaryumM1         71949                                                1   23
+ 6 ARECACEAE  AstrocaryumM1         71949                                                     2   15   14
+ 6 BIGNONIACEAArrabidaea corallina  72034                                                1  2.5
+ 7 BIGNONIACEAArrabidaea corallina  72034                                                6    4  2.5    5    4    3    3
+10 BIGNONIACEAArrabidaea corallina  72034                                           L    2    5    8
+ 5 BIGNONIACEAArrabidaea oxycarpa   72019                                           L    3    3    3    3
+ 1 BIGNONIACEACydista    diversifoli71952                                           L   10  2.5  2.5    3    3  2.5  2.5    3    4  2.5  2.5
+ 2 BIGNONIACEACydista    diversifoli71952                                           L    1  2.5
+ 3 BIGNONIACEACydista    diversifoli71952                                           L    1    4
+ 7 BIGNONIACEAMansoa     verrucifera72038                                           L    1  2.5
+ 9 BIGNONIACEAMansoa     verrucifera72038                                           L    1  2.5
+ 1 BIGNONIACEAPleonotoma variabilis 71961                                           L    2  2.5    3
+ 8 BIGNONIACEAPleonotoma variabilis 71961                                           L    1  2.5
+ 1 BIGNONIACEAStizophylluriparium   71954                                           L    6  2.5  2.5  2.5  2.5    3    3  2.5  2.5  2.5
+ 2 BIGNONIACEAStizophylluriparium   71954                                           L    3    5  2.5  2.5
+ 3 BIGNONIACEAStizophylluriparium   71954                                           L    3  2.5  2.5  2.5
+ 2 BIGNONIACEATabebuia   chrysantha 71982                                                1    6
+ 3 BIGNONIACEATabebuia   chrysantha 71982                                                1    4
+ 2 BIGNONIACEATabebuia   ochracea   71968                                                2   28   12
+ 3 BIGNONIACEATabebuia   ochracea   71968                                                1   16
+ 2 BOMBACACEAEPseudobombaM1         71977                                                1   16
+ 1 BURSERACEAEBursera    simarouba                                                       1    9
+ 5 BURSERACEAEBursera    simarouba                                                       2    4    5
+ 2 CACTACEAE  Hylocereus M1         71971                                           L    2    4    3    4
+ 1 CACTACEAE  M1         M1         -                                                    1   11
+ 2 CACTACEAE  M1         M1         -                                                    1    3    5    7
+ 3 CACTACEAE  M1         M1         -                                                    1   24   11
+ 4 CACTACEAE  M1         M1         -                                                    1    6
+ 3 CAPPARIDACECapparis   flexuosa   71986                                                1  2.5   11   12   10   15
+ 1 CAPPARIDACECapparis   indica     71951                                                1   14    8    4    3
+ 4 CAPPARIDACECapparis   indica     71951                                                1   55
+ 6 CAPPARIDACECapparis   M1         72031                                                1   17
+ 4 CAPPARIDACESteriphoma M1         71992                                                1  2.5
+ 4 CELASTRACEAHippocrateaM1         71993 72028                                     L    1    4
+ 5 CELASTRACEAHippocrateaM1         71993 72028                                     L    5  2.5    4    3    3    3
+ 6 CELASTRACEAHippocrateaM1         71993 72028                                     L    3  2.5    3  2.5
+ 7 CELASTRACEAHippocrateaM1         71993 72028                                     L    3    3  2.5  2.5
+ 8 CELASTRACEAHippocrateaM1         71993 72028                                     L    3    3    3    3
+10 CELASTRACEAHippocrateaM1         71993 72028                                     L    1    4
+ 5 CONVOLVULACBonamia    M1         72024                                           L    2  2.5    3
+ 2 CUCURBITACEM1         M1         71979                                           L    1  2.5
+ 5 CUCURBITACEM2         M1         72027                                           L    1    3
+ 6 EBENACEAE  Diospyros? M1         72031                                                1   17
+ 1 EUPHORBIACECroton     schiedeanus71957                                                5    5    3  2.5    4  2.5  2.5
+ 4 EUPHORBIACECroton     schiedeanus71957                                                2    3    5    3
+ 2 FABACEAE   Bauhinia   M1         72026                                           L    1  2.5
+ 5 FABACEAE   Bauhinia   M1         72026                                           L    1    5
+ 5 FABACEAE   Bauhinia   M2         72022                                                4  2.5  2.5    3  2.5
+ 5 FABACEAE   Calliandra M1         72015                                                5    3    3    4    3    3  2.5  2.5  2.5    3  2.5 2.5
+ 5 FABACEAE   Calliandra M2         72017                                                9    3  2.5    5  2.5    4  2.5  2.5  2.5  2.5  2.5 2.5  2.5
+10 FABACEAE   Calliandra M2         72017                                                1    6
+ 1 FABACEAE   M1         M1         71959                                                3    6    8    4    8
+ 3 FABACEAE   M2         M1         71987                                                3    4    3    3
+ 4 FABACEAE   M2         M1         71987                                                2  2.5  2.5   24
+ 2 FABACEAE   Machaerium M1         71981                                                1  2.5
+ 6 FABACEAE   Machaerium M2         72033                                                1  2.5
+ 1 FABACEAE   PlatymisciuM1         71964                                                1    5
+ 1 FABACEAE   Swartzia   M1         71965                                                2  2.5    4
+ 2 FABACEAE   Swartzia   M1         71965                                                3    9  2.5    8    7    6
+ 6 FABACEAE   Swartzia   M1         71965                                                1    3  2.5   20
+ 8 FABACEAE   Swartzia   M1         71965                                                2    7   12
+ 9 FABACEAE   Swartzia   M1         71965                                                1   18
+ 3 FLACOURTIACCasearia   M1         71989                                                1   10    3  2.5
+ 4 FLACOURTIACLaetia     M1         71991                                                2  2.5    5
+ 2 FLACOURTIACMayna      M1         71967 72030                                          1    5
+ 3 FLACOURTIACMayna      M1         71967 72030                                          2    3    3
+ 5 FLACOURTIACMayna      M1         71967 72030                                          2  2.5    9
+ 6 FLACOURTIACMayna      M1         71967 72030                                          5    3  2.5    4    5    6    7
+ 7 FLACOURTIACMayna      M1         71967 72030                                          5  2.5  2.5  2.5  2.5    5
+ 8 FLACOURTIACMayna      M1         71967 72030                                          4    3  2.5  2.5    3
+ 9 FLACOURTIACMayna      M1         71967 72030                                          7    3  2.5  2.5  2.5    3    3    5  2.5
+10 FLACOURTIACMayna      M1         71967 72030                                         13    7    4  2.5    5    3  2.5  2.5  2.5  2.5    4    3    5  2.5
+ 2 MELIACEAE  Trichilia  hirta      71980                                                1    3
+ 7 MELIACEAE  Trichilia  hirta      71980                                                1   20
+ 8 MELIACEAE  Trichilia  hirta      71980                                                1    5
+ 9 MELIACEAE  Trichilia  hirta      71980                                                1  2.5
+10 MELIACEAE  Trichilia  hirta      71980                                                2    5   10
+ 2 MELIACEAE  Trichilia  M1         71972                                                2    8    5
+ 3 MELIACEAE  Trichilia  M1         71972                                                2    6    5    3
+ 4 MELIACEAE  Trichilia  M1         71972                                                2    3   13
+ 5 MELIACEAE  Trichilia  M1         71972                                               10    5  2.5    7   10  2.5    5    6    4    5    8 8    9
+ 6 MELIACEAE  Trichilia  M1         71972                                                4    3    7    5    3
+ 7 MELIACEAE  Trichilia  M1         71972                                                4   10   12   19    9
+ 8 MELIACEAE  Trichilia  M1         71972                                                1    5
+ 9 MELIACEAE  Trichilia  M1         71972                                                5    5   16    3    6    4
+10 MELIACEAE  Trichilia  M1         71972                                                2  2.5  2.5
+ 7 MELIACEAE  Trichilia  M2         72037                                                3   12   12   13
+ 8 MELIACEAE  Trichilia  M2         72037                                                2    7    6
+ 9 MELIACEAE  Trichilia  M2         72037                                                5    4   16   17    8   12
+10 MELIACEAE  Trichilia  M2         72037                                                6    5   12   15    7   19   12    6
+ 5 MYRSINACEAEArdisia    M1         72016                                                1    3
+ 1 MYRTACEAE  M1         M1         71953                                                3    4    4    3  2.5  2.5    5
+ 4 MYRTACEAE  M2         M1         71996                                                1    8    3
+ 5 MYRTACEAE  M3         M1         72018                                                1    4
+ 6 MYRTACEAE  M4         M1         72035                                                1    3
+10 MYRTACEAE  M5         M1         72035                                                3    5  2.5    8
+ 2 NYCTAGINACEM1         M1         71974                                                3    3  2.5  2.5  2.5
+ 3 NYCTAGINACEM1         M1         71974                                                1    6
+ 2 NYCTAGINACEM2         M1         71978 72023                                          1  2.5
+ 5 NYCTAGINACEM2         M1         71978 72023                                          1    8
+ 4 NYCTAGINACEM3         M1         71995                                                1  2.5
+ 5 NYCTAGINACEM4         M1         72021                                                2   10    7    4    7   11   12    9
+ 1 PHYTOLACCACAchatocarpuM1         71955                                                2    5    4    3  2.5
+ 2 PHYTOLACCACM1         M1         71973                                           L    2  2.5  2.5
+ 3 PHYTOLACCACM1         M1         71973                                           L    2  2.5  2.5
+ 9 PHYTOLACCACM2         M1         72041                                           L    1  2.5
+ 4 POLYGONACEACoccoloba  M1         71994 72025                                          1    7    5    5    3  2.5
+ 5 POLYGONACEACoccoloba  M1         71994 72025                                          5   12   12    9    9    3    3  2.5    4    8   10 9    3    2.5
+ 6 POLYGONACEACoccoloba  M1         71994 72025                                          1   10   14   13    4    5    4  2.5  2.5
+ 6 POLYGONACEACoccoloba  M1         71994 72025                                          1    8    6    8   12  2.5    7   14    5    8    7 7
+ 6 POLYGONACEACoccoloba  M1         71994 72025                                          1    7    7   15    7    4    3  2.5    3    3  2.5 2.5
+ 7 POLYGONACEACoccoloba  M1         71994 72025                                          1   18    3    4    7    8    7
+ 8 POLYGONACEACoccoloba  M1         71994 72025                                          1   12   21    8   10    4   19
+ 8 POLYGONACEACoccoloba  M1         71994 72025                                          1    7   10    9    8    6    5   12
+10 POLYGONACEACoccoloba  M1         71994 72025                                          1    7
+ 1 POLYGONACEATriplaris  M1         71956                                                9    3  2.5  2.5    8    7    6    9   13    5    9
+ 2 POLYGONACEATriplaris  M1         71956                                                3    6  2.5    7
+ 3 POLYGONACEATriplaris  M1         71956                                                3    6    8    6
+ 4 POLYGONACEATriplaris  M1         71956                                                8    8    9    6  2.5  2.5   11    6    9
+ 1 RHAMNACEAE Ziziphus   M1         71958                                                1  2.5
+ 2 RHAMNACEAE Ziziphus   M1         71958                                                1    3    4    3
+ 3 RHAMNACEAE Ziziphus   M1         71958                                                1  2.5
+ 4 RHAMNACEAE Ziziphus   M1         71958                                                1    3
+ 7 RHAMNACEAE Ziziphus   M1         71958                                                1   18    9  2.5    5
+ 5 RUBIACEAE  Chomelia   spinosa    72020                                                1    9    5    4
+ 1 RUBIACEAE  Randia     M1         71969 71960 72043                                    1    3
+ 2 RUBIACEAE  Randia     M1         71969 71960 72043                                    1    3
+10 RUBIACEAE  Randia     M1         71969 71960 72043                                    1    6
+ 2 RUBIACEAE  Randia     M2         71975                                                1  2.5
+ 3 RUBIACEAE  Randia     M2         71975                                                2  2.5    3
+ 5 RUBIACEAE  Randia     M3         72029                                                1   10
+ 6 RUBIACEAE  Simira     M1         72036                                                1    4
+ 7 RUBIACEAE  Simira     M1         72036                                                1    3
+ 8 RUBIACEAE  Simira     M1         72036                                                1    3  2.5
+10 RUBIACEAE  Simira     M1         72036                                                1    3
+ 3 SAPINDACEAEPaullinia  M1         71988                                           L    1  2.5
+ 8 SAPINDACEAEPaullinia  M2         72040                                           L    2  2.5  2.5
+ 3 SAPINDACEAETalisia    M1         71985                                                1  2.5
+ 6 SAPINDACEAETalisia    M1         71985                                                1  2.5
+10 SAPINDACEAETalisia    M1         71985                                                1    3    3
+ 3 SAPOTACEAE Pouteria   M1         71990                                                1    3    3    3  2.5
+ 8 SOLANACEAE M1         M1         72039                                                1  2.5
+ 2 THYMELAEACEM1         M1         71976                                                6    6    6    8    3    5    5    4
+ 3 THYMELAEACEM1         M1         71976                                                1   15    3
+ 1 ULMACEAE   Celtis     iguanaea   71963                                           L    1  2.5    3
+ 3 VERBENACEAEM1         M1         71984                                                1  2.5
+ 8 VITACEAE   Cissus     verticillat72042                                           L    1    4
+ 
+
+
+
+
+
+
+
+

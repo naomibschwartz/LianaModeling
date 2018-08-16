@@ -1,0 +1,37 @@
+LineFAMILY      GENUS       SPECIES    vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 10 BORAGINACEAECORDIA      DICHOTOMA                                                        1  2.5
+  1 COMBRETACEAEANOGEISSUS  LATIFOLIA  66213                                                 3    6    8   10   14   16   21
+  2 COMBRETACEAEANOGEISSUS  LATIFOLIA  66213                                                 2   39   21
+  3 COMBRETACEAEANOGEISSUS  LATIFOLIA  66213                                                 1   17  
+  4 COMBRETACEAEANOGEISSUS  LATIFOLIA  66213                                                 3   22   23   20
+  7 COMBRETACEAEANOGEISSUS  LATIFOLIA  66213                                                 1   26
+  9 COMBRETACEAEANOGEISSUS  LATIFOLIA  66213                                                 1   20   23
+ 10 COMBRETACEAEANOGEISSUS  LATIFOLIA  66213                                                 1   19   28
+  1 COMBRETACEAETERMINALIA  CHEBULEA                                                         1   37
+  1 COMBRETACEAETERMINALIA  TOMENTOSA  66214                                                 2   13   36
+  4 COMBRETACEAETERMINALIA  TOMENTOSA  66214                                                 1   33
+  6 COMBRETACEAETERMINALIA  TOMENTOSA  66214                                                 1   51  
+  8 COMBRETACEAETERMINALIA  TOMENTOSA  66214                                                 1   36
+ 10 COMBRETACEAETERMINALIA  TOMENTOSA  66214                                                 1   16
+  4 EBENACEAE   DIOSPYROS   MONTANA                                                          1   29
+  8 EBENACEAE   DIOSPYROS   MONTANA                                                          1   21
+  3 EUPHORBIACEABRIDELIA    RETUSA                                                           1   36
+  5 EUPHORBIACEAMALLOTUS    PHILLIPPENS                                                      1   13    8
+  3 EUPHORBIACEAPHYLLANTHUS EMBLICA    66217                                                 1    7
+ 10 EUPHORBIACEAPHYLLANTHUS EMBLICA                                                          1   28   16   12
+  8 FABACEAE    CASSIA      FISTULA    66221                                                 1    6
+  5 FABACEAE    DALBERGIA   LATIFOLIA                                                        1   29
+  6 FABACEAE    DALBERGIA   LATIFOLIA                                                        1   66   18
+  6 LYTHRACEAE  LAGERSTROEMILANCEOLATA 66220                                                 2   13   30
+  7 LYTHRACEAE  LAGERSTROEMILANCEOLATA 66220                                                 1   20
+  9 LYTHRACEAE  LAGERSTROEMILANCEOLATA 66220                                                 1    6
+ 10 LYTHRACEAE  LAGERSTROEMILANCEOLATA 66220                                                 1   16
+  9 MALVACEAE   KYDIA       CALYCINA   66215                                                 1   10
+  8 MYRTACEAE   SYZYGIUM    M1                                                               1   35
+  4 RUBIACEAE   RANDIA      DUMETORUM                                                        3    4    5    7    4    5    3    3
+  9 RUBIACEAE   RANDIA      ULIGINOSA                                                        1   32
+  5 SAPINDACEAE SCHLEICHERA OLEOSA     66223                                                 1   92   60   39
+ 10 STERCULIACEAERIOLAENA   QUINQUELOCU66219                                                 2   19   25
+  2 VERBENACEAE GMELINA     ARBOREA                                                          1   52
+  2 VERBENACEAE TECTONA     GRANDIS    66212                                                 1   43
+  3 VERBENACEAE TECTONA     GRANDIS    66212                                                 1   47

@@ -1,0 +1,76 @@
+LineFAMILY      GENUS        SPECIES      vouchevoucheVoucheVoucheVoucheVoucheVoucheVoucheLIANN(INSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMS
+  2 ACTINIDIACEASAURAUIA     BULLOSA      54885                                                 1    8    5
+  1 AQUIFOLIACEAILEX         M1           54867 54889 60289                                     6    9    3   17    6   23   22
+  2 AQUIFOLIACEAILEX         M1           54889 54889 60289                                     5    5   12   13   13   12  2.5
+  4 AQUIFOLIACEAILEX         M1           60289 54889 60289                                     1  2.5
+  4 AQUIFOLIACEAILEX         M2           60290                                                 1    3
+  1 ARALIACEAE  OREOPANAX    PALAMOPHYLLUS54868 60272 60291                                     3    5   10   13
+  2 ARALIACEAE  OREOPANAX    PALAMOPHYLLUS54868 60272 60291                                     1   13
+  3 ARALIACEAE  OREOPANAX    PALAMOPHYLLUS54868 60272 60291                                     1    4  
+  4 ARALIACEAE  OREOPANAX    PALAMOPHYLLUS54868 60272 60291                                     1  2.5
+  4 ARALIACEAE  OREOPANAX    PALAMOPHYLLUS54868 60272 60291                                     3   16   31    8
+  3 ASTERACEAE  LIABUM       IGNIARUM     60286                                           L     1  2.5
+  2 ASTERACEAE  LIABUM       M1           60274                                           L     5  2.5  2.5    3  2.5    7
+  3 ASTERACEAE  LIABUM       M1           60274                                           L     1  2.5
+  1 ASTERACEAE  M1           M1           54877 60281                                     L     1  2.5
+  2 ASTERACEAE  M1           M1           54877 60281                                     L     4    5    4  2.5  2.5
+  3 ASTERACEAE  M1           M1           54877 60281                                     L     2  2.5  2.5
+  4 ASTERACEAE  M1           M1           54877 60281                                     L     2    3    5
+  1 ASTERACEAE  MIKANIA      HAENKEANA    54881 60284                                     L     2  2.5  2.5
+  3 ASTERACEAE  MIKANIA      HAENKEANA    54881 60284                                     L     2  2.5    7
+  1 ASTERACEAE  MIKANIA      M1           54880                                           L     1  2.5
+  2 ASTERACEAE  MIKANIA      M1           54880                                           L     3  2.5  2.5  2.5
+  3 ASTERACEAE  MIKANIA      M2           60271                                           L     5  2.5  2.5    3  2.5  2.5
+  4 ASTERACEAE  MIKANIA      M2           60271                                           L     3    5    3  2.5
+  4 ASTERACEAE  MIKANIA      ?            (60273)                                         L     2  2.5  2.5
+  1 ASTERACEAE  OLIGACTIS    CORIACEA     54869 60288                                     L     4  2.5  2.5  2.5    5
+  4 ASTERACEAE  OLIGACTIS    CORIACEA     54869 60288                                     L     6  2.5    6  2.5    4  2.5    3
+  4 BETULACEAE  ALNUS        ACUMINATA                                                          1   48
+  1 CHLORANTHACEHEDYOSMUM    LUTEYNII     54874 60276                                           1   15
+  2 CHLORANTHACEHEDYOSMUM    LUTEYNII     54874 60276                                           3  2.5    4  2.5  2.5   13
+  3 CHLORANTHACEHEDYOSMUM    LUTEYNII     54874 60276                                           4    7    6    3  2.5    4   19   27
+  1 CORIARIACEAECORIARIA     RUSCIFOLIA   54875                                           L     1    5    3
+  3 CORIARIACEAECORIARIA     RUSCIFOLIA   54875                                           L     1  2.5
+  1 CORIARIACEAECORNUS       PERUVIANA    54878 60269                                           5    6    7  2.5    9  2.5    7   10
+  2 CORIARIACEAECORNUS       PERUVIANA    54878 60269                                           1    7
+  3 CORIARIACEAECORNUS       PERUVIANA    54878 60269                                           1    7  2.5  2.5  2.5
+  4 CORNACEAE   CORNUS       PERUVIANA    54878 60269                                           4    7    4    4    6    9
+  1 ELAEOCARPACEVALLEA       STIPULARIS   60277                                                 1    5  2.5
+  3 ELAEOCARPACEVALLEA       STIPULARIS   60277                                                 1    3    3
+  4 ELAEOCARPACEVALLEA       STIPULARIS   60277                                                 1    8
+  1 ERICACEAE   M1           M1           54879 60279                                     L     6  2.5  2.5    6    9    4    4
+  2 ERICACEAE   M1           M1           54879 60279                                     L     5  2.5    5  2.5  2.5    4
+  3 ERICACEAE   M1           M1           54879 60279                                     L     2    5    9
+  4 ERICACEAE   M1           M1           54879 60279                                     L     1    3
+  1 ERICACEAE   M2           M1           54882                                           L     3  2.5    5    5
+  2 ERICACEAE   M2           M1           54882                                           L     1  2.5
+  4 FLACOURTIACECASEARIA     MEXIAE       60293                                                 1  2.5
+  3 MELASTOMATACMICONIA      CROCEA       60283                                                 3    5  2.5    3
+  3 MELASTOMATACMICONIA      PUSTULATA    60278                                                 1  2.5
+  1 MELASTOMATACMICONIA      THEAZANS     54873 60280                                          14   14   27   15  2.5   13   16   21   21    8    4   17   19   12   13   16   10   12    7  2.5  2.5
+  2 MELASTOMATACMICONIA      THEAZANS     54873 60280                                          18   18   12  2.5    7   12   13   30   19   18    5    4   13    6   16   15    5  2.5    7  2.5   21   14  2.5   10   10   20
+  3 MELASTOMATACMICONIA      THEAZANS     54873 60280                                          11  2.5    5    8   10    3    9    9    7   11   10   17
+  4 MELASTOMATACMICONIA      THEAZANS     54873 60280                                           7   12  2.5  2.5    7    9   14    4    6  2.5    8   28
+  2 MYRICACEAE  GEISSANTHUS  PICHINCHAE   54888                                                 2    5    6  2.5
+  2 MYRISTICACEAMYRICA       PUBESCENS    54886                                                 2   25   19
+  4 MYRSINACEAE GEISSANTHUS  PICHINCHAE   60294                                                 2  2.5    3
+  1 PIPERACEAE  PIPER        M1           54871 60292                                           1  2.5
+  4 PIPERACEAE  PIPER        M1           54871 60292                                           1  2.5
+  1 PIPERACEAE  PIPER        M2           54872 60296                                           3    3    3    4
+  2 PIPERACEAE  PIPER        M2           54872 60296                                           1  2.5
+  4 PIPERACEAE  PIPER        M2           54872 60296                                           2  2.5    3    8    5    5
+  1 POACEAE     CHUSQUEA     SCANDENS     60275                                           L     6  2.5  2.5  2.5  2.5  2.5  2.5
+  2 POACEAE     CHUSQUEA     SCANDENS     60275                                           L     4  2.5  2.5  2.5  2.5  2.5  2.5  2.5
+  3 POACEAE     CHUSQUEA     SCANDENS     60275                                           L     9  2.5    3  2.5  2.5  2.5  2.5  2.5  2.5    3  2.5  2.5
+  4 POACEAE     CHUSQUEA     SCANDENS     60275                                           L     8  2.5  2.5  2.5  2.5  2.5  2.5  2.5    3    3  2.5
+  2 PODOCARPACEAPODOCARPUS   OLEIFOLIUS   54883                                                 1    3
+  4 PODOCARPACEAPODOCARPUS   OLEIFOLIUS   60295                                                 1    6
+  4 POLYGONACEAEMUHLEMBECKIA M1           60287                                           L     1  2.5
+  2 RANUNCULACEACLEMATIS     M1           54884 60270                                     L     1  2.5
+  3 RANUNCULACEACLEMATIS     M1           54884 60270                                     L     1  2.5
+  1 ROSACEAE    PRUNUS       HUANTENSIS   54876                                                 2  2.5    3    5
+  2 ROSACEAE    PRUNUS       HUANTENSIS   54876                                                 1    3
+  1 RUBIACEAE   PALICOUREA   BRYOPHILA    54870                                                 3  2.5    7   11
+  2 RUBIACEAE   PALICOUREA   BRYOPHILA    54870                                                 3  2.5  2.5   11  2.5
+  3 RUBIACEAE   PSYCHOTRIA   M1           60282 60285                                           3    6  2.5  2.5  2.5
+  2 VERBENACEAE DURANTA      TRIACANTHA   54887                                           L     1  2.5

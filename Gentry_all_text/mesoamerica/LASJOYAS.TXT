@@ -1,0 +1,89 @@
+LineFAMILY      GENUS       SPECIES    vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(IND.STEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 10 ARACEAE     SYMPLOCARPUSPURPUSII   73547                                                   1   28
+  1 ARALIACEAE  DENDROPANAX ARBORESCENS                                                        1   29
+  2 ARALIACEAE  DENDROPANAX ARBORESCENS                                                        2   36   39
+  7 ARALIACEAE  DENDROPANAX ARBORESCENS                                                        1   32
+  8 ARALIACEAE  DENDROPANAX ARBORESCENS                                                        3   33   42   18
+  9 ARALIACEAE  DENDROPANAX ARBORESCENS                                                        2   25   30
+ 10 ARALIACEAE  DENDROPANAX ARBORESCENS                                                        1   14
+  3 ARALIACEAE  OREOPANAX   ECHINOPS   73836                                                   1    5
+  7 ASCLEPIACACEASCLEPIAS   MI         73540                                           L       1  2.5
+  2 ASTERACEAE  EUPATORIUM  M1         73530 73549                                     H       3  2.5    4  2.5
+  8 ASTERACEAE  EUPATORIUM  M1         73530 73549                                     H       1  2.5
+ 10 ASTERACEAE  EUPATORIUM  M1         73530 73549                                     H       1  2.5  2.5
+  3 BETULACEAE  CARPINUS    M1                                                                 2   64    3
+  6 BETULACEAE  CARPINUS    M1                                                                 2   60  107
+  7 BETULACEAE  CARPINUS    M1                                                                 1   57
+ 10 BETULACEAE  CARPINUS    M1                                                                 1  2.5
+  8 CAPRIFOLIACEVIBURNUM    HARTWEGII  73543                                                   1  2.5
+  3 CELASTRACEAECELASTRUS   M1         73535                                           L       3  2.5  2.5   12
+  8 CELASTRACEAECELASTRUS   M1         73535                                           L       1  2.5
+ 10 CELASTRACEAECELASTRUS   M1         73535                                           L       1    9
+  4 CELASTRACEAEPERROTTOTIA LONGISTYLII73537                                                   1   54   12    5   19    7    7   36
+  2 CELASTRACEAEZINOWIEWIA  CONCINNA   73531                                                   2   58   49    4
+  3 CELASTRACEAEZINOWIEWIA  CONCINNA   73531                                                  13  2.5   10   10  2.5    4  2.5   36  2.5    6    4    3   20   24    7   12  2.5  2.5
+  4 CELASTRACEAEZINOWIEWIA  CONCINNA   73531                                                   3    3    4    6
+  5 CELASTRACEAEZINOWIEWIA  CONCINNA   73531                                                   3   63  2.5   60
+  7 CELASTRACEAEZINOWIEWIA  CONCINNA   73531                                                   1  2.5  2.5
+ 10 CELASTRACEAEZINOWIEWIA  CONCINNA   73531                                                   2   11   38
+  8 CELASTRACEAEZINOWIEWIA  CPNCINNA   73531                                                   5   12    6    6    9   15
+  9 CELASTRACEAEZINOWIEWIA  FLEXUOSUM                                                          1  2.5  2.5
+  3 CONVOLVULACEIPOMOA      ORIZABENSIS73533                                           H       1  2.5
+  2 CONVOLVULACEIPOMOEA     ORIZABENSIS73533                                           H       2    7    3    3
+  1 EUPHORBIACEAEUPHORBIA   SCHLECHTENDAL                                                      3  2.5    4    4
+  2 EUPHORBIACEAEUPHORBIA   SCHLECHTENDAL                                                      5   10    4    5    6    5
+  3 EUPHORBIACEAEUPHORBIA   SCHLECHTENDAL                                                      2    3    5    7
+  5 EUPHORBIACEAEUPHORBIA   SCHLECHTENDAL                                                      1  2.5    3
+  7 EUPHORBIACEAEUPHORBIA   SCHLECHTENDAL                                                      4    5    6    5    4    7
+  9 EUPHORBIACEAEUPHORBIA   SCHLECHTENDAL                                                      2    4  2.5
+ 10 EUPHORBIACEAEUPHORBIA   SCHLECHTENDAL                                                      3  2.5    3  2.5
+  2 FAGACEAE    QUARCUS     ACUTIFOLIA 73532                                                   1    8
+  3 FAGACEAE    QUERCUS     ACUTIFOLIA 73532                                                   1  124
+ 10 FAGACEAE    QUERCUS     SALICIFOLIA73548                                                   1  118
+  3 FLACOURTIACEXYLOSMA     FLEXUOSUM  73534                                                   1   13
+  8 FLACOURTIACEXYLOSMA     FLEXUOSUM  73534                                                   1  2.5
+ 10 FLACOURTIACEXYLOSMA     FLEXUOSUM  73534                                                   1  2.5
+  9 INDET       M1          M1         73544                                                   1  2.5
+  2 LAURACEAE   CINNAMOMUM  PACHYPODUM                                                         3   24   54    4    6    3    3   32   33    5   12    7   10   31  2.5  2.5    8   52    6   18   15    7    4    6
+  3 LAURACEAE   CINNAMOMUM  PACHYPODUM                                                         1   41
+  7 LAURACEAE   CINNAMOMUM  PACHYPODUM                                                         1  2.5
+  9 LAURACEAE   CINNAMOMUM  PACHYPODUM                                                         1    8   33   46   40
+ 10 LAURACEAE   CINNAMOMUM  PACHYPODUM                                                         1    4  2.5  2.5   52
+ 10 LAURACEAE   PERSEA      HINTONII   73546                                                   1   30
+  1 MAGNOLIACEAEMAGNOLIA    ILTISII                                                            1   82
+  4 MELASTOMATACCONOSTEGIA  VULCANICOLA                                                        1    3   33    3
+  6 MELASTOMATACCONOSTEGIA  VULCANICOLA                                                        3   10   10   10
+  7 MELASTOMATACCONOSTEGIA  VULCANICOLA                                                        2    8   13    7   11    7   13    9   10    4
+  9 MELASTOMATACCONOSTEGIA  VULCANICOLA                                                        1   27   11    8
+  5 MELASTOMATACLEANDRA     SUBSERIATA                                                         1  2.5
+  1 MELIACEAE   TRICHILIA   HAVANENSIS 73526                                                   1   55
+  1 MYRSINACEAE ARDISIA     VENOSA     73527                                                   2   27   23
+  7 MYRSINACEAE ARDISIA     VENOSA     73527                                                   1  2.5
+  1 MYRSINACEAE PARATHESIS  VILLOSA                                                           11  2.5  2.5    4  2.5    4    4    5    3  2.5  2.5    3    4    6    6    3    5
+  2 MYRSINACEAE PARATHESIS  VILLOSA                                                            5    3    3    6  2.5  2.5    3    3
+  3 MYRSINACEAE PARATHESIS  VILLOSA                                                            3  2.5    3  2.5
+  4 MYRSINACEAE PARATHESIS  VILLOSA                                                            1    4
+  5 MYRSINACEAE PARATHESIS  VILLOSA                                                            1  2.5  2.5
+  6 MYRSINACEAE PARATHESIS  VILLOSA                                                            4  2.5    4  2.5  2.5    3
+  7 MYRSINACEAE PARATHESIS  VILLOSA                                                           14  2.5  2.5    4    3  2.5    3    5  2.5  2.5  2.5  2.5    3    3  2.5    3    4
+  8 MYRSINACEAE PARATHESIS  VILLOSA                                                           11    6  2.5    6    4    3  2.5    4  2.5    3    4    5    4  2.5    3
+  9 MYRSINACEAE PARATHESIS  VILLOSA                                                            5    3  2.5  2.5  2.5    6    4    3    5
+  7 OLEACEAE    FRAXINUS    UHDEI      73539                                                   1  2.5
+  7 PIPERACEAE  PIPER       M1         73542                                                   1  2.5
+  9 RANUNCULACEACLEMATIS    DIOICA     73545                                           L       1  2.5
+  1 SABIACEAE   MELIOSMA    DENTATA                                                            2   25   38
+  1 SAPINDACEAE SERJANIA    M1         73529                                           L       1    4
+  7 SMILACACEAE SMILAX      M1         73541                                           L       2    3    3    3    4
+ 10 SMILACACEAE SMILAX      M1         73541                                           L       2    3    4    5
+  1 SOLANACEAE  CESTRUM     M1         73528                                                   1    3
+  3 SOLANACEAE  CESTRUM     M1         73528                                                   1  2.5
+  4 SOLANACEAE  CESTRUM     M1         73528                                                   1    4
+  8 SOLANACEAE  CESTRUM     M1         73528                                                   2    3    3
+  9 SOLANACEAE  CESTRUM     M1         73528                                                   3    3  2.5  2.5  2.5  2.5
+ 10 SOLANACEAE  SOLANUM     M1         73550                                                   1  2.5
+  1 STAPHYLEACEATURPINIA    OCCIDENTALI73524                                                   1  2.5
+  7 STAPHYLEACEATURPINIA    OCCIDENTALI73524                                                   1   42
+ 10 STAPHYLEACEATURPINIA    OCCIDENTALI73524                                                   1  2.5
+  5 TILIACEAE   TILIA       MEXICANA   73538                                                   1  2.5   57  2.5
+  1 VITACEAE    VITIS       M1         73525                                           L       2    8    6
+  4 VITACEAE    VITIS       M1         73525                                           L       3    9   14  2.5

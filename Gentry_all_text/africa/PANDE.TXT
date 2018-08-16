@@ -1,0 +1,80 @@
+LinFamily       Genus      species  vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 1 ANNONACEAE   M1         M1       62335                                                1  2.5 5
+ 4 ANNONACEAE   MonanthotaxM1       62369                                           L    1  2.5
+ 2 ANNONACEAE   Uvaria     pandensis62271                                           L    1  2.5
+ 3 APOCYNACEAE  Hunteria   M1       62359                                                4  2.5   16  2.5   13
+ 4 APOCYNACEAE  Hunteria   M1       62359                                                1   18
+ 5 APOCYNACEAE  Hunteria   M1       62359                                                1   12
+ 1 APOCYNACEAE  Landolphia M1       62332                                           L    4    3 2.5  4    2.5
+ 3 APOCYNACEAE  Landolphia M1       62332                                           L    2  2.5 2.5
+ 2 APOCYNACEAE  Landolphia M2       62351 62352                                     L    4    3 2.5  3    2.5
+ 2 APOCYNACEAE  Landolphia M2       62351 62352                                     L    1  2.5
+ 2 APOCYNACEAE  Strophanthukombi    62349                                           L    1  2.5
+ 4 APOCYNACEAE  Strophanthukombi    62349                                           L    1    5
+ 1 APOCYNACEAE  StrophanthuM1       62343                                           L    1  2.5
+ 5 CELASTRACEAE M1         M1       62372                                           L    1    3
+ 1 CELASTRACEAE Salacia    M1       62344                                           L    1    9
+ 2 CELASTRACEAE Salacia    M1       62344                                           L    4  2.5 2.5  2.5  8
+ 4 CELASTRACEAE Salacia    M1       62344                                           L    3  2.5 3    4    3    6    3    4    4    3    2.5  2.5
+ 5 CELASTRACEAE Salacia    M1       62344                                           L    5  2.5 5    3    2.5  2.5  2.5  6    3
+ 1 COMBRETACEAE Combretum  M1       62333                                           L    1  2.5
+ 2 COMBRETACEAE Combretum  M1       62333                                           L    2  2.5 4
+ 1 COMBRETACEAE Combretum  M2       62337                                           L    1    5
+ 2 COMBRETACEAE Combretum  M2       62337                                           L    2    3 2.5  4
+ 3 COMBRETACEAE Combretum  M3       62363                                           L    2    6 3
+ 3 COMBRETACEAE Combretum  M4       62365                                           L    1  2.5
+ 4 COMBRETACEAE Combretum  M4       62365                                           L    1    3
+ 5 COMBRETACEAE Combretum  M5       62370                                           L    1    3
+ 5 COMBRETACEAE Combretum  M6       62373                                           L    1    5 4    4
+ 5 COMBRETACEAE Combretum  M6       62375                                           L    1  2.5
+ 1 EUPHORBIACEAECroton     M1       62328                                                1   34
+ 4 EUPHORBIACEAECroton     M2       62367                                                1    5
+ 2 EUPHORBIACEAEDrypetes   M1       62347                                                3    5 5    3
+ 4 EUPHORBIACEAEDrypetes   M1       62347                                                1    4
+ 3 EUPHORBIACEAEDrypetes   M2       62362                                                1  2.5
+ 1 EUPHORBIACEAEErythrococcM1       62339                                                1  2.5 2.5
+ 2 EUPHORBIACEAEErythrococcM1       62339                                                1  2.5
+ 3 EUPHORBIACEAEErythrococcM1       62339                                                1    5
+ 4 EUPHORBIACEAEErythrococcM1       62339                                                1    3
+ 5 EUPHORBIACEAEErythrococcM1       62339                                                1    6
+ 2 EUPHORBIACEAEEuphorbia  M1       62353                                                2    3 5    3    4
+ 4 EUPHORBIACEAESapium     M1       62366                                           L    1    4
+ 1 FABACEAE     Acacia     M1       62334                                           L    1  2.5
+ 4 FABACEAE     Acacia     M1       62334                                           L    2   14 6
+ 3 FABACEAE     Baphia     keckii   62356                                                1    3
+ 1 FABACEAE     Baphia     M1       62338                                                1  2.5
+ 3 FABACEAE     Baphia     M1       62338                                                1  2.5 5    2.5  19
+ 3 FABACEAE     Hymenaea   M1       62357                                                2  2.5 2.5
+ 1 FABACEAE     Milletia   impressa 62330                                           L    2  2.5 2.5
+ 3 FABACEAE     Milletia   M1       62358                                           L    2    5 4
+ 2 FABACEAE     Scorodophlofischeri                                                     14    5 4    5    2.5  2.5  23   4    2.5  13   13    2.5   11   13  2.5    6
+ 3 FABACEAE     Scorodophlofischeri                                                      3    3 15   16
+ 4 FABACEAE     Scorodophlofischeri                                                      8   15 2.5  2.5  2.5  18   2.5  15   6
+ 5 FABACEAE     Scorodophlofischeri                                                      4    4 2.5  3    15   17   6    8
+ 4 LINACEAE     Hugonia    M1       62368                                           L    1    7
+ 1 LOGANIACEAE  Strychnos  M1       62341                                           L    1    6
+ 2 LOGANIACEAE  Strychnos  pandensis62350                                           L    1  2.5
+ 4 LOGANIACEAE  Strychnos  pandensis62350                                           L    1    4
+ 2 MORACEAE     Ficus      M1       62354                                           L    1  2.5
+ 1 OCHNACEAE    Ochna      M1       62331                                                2  2.5 2.5  3
+ 1 RHIZOPHORACEACassipoureaM1       62342                                                1  2.5
+ 3 RHIZOPHORACEACassipoureaM1       62342                                                1   13
+ 1 RUBIACEAE    Canthium   M1       62329                                                1   10
+ 4 RUBIACEAE    Kraussia   M1       62345                                                1    5
+ 5 RUBIACEAE    Kraussia   M1       62345                                                1    4
+ 1 SAPINDACEAE  HaplocoelumM1       62340                                                1  2.5
+ 2 SAPINDACEAE  HaplocoelumM2       62346                                                2  2.5 2.5
+ 3 SAPINDACEAE  HaplocoelumM3       62364                                                1   12
+ 5 SAPINDACEAE  HaplocoelumM3       62364                                                1   39
+ 1 SAPOTACEAE   Manilkara  discolor 62336                                                1   20 5    10
+ 2 SAPOTACEAE   Manilkara  discolor 62336                                                5    8 3    2.5  28   19
+ 3 SAPOTACEAE   Manilkara  discolor 62336                                                5   22 2.5  2.5  7    15
+ 4 SAPOTACEAE   Manilkara  discolor 62336                                                3   17 4    13
+ 5 SAPOTACEAE   Manilkara  discolor 62336                                                5    5 2.5  2.5  15   3    6
+ 5 SAPOTACEAE   Manilkara  sulcata  62371                                                2    9 3    2.5
+ 5 STERCULIACEAECola       M1       62374                                                1  2.5
+ 3 STERCULIACEAENesogordoniM1       62361                                                1   10
+ 5 STERCULIACEAENesogordoniM1       62361                                                1   13
+ 3 VERBENACEAE  Vitex      M1       62360                                                2    4 3
+
+

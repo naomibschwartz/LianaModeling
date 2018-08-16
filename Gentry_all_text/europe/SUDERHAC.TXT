@@ -1,0 +1,64 @@
+LineFamily     Genus            Species        vouchevouchevouchevouchevouchevouchevouchevoucheLianN(IndStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStem
+6   ACERACEAE  ACER             PSEUDOPLATANUS                                                        1   4
+3   AQUIFOLIACEILEX             AQUIFOLIUM                                                            1 2.5
+5   ARALIACEAE HEDERA           HELIX                                                          L      1 2.5
+8   ARALIACEAE HEDERA           HELIX                                                                 1 2.5
+9   ARALIACEAE HEDERA           HELIX                                                          L      1 2.5
+1   BETULACEAE ALNUS            GLUTINOSA                                                             2  23   9
+1   BETULACEAE CARPINUS         BETULUS                                                               2  14  17
+10  BETULACEAE ALNUS            GLUTINOSA                                                             5  28  31  12  10  15
+4   BETULACEAE ALNUS            GLUTINOSA                                                             1  17
+10  BETULACEAE CARPINUS         BETULUS                                                               1   5
+2   BETULACEAE CARPINUS         BETULUS                                                               2  20  10
+3   BETULACEAE CARPINUS         BETULUS                                                               2   4   6
+4   BETULACEAE CARPINUS         BETULUS                                                               1  36
+5   BETULACEAE CARPINUS         BETULUS                                                               2  32   3
+7   BETULACEAE CARPINUS         BETULUS                                                               3   3   7   7
+8   BETULACEAE CARPINUS         BETULUS                                                               6   6  39  46   5  10  32
+9   BETULACEAE CARPINUS         BETULUS                                                               2  40  30
+10  BETULACEAE CORYLUS          AVELLANA                                                              2   3   3   4   5   6   7   3   5   6   5   3   6   2
+6   BETULACEAE CORYLUS          AVELLANA                                                              1   3
+7   BETULACEAE CORYLUS          AVELLANA                                                              1   3
+5   OLEACEAE   FRAXINUS         EXCELSIOR                                                             2   9  15
+1   FAGACEAE   FAGUS            SYLVATICA                                                            12 7.5  31  17  13  29 7.5   5   5 2.5  12  13  27   5
+10  FAGACEAE   FAGUS            SYLVATICA                                                             1   9
+2   FAGACEAE   FAGUS            SYLVATICA                                                            16   6  31  21  19  24   8  14   9   5 2.5   6   9   5   5   5  24
+3   FAGACEAE   FAGUS            SYLVATICA                                                             5  11   3  25 2.5  54
+4   FAGACEAE   FAGUS            SYLVATICA                                                            10  11  14   6  17  24  18  18   4   9   9
+5   FAGACEAE   FAGUS            SYLVATICA                                                            18   5  13   4  16   4  34 2.5  19 2.5  12   7 2.5 2.5   3   6   3  12  36
+6   FAGACEAE   FAGUS            SYLVATICA                                                            12 2.5  12 2.5   4  11   5   7   6  16   6   5  18
+7   FAGACEAE   FAGUS            SYLVATICA                                                            11   7  12   8  13  19  10   4  20   6  16  27
+8   FAGACEAE   FAGUS            SYLVATICA                                                             6   6   6   6   6   6   7
+9   FAGACEAE   FAGUS            SYLVATICA                                                             5   8   5   3 2.5  15
+5   FAGACEAE   QUERCUS          ROBUR                                                                 1  44
+6   FAGACEAE   QUERCUS          ROBUR                                                                 1   8
+1   OLEACEAE   FRAXINUS         EXCELSIOR                                                             1  27
+10  OLEACEAE   FRAXINUS         EXCELSIOR                                                             8   5   6  11  36   3   8   6   3
+2   OLEACEAE   FRAXINUS         EXCELSIOR                                                             3  13  27  11
+3   OLEACEAE   FRAXINUS         EXCELSIOR                                                             7   6  25   8   6  11  11   5
+4   OLEACEAE   FRAXINUS         EXCELSIOR                                                             5   5   5  14   8   6
+6   OLEACEAE   FRAXINUS         EXCELSIOR                                                             5   9   9  20  19  10  17
+7   OLEACEAE   FRAXINUS         EXCELSIOR                                                             1  13  13 2.5   9   6
+8   OLEACEAE   FRAXINUS         EXCELSIOR                                                             7  46  54   4  19  44  11  35
+9   OLEACEAE   FRAXINUS         EXCELSIOR                                                             6   3   3  11   9   9  15
+4   ROSACEAE   CRATAEGUS        MONOGYNA                                                              1   3
+3   ROSACEAE   SORBUS           AUCUPARIA                                                             1   5
+10  SALICACEAE SALIX            CAPREA                                                                1 7.5
+9   SALICACEAE SALIX            CAPREA                                                                1  10  12
+10  SALICACEAE SALIX            M1                                                                    1  16
+1   TILIACEAE  TILIA            CORDATA                                                               1  16
+2   ULMACEAE   ULMUS            MONTANA                                                               1  23
+
+
+
+
+
+
+
+
+
+
+
+
+
+

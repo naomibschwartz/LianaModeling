@@ -1,0 +1,224 @@
+LinFamily         Genus       species  vouchevouchevouchevouchevouchevouchevouchevouchetypSTESTEMDSTEMDSTEMDSTEMDSDTEMSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 3 ACANTHACEAE    Dicliptera  M1       73819                                           L   1  2.5
+ 5 ACANTHACEAE    Dicliptera  M1       73819                                           L   1  2.5
+ 8 ACANTHACEAE    Dicliptera  M1       73819                                           L   1    3
+ 9 ACANTHACEAE    Dicliptera  M1       73819                                           L   1  2.5
+ 3 ANACARDIACEAE  Myracodruon urundeuva73917                                               1   10
+ 4 ANACARDIACEAE  Myracodruon urundeuva73917                                               1   12
+ 6 ANACARDIACEAE  Myracodruon urundeuva73917                                               2   38 23
+ 8 ANACARDIACEAE  Myracodruon urundeuva73917                                               1   30
+ 9 ANACARDIACEAE  Myracodruon urundeuva73917                                               2   27 37
+10 ANACARDIACEAE  Myracodruon urundeuva73917                                               3   32 26   30
+ 1 ANACARDIACEAE  Schinopsis  glabra   73885                                               1   38
+ 5 ANNONACEAE     M1          M1       73941                                               1    5 6
+ 1 APOCYNACEAE    AspidospermaM1       73890                                               2    3 21
+ 2 APOCYNACEAE    AspidospermaM1       73890                                               1    5
+ 6 APOCYNACEAE    Aspidospermapyrifoliu73949                                               1   14
+10 APOCYNACEAE    Aspidospermapyrifoliu73949                                               1   14
+ 4 APOCYNACEAE    Forsteronia M1       73928                                           L   5    3 3    4    7    3
+ 5 APOCYNACEAE    Forsteronia M1       73928                                           L   3    4 5    3
+ 6 APOCYNACEAE    Forsteronia M1       73928                                           L   1    3
+ 4 BIGNONIACEAE   Adenocalymnabracteola73924                                           L   1  2.5
+ 1 BIGNONIACEAE   Anemopaegma patellifo73898                                           L   1  2.5
+ 1 BIGNONIACEAE   Arrabidaea  fagoides 73889                                           L   2    9 9    8    2.5
+ 2 BIGNONIACEAE   Arrabidaea  fagoides 73889                                           L   1    6 5    4
+ 3 BIGNONIACEAE   Arrabidaea  fagoides 73889                                           L   1    3
+ 6 BIGNONIACEAE   Arrabidaea  fagoides 73889                                           L   5    8 8    5    10   9    8
+ 7 BIGNONIACEAE   Arrabidaea  fagoides 73889                                           L   1  2.5
+ 9 BIGNONIACEAE   Arrabidaea  fagoides 73889                                           L   1    3
+ 1 BIGNONIACEAE   Arrabidaea  florida  73897                                           L   2    4 9
+ 3 BIGNONIACEAE   Arrabidaea  florida  73897                                           L   2    4 2.5
+ 4 BIGNONIACEAE   Arrabidaea  florida  73897                                           L   2    3 2.5
+ 5 BIGNONIACEAE   Arrabidaea  florida  73897                                           L   2    4 5
+ 6 BIGNONIACEAE   Arrabidaea  florida  73897                                           L   2    5 3
+ 7 BIGNONIACEAE   Arrabidaea  florida  73897                                           L   2    3 4
+10 BIGNONIACEAE   Arrabidaea  florida  73897                                           L   2    4 4
+ 8 BIGNONIACEAE   Arrabidaea  truncata 73960                                           L   2    6 4
+ 9 BIGNONIACEAE   Clytostoma  callisteg73969                                           L   1    3
+ 1 BIGNONIACEAE   Cydista     decora   73884                                           L   1  2.5
+ 3 BIGNONIACEAE   Cydista     decora   73884                                           L   4    3 2.5  3    2.5
+ 4 BIGNONIACEAE   Cydista     decora   73884                                           L   1  2.5
+ 5 BIGNONIACEAE   Cydista     decora   73884                                           L   1  2.5
+ 7 BIGNONIACEAE   Cydista     decora   73884                                           L   1  2.5
+ 8 BIGNONIACEAE   Cydista     decora   73884                                           L   2  2.5 2.5
+ 7 BIGNONIACEAE   Macfadyena  mollis   73956                                           L   1  2.5
+ 9 BIGNONIACEAE   Macfadyena  unguis-ca73963 73970                                     L   3    3 4    2.5
+ 1 BIGNONIACEAE   Mansoa      difficili73902                                           L   1  2.5
+ 2 BIGNONIACEAE   Mansoa      difficili73902                                           L   2  2.5 3
+ 5 BIGNONIACEAE   Mansoa      difficili73902                                           L   1    3
+ 7 BIGNONIACEAE   Mansoa      difficili73902                                           L   1    3
+ 9 BIGNONIACEAE   Mansoa      difficili73902                                           L   2    3 2.5
+10 BIGNONIACEAE   Mansoa      difficili73902                                           L   1  2.5
+10 BIGNONIACEAE   Parabignoniachodatii 73967                                           L   1    7
+ 5 BIGNONIACEAE   Perianthomegrellozoi 73943                                           L   1  2.5
+ 1 BIGNONIACEAE   Pithecoctenicrucigeru73888                                           L   1    3
+ 2 BIGNONIACEAE   Pithecoctenicrucigeru73888                                           L   1    4
+ 5 CAPPARIDACEAE  Capparis    retusa   73938                                               1  2.5
+ 7 CAPPARIDACEAE  Capparis    retusa   73938                                               3    5 6    9
+ 8 CAPPARIDACEAE  Capparis    retusa   73938                                               3    5 5    5
+ 9 CAPPARIDACEAE  Capparis    retusa   73938                                               2    6 5    8
+10 CAPPARIDACEAE  Capparis    retusa   73938                                               2    4 17
+ 9 CAPPARIDACEAE  Capparis    speciosa 73965                                               1    6
+ 2 CELASTRACEAE   Hippocratea M1       73915                                           L   1  2.5
+ 4 CELASTRACEAE   Hippocratea M1       73915                                           L   1  2.5
+ 6 CELASTRACEAE   Hippocratea M1       73915                                           L   1    3
+ 8 CELASTRACEAE   Hippocratea M1       73915                                           L   1    4
+ 5 CELASTRACEAE   Salacia     elliptica73936                                               1    6 9    19
+ 4 COMBRETACEAE   Combretum   leprosum 73920                                               3    7 7    6
+ 4 COMBRETACEAE   Terminalia  M1       73921                                               1   24
+ 7 CONVOLVULACEAE M1          M1       73955                                               1    3
+ 9 CONVOLVULACEAE M1          M1       73955                                           L   1  2.5
+ 8 CUCURBITACEAE  M1          M1       73958A                                          L   2   10 8
+ 5 CUCURBITACEAE  Siolmatra   M1       73937                                           L   2    6 3
+10 ERYTHROXYLACEAEErythroxylumM1       73974                                               1    4 4
+ 7 EUPHORBIACEAE  Croton      M1       73948                                               1    8 2.5
+ 8 EUPHORBIACEAE  Croton      M1       73948                                               3    8 2.5  6    2.5
+ 1 EUPHORBIACEAE  Margaritarianobilis  73905                                               1  2.5
+ 2 EUPHORBIACEAE  Margaritarianobilis  73905                                               1   14
+ 4 EUPHORBIACEAE  Margaritarianobilis  73905                                               1    4 2.5
+ 8 FABACEAE       Albizia     niopoides73959                                               3    5 5    3
+ 1 FABACEAE       Anadenanthercolubrina73892                                               1   36
+ 3 FABACEAE       Anadenanthercolubrina73892                                               2    3 2.5
+ 4 FABACEAE       Anadenanthercolubrina73892                                               1    5
+ 7 FABACEAE       Anadenanthercolubrina73892                                               1    6
+ 8 FABACEAE       Anadenanthercolubrina73892                                           L   1   10
+ 9 FABACEAE       Anadenanthercolubrina73892                                               1    5
+ 1 FABACEAE       Bauhinia    M1       73887                                               2    3 2.5
+ 4 FABACEAE       Bauhinia    M1       73887                                               1   11
+ 8 FABACEAE       Bauhinia    M1       73887                                               1   11
+ 4 FABACEAE       Caesalpinia floribund73927                                               2   11 8    4    28
+ 1 FABACEAE       Calliandra  M1       73901                                               1   34 27
+ 2 FABACEAE       Calliandra  M1       73901                                               2   14 16
+ 3 FABACEAE       Calliandra  M1       73901                                               1    5
+ 4 FABACEAE       Calliandra  M1       73901                                               1    9 4
+ 5 FABACEAE       Calliandra  M1       73901                                               4    9 26   3    4
+ 6 FABACEAE       Calliandra  M1       73901                                               2   21 5
+ 7 FABACEAE       Calliandra  M1       73901                                               3   17 5    10
+ 8 FABACEAE       Calliandra  M1       73901                                               2   37 9
+ 9 FABACEAE       Calliandra  M1       73901                                               3    4 5    8
+10 FABACEAE       Calliandra  M1       73901                                               1   13
+ 5 FABACEAE       Cyclolobium blancheti73939                                               1    4 3    4    5    4    4    4
+ 1 FABACEAE       Diphysa     M1       73896 73954                                         1    6
+ 2 FABACEAE       Diphysa     M1       73896 73954                                         1    9
+ 7 FABACEAE       Diphysa     M1       73896 73954                                         3   11 3    9
+ 9 FABACEAE       Diphysa     M1       73896 73954                                         1   25
+ 5 FABACEAE       Holocalyx   balansae 73945                                               1    9
+ 2 FABACEAE       Hymenaea    M1       73914                                               1   40
+ 3 FABACEAE       M1          M1       73961 73947 73914                                   2    6 4
+ 6 FABACEAE       M1          M1       73961 73947 73914                                   1    7
+ 8 FABACEAE       M1          M1       73961 73947 73914                                   1   13
+ 8 FABACEAE       M1          M1       73961 73947 73914                                   1    5
+ 4 FABACEAE       M2          M1       73932                                               1  2.5
+ 5 FABACEAE       M2          M1       73932                                               1    6
+10 FABACEAE       M3          M1       73966                                               2   28 23
+ 4 FABACEAE       Parapiptadenexcelsa  73934                                               1    5
+ 5 FABACEAE       Parapiptadenexcelsa  73934                                               1    7 17
+ 6 FABACEAE       Parapiptadenexcelsa  73934                                               1    3
+ 7 FABACEAE       Parapiptadenexcelsa  73934                                               3   10 12   11   14   17   2.5
+10 FABACEAE       Parapiptadenexcelsa  73934                                               1    4
+ 4 FABACEAE       Piptadenia  M1       73930                                           L   1    4
+ 2 FABACEAE       Piptadenia  viridifol73912 73953                                         1    3
+ 7 FABACEAE       Piptadenia  viridifol73912 73953                                         1  2.5 2.5
+ 8 FABACEAE       Piptadenia  viridifol73912 73953                                         4    4 3    2.5  5
+ 7 FABACEAE       Prosopis    M1       73952                                               1   29
+ 2 FLACOURTIACEAE Casearia    gossypios73916                                               1    3
+10 FLACOURTIACEAE Casearia    M1       73971                                               1  2.5
+ 1 FLACOURTIACEAE Prockia     crucis   73893 73972                                         1    4
+ 2 FLACOURTIACEAE Prockia     crucis   73893 73972                                         1    5
+10 FLACOURTIACEAE Prockia     crucis   73893 73972                                         1    6 3
+ 1 MALPHIGIACEAE  Dicella     macropter73886 73842                                     L   1   11
+ 1 MALPHIGIACEAE  Dicella     macropter73886 73842                                     L   1    3
+ 5 MALPHIGIACEAE  Dicella     macropter73886 73842                                     L   1    6
+ 1 MALPIGHIACEAE  Mascagnia   chlorocar73882                                           L   2    6 4
+ 2 MALPIGHIACEAE  Mascagnia   chlorocar73882                                           L   1  2.5
+ 4 MALPIGHIACEAE  Mascagnia   chlorocar73882                                           L   1  2.5
+ 1 MALPIGHIACEAE  Thryallis   M1       73895                                           L   5    3 2.5  3    4    2.5
+ 2 MALPIGHIACEAE  Thryallis   M1       73895                                           L   6  2.5 5    5    3    4    3
+ 4 MALPIGHIACEAE  Thryallis   M1       73895                                           L   4  2.5 9    5    2.5  2.5
+ 6 MALPIGHIACEAE  Thryallis   M1       73895                                           L   1    3
+ 9 MALPIGHIACEAE  Thryallis   M1       73895                                           L   1    6
+10 MELIACEAE      Trichilia   clausseni73975                                               1    3
+ 2 MYRTACEAE      Eugenia     uniflora 73908                                               2    8 3
+ 2 MYRTACEAE      Eugenia     uniflora 73908                                               1    3
+ 3 MYRTACEAE      Eugenia     uniflora 73908                                               3    7 12   17   19
+ 5 MYRTACEAE      Eugenia     uniflora 73908                                               1  2.5 3
+ 6 MYRTACEAE      Eugenia     uniflora 73908                                               8    3 8    4    4    4    3    3    2.5  13
+ 4 MYRTACEAE      Hexachlamyx M1       73931                                               1  2.5 2.5
+ 9 MYRTACEAE      Hexachlamyx M1       73931                                               1    6
+ 1 MYRTACEAE      Myrciaria   cuspidata73891                                               1  2.5
+ 5 MYRTACEAE      Myrciaria   cuspidata73891                                               1    3
+ 6 MYRTACEAE      Myrciaria   cuspidata73891                                               2  2.5 3    2.5  3    3    3
+ 8 MYRTACEAE      Myrciaria   cuspidata73891                                               1  2.5
+ 9 MYRTACEAE      Myrciaria   cuspidata73891                                               5    5 2.5  3    2.5  2.5  2.5  5
+10 MYRTACEAE      Myrciaria   cuspidata73891                                               3    3 2.5  4    3    3
+ 1 NYCTAGINACEAE  Neea        M1       73781                                               1    9
+ 4 NYCTAGINACEAE  Neea        M1       73833                                               1    7
+ 5 NYCTAGINACEAE  Neea        M1       73833                                               2  2.5 2.5
+ 6 NYCTAGINACEAE  Neea        M2       73881                                               2  2.5 2.5  3
+ 8 NYCTAGINACEAE  Neea        M2       73881                                               1  2.5
+ 1 NYCTAGINACEAE  Reichenbachitomentosa73904                                               1   14 10
+ 2 NYCTAGINACEAE  Reichenbachitomentosa73904                                               1    5
+ 5 NYCTAGINACEAE  Reichenbachitomentosa73904                                               1    4
+ 8 NYCTAGINACEAE  Reichenbachitomentosa73904                                               3    3 4    4    5    7
+ 1 PHYTOLACCACEAE Achatocarpusnigricans73903                                               2    6    7   10    4    6
+ 3 PHYTOLACCACEAE Achatocarpusnigricans73903                                               3    9    3    7    8    7
+ 5 PHYTOLACCACEAE Achatocarpusnigricans73903                                               3    3    4  2.5
+ 7 PHYTOLACCACEAE Achatocarpusnigricans73903                                               8    4    4    6   13    4    7    7  2.5  2.5  2.5    5    6    3  2.5    5    5
+ 8 PHYTOLACCACEAE Achatocarpusnigricans73903                                               5    9    7    4  2.5    6    3    8    3    8  2.5
+ 9 PHYTOLACCACEAE Achatocarpusnigricans73903                                               1    8
+ 2 PHYTOLACCACEAE Gallesia    integrifl73910                                               1  2.5
+ 5 PHYTOLACCACEAE Gallesia    integrifl73910                                               1    3
+10 PHYTOLACCACEAE Seguiera    aculeata 73973                                           L   1    4
+ 4 POLYGONACEAE   Ruprechtia  M1       73926                                               1    9
+ 8 POLYGONACEAE   Ruprechtia  M1       73926                                               1    4
+ 9 POLYGONACEAE   Ruprechtia  M1       73926                                               2    9 9
+ 4 RHAMNACEAE     Rhamnidium  elaeocarp73923                                               1   15
+ 5 RHAMNACEAE     Ziziphus    guaraniti73944                                               1    3 2.5
+ 2 RUBIACEAE      Calycophylluspruceanu73907 73906                                         1   27
+ 4 RUBIACEAE      Calycophylluspruceanu73907 73906                                         1    9
+ 1 RUBIACEAE      Chomelia    M1       73806                                               1    5
+ 2 RUBIACEAE      M1          M1       73911                                           L   1    5 2.5
+ 8 RUBIACEAE      Randia      M1       73957                                               1    4
+ 6 RUTACEAE       Esenbeckia  densiflor73946                                               2    6 2.5  2.5
+ 9 RUTACEAE       Esenbeckia  densiflor73946                                               1    6 9
+10 RUTACEAE       Esenbeckia  densiflor73946                                               1   10 8    4    6
+ 8 RUTACEAE       Zanthoxylum M1       73962                                               1  2.5
+10 RUTACEAE       Zanthoxylum M1       73962                                               4    4 5    2.5  9    6
+ 1 SAPINDACEAE    Allophylus  edulis   73883                                               5  2.5 3    2.5  2.5  3    2.5
+ 2 SAPINDACEAE    Allophylus  edulis   73883                                               1    3
+ 3 SAPINDACEAE    Allophylus  edulis   73883                                               2    7 2.5
+ 4 SAPINDACEAE    Allophylus  edulis   73883                                               3  2.5 2.5  3    3    3    2.5  4    2.5
+ 4 SAPINDACEAE    Allophylus  edulis   73883                                               4  2.5 3    4    2.5  3    5
+ 5 SAPINDACEAE    Allophylus  edulis   73883                                               1    4
+ 6 SAPINDACEAE    Allophylus  edulis   73883                                               8    9 6    3    2.5  4    2.5  4    2.5  2.5  3    5
+ 7 SAPINDACEAE    Allophylus  edulis   73883                                              10    3 6    3    5    2.5  4    6    4    2.5  3    3
+ 8 SAPINDACEAE    Allophylus  edulis   73883                                               6    5 3    5    2.5  2.5  3    2.5  3    2.5  3    5
+ 9 SAPINDACEAE    Allophylus  edulis   73883                                               5  2.5 3    5    3    4    2.5
+10 SAPINDACEAE    Allophylus  edulis   73883                                               4    3 4    4    2.5
+ 5 SAPINDACEAE    Diplokeleba floribund73940                                               2    5 6
+ 9 SAPINDACEAE    Diplokeleba floribund73940                                               1    7 2.5
+10 SAPINDACEAE    Diplokeleba floribund73940                                               3   24 6    5    3    3    11   5    8    12   10
+ 4 SAPINDACEAE    Melicocca   lepidopet73922                                               1    7
+ 2 SAPINDACEAE    Serjania    M1       73909 73973                                     L   2  2.5 2.5
+ 5 SAPINDACEAE    Serjania    M1       73909 73973                                     L   1    3
+10 SAPINDACEAE    Serjania    M1       73909 73973                                     L   1    4
+ 4 SAPINDACEAE    Serjania    M2       73925 73929                                     L   1  2.5
+ 4 SAPINDACEAE    Serjania    M2       73925 73929                                     L   1  2.5
+ 6 SAPINDACEAE    Serjania    M2       73925 73929                                     L   1    4
+ 8 SAPINDACEAE    Serjania    M2       73925 73929                                     L   1  2.5
+ 1 SAPINDACEAE    Urvillea    M1       73894                                           L   1  2.5
+ 6 SAPINDACEAE    Urvillea    M1       73894                                           L   1  2.5
+ 8 SAPINDACEAE    Urvillea    M1       73894                                           L   1  2.5
+ 8 STERCULIACEAE  Helicteres  M1       73958                                               1  2.5
+ 6 TRIGONIACEAE   Trigonia    boliviens73951                                           L   1    5
+ 4 ULMACEAE       Celtis      iguanea  73935                                           L   1    4
+ 5 ULMACEAE       Celtis      iguanea  73935                                           L   1  2.5
+ 1 ULMACEAE       Phyllostylonrhamnoide73900                                               1    6    5
+ 4 ULMACEAE       Phyllostylonrhamnoide73900                                               1    6
+ 5 ULMACEAE       Phyllostylonrhamnoide73900                                               1   21
+ 6 ULMACEAE       Phyllostylonrhamnoide73900                                               4    7    4   13    8
+ 7 ULMACEAE       Phyllostylonrhamnoide73900                                               1   14
+ 8 ULMACEAE       Phyllostylonrhamnoide73900                                               2   30   14    9
+ 9 ULMACEAE       Phyllostylonrhamnoide73900                                               6    5    4   13   19   22    8   11
+
+

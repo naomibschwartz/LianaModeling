@@ -1,0 +1,369 @@
+LineFAMILY      GENUS       SPECIES     vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+  6 ANACARDIACEAEUROSCHINUS ELEGANS     34639                                                 1    5
+  8 ANACARDIACEAEUROSCHINUS VERRUCOSUS  34665                                                 1  2.5
+  6 ANACARDIACEASEMICARPUS  NEOCALEDONIC34620 34674                                           1   20
+  8 ANACARDIACEASEMICARPUS  NEOCALEDONIC34620 34674                                           1   23
+  2 APOCYNACEAE ALSTONIA    COMPTONII   34557                                                 2  2.5  2.5
+  4 APOCYNACEAE ALSTONIA    COMPTONII CF34586                                                 2  2.5    5
+  6 APOCYNACEAE ALSTONIA    COMPTONII CF34586                                                 1  2.5
+  8 APOCYNACEAE ALSTONIA    COMPTONII CF34586                                                 2  2.5    5
+  9 APOCYNACEAE ALSTONIA    COMPTONII CF34586                                                 4    5  2.5    5    9
+ 10 APOCYNACEAE ALSTONIA    COMPTONII CF34586                                                 4  2.5    5  2.5  7.5
+  3 APOCYNACEAE ALSTONIA    M1                                                                1  2.5
+  4 APOCYNACEAE ALSTONIA    M1                                                                2  2.5  2.5
+  6 APOCYNACEAE ALSTONIA    M1                                                                2  2.5    5
+  1 APOCYNACEAE ALSTONIA    PAGINTHA    34505                                                 1  7.5
+  3 APOCYNACEAE ALSTONIA CF PLUMOSA     34567                                                 1  2.5
+  3 APOCYNACEAE ALYXIA      M1          34584 34663                                     L     1  2.5
+  7 APOCYNACEAE ALYXIA      M1          34584 34663                                     L     1  2.5
+  9 APOCYNACEAE ALYXIA      M1          34584 34663                                     L     1    5
+  4 APOCYNACEAE ALYXIA      M2          34585                                           L     1  2.5
+  3 APOCYNACEAE ALYXIA      M3          34565 34591 34647 34625                         L     1  2.5
+  4 APOCYNACEAE ALYXIA      M3          34565 34591 34647 34625                         L     1  2.5
+  6 APOCYNACEAE ALYXIA      M3          34565 34591 34647 34625                         L     1  2.5
+  6 APOCYNACEAE ALYXIA      M3          34565 34591 34647 34625                         L     1  2.5   
+  9 APOCYNACEAE CERBERIOPSISM1                                                                1   25
+  4 APOCYNACEAE MEIOSPERMUM MIANA       34594                                                 1    9
+  5 APOCYNACEAE PAGIANTHA   CERIFERA    34602                                                 2  2.5  2.5
+  8 APOCYNACEAE PARSONSIA   LARGIFLORA                                                  L     1  2.5
+  2 APOCYNACEAE PARSONSIA   LARGIFLORA C34535                                           L     1  2.5
+  9 APOCYNACEAE PARSONSIA   LARGIFLORA C34535                                           L     1    5
+  9 APOCYNACEAE RAUVOLFIA   M1                                                                1    5
+  5 AQUIFOLIACEAILEX        SEBERTII    34614 34707 34588                                     1   20
+ 10 AQUIFOLIACEAILEX        SEBERTII    34614 34707 34588                                     1   29  
+  4 AQUIFOLIACEAILEX?       SEBERTII    34614 34707 34588                                     1    5
+  2 AQUIFOLIACEAPHELLINE    COMOSA      34539 34651                                           1    5
+  7 AQUIFOLIACEAPHELLINE    COMOSA      34539 34651                                           1  7.5
+  3 AQUIFOLIACEAPHELLINE    COMOSA CF                                                         2  2.5    5
+  1 ARALIACEAE  ARTHROPHYLLUOTOPYRENUM  34502 34564                                           1  2.5
+  3 ARALIACEAE  ARTHROPHYLLUOTOPYRENUM  34502 34564                                           3  2.5  2.5  2.5
+  1 ARALIACEAE  DELARBREA   LONGICARPA  34568 34515 34680                                     1   10
+  2 ARALIACEAE  DELARBREA   LONGICARPA  34568 34515 34680                                     3  2.5  2.5  2.5
+  3 ARALIACEAE  DELARBREA   LONGICARPA  34568 34515 34680                                     1    5
+  3 ARALIACEAE  DELARBREA   LONGICARPA  34568 34515 34680                                     5   10  7.5  2.5  2.5    5
+  8 ARALIACEAE  DELARBREA   LONGICARPA  34568 34515 34680                                     1  2.5
+  1 ARALIACEAE  MERYTA      CORIACEA    34610                                                 2  2.5  2.5
+  2 ARALIACEAE  MERYTA      CORIACEA    34610                                                 3    5  2.5    5
+  3 ARALIACEAE  MERYTA      CORIACEA    34610                                                 1    5
+  4 ARALIACEAE  MERYTA      CORIACEA    34610                                                 3  2.5    5  2.5
+  5 ARALIACEAE  MERYTA      CORIACEA    34610                                                 5  2.5  2.5    5  7.5  2.5
+  6 ARALIACEAE  MERYTA      CORIACEA    34610                                                 1    5
+  7 ARALIACEAE  MERYTA      CORIACEA    34610                                                 3    9  2.5    5
+  8 ARALIACEAE  MERYTA      CORIACEA    34610                                                 1  2.5
+  8 ARALIACEAE  MERYTA      CORIACEA    34610                                                 1    5
+  3 ARALIACEAE  POLYSCIAS   DIOICA      34573                                                 1  7.5
+  7 ARALIACEAE  POLYSCIAS   DIOICA      34573                                                 4    9   14   20    9
+  8 ARALIACEAE  POLYSCIAS   DIOICA      34573                                                 1  7.5
+  9 ARALIACEAE  POLYSCIAS   DIOICA      34573                                                 1   17
+  1 ARALIACEAE  SCHEFFLERA  GABRIELLAE  34511                                                 1  2.5
+  5 ARALIACEAE  SCHEFFLERA  GABRIELLAE C34617                                                 1  2.5
+  6 ARALIACEAE  SCHEFFLERA  PENTASTYLA  34635 34630 34689                                     1   10
+  6 ARALIACEAE  SCHEFFLERA  PENTASTYLA  34635 34630 34689                                     1   13
+  9 ARALIACEAE  SCHEFFLERA  PENTASTYLA  34635 34630 34689                                     1  2.5
+  2 ARAUCARIACEAAGATHIS     LANCEOLATA                                                        1   51
+  4 ARAUCARIACEAAGATHIS     LANCEOLATA                                                        1   11
+  9 ARAUCARIACEAAGATHIS     LANCEOLATA                                                        1   54
+  6 ARAUCARIACEAAGATHIS     M1                                                                3   19   18  2.5
+  1 ARAUCARIACEAARAUCARIA   BERNIERI    34508 34587                                           1  2.5
+  4 ARAUCARIACEAARAUCARIA   BERNIERI    34508 34587                                           1   16
+  7 ARECACEAE   ACTINOKENTIADIVARICATA                                                        3    5  7.5  7.5
+  8 ARECACEAE   ACTINOKENTIADIVARICATA                                                        2    5  7.5
+  3 ARECACEAE   BASSELINIA  GRACILIS    34559                                                 2  2.5  2.5
+  4 ARECACEAE   BASSELINIA  GRACILIS    34559                                                 2  2.5  2.5
+  5 ARECACEAE   BASSELINIA  GRACILIS    34559                                                 1  2.5
+  0 ARECACEAE   BASSELINIA  PANCHERI                                                          4    5    9  7.5    5
+  1 ARECACEAE   BASSELINIA  PANCHERI                                                          4  7.5    9    5  7.5
+  2 ARECACEAE   BASSELINIA  PANCHERI                                                          5  7.5   10    9  7.5  2.5
+  3 ARECACEAE   BASSELINIA  PANCHERI                                                          2  7.5  7.5
+  5 ARECACEAE   BASSELINIA  PANCHERI                                                          3    8  7.5  7.5
+  6 ARECACEAE   BASSELINIA  PANCHERI                                                          6  7.5    5    5  7.5  7.5  2.5
+  8 ARECACEAE   BASSELINIA  PANCHERI                                                          3  2.5    5    5
+  9 ARECACEAE   BASSELINIA  PANCHERI                                                          4    9    5  7.5  7.5
+ 10 ARECACEAE   BASSELINIA  PANCHERI                                                          4    9  7.5    5  2.5
+  7 ARECACEAE   BASSELINIA  PANCHERII                                                         5    5  2.5  2.5  7.5    9
+  3 ARECACEAE   CHAMBEYRONIAMACROCARPA                                                        1   11
+  4 ARECACEAE   CHAMBEYRONIAMACROCARPA                                                        1  2.5  2.5  2.5
+  4 ARTHROPHYLLUEREMOPANAX  SCHLECHTERI 34644                                                 1  2.5  2.5  2.5
+  5 ARTHROPHYLLUEREMOPANAX  SCHLECHTERI 34644                                                 1  2.5
+  6 ARTHROPHYLLUEREMOPANAX  SCHLECHTERII34644                                                 1  2.5
+  7 BALANOPACEAEBALANOPS    VIEILLARDII 34650                                                 2  2.5  2.5
+  1 BIGNONIACEAEDEPLANCHEA  M1                                                                6   15   10  2.5  7.5    5   11
+  2 BIGNONIACEAEDEPLANCHEA  M1                                                                7  2.5  7.5    5  7.5  7.5  2.5   12   10   11  2.5  2.5
+  3 BIGNONIACEAEDEPLANCHEA  M1                                                                3  7.5    5
+  4 BIGNONIACEAEDEPLANCHEA  M1                                                                3   10    5   12  2.5    9
+  5 BIGNONIACEAEDEPLANCHEA  M1                                                                4  2.5  2.5   10    9  2.5
+  6 BIGNONIACEAEDEPLANCHEA  M1                                                                4   17    5  7.5   11
+  7 BIGNONIACEAEDEPLANCHEA  M1                                                                1  2.5
+  8 BIGNONIACEAEDEPLANCHEA  M1                                                                1   19
+  9 BIGNONIACEAEDEPLANCHEA  M1                                                                2   20   18
+ 10 BIGNONIACEAEDEPLANCHEA  M1                                                                4    9    5    5  2.5
+  6 CELASTRACEAESALACIA     M1          34623                                                 1  2.5
+ 10 CELASTRACEAESALACIA     M2          34706                                                 1  2.5
+  4 CHLORANTHACEASCARINA    RUBRICAULIS                                                       1  2.5
+  1 CLUSIACEAE  CALOPHYLLUM CALEDONICUM 34500                                                 2  2.5    5
+  2 CLUSIACEAE  CALOPHYLLUM CALEDONICUM 34500                                                 2  2.5   22
+  3 CLUSIACEAE  CALOPHYLLUM CALEDONICUM 34500                                                 2    5   52
+  4 CLUSIACEAE  CALOPHYLLUM CALEDONICUM 34500                                                 2    5  2.5  2.5
+  5 CLUSIACEAE  CALOPHYLLUM CALEDONICUM 34500                                                 1  7.5
+  6 CLUSIACEAE  CALOPHYLLUM CALEDONICUM 34500                                                 2  2.5  2.5
+ 10 CLUSIACEAE  CALOPHYLLUM CALEDONICUM 34500                                                 4  2.5  7.5   13   19
+  1 CLUSIACEAE  GARCINIA    AMPLEXICAULI34497                                                 4  2.5  2.5    3  2.5    2    5
+  2 CLUSIACEAE  GARCINIA    AMPLEXICAULI34497                                                 6    5  2.5    5  2.5  2.5  2.5    5    5
+  3 CLUSIACEAE  GARCINIA    AMPLEXICAULI34497                                                 5    5  2.5    5  2.5  2.5
+  4 CLUSIACEAE  GARCINIA    AMPLEXICAULI34497                                                 3  2.5    5  7.5  2.5
+  5 CLUSIACEAE  GARCINIA    AMPLEXICAULI34497                                                 1  2.5
+  6 CLUSIACEAE  GARCINIA    AMPLEXICAULI34497                                                 5    5  2.5   10  2.5  7.5    5
+  7 CLUSIACEAE  GARCINIA    AMPLEXICAULI34497                                                 2  7.5    5
+  9 CLUSIACEAE  GARCINIA    AMPLEXICAULI34497                                                 4  2.5  2.5    5   11
+  1 CLUSIACEAE  GARCINIA    BALANSAE    34517A                                                1   19
+  5 CLUSIACEAE  GARCINIA    BALANSAE CF 34547?                                                1  2.5
+  2 CLUSIACEAE  GARCINIA    M1          34545 34547                                           1  2.5
+  2 CLUSIACEAE  GARCINIA    M1          34547 34547                                           1    9
+  2 CLUSIACEAE  GARCINIA    M2          34544                                                 1  2.5
+  4 CLUSIACEAE  GARCINIA    M2          34544                                                 1    5
+  4 CLUSIACEAE  GARCINIA    M3          34597 34667                                           1   11
+  8 CLUSIACEAE  GARCINIA    M3          34597 34667                                           2  7.5  2.5
+  6 CLUSIACEAE  GARCINIA    M4          34628                                                 1   17
+  9 CLUSIACEAE  GARCINIA    M5          34685                                                 1  2.5
+  2 CLUSIACEAE  GARCINIA    M6          34547A34606 34643 34666 34705                         2   18    9
+  5 CLUSIACEAE  GARCINIA    M6          34547A34606 34643 34666 34705                         1   12
+  6 CLUSIACEAE  GARCINIA    M6          34547A34606 34643 34666 34705                         3  2.5  2.5  7.5
+  8 CLUSIACEAE  GARCINIA    M6          34547A34606 34643 34666 34705                         1   14
+ 10 CLUSIACEAE  GARCINIA    M6          34547A34606 34643 34666 34705                         1   17
+  8 CLUSIACEAE  MONTROUZIERAGABRIELLAE  34664                                                 1   20
+  4 CUNONIACEAE ACSMITHIA   M1          34592 34645                                           2   10  7.5
+  6 CUNONIACEAE ACSMITHIA   M1          34592 34645                                           1    9
+  8 CUNONIACEAE ACSMITHIA   M1          34592 34645                                           2   10   13
+  5 CUNONIACEAE CODIA       DISCOLOR    34618                                                 1   26
+  5 CUNONIACEAE CUNONIA     M1          34605                                                 4  2.5  2.5    5    5
+  9 CUNONIACEAE GEISSOIS    RACEMOSA    34691                                                 2   19   15
+  7 CUNONIACEAE PANCHERIA   M1          34660 34696                                           1  2.5
+ 10 CUNONIACEAE PANCHERIA   M1          34660 34696                                           1  2.5  2.5   12
+  9 CYATHEACEAE CYATHEA     ALATA       34695                                                 1    5
+ 10 CYATHEACEAE CYATHEA     ALATA       34695                                                 2    5  7.5
+  8 CYATHEACEAE CYATHEA     M1          34698                                                 3    5    5    5
+  9 CYATHEACEAE CYATHEA     M1          34698                                                 1  7.5
+ 10 CYATHEACEAE CYATHEA     M1          34698                                                 2   14   10
+  3 CYATHEACEAE DICKSONIA   M1                                                                1    5
+  1 EBENACEAE   DIOSPYROS   M1          34507                                                 1  2.5
+  3 EBENACEAE   DIOSPYROS   M1          34507                                                 2  2.5  2.5
+  3 EBENACEAE   DIOSPYROS   M2          34569                                                 2  2.5  2.5
+  8 EBENACEAE   DIOSPYROS   M2          34569                                                 1  2.5
+  8 EBENACEAE   DIOSPYROS   M2          34569                                                 1  2.5
+  9 EBENACEAE   DIOSPYROS   M2          34569                                                 1  2.5
+  6 EBENACEAE   DIOSPYROS   M3          34619 34569                                           1  2.5
+  6 EBENACEAE   DIOSPYROS   M3          34619 34569                                           1  2.5
+  8 EBENACEAE   DIOSPYROS   M4          34681 34672                                           2  2.5    5
+ 10 EBENACEAE   DIOSPYROS   M4          34681 34672                                           1  2.5
+  8 EBENACEAE   DIOSPYROS   M5          34676                                                 1  2.5
+  4 ELAEOCARPACEDUBOUZETIA  ELEGANS     34595                                                 1  2.5
+  3 ELAEOCARPACEELAEOCARPUS YATEENSIS   34560                                                 1  2.5
+  3 EPACRIDACEAESTYPHELIA   CYMBULAE                                                          1  2.5
+  6 EPACRIDACEAESTYPHELIA   CYMBULAE                                                          4   18   17   15   14
+  9 EPACRIDACEAESTYPHELIA   CYMBULAE                                                          2    5   10
+  6 EUPHORBIACEAAUSTROBUXUS CUNEATUS    34636                                                 1   11
+  9 EUPHORBIACEAAUSTROBUXUS CUNEATUS    34636                                                 1  7.5
+  1 EUPHORBIACEAAUSTROBUXUS HUERLEMANII 34509                                                 1  7.5
+  4 EUPHORBIACEAAUSTROBUXUS HUERLEMANII 34509?                                                2    5  2.5
+  2 EUPHORBIACEABOCQUILLONIASPICATA     34543                                                 2  2.5  2.5  2.5
+  3 EUPHORBIACEABOCQUILLONIASPICATA     34543                                                 1  2.5
+  4 EUPHORBIACEABOCQUILLONIASPICATA     34543                                                 4  2.5  2.5  2.5  2.5  2.5  2.5  2.5
+  7 EUPHORBIACEACLEIDION    LASIOPHYLLA 34657                                                 1  2.5
+  1 EUPHORBIACEACLEIDION?   M1          34512                                                 1  2.5
+  1 EUPHORBIACEAMACARANGA   ALCHORNEOIDE34513                                                 1   19    8
+  7 EUPHORBIACEAMACARANGA   ALCHORNEOIDE34513                                                 2  2.5  2.5
+  1 FABACEAE    ALBIZZIA    GRANULOSA   34658                                                 1  2.5
+  3 FABACEAE    ALBIZZIA    GRANULOSA   34658                                                 1    5
+  7 FABACEAE    ALBIZZIA    GRANULOSA   34658                                                 2    5  7.5
+  5 FABACEAE    ALBIZZIA    PETITIANA                                                         1  2.5
+ 10 FABACEAE    ALBIZZIA    PETITIANA                                                         1    9
+  7 FABACEAE    M1          M1          34661                                           L     2  2.5  2.5
+  3 FAGACEAE    NOTHOFAGUS  BALANSAE    34577                                                 1  2.5
+  9 FAGACEAE    NOTHOFAGUS  BALANSAE    34557                                                 4   23  7.5  2.5   16
+  3 FAGACEAE    NOTHOFAGUS  DISCOIDEA                                                        20  2.5  2.5  2.5    5  2.5    9    5    5  2.5  2.5  2.5  2.5  2.5    5  7.5  7.5    4  2.5    5    9
+  4 FAGACEAE    NOTHOFAGUS  DISCOIDEA                                                        12    5  2.5  2.5    5    5  2.5  7.5  2.5  2.5    5  2.5  2.5
+  5 FAGACEAE    NOTHOFAGUS  DISCOIDEA                                                         8  2.5  2.5    5  2.5  2.5  2.5  2.5   70
+  5 FAGACEAE    NOTHOFAGUS  EQUILACERALI34577                                                 4   19  2.5  2.5    9
+  6 FAGACEAE    NOTHOFAGUS  EQUILATERALI34577                                                 6  2.5  7.5  2.5  2.5  2.5  2.5
+  7 FAGACEAE    NOTHOFAGUS  EQUILATERALI34577                                                 4   18   30   18   21
+  8 FAGACEAE    NOTHOFAGUS  EQUILATERALI34577                                                 4   16    9   17   32
+ 10 FAGACEAE    NOTHOFAGUS  EQUILATERALI34577                                                 2  7.5   29
+  2 FAGACEAE    NOTHOFAGUS  EQUILATERALI34577                                                 1   15
+  2 FLACOURTIACECASEARIA    PUBERULA    34549                                                 2  2.5  2.5
+  5 FLACOURTIACECASEARIA    PUBERULA    34549                                                 1    5
+  6 FLACOURTIACECASEARIA    PUBERULA    34549                                                 1  2.5
+  4 FLACOURTIACECASEARIA    SILVANA                                                           2  2.5    5
+  8 FLACOURTIACEHOMALIUM    FRANCII     34671                                                 1  2.5
+  2 FLACOURTIACEHOMALIUM?   GUILLAINII  34552                                                 1  2.5
+  6 FLACOURTIACELASIOCHLAMYSPLANCHONELLI34640                                                 1    5
+  3 GROSSULARIACPOLYOSMA    M1          34563                                                 1    9
+  4 ICACINACEAE GASTROLEPIS AUSTROCALEDO34593                                                 1  2.5  2.5
+  1 INDET       ICACINAC/HUGM1          34504                                           L     1  2.5
+  3 LAURACEAE   CRYPTOCARYA BITRIPLINERV34659 34580                                           1  2.5
+  7 LAURACEAE   CRYPTOCARYA BITRIPLINERV34659 34580                                           1   14    9  2.5  2.5
+  3 LAURACEAE   CRYPTOCARYA GUILLAUMINII34700 34581 34596 34604 34649 34686 34693             1  2.5
+  4 LAURACEAE   CRYPTOCARYA GUILLAUMINII34700 34581 34596 34604 34649 34686 34693             1  2.5
+  5 LAURACEAE   CRYPTOCARYA GUILLAUMINII34700 34581 34596 34604 34649 34686 34693             1  2.5
+  7 LAURACEAE   CRYPTOCARYA GUILLAUMINII34700 34581 34596 34604 34649 34686 34693             1  2.5       
+  9 LAURACEAE   CRYPTOCARYA GUILLAUMINII34700 34581 34596 34604 34649 34686 34693             2  2.5  2.5
+ 10 LAURACEAE   CRYPTOCARYA GUILLAUMINII34700 34581 34596 34604 34649 34686 34693             1  2.5
+  3 LAURACEAE   CRYPTOCARYA M1          34571 34654 34669                                     1  7.5
+  7 LAURACEAE   CRYPTOCARYA M1          34571 34654 34669                                     1    5
+  8 LAURACEAE   CRYPTOCARYA M1          34571 34654 34669                                     1  2.5
+  6 LAURACEAE   ENDIANDRA   SEBERTII    34631                                                 1   40
+  4 LAURACEAE   ENDRIANDA   SEBERTII CF 34601                                                 1  2.5
+  7 LAURACEAE   ENDRIANDRA  M1          34655                                                 1    5
+  4 LAURACEAE   M1          M1          34574                                                 1    5
+  1 LINACEAE    HUGONIA     PENICILLANTH34506 34683                                           1    5
+  9 LINACEAE    HUGONIA     PENICILLANTH34506 34683                                           2    5    9
+  8 LOGANIACEAE GENIOSTOMA  M1          34679                                                 1  2.5
+  1 MELIACEAE   DYSOXYLON   M1          34516 34551 34627 34648 34677                         1  2.5
+  2 MELIACEAE   DYSOXYLON   M1          34516 34551 34627 34648 34677                         1  2.5
+  6 MELIACEAE   DYSOXYLON   M1          34516 34551 34627 34648 34677                         1  2.5
+  7 MELIACEAE   DYSOXYLON   M1          34516 34551 34627 34648 34677                         2    5  2.5
+  8 MELIACEAE   DYSOXYLON   M1          34516 34551 34627 34648 34677                         1  2.5
+ 10 MELIACEAE   DYSOXYLON   M1          34516 34551 34627 34648 34677                         1    5
+  2 MONIMIACEAE HEDYCARYA   PARVIFOLIA  34542                                                 1    5
+ 10 MONIMIACEAE NEMUARON    VIEILLARDII 34704                                                 1    5
+  1 MORACEAE    FICUS       M1          34514                                                 1  2.5
+  7 MORACEAE    FICUS       M2          34653 34703                                           1   12
+ 10 MORACEAE    FICUS       M2          34653 34703                                           2   11  2.5
+  8 MORACEAE    FICUS       M3          34668                                                 2   15   16
+  8 MORACEAE    FICUS       M4          34673                                                 3    5  2.5  2.5
+  3 MORACEAE    SPARATTOSYCEM1          34582                                                 1  2.5
+  4 MORACEAE    SPARATTOSYCEM1          34582                                                 1   13
+  5 MORACEAE    SPARATTOSYCEM1          34582                                                 1   23
+  7 MORACEAE    SPARATTOSYCEM1          34582                                                 1   13
+  8 MORACEAE    SPARATTOSYCEM1          34582                                                 1    5
+  4 MYRSINACEAE TAPEINOSPERMAUSTROCALEDON                                                     3  2.5   10    5
+  2 MYRSINACEAE TAPEINOSPERMM1          34533                                                 1  2.5
+  2 MYRSINACEAE TAPEINOSPERMM2          34554 34603 34534                                     3  2.5  2.5  2.5
+  5 MYRSINACEAE TAPEINOSPERMM2          34554 34603 34534                                     6  2.5  2.5  2.5  2.5  2.5  2.5
+  6 MYRSINACEAE TAPEINOSPERMM2          34554 34603 34534                                     1    5
+  7 MYRSINACEAE TAPEINOSPERMM2          34554 34603 34534                                     1  2.5
+  2 MYRSINACEAE TAPEINOSPERMM2          34554 34603 34534                                     1   11
+  5 MYRTACEAE   CARYOPHYLLUMBALANSAE    34615                                                 1    5
+  9 MYRTACEAE   CARYOPHYLLUMBALANSAE    34692                                                 1    5
+  2 MYRTACEAE   M1          M1          34546                                                 1  2.5
+  2 MYRTACEAE   M2          M1          34555                                                 1   14
+  6 MYRTACEAE   M3          M1          34622                                                 2  7.5   15
+  5 MYRTACEAE   PLEUROCALYPTDEPLANCHEI  34607                                                 1    8
+  6 MYRTACEAE   PLEUROCALYPTDEPLANCHEI  34607                                                 1   11
+  8 MYRTACEAE   PLEUROCALYPTDEPLANCHEI  34607                                                 1   20
+  9 MYRTACEAE   PLEUROCALYPTDEPLANCHEI  34607                                                 3  7.5   14   22
+ 10 MYRTACEAE   PLEUROCALYPTDEPLANCHEI  34607                                                 4  7.5    9   20   13
+  9 ONCOTHECACEAONCOTHECA   BALANSAE    34687                                                 1   33
+  1 PANDANACEAE FREYCINETIA HEOCALEDONIC34517                                           L     1  2.5
+  1 PANDANACEAE FREYCINETIA LONGISPICA                                                  L     2  2.5  2.5
+  2 PANDANACEAE FREYCINETIA LONGISPICA                                                  L     2  2.5  2.5
+  4 PANDANACEAE FREYCINETIA LONGISPICA                                                  L     2  2.5  2.5
+  5 PANDANACEAE FREYCINETIA LONGISPICA                                                  L     1  2.5
+  8 PANDANACEAE FREYCINETIA LONGISPICA                                                  L     1  2.5
+ 10 PANDANACEAE FREYCINETIA LONGISPICA                                                  L     1  2.5
+  5 PANDANACEAE FREYCINETIA M1          34609                                           L     2  2.5  2.5
+  3 PANDANACEAE FREYCINETIA NEOCALEDONICA                                               L     1  2.5
+  1 PANDANACEAE PANDANUS    M1                                                                2  7.5    5
+  2 PANDANACEAE PANDANUS    M1                                                                1    9
+  3 PANDANACEAE PANDANUS    M1                                                                1    9
+  4 PANDANACEAE PANDANUS    M1                                                                1   10
+  9 PANDANACEAE PANDANUS    M1                                                                1    8
+ 10 PANDANACEAE PANDANUS    M1                                                                1  7.5
+  8 PIPERACEAE  PIPER       NEOCALEDONICUM                                              L     2  2.5  2.5
+  2 PITTOSPORACEPITTOSPORUM PRONYENSE   34536 34634 34694                                     2  2.5  2.5
+  6 PITTOSPORACEPITTOSPORUM PRONYENSE   34536 34634 34694                                     1  2.5
+  9 PITTOSPORACEPITTOSPORUM PRONYENSE   34536 34634 34694                                     1  2.5
+  1 PODOCARPACEAPODOCARPUS  LUCIENII    34501                                                 1  2.5
+  3 PODOCARPACEAPODOCARPUS  LUCIENII    34501                                                 1  7.5
+  5 PODOCARPACEAPODOCARPUS  LUCIENII    34501                                                 1  2.5
+  8 PODOCARPACEAPODOCARPUS  LUCIENII    34501                                                 1   10
+ 10 RHAMNACEAE  ALPHITONIA  NEOCALEDONIA34690 34670                                     L     1  7.5
+  9 RHAMNACEAE  ALPHITONIA  NEOCALEDONIC34690 34670                                     L     2   30  7.5
+  8 RHAMNACEAE  VENTILAGO   NEOCALEDONIC34690 34670                                     L     1  2.5
+  3 RHIZOPHORACECROSSOSTYLISGRANDIFLORA 34578 34572 34612                                     2  7.5   10    5
+  5 RHIZOPHORACECROSSOSTYLISGRANDIFLORA 34578 34572 34612                                     1  7.5
+  6 RHIZOPHORACECROSSOSTYLISGRANDIFLORA 34578 34572 34612                                     3    5  7.5   10  2.5
+  2 RUBIACEAE   COELOSPERMUMM1          34541 34637                                     L     1  2.5
+  6 RUBIACEAE   COELOSPERMUMM1          34541 34637                                     L     1    5
+  6 RUBIACEAE   COELOSPERMUMM2          34641                                           L     2  2.5  2.5
+  2 RUBIACEAE   GARDENIA    AUBREYI     34532                                                 3  7.5  7.5   10
+  3 RUBIACEAE   GARDENIA    AUBREYI     34532                                                 6  7.5  7.5  2.5  7.5   10   12
+  4 RUBIACEAE   GARDENIA    AUBREYI     34532                                                 2  7.5   12
+  5 RUBIACEAE   GARDENIA    AUBREYI     34532                                                 4   11  2.5  7.5   10
+  6 RUBIACEAE   GARDENIA    AUBREYI     34532                                                 4  2.5  7.5  7.5    5
+  7 RUBIACEAE   GARDENIA    AUBREYI     34532                                                 1  7.5
+  8 RUBIACEAE   GARDENIA    AUBREYI     34532                                                 1    5
+  9 RUBIACEAE   GARDENIA    AUBREYI     34532                                                 2  7.5    9
+ 10 RUBIACEAE   GARDENIA    AUBREYI     34532                                                 3   10  7.5  7.5
+  4 RUBIACEAE   GUETTARDA   M1          34600                                                 1  2.5
+  5 RUBIACEAE   GUETTARDA   M1          34600                                                 1   11
+  6 RUBIACEAE   GUETTARDA   M1          34600                                                 1  2.5
+  7 RUBIACEAE   GUETTARDA   M1          34600                                                 4  7.5   12   18   23
+  8 RUBIACEAE   GUETTARDA   M1          34600                                                 1  2.5
+ 10 RUBIACEAE   GUETTARDA   M1          34600                                                 1  2.5
+  2 RUBIACEAE   IXORA       M1          34553                                                 1  2.5
+  6 RUBIACEAE   IXORA       M2          34646                                                 1  7.5
+  4 RUBIACEAE   PSYCHOTRIA  COLLINA     34589                                                 1  2.5
+  3 RUBIACEAE   PSYCHOTRIA  M1          34576 34633 34678                                     6  2.5  2.5  2.5  2.5  2.5  2.5
+  5 RUBIACEAE   PSYCHOTRIA  M1          34576 34633 34678                                     2  2.5  2.5
+  6 RUBIACEAE   PSYCHOTRIA  M1          34576 34633 34678                                     1  2.5
+  8 RUBIACEAE   PSYCHOTRIA  M1          34576 34633 34678                                     1  2.5
+  2 RUBIACEAE   TARENNA     M1          34537                                                 3  7.5    5    5
+  5 RUTACEAE    FLINDERSIA  FOURNIERI   34608                                                 1   23
+  6 RUTACEAE    FLINDERSIA  FOURNIERI   34608                                                 1   18
+  9 RUTACEAE    MELIOPE     M1          34688                                                 1  2.5
+  2 SAPINDACEAE CUPANIOPSIS M1          34552A34699                                           1   15
+  7 SAPINDACEAE CUPANIOPSIS M1          34552A34699                                           2  2.5  2.5
+ 10 SAPINDACEAE CUPANIOPSIS M1          34551A34699                                           1  2.5
+  6 SAPINDACEAE GUIOA       GLAUCA      34638                                                 1  2.5
+  3 SAPINDACEAE HARPULLIA   M1          34566 34560                                           3  7.5  2.5
+  4 SAPINDACEAE HARPULLIA   M1          34566 34560                                           1  2.5
+  5 SAPINDACEAE HARPULLIA   M1          34566 34560                                           1  2.5
+  1 SAPINDACEAE M1          M1          34503 34499 34550                                     1  2.5
+  1 SAPINDACEAE M1          M1          34503 34499 34550                                     1  2.5
+  2 SAPINDACEAE M1          M1          34503 34499 34550                                     1  2.5
+  4 SAPINDACEAE M2          M1          34599 34613                                           1  2.5
+  4 SAPINDACEAE M2          M1          34599 34613                                           1  2.5
+  5 SAPINDACEAE M2          M1          34599 34613                                           1  2.5
+  5 SAPINDACEAE STORTHOCALYXCHRYSEUS    34611                                                 1  2.5
+  2 SAPINDACEAE STORTHOCALYXPANCHERI    34538                                                 1   12
+  3 SAPOTACEAE  BECCARIELLA BAUERI      34579 34701                                           1  2.5
+ 10 SAPOTACEAE  BECCARIELLA BAUERI      34579 34701                                           1    5
+  1 SAPOTACEAE  M1          M1          34510 34624                                           1  2.5
+  6 SAPOTACEAE  M1          M1          34510 34624                                           1    5
+  8 SAPOTACEAE  M1          M1          34510 34624                                           4    9  2.5    5  2.5
+  5 SAPOTACEAE  M2          M1          34510                                                 1    5
+  7 SAPOTACEAE  M2          M1          34510                                                 1   10
+  2 SAPOTACEAE  M3          M1          34548                                                 1    5
+  2 SAPOTACEAE  M4          M1          34556 34652                                           1    5
+  7 SAPOTACEAE  M4          M1          34556 34652                                           1  2.5
+ 10 SAPOTACEAE  M5          M1          34697                                                 1  2.5
+  3 SAPOTACEAE  M6          M1          34575 34632                                           1  2.5
+  6 SAPOTACEAE  M6          M1          34575 34632                                           1  2.5
+  7 SAPOTACEAE  M7          M1          34656                                                 1  7.5
+  6 SAPOTACEAE  PLANCHONELLATHYENSIS    34626                                                 1    5
+  3 SAPOTACEAE CM1          M1          34561                                                 1    5
+ 10 STERCULIACEASTERCULIA   M1                                                                1    9
+  3 SYMPLOCACEAESYMPLOCOS   FLAVESCENS  34616 34684 34708                                     1  2.5
+  5 SYMPLOCACEAESYMPLOCOS   FLAVESCENS  34616 34684 34708                                     1  2.5
+  9 SYMPLOCACEAESYMPLOCOS   FLAVESCENS  34616 34684 34708                                     2  2.5   16
+ 10 SYMPLOCACEAESYMPLOCOS   FLAVESCENS  34616 34684 34708                                     1  7.5
+  1 THYMELAEACEALETHYDON    M1          34498                                                 1  2.5
+  2 THYMELAEACEALETHYDON    M1          34498                                                 1  7.5
+  8 THYMELAEACEALETHYDON    M1          34498                                                 1  2.5
+  6 THYMELAEACEALETHYDON    M2          34642                                                 2  2.5  2.5
+  6 THYMELAEACEALETHYDON    XYLOPIA     34621                                                 1   10
+  3 VERBENACEAE OXERA       M1          34570                                                 1  2.5
+  4 VERBENACEAE OXERA       M2          34598                                           L     1  2.5
+  9 VERBENACEAE OXERA       M2          34598                                           L     1  2.5
+ 10 VERBENACEAE OXERA       M2          34598                                           L     1  2.5
+  3 VERBENACEAE OXERA       PALMATINERVI34562                                           L     1  2.5
+  8 VERBENACEAE OXERA       PALMATINERVI34562                                           L     1   13
+  4 VIOLACEAE   AGATEA      M1          34590 34629                                     L     1  2.5
+  6 VIOLACEAE   AGATEA      M1          34590 34629                                     L     1  2.5
+  8 VIOLACEAE   AGATEA      M2          34675 34702                                     L     1  2.5
+ 10 VIOLACEAE   AGATEA      M2          34675 34702                                     L     1  2.5
+  7 VIOLACEAE   HYBANTHUS   CALEDONICUS 34662 34682                                           1    5
+  8 VIOLACEAE   HYBANTHUS   CALEDONICUS 34662 34682                                           1    5
+  2 WINTERACEAE BELLIOLUM   M1          34540                                                 3  2.5  2.5    5
+  3 WINTERACEAE BELLIOLUM   M1          34540                                                 1  2.5
+  2 ZANTHOXYLUM ZANTHOXYLUM M1          34558                                                 1  2.5

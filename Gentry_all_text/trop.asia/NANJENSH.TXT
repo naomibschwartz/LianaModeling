@@ -1,0 +1,282 @@
+LineFAMILY      GENUS       SPECIES     vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+  2 ANNONACEAE  FISSISTIGMA GLAUCESCENS 67938                                           L     1  2.5
+  5 ANNONACEAE  FISSISTIGMA GLAUCESCENS 67938                                           L     2    7  2.5  
+  9 ANNONACEAE  FISSISTIGMA GLAUCESCENS 67938                                           L     4  2.5    3  2.5  2.5
+ 10 ANNONACEAE  FISSISTIGMA GLAUCESCENS 67938                                           L     1  2.5
+  8 APOCYNACEAE ANODENDRON  M1          67940                                           L     1  2.5
+  2 APOCYNACEAE ANODENDRON? M1          67940                                           L     1  2.5
+  3 APOCYNACEAE ANODENDRON? M1          67940                                           L     1  2.5
+  5 APOCYNACEAE ANODENDRON? M1          67940                                           L     3  2.5    3  2.5
+  6 APOCYNACEAE ANODENDRON? M1          67940                                           L     3    5    3    4
+  7 APOCYNACEAE ANODENDRON? M1          67940                                           L     1    3
+  2 AQUIFOLIACEAILEX        COCHINCHINEN67931                                                 4   14    3    6    4
+  3 AQUIFOLIACEAILEX        COCHINCHINEN67931                                                 7    3   15    3  2.5    3    3    7
+  4 AQUIFOLIACEAILEX        COCHINCHINEN67931                                                 2  2.5    9
+  5 AQUIFOLIACEAILEX        COCHINCHINEN67931                                                 6    5  2.5    6    5    7    4    3    4    6    8
+  6 AQUIFOLIACEAILEX        COCHINCHINEN67931                                                 3  2.5    4    3
+  7 AQUIFOLIACEAILEX        COCHINCHINEN67931                                                 1  2.5
+ 10 AQUIFOLIACEAILEX        COCHINCHINEN67931                                                 3    3  2.5   13
+  1 AQUIFOLIACEAILEX        FORMOSAE    67909 67957                                           1    4
+  3 AQUIFOLIACEAILEX        FORMOSAE    67909 67957                                           2    4    4
+  4 AQUIFOLIACEAILEX        FORMOSAE    67909 67957                                           3  2.5  2.5    4
+  5 AQUIFOLIACEAILEX        FORMOSAE    67909 67957                                           1    7
+  6 AQUIFOLIACEAILEX        FORMOSAE    67909 67957                                           3  2.5    3  2.5
+  7 AQUIFOLIACEAILEX        FORMOSAE    67909 67957                                           2  2.5    3
+  8 AQUIFOLIACEAILEX        FORMOSAE    67909 67957                                           1    4  2.5  2.5
+  3 AQUIFOLIACEAILEX        FORMOSAE CF 67962                                                 2    5   13
+  7 AQUIFOLIACEAILEX        HAYATI      68001                                                10   10    9   10    6    6    4    4    8    3    0
+  9 AQUIFOLIACEAILEX        LOCHINCHINENSIS                                                   3    6    7    4
+  4 AQUIFOLIACEAILEX        M1          67970                                                 1    7
+  4 AQUIFOLIACEAILEX        MATSUDAE    67966 67993 67917                                     1    5
+  6 AQUIFOLIACEAILEX        MATSUDAE    67966 67993 67917                                     1    9
+  9 AQUIFOLIACEAILEX        MATSUDAE    67966 67993 67917                                     1    9    5
+ 10 AQUIFOLIACEAILEX        MATSUDAE    67966 67993 67917                                     1   10
+  1 AQUIFOLIACEAILEX        MATSUDAE CF 67922                                                 1    4
+  8 AQUIFOLIACEAILEX        MATSUDAE CF 67922                                                 1   14  2.5
+  1 ARALIACEAE  SCHEFFLERA  OCTOPHYLLA  67928                                                 1   10
+  2 ARALIACEAE  SCHEFFLERA  OCTOPHYLLA  67928                                                 1   24
+  5 ARALIACEAE  SCHEFFLERA  OCTOPHYLLA  67928                                                 1    6
+  6 ARALIACEAE  SCHEFFLERA  OCTOPHYLLA  67928                                                 2  2.5    3
+  7 ARALIACEAE  SCHEFFLERA  OCTOPHYLLA  67928                                                 5    5    4    7    8    5
+  8 ARALIACEAE  SCHEFFLERA  OCTOPHYLLA  67928                                                 1  2.5
+  2 ARECACEAE   CALAMUS     FORMOSANA   67942                                           L     2    3    3
+  3 ARECACEAE   CALAMUS     FORMOSANA   67942                                           L     1  2.5
+  6 ARECACEAE   CALAMUS     FORMOSANA   67942                                           L     1  2.5
+  8 ARECACEAE   CALAMUS     FORMOSANA   67942                                           L     1    3
+ 10 ARECACEAE   CALAMUS     FORMOSANA   67942                                           L     2    3    4
+  2 ARECACEAE   DAEMONOROPS MARGARITAE  67932                                           L     2  2.5    3
+  3 ARECACEAE   DAEMONOROPS MARGARITAE  67932                                           L     3  2.5  2.5  2.5
+  5 ARECACEAE   DAEMONOROPS MARGARITAE  67932                                           L     1  2.5
+  6 ARECACEAE   DAEMONOROPS MARGARITAE  67932                                           L     1    3
+  9 ARECACEAE   DAEMONOROPS MARGARITAE  67932                                           L     2    3    3    3
+ 10 ARECACEAE   DAEMONOROPS MARGARITAE  67932                                           L     1   10  
+  6 BORAGINACEAEEHRETIA     LONGIFLORA  67995                                                 1    8
+  9 BORAGINACEAEEHRETIA     LONGIFLORA  67995                                                 1    8
+  3 CELASTRACEAECELASTRUS   HINDSII     67959                                           L     2  2.5  2.5
+  2 CELASTRACEAEMICROTROPIS FOKIENSIS   67949                                                 1    4
+  6 CLUSIACEAE  GARCINIA    MULTIFLORA  67988                                                 1   10
+  7 CYATHEACEAE SPHAEROPTERILEPIFERA    68005                                                 1   17
+  8 CYATHEACEAE SPHAEROPTERILEPIFERA    68005                                                 1   12
+  1 DAPHNIPHYLLADAPHNIPHYLLUGLAUCESCENS 67910                                                 4    9   14  2.5   10
+  3 DAPHNIPHYLLADAPHNIPHYLLUGLAUCESCENS 67910                                                 1   14
+  4 DAPHNIPHYLLADAPHNIPHYLLUGLAUCESCENS 67910                                                 1    6
+  5 DAPHNIPHYLLADAPHNIPHYLLUGLAUCESCENS 67910                                                 4    7   11   11   12
+  6 DAPHNIPHYLLADAPHNIPHYLLUGLAUCESCENS 67910                                                 1    7
+  7 DAPHNIPHYLLADAPHNIPHYLLUGLAUCESCENS 67910                                                 2    9   10   14
+  8 DAPHNIPHYLLADAPHNIPHYLLUGLAUCESCENS 67910                                                 3   11    9   11
+  9 DAPHNIPHYLLADAPHNIPHYLLUGLAUCESCENS 67910                                                 1   17
+ 10 DAPHNIPHYLLADAPHNIPHYLLUGLAUCESCENS 67910                                                 3    7    8    5
+  2 EBENACEAE   DIOSPYROS   ERIANTHA    67941                                                 1  2.5
+  3 EBENACEAE   DIOSPYROS   ERIANTHA    67941                                                 2  2.5    3
+  5 EBENACEAE   DIOSPYROS   ERIANTHA    67941                                                 1  2.5
+  7 EBENACEAE   DIOSPYROS   ERIANTHA    67941                                                 1    3
+  8 ELAEOCARPACEELAEOCARPUS SYLVESTRIS  68009                                                 1   14
+  4 EUPHORBIACEAANTIDESMA   HURANENSE   67964                                                 4  2.5  2.5  2.5    4
+  5 EUPHORBIACEAANTIDESMA   HURANENSE   67964                                                 8    3  2.5  2.5  2.5    5    4    5  2.5    4  2.5
+  6 EUPHORBIACEAANTIDESMA   HURANENSE   67964                                                 4  2.5  2.5    3  2.5
+  9 EUPHORBIACEAANTIDESMA   HURANENSE   67964                                                11    4    3  2.5    3    4  2.5  2.5  2.5  2.5    3  2.5    5
+  1 EUPHORBIACEAGLOCHIDION  RUBRUM      67925                                                 1   10
+  3 EUPHORBIACEAGLOCHIDION  RUBRUM      67925                                                 2    8   10
+  4 EUPHORBIACEAGLOCHIDION  RUBRUM      67925                                                 1    9
+  6 EUPHORBIACEAGLOCHIDION  RUBRUM      67925                                                 1    7    8
+  3 EUPHORBIACEASAPIUM      DISCOLOR    67958                                                 1   21
+  5 EUPHORBIACEASAPIUM      DISCOLOR    67958                                                 1   12
+ 10 EUPHORBIACEASAPIUM      DISCOLOR    67958                                                 1   17
+  2 FABACEAE    ACACIA      CONTUSA     67944                                                 1   22
+  5 FABACEAE    ACACIA      CONTUSA     67944                                                 2   14   19
+  2 FABACEAE    ORMOSIA     FORMOSANA   67930                                                 1   15   15
+  3 FABACEAE    ORMOSIA     FORMOSANA   67930                                                 1   14
+  9 FABACEAE    ORMOSIA     FORMOSANA   67930                                                 1   11
+  2 FABACEAE    PITHECELLOBILUCIDUM     67945                                                 2    3    5
+  9 FABACEAE    PITHECELLOBILUCIDUM     67945                                                 1    9
+  1 FAGACEAE    CASTANOPSIS CARLESII    67919                                                 1   13  2.5
+  2 FAGACEAE    CASTANOPSIS CARLESII    67919                                                 4    3    6  2.5   31   15    3   29
+  3 FAGACEAE    CASTANOPSIS CARLESII    67919                                                 5  2.5   20    8    3   16    4    3    3   21    9  2.5  2.5   13
+  4 FAGACEAE    CASTANOPSIS CARLESII    67919                                                 1   10    9
+  5 FAGACEAE    CASTANOPSIS CARLESII    67919                                                 3   26  2.5    4   16   18
+  6 FAGACEAE    CASTANOPSIS CARLESII    67919                                                 4   15   21   12  2.5   26   12   17   17
+  7 FAGACEAE    CASTANOPSIS CARLESII    67919                                                 4    6   22    5   24    8
+  8 FAGACEAE    CASTANOPSIS CARLESII    67919                                                 1   10
+  8 FAGACEAE    CASTANOPSIS HAYATII     68008                                                 1   14    3  2.5
+  6 FAGACEAE    CASTANOPSIS INDICA      68000                                                 1   16
+  4 FAGACEAE    CYCLOBALANOPLONGINUX    67977                                                 1   10
+  5 FAGACEAE    CYCLOBALANOPLONGINUX    67977                                                 7   14   15    8    7   12    7    7
+  6 FAGACEAE    CYCLOBALANOPLONGINUX    67977                                                 1    5
+  8 FAGACEAE    CYCLOBALANOPLONGINUX    67977                                                 1    4
+  9 FAGACEAE    CYCLOBALANOPLONGINUX    67977                                                 2    9   19
+  1 FAGACEAE    CYCLOBALANUSCHAMPIONII  67963 67915                                           1   45
+  3 FAGACEAE    CYCLOBALANUSCHAMPIONII  67963 67915                                           1   12
+  4 FAGACEAE    CYCLOBALANUSCHAMPIONII  67963 67915                                           2   22    9   37
+  8 FAGACEAE    CYCLOBALANUSCHAMPIONII  67963 67915                                           1    3
+ 10 FAGACEAE    CYCLOBALANUSCHAMPIONII  67963 67915                                           1   17
+  1 FAGACEAE    LITHOCARPUS AMYGDALIFOLI67926                                                 1   10
+  2 FAGACEAE    LITHOCARPUS AMYGDALIFOLI67926                                                 2   10   26
+  4 FAGACEAE    LITHOCARPUS AMYGDALIFOLI67926                                                 1    6
+  8 FAGACEAE    LITHOCARPUS AMYGDALIFOLI67926                                                 6   10    9   12   12   11   13
+  4 FAGACEAE    PASANIA     BREVICAUDATA67975                                                 1    9   15
+  9 FAGACEAE    PASANIA     BREVICAUDATA67975                                                 2   10    8    9
+ 10 FAGACEAE    PASANIA     BREVICAUDATA67975                                                 2    6   17
+  3 FAGACEAE    PASANIA     FORMOSANA   67955                                                 2  2.5   16
+  4 FAGACEAE    PASANIA     FORMOSANA                                                         1    3   16   12   11    3    3
+ 10 FAGACEAE    PASANIA     FORMOSANA   67955                                                 3   10    8    8   12    7    3    3
+  1 GROSSULARIACITEA        PARVIFLORA  67921                                                 1   10
+  7 GROSSULARIACITEA        PARVIFLORA  67921                                                 1    9
+  1 ILLICIACEAE ILLICIUM    ARBORESCENS 67916                                                 6  2.5    4  2.5    3    4    5
+  2 ILLICIACEAE ILLICIUM    ARBORESCENS 67916                                                 2   10    4
+  3 ILLICIACEAE ILLICIUM    ARBORESCENS 67916                                                16    4    3    5    5    4    5    5    3    5    8    6    7    8    3    3    4    3    4    3    6    6
+  4 ILLICIACEAE ILLICIUM    ARBORESCENS 67916                                                10         5  2.5    5    3    3    3    5    5    5    3
+  5 ILLICIACEAE ILLICIUM    ARBORESCENS 67916                                                 3    5    5    6  2.5
+  6 ILLICIACEAE ILLICIUM    ARBORESCENS 67916                                                 6    3    5    5    5  2.5    3    7  2.5
+  7 ILLICIACEAE ILLICIUM    ARBORESCENS 67916                                                 9    3    3    4    6    9   10    4    8    9
+  8 ILLICIACEAE ILLICIUM    ARBORESCENS 67916                                                12  2.5    6    6    3    6    5    3    8  2.5    5    4    7    6    4
+  9 ILLICIACEAE ILLICIUM    ARBORESCENS 67916                                                 6    7    4    4    3    5    5    5    3    5    8
+ 10 ILLICIACEAE ILLICIUM    ARBORESCENS 67916                                                21    5    8    3    6    7    6    5    5    3    3  2.5    7    3    4    5    5    5    5  2.5    4    4    4    3   10    3  2.5    4    8    7    7    6
+  2 LARDIZABALACLARDIZABALA M1          67934                                           L     2  2.5    4
+  3 LARDIZABALACLARDIZABALA M1          67934                                           L     2  2.5    3
+  2 LAURACEAE   BEILSCHMIEDIERYTHROPHLOE67929                                                 6    3    6    5    6    3    5    4    9
+  3 LAURACEAE   BEILSCHMIEDIERYTHROPHLOE67929                                                 2    7    3
+  4 LAURACEAE   BEILSCHMIEDIERYTHROPHLOE67929                                                 1    3
+  5 LAURACEAE   BEILSCHMIEDIERYTHROPHLOE67929                                                 2    3  2.5
+  6 LAURACEAE   BEILSCHMIEDIERYTHROPHLOE67929                                                 4    3  2.5    3    3
+  7 LAURACEAE   BEILSCHMIEDIERYTHROPHLOE67929                                                 1  2.5
+  8 LAURACEAE   BEILSCHMIEDIERYTHROPHLOE67929                                                 1    4
+ 10 LAURACEAE   BEILSCHMIEDIERYTHROPHLOE67929                                                 1    3       
+  2 LAURACEAE   BEILSCHMIEDITSANGII     67948 67973                                           1    8
+  4 LAURACEAE   BEILSCHMIEDITSANGII     67948 67973                                           2  2.5    4    5    4
+  5 LAURACEAE   BEILSCHMIEDITSANGII     67948 67973                                           2    5   14    7
+  9 LAURACEAE   BEILSCHMIEDITSANGII     67948 67973                                           2    3  2.5
+ 10 LAURACEAE   BEILSCHMIEDITSANGII     67948 67973                                           2    8    5
+  2 LAURACEAE   LITSEA      NAKAII      67935 67992                                           1    4
+  6 LAURACEAE   LITSEA      NAKAII      67935 67992                                           1    3
+  7 LAURACEAE   LITSEA      NAKAII      67935 67992                                           1  2.5
+  9 LAURACEAE   LITSEA      NAKAII      67935 67992                                           5  2.5    6  2.5  2.5  2.5
+  4 LAURACEAE   NEOLITSEA   BUISANENSIS 67971 68007                                           2    6    5  2.5  2.5
+  8 LAURACEAE   NEOLITSEA   BUISANENSIS 67971 68007                                           2  2.5    5
+  3 LAURACEAE   NEOLITSEA   DAIBYENSIS  67952                                                 1  2.5
+  3 LAURACEAE   NEOLITSEA   HIRANENSIS  67953                                                 1  2.5
+  5 LAURACEAE   NEOLITSEA   HIRANENSIS  67953                                                 1    5
+  2 LAURACEAE   PERSEA      OBOVATIFOLIA67933                                                 2    7    3
+  3 LAURACEAE   PERSEA      OBOVATIFOLIA67933                                                 1    5
+  4 LAURACEAE   PERSEA      OBOVATIFOLIA67933                                                 3    4    4    3  2.5
+  7 LAURACEAE   PERSEA      OBOVATIFOLIA67933                                                 1  2.5
+  1 LAURACEAE   PERSEA      THUNBERGII  67906                                                 1    8
+  2 LAURACEAE   PERSEA      THUNBERGII  67906                                                 3    5   14    4
+  3 LAURACEAE   PERSEA      THUNBERGII  67906                                                 1    4
+  5 LAURACEAE   PERSEA      THUNBERGII  67906                                                 1    9    4
+  6 LAURACEAE   PERSEA      THUNBERGII  67906                                                 1    4
+  8 LAURACEAE   PERSEA      THUNBERGII  67906                                                 1    8
+ 10 LAURACEAE   PERSEA      THUNBERGII  67906                                                 2    4    8
+  4 LAURACEAE   PERSEA      ZINHOENSIS  67974                                                 1   11
+  4 LOGANIACEAE STRYCHNOS   HENRYI      67972                                           L     2  2.5  2.5
+  6 LOGANIACEAE STRYCHNOS   HENRYI      67972                                           L     1  2.5
+  3 MAGNOLIACEAEMAGNOLIA    KANCHIRACHIR67950 67994 68006                                     2   16   11
+  6 MAGNOLIACEAEMAGNOLIA    KANCHIRACHIR67950 67994 68006                                     1   15
+  8 MAGNOLIACEAEMAGNOLIA    KANCHIRACHIR67950 67994 68006                                     2  2.5   11
+ 10 MAGNOLIACEAEMAGNOLIA    KANCHIRACHIR67950 67994 68006                                     2    6    5
+  1 MAGNOLIACEAEMICHELIA    COMPRESSA   67914                                                 2    5    3
+  2 MAGNOLIACEAEMICHELIA    COMPRESSA   67914                                                 1  2.5
+  3 MAGNOLIACEAEMICHELIA    COMPRESSA   67914                                                 1    9
+  6 MAGNOLIACEAEMICHELIA    COMPRESSA   67914                                                 1    5
+ 10 MAGNOLIACEAEMICHELIA    COMPRESSA   67914                                                 1  2.5
+  1 MELASTOMATACASTRONIA    FERRUGINEA  67927                                                 1  2.5
+  3 MELASTOMATACASTRONIA    FERRUGINEA  67927                                                 1    5
+  2 MORACEAE    FICUS       AURANTIATA  67936                                           H     1    5
+  3 MORACEAE    FICUS       AURANTIATA  67936                                           H     1  2.5
+  7 MORACEAE    FICUS       FISTULOSA   68003                                                 2    6    4
+  6 MORACEAE    FICUS       FORMOSANA   67990                                                 1  2.5
+  4 MYRICACEAE  MYRICA      RUBRA       67967                                                 1   11  
+  3 MYRSINACEAE ARDISIA     CORNUDENTATA67951                                                 1  2.5
+  2 MYRSINACEAE ARDISIA     QUINQUEGONA 67947                                                 1  2.5
+  9 MYRSINACEAE ARDISIA     QUINQUEGONA 67947                                                 1  2.5
+  1 MYRSINACEAE ARDISIA     SIEBOLDII   67920 68004                                     H     1    6
+  7 MYRSINACEAE ARDISIA     SIEBOLDII   67920 68004                                           1  2.5
+  2 MYRTACEAE   DECASPERMUM GRACILENTUM                                                       1   10
+  5 MYRTACEAE   DECASPERMUM GRACILENTUM                                                       1   14   10
+  7 MYRTACEAE   DECASPERMUM GRACILENTUM                                                       1    8   10    7
+  1 MYRTACEAE   SYZYGIUM    EUPHLEBIUM  67912 67954                                           4  2.5    4    6    6
+  2 MYRTACEAE   SYZYGIUM    EUPHLEBIUM  67912 67954                                           4    6    8   34    7    9
+  3 MYRTACEAE   SYZYGIUM    EUPHLEBIUM  67912 67954                                           5    6    8   10    5    6  2.5
+  4 MYRTACEAE   SYZYGIUM    EUPHLEBIUM  67912 67954                                           2    6    7    8
+  5 MYRTACEAE   SYZYGIUM    EUPHLEBIUM  67912 67954                                           4    5    3  2.5    3    7    6
+  6 MYRTACEAE   SYZYGIUM    EUPHLEBIUM  67912 67954                                           1    3
+  8 MYRTACEAE   SYZYGIUM    EUPHLEBIUM  67912 67954                                           1    5
+  9 MYRTACEAE   SYZYGIUM    EUPHLEBIUM  67912 67954                                           3   10   11   10
+ 10 MYRTACEAE   SYZYGIUM    EUPHLEBIUM  67912 67954                                           6    4    3    7    4   17    6   10
+  6 MYRTACEAE   SYZYGIUM    KUSUKUSENSE 67996                                                 2    5    8
+  5 OLEACEAE    FRAXINUS    INSULARIS                                                         1   13
+  6 OLEACEAE    FRAXINUS    INSULARIS                                                         1   12
+  7 OLEACEAE    FRAXINUS    INSULARIS                                                         1   16
+  8 OLEACEAE    FRAXINUS    INSULARIS                                                         1    4
+ 10 OLEACEAE    FRAXINUS    INSULARIS                                                         2    7   11
+  1 OLEACEAE    OSMANTHUS   MARGINATA   67997 67911                                           8    4    9    7    5    5  2.5    6  2.5
+  4 OLEACEAE    OSMANTHUS   MARGINATA   67997 67911                                           6    5    9    4  2.5    7    5    8
+  4 OLEACEAE    OSMANTHUS   MARGINATA   67997 67911                                           2   11    3
+  5 OLEACEAE    OSMANTHUS   MARGINATA   67997 67911                                           1    5
+  6 OLEACEAE    OSMANTHUS   MARGINATA   67997 67911                                           3  2.5    4   13
+  7 OLEACEAE    OSMANTHUS   MARGINATA   67997 67911                                           2  2.5    7  2.5
+  8 OLEACEAE    OSMANTHUS   MARGINATA   67997 67911                                           2   11   10  2.5
+  9 OLEACEAE    OSMANTHUS   MARGINATA   67997 67911                                           1    4
+ 10 OLEACEAE    OSMANTHUS   MARGINATA   67997 67911                                           6   12    9    7    3  2.5    3
+  1 PANDANACEAE FREYCINETIA FORMOSANA   67908                                           L     2  2.5  2.5
+  4 PANDANACEAE FREYCINETIA M1          67976                                           H     1    3
+  5 PANDANACEAE FREYCINETIA M1          67976                                           H     1  2.5
+  6 PANDANACEAE FREYCINETIA M1          67976                                           H     1    3
+  7 PODOCARPACEAPODOCARPUS  NAGI                                                              1    3
+  8 PODOCARPACEAPODOCARPUS  NAGI                                                              1    4
+ 10 PODOCARPACEAPODOCARPUS  NAGI                                                              1    4
+  4 PROTEACEAE  HELICIA     FORMOSUM                                                          1    7
+  1 PROTEACEAE  HELICIA     RENGETIENSIS67924                                                 1    3
+  5 RUBIACEAE   COPTOSAPELTADIFFUSA                                                     L     1  2.5
+  6 RUBIACEAE   COPTOSAPELTADIFFUSA                                                           1  2.5
+  2 RUBIACEAE   PSYCHOTRIA  RUBRA       67943                                                 1  2.5
+  4 RUBIACEAE   PSYCHOTRIA  RUBRA       67943                                                 4  2.5    4  2.5  2.5  
+  7 RUBIACEAE   PSYCHOTRIA  RUBRA       67943                                                 2  2.5  2.5
+  9 RUBIACEAE   PSYCHOTRIA  RUBRA       67943                                                 2    3    5  2.5
+  3 RUBIACEAE   TARENNA     GRACILIPES  67956                                                 1    3
+  4 RUBIACEAE   TRICALYSIA  DUBIA       67969                                                 1    3
+  5 RUBIACEAE   TRICALYSIA  DUBIA       67969                                                 4  2.5    3    3    6
+  6 RUBIACEAE   TRICALYSIA  DUBIA       67969                                                 1    6
+  9 RUBIACEAE   TRICALYSIA  DUBIA       67969                                                 1    4
+  2 RUBIACEAE   WENDLANDIA  FORMOSANA   67946                                                 1    3
+  7 RUBIACEAE   WENDLANDIA  FORMOSANA   67946                                                 1    3
+  9 RUBIACEAE   WENDLANDIA  FORMOSANA   67946                                                 1    9
+  2 RUTACEAE    ZANTHOXYLUM NITIDUM     67939                                           L     1    3
+  5 RUTACEAE    ZANTHOXYLUM NITIDUM     67939                                           L     2  2.5  2.5
+  6 RUTACEAE    ZANTHOXYLUM NITIDUM     67939                                           L     1    4
+  3 SMILACACEAE SMILAX      BRACTEATA   67960                                           L     1  2.5
+  6 SMILACACEAE SMILAX      BRACTEATA   67960                                           L     1  2.5
+  6 STYRACACEAE STYRAX      FORMOSANA   67989                                                 1    9
+  3 SYMPLOCACEAESYMPLOCOS   GLOMERATA   67961                                                 1  2.5
+  5 SYMPLOCACEAESYMPLOCOS   GLOMERATA   67961                                                 1  2.5
+  6 SYMPLOCACEAESYMPLOCOS   GLOMERATA   67961                                                 3    3  2.5    4    6
+  4 SYMPLOCACEAESYMPLOCOS   SHILANENSIS 67965                                                 1  2.5
+  8 SYMPLOCACEAESYMPLOCOS   SHILANENSIS 67965                                                 1    6
+ 10 SYMPLOCACEAESYMPLOCOS   SHILANENSIS 67965                                                 1    4
+  4 SYMPLOCACEAESYMPLOCOS   WIKSTROENIFO67968                                                 1  2.5
+  6 SYMPLOCACEAESYMPLOCOS   WIKSTROENIFO67968                                                 1   13
+  6 THEACEAE    ADINANDRA   FORMOSEANA  67999                                                 2   12    4
+  7 THEACEAE    ADINANDRA   FORMOSEANA  67999                                                 9    4  2.5    4  2.5  2.5  2.5    7   10  2.5
+  8 THEACEAE    ADINANDRA   FORMOSEANA  67999                                                 5    5    3    5    6    4
+  1 THEACEAE    EURYA       HAYATAI     67913                                                 9    5    6    7  2.5    7    9  2.5    6    7
+  3 THEACEAE    EURYA       HAYATAI     67913                                                 1    3
+  3 THEACEAE    EURYA       HAYATAI     67913                                                 1   11
+  4 THEACEAE    EURYA       HAYATAI     67913                                                 2    4    7
+  6 THEACEAE    EURYA       HAYATAI     67913                                                 4    4    4    3    3  2.5    5    4
+  8 THEACEAE    EURYA       HAYATAI     67913                                                15  2.5  2.5    7    6    5    4    6    7    7    5  2.5    6  2.5    5   10    4    4
+ 10 THEACEAE    EURYA       HAYATAI     67913                                                 4    8    6    8    7
+  1 THEACEAE    GORDONIA    AXILLARIS   67907                                                28    8    6    8   13   13    6    7   10   18    9    6    5    3    5   13   11    4   12    9   16   11    6   13    6    9    5   13   12
+  2 THEACEAE    GORDONIA    AXILLARIS   67907                                                 2   33   12
+  3 THEACEAE    GORDONIA    AXILLARIS   67907                                                 1    6
+  4 THEACEAE    GORDONIA    AXILLARIS   67907                                                 3   26   14   10
+  5 THEACEAE    GORDONIA    AXILLARIS   67907                                                 1    4
+  6 THEACEAE    GORDONIA    AXILLARIS   67907                                                 6   11   14    7   14   16    8
+  7 THEACEAE    GORDONIA    AXILLARIS   67907                                                 3    7   20   12
+  8 THEACEAE    GORDONIA    AXILLARIS   67907                                                 2   15   11   22
+  9 THEACEAE    GORDONIA    AXILLARIS   67907                                                 1   27
+ 10 THEACEAE    GORDONIA    AXILLARIS   67907                                                 3   16   17   19
+  6 THEACEAE    SCHIMA      HYPOCHLORA  67998                                                 1    7
+  1 THEACEAE    SCHIMA      SUPERBA     67923                                                 2   13    5
+  2 THEACEAE    SCHIMA      SUPERBA     67923                                                 1  2.5   33
+  4 THEACEAE    SCHIMA      SUPERBA     67923                                                 1    4
+  5 THEACEAE    SCHIMA      SUPERBA     67923                                                 1   14
+  7 THEACEAE    SCHIMA      SUPERBA     67923                                                 1    9

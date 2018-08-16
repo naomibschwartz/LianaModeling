@@ -1,0 +1,224 @@
+LinFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 7 ANACARDIACETrichoscyphM1         62640                                                 1    5
+10 ANCISTROCLAAncistroclaealaensis  62663                                           L     1    3
+ 2 ANNONACEAE Artabotrys M1         62576                                           L     2    4  2.5
+ 1 ANNONACEAE CleistopholM1         62572                                                 1  2.5
+ 5 ANNONACEAE CleistopholM1         62572                                                 1  2.5
+ 8 ANNONACEAE CleistopholM1         62572                                                 1    4
+ 9 ANNONACEAE CleistopholM2         62662                                                 1    4
+ 9 ANNONACEAE Isolona    M1         62666                                                 1    3
+ 6 ANNONACEAE PachypodantM1         62621                                                 1    9
+ 8 ANNONACEAE PachypodantM1         62621                                                 1    9
+10 ANNONACEAE PachypodantM1         62621                                                 1    4
+ 4 ANNONACEAE Xylopia    M1         62605                                                 1   12
+ 8 ANNONACEAE Xylopia    M2         62649                                                 1   12
+ 8 ANNONACEAE Xylopia    M3         62658                                                 1    4
+ 1 APOCYNACEAELandolphia M1         62596 62622 62569                               L     1    5
+ 3 APOCYNACEAELandolphia M1         62596 62622 62569                               L     1  2.5
+ 3 APOCYNACEAELandolphia M1         62596 62622 62569                               L     3  2.5    3    5
+ 6 APOCYNACEAELandolphia M1         62596 62622 62569                               L     1    3
+ 8 APOCYNACEAELandolphia M1         62596 62622 62569                               L     2    4  2.5
+ 7 APOCYNACEAELandolphia M2         62624                                           L     2    7    6
+ 7 APOCYNACEAELandolphia M3         62628                                           L     1  2.5
+ 8 APOCYNACEAELandolphia M4         62647                                           L     2    4  2.5
+10 APOCYNACEAEM1         M1         62665                                                 1    6
+ 1 APOCYNACEAEPleiocarpa M1         62574                                                 1    5
+ 2 APOCYNACEAEPleiocarpa M1         62574                                                 2    5  2.5
+ 7 APOCYNACEAEPleiocarpa M1         62574                                                 1    5    3
+ 8 APOCYNACEAETabernaemoncrassa     62646                                                 1   14
+ 1 ARECACEAE  AncistrophyM1         62566                                           L     2  2.5  2.5
+ 2 ARECACEAE  AncistrophyM1         62566                                           L     4  2.5    4    3    3    5
+ 3 ARECACEAE  AncistrophyM1         62566                                           L     1  2.5
+ 9 ARECACEAE  AncistrophyM1         62566                                           L    14    4    4    3  2.5  2.5 3    3    3    3    3    3    3    3    3
+10 ARECACEAE  AncistrophyM1         62566                                           L    14    3    3  2.5  2.5  2.5 3    3    2.5  3    3    3    3    3    3
+10 ARECACEAE  AncistrophyM1         62566                                           L     7    3    3    3    3    3 3    3
+ 6 BOMBACACEAECeiba      pentandra  68166                                                 1   12
+ 7 BOMBACACEAECeiba      pentandra  68166                                                 1  130
+ 2 CELASTRACEAHippocrateaM1         62575                                           L     1    3
+ 2 CELASTRACEAM1         M1         62589                                           L     1    5
+ 2 CELASTRACEAM2         M1         62592                                           L     2    4    3
+ 4 CELASTRACEAM2         M1         62592                                           L     3    3  2.5    6
+ 5 CELASTRACEAM2         M1         62592                                           L     1  2.5
+ 2 CELASTRACEAM3         M1         62586                                           L     1  2.5
+ 6 CELASTRACEAM4         M1         62623                                           L     1    3
+ 7 CELASTRACEAM5         M1         62635                                           L     1    3
+ 2 COMBRETACEACombretum  M1         62588 62607                                     L     1    3
+ 4 COMBRETACEACombretum  M1         62588 62607                                     L     1    3
+ 7 COMBRETACEACombretum  M1         62588 62607                                     L     4    5  2.5    3    4
+ 8 COMBRETACEACombretum  M1         62588 62607                                     L     1    5
+ 1 COMBRETACEACombretum  M2         62564                                           L     1    5
+ 4 COMBRETACEACombretum  M2         62564                                           L     1  2.5
+ 4 COMBRETACEACombretum  M3         62611                                           L     1  2.5
+ 8 CONNARACEAEAgelaea    M1         62655                                                 1  2.5
+ 8 CONNARACEAEAgelaea    M1         62655                                                 1  2.5
+ 3 CONNARACEAEM1         M1         62620 62599                                           1  2.5
+ 6 CONNARACEAEM1         M1         62620 62599                                     L     1    9
+ 6 CONNARACEAEM1         M1         62620 62599                                     L     1  2.5
+ 3 DICHAPETALADichapetaluM1         62608 62594                                     L     1    6
+ 4 DICHAPETALADichapetaluM1         62608 62594                                     L     1  2.5
+ 7 DICHAPETALADichapetaluM1         62608 62594                                     L     1  2.5
+10 DICHAPETALADichapetaluM2         62664 62584                                     L     1    3
+10 DILLENIACEATetracera  M1                                                         L     1  2.5
+ 2 EBENACEAE  Diospyros  dendo      62577 62636                                           1    3  2.5
+ 7 EBENACEAE  Diospyros  dendo      62577 62636                                           1   17
+ 8 EBENACEAE  Diospyros  dendo      62577 62636                                           1    5
+ 9 EBENACEAE  Diospyros  dendo      62577 62636                                           1   10
+ 1 EBENACEAE  Diospyros  iturensis  62782 62641 62563                                     8    7    7    8    7   10 4    11   5
+ 1 EBENACEAE  Diospyros  iturensis  62782 62641 62563                                     2    4   34    6    3   27
+ 2 EBENACEAE  Diospyros  iturensis  62782 62641 62563                                     4  2.5    5  2.5    3    5
+ 3 EBENACEAE  Diospyros  iturensis  62782 62641 62563                                    10    9    5    3    4   16 13   10   9    9    13
+ 4 EBENACEAE  Diospyros  iturensis  62782 62641 62563                                     7    3  2.5    4    7    5 9    3    10   5
+ 5 EBENACEAE  Diospyros  iturensis  62782 62641 62563                                     5   25    4  2.5  2.5    4
+ 6 EBENACEAE  Diospyros  iturensis  62782 62641 62563                                     6    7  2.5    7    8  2.5 9
+ 7 EBENACEAE  Diospyros  iturensis  62782 62641 62563                                     4    5    5    7   12
+ 7 EBENACEAE  Diospyros  iturensis  62782 62641 62563                                     1    3
+ 8 EBENACEAE  Diospyros  iturensis  62782 62641 62563                                     1    7
+ 9 EBENACEAE  Diospyros  iturensis  62782 62641 62563                                    11    4   19    3    6    4 3    4    4    6    6    2.5
+ 7 EBENACEAE  Diospyros  M1         62634                                                 1    5
+ 8 EBENACEAE  Diospyros  M2         62650                                                 1    4    4
+ 5 EUPHORBIACEAntidesma  vogelianum 62615                                                 1    3
+ 8 EUPHORBIACEAntidesma  vogelianum 62615                                                 1    3
+ 9 EUPHORBIACECleistanthuM1         62659                                                 1   20    3
+10 EUPHORBIACECleistanthuM1         62659                                                 3  2.5    9  2.5    3    6 2.5
+ 7 EUPHORBIACEDrypetes   M1         62638                                                 1  2.5
+ 7 EUPHORBIACEDrypetes   M2         62639                                                 1  2.5
+ 8 EUPHORBIACEDrypetes   M3         62648                                                 1    8
+10 EUPHORBIACEDrypetes   M3         62648                                                 1    3
+ 1 EUPHORBIACEGrossera   paniculata 62561                                                 2   14  2.5
+ 2 EUPHORBIACEGrossera   paniculata 62561                                                 2    9   24
+ 3 EUPHORBIACEGrossera   paniculata 62561                                                 1    4
+ 7 EUPHORBIACEGrossera   paniculata 62561                                                 5    6  2.5  2.5    6    6
+ 8 EUPHORBIACEGrossera   paniculata 62561                                                 1    4
+ 9 EUPHORBIACEGrossera   paniculata 62561                                                 1   15
+ 8 EUPHORBIACESapium     elliptica  62645                                                 1   22
+ 1 EUPHORBIACEUapaca     huedelotii 62568                                                 2   46   47
+10 FABACEAE   Aganope    lucida     62667                                           L     1  2.5
+ 2 FABACEAE   Airyantha  schweinfurt62580                                           L     4  2.5    3  2.5  2.5
+ 3 FABACEAE   Airyantha  schweinfurt62580                                                 2    5    3
+ 4 FABACEAE   Airyantha  schweinfurt62580                                           L     2    3    4
+ 5 FABACEAE   Airyantha  schweinfurt62580                                           L     2    5  2.5
+ 6 FABACEAE   Airyantha  schweinfurt62580                                           L     3  2.5  2.5  2.5
+ 9 FABACEAE   Airyantha  schweinfurt62580                                           L     2    6    4
+ 7 FABACEAE   AngylocalyxM1         62643                                                 1    5
+ 5 FABACEAE   Anthonotha macrophylla62614                                                 2    7    4
+ 4 FABACEAE   Cynometra  sanagaensis62610                                                 1  2.5
+ 3 FABACEAE   Dewevrea   bilabiata  62601 62609                                     L     1    5
+ 4 FABACEAE   Dewevrea   bilabiata  62601 62609                                     L     1    5
+ 5 FABACEAE   Dewevrea   bilabiata  62601 62609                                     L     2  2.5  2.5
+ 5 FABACEAE   Dewevrea   bilabiata  62601 62609                                     L     2    7    5
+ 6 FABACEAE   Dewevrea   bilabiata  62601 62609                                     L     1  2.5
+ 7 FABACEAE   Dewevrea   bilabiata  62601 62609                                     L     1  2.5
+ 8 FABACEAE   Dewevrea   bilabiata  62601 62609                                     L     1  2.5
+ 9 FABACEAE   Dewevrea   bilabiata  62601 62609                                     L     1  2.5
+ 2 FABACEAE   Dialium    aff excelso62582                                                 1    7
+ 5 FABACEAE   Dialium    aff excelso62582                                                 1    5
+ 1 FABACEAE   Guibourtia demeusei   62571                                                 1    4   14   40   21   26 60
+ 2 FABACEAE   Guibourtia demeusei   62571                                                 1   85
+ 3 FABACEAE   Guibourtia demeusei   62571                                                 1   80
+ 4 FABACEAE   Guibourtia demeusei   62571                                                 2   60    3
+ 5 FABACEAE   Guibourtia demeusei   62571                                                 1   45
+ 6 FABACEAE   Guibourtia demeusei   62571                                                 2   60   58
+ 8 FABACEAE   Guibourtia demeusei   62571                                                 1    9   21
+ 9 FABACEAE   Guibourtia demeusei   62571                                                 1   59   60
+ 2 FABACEAE   M1         M1         62587 62603                                     L     1    4
+ 1 FABACEAE   Millettia  M1         62560                                                 4  2.5  2.5    4  2.5  2.5
+ 2 FABACEAE   Millettia  M1         62560                                                 5  2.5  2.5  2.5  2.5  2.5 4    2.5
+ 3 FABACEAE   Millettia  M1         62560                                                 3  2.5  2.5  2.5
+ 6 FABACEAE   Millettia  M1         62560                                                 2  2.5  2.5  2.5
+ 8 FABACEAE   Millettia  M1         62560                                                 4    4    3    3  2.5
+ 9 FABACEAE   Millettia  M1         62560                                                 1    8
+ 1 FABACEAE   Millettia  M2         62565 62618 62612                               L     1    7
+ 6 FABACEAE   Millettia  M2         62565 62618 62612                               L     2    4  2.5
+ 2 FABACEAE   Millettia  M3         62590                                           L     1   15
+ 3 FABACEAE   Millettia  M3         62590                                           L     2  2.5    6
+ 4 FABACEAE   Millettia  M3         62590                                           L     1  2.5
+ 6 FABACEAE   Millettia  M3         62590                                           L     2  2.5    3
+ 7 FABACEAE   Millettia  M3         62590                                           L     5  2.5    5  2.5    3  2.5
+ 2 FABACEAE   Millettia  M4         62591                                           L     1   10
+ 3 FABACEAE   Millettia  M4         62591                                           L     1    6
+ 9 FABACEAE   Millettia  M5         62661                                           L     1    3
+ 2 FABACEAE   Swartzia   fistuloides62578                                                 1    6
+ 2 ICACINACEAEIoedes     M1         62579                                           L     1  2.5
+ 3 ICACINACEAEIoedes     M1         62579                                           L     1  2.5
+ 3 ICACINACEAELeptaulis  M1         62595                                                 2  2.5  2.5
+ 7 ICACINACEAEM1         M1         62626                                           L     2    3  2.5
+ 2 ICACINACEAERhaphiostylM1         62618                                           L     1  2.5
+ 6 ICACINACEAERhaphiostylM1         62618                                           L     1    3
+ 7 INDET      M1         M1         62627                                           L     1  2.5
+ 2 IXONANTHACEOchthocosmoafricana   62597                                                 1   11
+ 3 IXONANTHACEOchthocosmoafricana   62597                                                 5    5
+10 IXONANTHACEOchthocosmoafricana   62597                                                 1  2.5
+ 2 IXONANTHACEOchthocosmuafricana   62597                                                 1   11
+ 3 IXONANTHACEOchthocosmuafricana   62597                                                 1    5
+10 IXONANTHACEOchthocosmuafricana   62597                                                 1  2.5
+ 4 LAURACEAE  BeilschmiedM1         62602                                                 1   12
+ 5 LAURACEAE  BeilschmiedM1         62602                                                 1    7
+ 2 MARANTACEAEHypselodelpM1         62583                                           L     1  2.5
+ 6 MELIACEAE  Trichilia cM1         62619 62631                                           1    4
+ 7 MELIACEAE  Trichilia cM1         62619 62631                                           1    4
+ 5 MENISPERMACM1         M1         62613                                           L     1  2.5
+ 7 MENISPERMACM2         M1         62633                                           L     1  2.5
+ 7 MENISPERMACM3         M1         62651                                           L     1  2.5
+ 8 MENISPERMACM4         M1         62651                                           L     1  2.5
+ 9 MENISPERMACM4         M1         62651                                           L     3  2.5  2.5  2.5
+ 3 MORACEAE   Ficus      M1                                                         H     1    1  2.5    4
+ 7 MORACEAE   Ficus      M2         62644                                                 1   70
+ 1 MORACEAE   Ficus      natalensis 62470                                           H     1    8
+ 8 MORACEAE   Treculia   africana   62656                                                 1  2.5
+ 5 MYRISTACEAEStaudtia   M1         67612                                                 1  2.5
+ 7 MYRISTACEAEStaudtia   M1         67612                                                 1  2.5
+ 1 OLACACEAE  Heisteria  parvifolia 62573                                                 1  2.5
+ 5 OLACACEAE  Heisteria  parvifolia 62573                                                 1  2.5  2.5
+ 7 PANDACEAE  Microdesmispuberula   62629                                                 1    4
+ 6 PANDACEAE  Panda      oleosa                                                           1   43
+ 7 RHAMNACEAE Maesopsis  M1         62630                                                 1   13
+ 2 RHIZOPHORACCassipoureacongoensis 62653                                                 1    5
+ 8 RHIZOPHORACCassipoureacongoensis 62653                                                 1    6
+ 8 RUBIACEAE  Coffea     brevipes   62654                                                 1  2.5
+ 8 RUBIACEAE  Ixora      bauchiensis62657                                                 1    4
+ 9 RUBIACEAE  Ixora      bauchiensis62657                                                 1  2.5
+ 8 RUBIACEAE  Ixora      brachypoda 62652                                                 1    5
+10 RUBIACEAE  Ixora      brachypoda 62652                                                 3    3  2.5    3    3    3
+ 7 SAPINDACEAEChytranthusM1         62637                                                 1    3
+ 9 SAPINDACEAEChytranthusM1         62637                                                 1    3
+ 9 SAPINDACEAEChytranthusM2         62660                                                 1    3
+ 1 SCYTOPETALABrazzeia   congolensis62562                                                 1  2.5
+ 8 SCYTOPETALABrazzeia   congolensis62562                                                 1  2.5
+ 9 SCYTOPETALABrazzeia   congolensis62562                                                 1    3
+ 3 SIMAROUBACEIrvingia   wombolu    62593                                                 1   12
+ 4 SIMAROUBACEIrvingia   wombolu    62593                                                 1   15
+ 7 SIMAROUBACEIrvingia   wombolu    62593                                                 1   46
+ 2 STERCULIACELeptonychiaM1         62600                                                 1  2.5
+ 3 STERCULIACELeptonychiaM1         62600                                                 1   23
+ 7 STERCULIACELeptonychiaM1         62600                                                 1    5
+ 7 STERCULIACELeptonychiaM1         62600                                                 1    7
+ 9 STERCULIACELeptonychiaM1         62600                                                 1    9
+ 2 TILIACEAE  AncistrocarM1         62585                                           L     2  2.5  2.5
+ 9 TILIACEAE  AncistrocarM1         62585                                           L     2    5    5
+10 TILIACEAE  AncistrocarM1         62585                                                 1  2.5
+ 3 TILIACEAE  Christiana africana   62598                                                 1   11   18
+ 4 TILIACEAE  Christiana africana   62598                                                 1   16
+ 5 TILIACEAE  Christiana africana   62598                                                 1   25
+ 6 TILIACEAE  Christiana africana   62598                                                 1  2.5
+ 7 TILIACEAE  Christiana africana   62598                                                 1    3
+10 TILIACEAE  Christiana africana   62598                                                 1   14
+ 2 TILIACEAE  Desplatsia dewevrei   62581 62606                                           1  2.5
+ 4 TILIACEAE  Desplatsia dewevrei   62581 62606                                           1   25
+ 5 TILIACEAE  Desplatsia dewevrei   62581 62606                                           1    4
+ 9 TILIACEAE  Desplatsia dewevrei   62581 62606                                           1    7
+ 6 TILIACEAE  Glyphaea   brevis     62617                                                 1    5
+                                                                                             
+
+
+
+
+
+
+
+
+
+
+
+
+
+

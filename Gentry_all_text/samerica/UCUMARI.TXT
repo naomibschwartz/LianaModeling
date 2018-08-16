@@ -1,0 +1,304 @@
+LinFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 2 ACTINIDIACESaurauia   M1         136                                                  2    5 3
+ 4 ACTINIDIACESaurauia   M1         136                                                  1    4
+ 7 APOCYNACEAEMandevilla M1           507                                           L    1  2.5
+ 1 AQUIFOLIACEIlex       M1         185                                                  1   17 18
+ 5 AQUIFOLIACEIlex       M1         185                                                  1   20
+10 AQUIFOLIACEIlex       M1         185                                                  3    7 4    3    9    14   21
+ 6 AQUIFOLIACEIlex       M2         493                                                  1    5
+ 1 ARACEAE    Anthurium  M1         214                                             L    1    3
+ 1 ARACEAE    Anthurium  M1         214                                             L   14  2.5 2.5  3    2.5  2.5  2.5  3    2.5  3    3    3    3.5  2.5  3
+ 2 ARACEAE    Anthurium  M1         214                                             L    3    4 2.5  2.5
+ 3 ARACEAE    Anthurium  M1         214                                             L    5    3 2.5  2.5  2.5  2.5
+ 4 ARACEAE    Anthurium  M1         214                                             L    7    3 2.5  2.5  2.5  2.5  3    2.5
+ 5 ARACEAE    Anthurium  M1         214                                             L    1  2.5 3
+ 6 ARACEAE    Anthurium  M1         214                                             L    6  2.5 2.5  2.5  3    2.5  2.5
+ 7 ARACEAE    Anthurium  M1         214                                             L    4  2.5 2.5  2.5  2.5
+ 8 ARACEAE    Anthurium  M1         214                                             L    9  2.5 2.5  2.5  2.5  2.5  2.5  2.5  3    3
+ 9 ARACEAE    Anthurium  M1         214                                             L    8    3 2.5  3    3    3    3    2.5  2.5
+ 9 ARACEAE    Anthurium  M1         134     490                                     L    4    4 3    3    3
+ 9 ARACEAE    Anthurium  M1         214                                             L    8    3 2.5  4    2.5  3    2.5  3    2.5
+10 ARACEAE    Anthurium  M1         214                                             L   10  2.5 2.5  2.5  3    2.5  2.5  2.5  2.5  2.5  2.5
+10 ARACEAE    Anthurium  M1         214                                             L    4  2.5 2.5  2.5  2.5
+ 2 ARACEAE    Anthurium  M2         213     528                                     L    1  2.5
+ 4 ARACEAE    Anthurium  M2         213     528                                     L    1  2.5
+ 5 ARACEAE    Anthurium  M2         213     528                                     L    1  2.5
+ 4 ARACEAE    Anthurium  M3         134     490                                     L    1  2.5
+ 6 ARACEAE    Anthurium  M3         134     490                                     L    1  2.5
+ 1 ARALIACEAE DendropanaxM1         81                                                   1    3
+ 4 ARALIACEAE DendropanaxM1         81                                                   2    7 3    8
+ 1 ARALIACEAE Oreopanax  M1         196     505                                          2    7 3
+ 3 ARALIACEAE Oreopanax  M1         196     505                                          2   10 4    2.5
+ 5 ARALIACEAE Oreopanax  M1         196     505                                          1    4
+ 6 ARALIACEAE Oreopanax  M1         196     505                                          2    4 3    6    6
+ 7 ARALIACEAE Oreopanax  M1         196     505                                          1    3
+ 9 ARALIACEAE Oreopanax  M1         196     505                                          4    5 6    4    8
+10 ARALIACEAE Oreopanax  M1         196     505                                          6    5 6    6    5    3    5
+ 3 ARALIACEAE Oreopanax  M2         324   329                                            2  2.5 2.5
+ 3 ARALIACEAE Oreopanax  M2         324   329                                            3    8 11   11   2.5
+ 4 ARALIACEAE Oreopanax  M2         324   329                                            1    3
+ 7 ARALIACEAE Oreopanax  M2         324   329                                            1    3
+ 7 ARALIACEAE Oreopanax  M2         324   329                                            1    6
+ 8 ARALIACEAE Oreopanax  M2         324   329                                            1    4
+ 9 ARALIACEAE Oreopanax  M2         324   329                                            1    4
+10 ARALIACEAE Oreopanax  M2         324   329                                            1    7
+ 6 ARALIACEAE Oreopanax  M3         492                                                  1    4
+ 6 ARALIACEAE Schefflera M1         498                                             L    1  2.5
+ 4 ARECACEAE  Ceroxylon  M1         -                                                    1   20
+ 8 ARECACEAE  Ceroxylon  M1         -                                                    1   13
+ 9 ARECACEAE  Ceroxylon  M1         -                                                    1    5 5    5    5    5    5
+ 5 ARECACEAE  Geonoma    M1         480                                                  1    4
+ 8 ARECACEAE  Geonoma    M1         480                                                  2    4 4
+ 8 ARECACEAE  Prestoea   M1           546                                                1   10 10
+ 9 ARECACEAE  Prestoea   M1           546                                                1    8 8
+ 1 ASTERACEAE M1         M1         192                                             L    1  2.5
+ 1 ASTERACEAE M2         M1         194   195                                       L    1    3
+ 2 ASTERACEAE M2         M1         194   195                                       L    1  2.5
+ 9 ASTERACEAE M2         M1         194   195                                       L    1    3
+10 ASTERACEAE M2         M1         194   195                                       L    1  2.5
+ 7 ASTERACEAE M3         M1         513                                             L    1    6
+ 1 ASTERACEAE Mikania    M1         208                                             L    1    3
+ 2 ASTERACEAE Mikania    M1         208                                             L    1  2.5
+ 3 ASTERACEAE Mikania    M1         208                                             L    1  2.5
+ 1 ASTERACEAE Senecio    M1         312                                             L    2    3 6
+ 3 ASTERACEAE Senecio    M1         312                                             L    3    4 2.5  2.5
+ 4 ASTERACEAE Senecio    M1         312                                             L    1  2.5
+ 5 ASTERACEAE Senecio    M1         312                                             L    1  2.5
+ 6 ASTERACEAE Senecio    M1         312                                             L    1  2.5
+ 7 ASTERACEAE Senecio    M1         312                                             L    2    8 2.5
+ 2 BORAGINACEACordia     cylindrosta212                                                  1  2.5
+ 6 BORAGINACEACordia     M1         503                                                  1   21
+ 1 BORAGINACEATournefortiM1         86                                                   4   12 6    16   6
+10 BORAGINACEATournefortiM1         86                                                   1    5
+ 4 CAPRIFOLIACViburnum   M1         336                                                  1  2.5
+ 7 CAPRIFOLIACViburnum   M1         336                                                  1   14
+ 8 CAPRIFOLIACViburnum   M1         336                                                  2  2.5 7
+ 9 CAPRIFOLIACViburnum   M1         336                                                  2   10 28
+10 CAPRIFOLIACViburnum   M1         336                                                  1    5 4
+ 5 CELASTRACEAM1         M1         482     521                                          1  2.5
+ 6 CELASTRACEAM1         M1         482     521                                          1    4
+ 8 CELASTRACEAM1         M1         482     521                                          1    4
+ 1 CELASTRACEAZinowiewia M1         311                                                  1   32
+ 4 CLUSIACEAE Clusia     M1           253                                                1    5 13
+ 6 CLUSIACEAE Clusia     M1           253                                                2    3 2.5  8    2.5
+ 8 CLUSIACEAE Clusia     M1           253                                                1    8 7    9    7    6
+ 2 CLUSIACEAE Tovomita   M1         85    128                                            1  2.5
+ 3 CLUSIACEAE Tovomita   M1         85    128                                            1   13
+ 5 CLUSIACEAE Tovomita   M1         85    128                                            1   22
+ 8 CLUSIACEAE Tovomita   M1         85    128                                            1    5 9
+ 2 CUCURBITACEM1         M1         316                                             L    1  2.5
+ 3 CUCURBITACEM1         M1         316                                             L    1    4
+ 5 CUNONIACEAEWeinmannia M1           555                                                1   50   13
+ 6 CUNONIACEAEWeinmannia M2         501                                                  3   21 24   16
+ 7 CYATHEACEAESphaeropterquindinensi  508   527                                          1   16
+ 9 CYATHEACEAESphaeropterquindinensi  508   527                                          1   16
+ 5 ERICACEAE  M1         M1         488                                             L    1    5
+ 1 EUPHORBIACEHyeronima  M1         119                                                  1   16
+ 2 EUPHORBIACEHyeronima  M1         119                                                  1    6
+ 3 EUPHORBIACEHyeronima  M1         119                                                  3    5 8    7    2.5
+ 4 EUPHORBIACEHyeronima  M1         119                                                  1    6
+ 5 EUPHORBIACEHyeronima  M1         119                                                  1    4
+ 6 EUPHORBIACEHyeronima  M1         119                                                  5   20 8    5    3    14   16   9
+ 7 EUPHORBIACEHyeronima  M1         119                                                  1   20
+ 8 EUPHORBIACEHyeronima  M1         119                                                  2    6 5
+ 9 EUPHORBIACEHyeronima  M1         119                                                  2    3 4
+10 EUPHORBIACEHyeronima  M1         119                                                  2    5 4
+ 1 EUPHORBIACESapium     M1         106                                                  1   20
+ 2 EUPHORBIACESapium     M1         106                                                  1   26
+ 3 EUPHORBIACESapium     M1         106                                                  1    9
+ 6 EUPHORBIACESapium     M1         106                                                  3    8 7    25
+10 EUPHORBIACESapium     M1         106                                                  4    7 4    9    6    3    6    3
+ 7 FLACOURTIACXylosma    M1         510                                                  1   30
+ 1 GESNERIACEAAlloplectusM1         554     543                                          1  2.5
+10 GESNERIACEAAlloplectusM1         554     543                                     L    1  2.5
+ 1 HIPPOCASTANBillia     colombiana   111                                                1    6
+ 5 HIPPOCASTANBillia     colombiana   111                                                1   22
+ 8 HIPPOCASTANBillia     colombiana   111                                                2    5 20
+ 9 HIPPOCASTANBillia     colombiana   111                                                2   14 8
+ 1 HYDRANGEACEHydrangea  M1         193                                             L    3    6 5    4
+ 2 HYDRANGEACEHydrangea  M1         193                                             L    6    4 3    4    2.5  6    4
+ 4 HYDRANGEACEHydrangea  M1         193                                             L    4    3 5    4    4
+ 5 HYDRANGEACEHydrangea  M1         193                                             L    6    5 4    4    2.5  9    4
+ 6 HYDRANGEACEHydrangea  M1         193                                             L    3  2.5 7    6
+ 7 HYDRANGEACEHydrangea  M1         193                                             L    2    5 2.5
+ 9 HYDRANGEACEHydrangea  M1         193                                             L    3  2.5 2.5  2.5
+10 HYDRANGEACEHydrangea  M1         193                                             L    1    8
+ 1 LAURACEAE  M1         M1         188                                                  1    7 2.5
+ 6 LAURACEAE  M10        M1         502                                                  1   10
+ 2 LAURACEAE  M2         M1         203                                                  2    4 19   3    6    12
+ 2 LAURACEAE  M3         M1         205                                                  1    4
+ 3 LAURACEAE  M4         M1         318                                                  1    3
+ 4 LAURACEAE  M5         M1         333                                                  1    6
+ 4 LAURACEAE  M6         M1         334                                                  1    7
+ 4 LAURACEAE  M7         M1         339                                                  1  2.5
+ 6 LAURACEAE  M8         M1         491                                                  1    9 5
+ 6 LAURACEAE  M9         M1         500                                                  1    3
+ 7 LAURACEAE  Ocotea     calophylla 551     512                                          2   15 14
+ 9 LAURACEAE  Ocotea     calophylla 551     512                                          1   29
+ 5 LAURACEAE  Ocotea     M1         484                                                  1    8
+ 8 LAURACEAE  Ocotea     M1         484                                                  3    3 5    13   7
+ 1 LECYTHIDACEEschweileraM1                                                              1   19 6    7
+ 3 LOGANIACEAEBuddleja   M1         327                                                  1  2.5
+ 3 MELASTOMATAAxinaea    M1         320                                                  3   40 35   37
+ 4 MELASTOMATAAxinaea    M1         320                                                  2   47 24
+ 5 MELASTOMATAAxinaea    M1         320                                                  1   24
+ 6 MELASTOMATAAxinaea    M1         320                                                  2   22 26
+ 8 MELASTOMATAAxinaea    M1         320                                                  1   11
+10 MELASTOMATAAxinaea    M1         320                                                  1   39
+ 6 MELASTOMATAM1         M1         496                                                  1  2.5
+ 7 MELASTOMATAM2         M1         506                                                  1    3
+ 8 MELASTOMATAM2         M1         506                                                  1    4
+ 9 MELASTOMATAM2         M1         506                                                  3   11 3    3
+ 7 MELASTOMATAM3         M1         511                                                  3  2.5 3    6
+ 9 MELASTOMATAM3         M1         511                                                  1   12
+10 MELASTOMATAM3         M1         511                                                  1   14
+ 1 MELASTOMATAMeriania   M1         118   169                                            2    8 6
+ 1 MELASTOMATAMiconia    M1         186                                                  1   12
+ 1 MELASTOMATAMiconia    M2         187                                                  1    6 14
+ 1 MELASTOMATAMiconia    M3         191                                                  1    3
+ 2 MELASTOMATAMiconia    M3         191                                                  2    5 6    4
+ 5 MELASTOMATAMiconia    M3         191                                                  1    5 3    2.5  8
+ 8 MELASTOMATAMiconia    M3         191                                                  1    3
+ 4 MELASTOMATAMiconia    M4         331                                                  2  2.5 2.5
+ 8 MELASTOMATAMiconia    M5         552                                                  3  2.5 3    5
+10 MELASTOMATAMiconia    M5         552                                                  1    4
+10 MELASTOMATAMiconia    M6         547                                                  1  2.5 4
+ 2 MELIACEAE  Cedrela    M1         99                                                   1    8
+ 7 MELIACEAE  Cedrela    M1         99                                                   1  2.5
+ 9 MELIACEAE  Cedrela    M1         99                                                   2   31 6
+10 MELIACEAE  Cedrela    M1         99                                                   1    4
+ 7 MELIACEAE  Guarea     kunthiana    446                                                1    8
+ 4 MELIACEAE  Ruagea     M1         338                                                  1    3
+ 5 MELIACEAE  Ruagea     M1         338                                                  1    7
+ 6 MELIACEAE  Ruagea     M1         338                                                  2  2.5 4
+ 8 MELIACEAE  Ruagea     M1         338                                                  1   14
+ 7 MONIMIACEAESiparuna   M1         349     509                                          1    3
+10 MONIMIACEAESiparuna   M2         531                                                  1  2.5
+ 2 MORACEAE   Ficus      M1         317                                                  1   23
+ 4 MORACEAE   Ficus      M1         317                                                  3   10 5    10   20
+ 5 MORACEAE   Ficus      M1         317                                                  2   22 26
+ 2 MORACEAE   Morus      insignis      93                                                1   17
+ 3 MORACEAE   Morus      insignis      93                                                3    4 2.5  2.5  3    3
+ 9 MORACEAE   Morus      insignis      93                                                1   13
+ 6 MYRICACEAE Myrica     pubescens   5674                                                1   38
+ 2 MYRSINACEAECybianthus M1         209                                                  1  2.5
+ 8 MYRSINACEAECybianthus M1         209                                                  2    3 5
+ 6 MYRSINACEAEGeissanthusoccidentali495                                                  1    5
+ 3 MYRSINACEAEMyrsine    M1           323   494                                          1    7 7    8
+ 4 MYRSINACEAEMyrsine    M1           323   494                                          1    7 6
+ 6 MYRSINACEAEMyrsine    M1           323   494                                          3    3 5    6    9    5    3    8
+ 2 MYRTACEAE  M1         M1         199                                                  1    4
+ 2 MYRTACEAE  M2         M1         211                                                  1  2.5
+ 2 PIPERACEAE Piper      M1         202                                                  2  2.5 3
+ 4 PIPERACEAE Piper      M1         202                                                  3    4 3    2.5  2.5  2.5
+ 7 PIPERACEAE Piper      M1         202                                                  1    3
+ 3 POACEAE    Chusquea   M1         326                                             L    2  2.5 3    4
+ 5 POACEAE    Chusquea   M1         326                                             L    4  2.5 3    2.5  3    3    2.5  3
+ 9 POACEAE    Chusquea   M1         326                                             L    3    3 2.5  3    3    3    3    3
+ 9 POACEAE    Chusquea   M1         326                                             L    5    3 3    2.5  2.5  3    4    4    4    4    3    3    4    3    3
+10 POACEAE    Chusquea   M1         326                                             L    1  2.5
+10 POLYGALACEAMonnina    M1         534                                                  1  2.5
+ 1 PROTEACEAE Panopsis   M1         189                                                  1   33
+ 1 PROTEACEAE Roupala    M1         310                                                  2  2.5 34
+ 2 PROTEACEAE Roupala    M1         310                                                  1   12 14
+ 3 RANUNCULACEClematis   M1         -                                               L    1  2.5
+ 5 RHAMNACEAE Rhamnus    M1         487                                                  2   21 23
+ 6 RHAMNACEAE Rhamnus    M1         487                                                  3    6 2.5  2.5  21   30
+ 7 RHAMNACEAE Rhamnus    M1         487                                                  1   19
+ 9 RHAMNACEAE Rhamnus    M1         487                                                  1    8
+10 RHAMNACEAE Rhamnus    M1         487                                                  1    4
+ 1 ROSACEAE   Prunus     M1            80                                                2    3 4
+ 2 ROSACEAE   Prunus     M1            80                                                1   32 9
+ 3 ROSACEAE   Prunus     M1            80                                                1   22 16
+ 4 ROSACEAE   Prunus     M1            80                                                3    9 7    6
+ 5 ROSACEAE   Prunus     M1            80                                                2    6 14
+ 6 ROSACEAE   Prunus     M1            80                                                6  2.5 3    3    3    8    4
+ 7 ROSACEAE   Prunus     M1            80                                                2   18 4
+ 8 ROSACEAE   Prunus     M1            80                                                2    5 5
+ 9 ROSACEAE   Prunus     M1            80                                                1   31
+10 ROSACEAE   Prunus     M1            80                                                5   59 4    37   5    26
+ 5 ROSACEAE   Prunus     M2         486                                                  1   23
+ 8 ROSACEAE   Prunus     M2         486                                                  1    9
+ 1 RUBIACEAE  Faramea    M1         97                                                   1    6
+ 5 RUBIACEAE  Faramea    M1         97                                                   1    6
+ 2 RUBIACEAE  LadenbergiaM1         204                                                  3   13 3    3
+ 3 RUBIACEAE  LadenbergiaM1         204                                                  1    4
+ 5 RUBIACEAE  LadenbergiaM1         204                                                  3    5 9    8    5    4
+ 8 RUBIACEAE  LadenbergiaM1         204                                                  3   17 4    2.5
+ 9 RUBIACEAE  LadenbergiaM1         204                                                  1   11 13
+10 RUBIACEAE  LadenbergiaM1         204                                                  3    7 8    7    6    8    3    5    6
+ 1 RUBIACEAE  Palicourea M1         138   325     140                                    1    4
+ 2 RUBIACEAE  Palicourea M1         138   325     140                                    1    3
+ 3 RUBIACEAE  Palicourea M1         138   325     140                                    1  2.5 2.5
+ 1 RUBIACEAE  Palicourea M2         206                                                  2  2.5 2.5
+ 2 RUBIACEAE  Palicourea M2         206                                                  3    4 2.5  3
+ 4 RUBIACEAE  Palicourea M2         206                                                  2    6 2.5  5
+ 5 RUBIACEAE  Palicourea M2         206                                                  2    4 6
+ 6 RUBIACEAE  Palicourea M2         206                                                  5    3 4    2.5  2.5  2.5
+ 7 RUBIACEAE  Palicourea M2         206                                                  1    3 2.5
+ 8 RUBIACEAE  Palicourea M2         206                                                  6    3 2.5  2.5  5    2.5  3
+10 RUBIACEAE  Palicourea M2         206                                                  1  2.5
+ 6 RUBIACEAE  Palicourea M3         497                                                  1    5
+ 1 RUBIACEAE  Psychotria M1         210     522                                          8    3 4    2.5  3    2.5  3    4    6
+ 2 RUBIACEAE  Psychotria M1         210     522                                          1  2.5
+ 3 RUBIACEAE  Psychotria M1         210     522                                          2    5 3
+ 4 RUBIACEAE  Psychotria M1         210     522                                          1    3
+ 5 RUBIACEAE  Psychotria M1         210     522                                          2  2.5 3
+ 6 RUBIACEAE  Psychotria M1         210     522                                          1  2.5 2.5
+ 8 RUBIACEAE  Psychotria M1         210     522                                          7  2.5 2.5  2.5  2.5  3    4    3
+ 9 RUBIACEAE  Psychotria M1         210     522                                          3    5 4    3
+10 RUBIACEAE  Psychotria M1         210     522                                          2  2.5 2.5
+ 2 SABIACEAE  Meliosma   M1         197   481                                            1    3 3
+ 4 SABIACEAE  Meliosma   M1         197   481                                            1    3
+ 8 SABIACEAE  Meliosma   M2         519                                                  1    4
+ 8 SABIACEAE  Meliosma   M3         522   549   535?                                     1    3
+ 9 SABIACEAE  Meliosma   M3         522   549   535?                                     1   10
+10 SABIACEAE  Meliosma   M3         522   549   535?                                     3    4 3    9
+ 5 SABIACEAE  Meliosma   M4         532                                                  1   15
+10 SABIACEAE  Meliosma   M4         532                                                  2   10 6
+ 4 SABIACEAE  Meliosma   meridensis 374   330                                            1    7
+ 5 SABIACEAE  Meliosma   meridensis 374   330                                            1  2.5
+ 8 SABIACEAE  Meliosma   meridensis 374   330                                            2    4 4
+ 5 SANTALACEAECervantesiaM1           485                                                1    9
+ 7 SANTALACEAECervantesiaM1           485                                                1   20
+ 9 SANTALACEAECervantesiaM1           485                                                1   24
+ 4 SAPINDACEAEAllophylus M1         332                                                  1   39
+ 5 SAPINDACEAEAllophylus M1         332                                                  1    6
+ 3 SMILACACEAESmilax     M1         319                                             L    2    3 2.5
+ 3 SOLANACEAE Cestrum    M1         328                                                  1    5
+ 4 SOLANACEAE Cestrum    M1         328                                                  1    6
+ 6 SOLANACEAE Cestrum    M1         328                                                  1  2.5
+10 SOLANACEAE Cestrum    M1         328                                                  1    7
+ 2 SOLANACEAE Lycianthes M1         200                                                  2    3 2.5
+ 4 SOLANACEAE Lycianthes M1         200                                                  2  2.5 2.5
+ 2 SOLANACEAE Lycianthes M2         201                                                  1    3
+ 3 SOLANACEAE Solanum    M1         322                                                  1    3
+ 5 SOLANACEAE Solanum    M1         322                                                  1  2.5
+ 6 SOLANACEAE Solanum    M1         322                                                  1    3
+ 7 SOLANACEAE Solanum    M1         322                                                  1    4
+ 6 SOLANACEAE Solanum    M2         499                                                  1    3
+ 2 STAPHYLEACETurpinia   occidentali92                                                   1   31
+ 3 STAPHYLEACETurpinia   occidentali92                                                   3   20 9    2.5  2.5
+ 5 STAPHYLEACETurpinia   occidentali92                                                   4    3 8    10   3
+ 6 STAPHYLEACETurpinia   occidentali92                                                   1   18
+ 7 STAPHYLEACETurpinia   occidentali92                                                   1   19
+ 8 STAPHYLEACETurpinia   occidentali92                                                   4    4 3    4    3
+ 9 STAPHYLEACETurpinia   occidentali92                                                   2   10 4
+10 STAPHYLEACETurpinia   occidentali92                                                   1    4
+ 4 STYRACACEAEStyrax     M1         335                                                  3   22 18   13
+ 5 STYRACACEAEStyrax     M1         335                                                  1    3
+ 6 STYRACACEAEStyrax     M1         335                                                  2   14 24
+ 8 STYRACACEAEStyrax     M1         335                                                  1    9
+ 2 SYMPLOCACEASymplocos  M1         198                                                  1   19
+ 4 SYMPLOCACEASymplocos  M1         198                                                  1    4
+ 5 SYMPLOCACEASymplocos  M2                                                              1    9
+ 7 SYMPLOCACEASymplocos  M2                                                              1   19 7    12   11
+10 VERBENACEAEAegiphila  M1         540                                                  1    7
+
+
+
+
+
+
+
+

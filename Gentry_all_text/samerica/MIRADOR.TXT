@@ -1,0 +1,96 @@
+LinFamily     Genus      species    voucvoucvoucvoucvoucvoucvoucvoucLIANN(INSTEMSTEMSTEMSTEMSTEMSTEMSTEMSTEMSTEMSTEMSTEMSTEMSTEMSTEMSTEMSTEM
+ 2 BIGNONIACEACampsidium valdivianum                                L     1 2.5
+ 3 BIGNONIACEACampsidium valdivianum                                L     1 2.5
+ 5 BIGNONIACEACampsidium valdivianum                                L     1 2.5
+10 BIGNONIACEACampsidium valdivianum                                L     5 2.5 2.5 2.5 2.5 2.5
+10 CUNONIACEAEWeinmannia trichosperma                                     1  21
+ 1 CUPRESSACEAFitzroya   cupressoides                                     5  18  31  14  22  15  16
+ 2 CUPRESSACEAFitzroya   cupressoides                                    13  45  40  18  36 2.5 2.5  31  16  17  16 11  9   15  19  16  22
+ 3 CUPRESSACEAFitzroya   cupressoides                                     4  35  29   8  16  17  14  14
+ 4 CUPRESSACEAFitzroya   cupressoides                                     6  35  10  30  67  22  25
+ 5 CUPRESSACEAFitzroya   cupressoides                                     1   5
+ 8 CUPRESSACEAFitzroya   cupressoides                                     2  11  68
+ 9 CUPRESSACEAFitzroya   cupressoides                                     1  28
+10 CUPRESSACEAFitzroya   cupressoides                                    11  32  53 2.5 2.5 2.5 2.5 2.5 2.5 2.5   8 21  24  28  25
+ 1 ERICACEAE  Gaultheria phyllarifolia                                    6 2.5   5 2.5 2.5 2.5 2.5 2.5
+ 3 ERICACEAE  Gaultheria phyllarifolia                                    2 2.5 2.5
+ 4 ERICACEAE  Gaultheria phyllarifolia                                    2 2.5 2.5
+ 5 ERICACEAE  Gaultheria phyllarifolia                                    7 7.5 2.5 2.5   5 2.5 2.5   5 2.5 2.5 2.5 2.5 5   5
+ 8 ERICACEAE  Gaultheria phyllarifolia                                    6 2.5 2.5 2.5 2.5 2.5 2.5 2.5   5 2.5 2.5 2.5 2.5
+10 ERICACEAE  Gaultheria phyllarifolia                                    1 2.5
+ 1 FAGACEAE   Nothofagus betuloides                                       3 2.5   8 7.5
+ 2 FAGACEAE   Nothofagus betuloides                                       8  13  14  26  11  10  25  17   8
+ 3 FAGACEAE   Nothofagus betuloides                                       3  19  12  10
+ 9 FAGACEAE   Nothofagus betuloides                                       4  22  27  27  49
+ 1 FAGACEAE   Nothofagus nitida                                           4  35  36  58  42
+ 3 FAGACEAE   Nothofagus nitida                                          14  32  15  29  17  25  23  23  19  21  30 35  38  29  28
+ 4 FAGACEAE   Nothofagus nitida                                           7  33  28  38  22  22  54  55
+ 5 FAGACEAE   Nothofagus nitida                                           3  21  35  29
+ 6 FAGACEAE   Nothofagus nitida                                           5  36  28  32  14  47
+ 7 FAGACEAE   Nothofagus nitida                                           2  42  62
+ 8 FAGACEAE   Nothofagus nitida                                           2  56  18
+ 9 FAGACEAE   Nothofagus nitida                                           1  22
+10 FAGACEAE   Nothofagus nitida                                           1  24
+ 1 GROSSULARIAEscallonia leucantha                                        1 2.5
+10 GROSSULARIAEscallonia leucantha                                        3 2.5 2.5   8 2.5   5 2.5
+ 2 LOGANIACEAEDesfontainispinosa                                          1 2.5
+ 3 LOGANIACEAEDesfontainispinosa                                          2 2.5 2.5 2.5 2.5
+ 5 LOGANIACEAEDesfontainispinosa                                          8 2.5 2.5 2.5   5   5   8 2.5 2.5 2.5 2.5 2.5   5   5
+ 8 LOGANIACEAEDesfontainispinosa                                          2 2.5 2.5 2.5   5   5   7
+ 9 LOGANIACEAEDesfontainispinosa                                          3   9 2.5 2.5 2.5 2.5
+10 LOGANIACEAEDesfontainispinosa                                          6 2.5 2.5 2.5 2.5 2.5 2.5   5   5   9   5 9   8   5   2.5 5   2.5
+ 7 MYRTACEAE  Amomyrtus  luma                                             3 2.5  13  12  10
+ 8 MYRTACEAE  Amomyrtus  luma                                             3   8 2.5   5
+ 1 MYRTACEAE  Myrceugeniachrysocarpa                                      3 2.5   5 2.5 2.5 2.5 2.5 2.5   5   5  13
+ 3 MYRTACEAE  Myrceugeniachrysocarpa                                      7   5 2.5   5 2.5 2.5   5   5   5 2.5 2.5 2.5 2.5 5   2.5
+ 4 MYRTACEAE  Myrceugeniachrysocarpa                                      5 2.5 2.5 2.5 2.5   5   5 2.5 2.5 2.5 2.5 5
+ 5 MYRTACEAE  Myrceugeniachrysocarpa                                     14   5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 5   10  9   8
+ 6 MYRTACEAE  Myrceugeniachrysocarpa                                     11   5   5 2.5 2.5 2.5   5 2.5 2.5   9   5 2.5 2.5 5   2.5 2.5 2.5
+ 7 MYRTACEAE  Myrceugeniachrysocarpa                                     13 7.5   5 2.5 2.5 2.5  12   5   8   5 2.5 5   2.5 2.5 2.5 9   7.5
+ 8 MYRTACEAE  Myrceugeniachrysocarpa                                      6 7.5   5 2.5 2.5 2.5 2.5 2.5   9 2.5   5 9   7   2.5 2.5
+ 9 MYRTACEAE  Myrceugeniachrysocarpa                                     12 2.5 2.5 2.5 2.5   5 2.5   5   5 2.5 2.5 2.5 5   2.5 2.5 2.5 2.5
+10 MYRTACEAE  Myrceugeniachrysocarpa                                      7 2.5 2.5 2.5 2.5 2.5 2.5 2.5   7   5   5 10
+ 7 POACEAE    Chusquea   quila                                      L     3 2.5 2.5 2.5 2.5 2.5 2.5 2.5
+ 3 PODOCARPACEPodocarpus nubigera                                         1  18
+ 4 PODOCARPACEPodocarpus nubigera                                         5  14   8  16  15   9
+ 7 PODOCARPACEPodocarpus nubigera                                         4  12 2.5  10   9
+ 8 PODOCARPACEPodocarpus nubigera                                         2  18  40
+ 9 PODOCARPACEPodocarpus nubigera                                         2   9   5
+ 1 PODOCARPACESaxigothea conspicua                                        2  35  22  11 2.5 2.5
+ 5 PODOCARPACESaxigothea conspicua                                        8  13 2.5  25  10  12  21  13  19  10  14
+ 6 PODOCARPACESaxigothea conspicua                                        6 2.5 2.5  13 2.5  16  13  18  18
+ 7 PODOCARPACESaxigothea conspicua                                        4  15 2.5  16  13  22  19
+ 8 PODOCARPACESaxigothea conspicua                                        1  27
+ 9 PODOCARPACESaxigothea conspicua                                        2  12 2.5  18  11   5
+10 PODOCARPACESaxigothea conspicua                                        3 2.5  10   9
+ 1 PROTEACEAE Embothrium coccineum                                        1 2.5
+ 2 PROTEACEAE Embothrium coccineum                                        1   7
+ 7 PROTEACEAE Embothrium coccineum                                        1   5
+ 2 THYMELAEACEOvidia     pillopillo                                       3 2.5 2.5   5
+ 4 THYMELAEACEOvidia     pillopillo                                       1 2.5
+ 5 THYMELAEACEOvidia     pillopillo                                       2   5   5
+ 9 THYMELAEACEOvidia     pillopillo                                       2  11   5   5 2.5
+10 THYMELAEACEOvidia     pillopillo                                      10 2.5 2.5   5   5  19 2.5   9   6 2.5   7 2.5 7   2.5 2.5 2.5 5
+ 1 WINTERACEAEDrimys     winteri                                          2  25  15
+ 2 WINTERACEAEDrimys     winteri                                          2 2.5 2.5
+ 3 WINTERACEAEDrimys     winteri                                          5 2.5   5  15   9   8
+ 4 WINTERACEAEDrimys     winteri                                          1   5
+ 5 WINTERACEAEDrimys     winteri                                          1 2.5
+ 8 WINTERACEAEDrimys     winteri                                          6   9  42  19  16   9  20
+ 9 WINTERACEAEDrimys     winteri                                          2  12  16
+10 WINTERACEAEDrimys     winteri                                          8 2.5   5   5 2.5   5   7   9  19  16  10 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,148 @@
+LineFAMILY      GENUS       SPECIES    vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+  5 ACTINIDIACEASAURAUIA    LEUCOCEPHAL75691                                                 1  2.5
+  6 ACTINIDIACEASAURAUIA    LEUCOCEPHAL75691                                                 1  2.5
+  8 ACTINIDIACEASAURAUIA    LEUCOCEPHAL75691                                                 1    4
+  9 ANACARDIACEATOXICODENDROM1         75700                                           L     1  2.5
+  2 AQUIFOLIACEAILEX        TOLUCANA   75667                                                 1  2.5
+  4 AQUIFOLIACEAILEX        TOLUCANA   75667                                                 1    6
+  6 AQUIFOLIACEAILEX        TOLUCANA   75667                                                 2    6   13
+  7 AQUIFOLIACEAILEX        TOLUCANA   75667                                                 2  2.5    4
+  8 AQUIFOLIACEAILEX        TOLUCANA   75667                                                 1    4
+ 10 AQUIFOLIACEAILEX        TOLUCANA   75667                                                 1    4
+  6 ARALIACEAE  DENDROPANAX ARBORENS   75693                                                 1    5
+  7 ARALIACEAE  OREOPANAX   CAPITATUS  75696                                                 1   14
+  3 ARALIACEAE  OREOPANAX   XALAPENSIS 75679                                                 2  2.5    3
+  5 ARALIACEAE  OREOPANAX   XALAPENSIS 75679                                                 1    8
+  7 ARALIACEAE  OREOPANAX   XALAPENSIS 75679                                                 1  2.5    4
+  8 ARALIACEAE  OREOPANAX   XALAPENSIS 75679                                                 1    5
+ 10 ARALIACEAE  OREOPANAX   XALAPENSIS 75679                                                 2  2.5    3
+ 10 ARALIACEAE  OREOPANAX   XALAPENSIS 75679                                                 2  2.5    3
+  1 BETULACEAE  CARPINUS    CAROLINIANA75663                                                 3    3    9   32
+  2 BETULACEAE  CARPINUS    CAROLINIANA75663                                                 6    9    5   27   10   10   25  2.5
+  3 BETULACEAE  CARPINUS    CAROLINIANA75663                                                 8    3  2.5    4    6   10   36   57    5    3
+  5 BETULACEAE  CARPINUS    CAROLINIANA75663                                                 2   10    5
+  6 BETULACEAE  CARPINUS    CAROLINIANA75663                                                 3    5   18   22
+  7 BETULACEAE  CARPINUS    CAROLINIANA75663                                                 5    8   14    3    7    5    5
+  8 BETULACEAE  CARPINUS    CAROLINIANA75663                                                 4    4  2.5  2.5   28
+  9 BETULACEAE  CARPINUS    CAROLINIANA75663                                                 7    8    3    5    6   24    5  2.5   30
+ 10 BETULACEAE  CARPINUS    CAROLINIANA75663                                                 2   10   48
+  2 BETULACEAE  OSTRYA      VIRGINIANA 75674                                                 2   21   21   26
+  3 BETULACEAE  OSTRYA      VIRGINIANA 75674                                                 1    7
+  8 BETULACEAE  OSTRYA      VIRGINIANA 75674                                                 1    7
+  1 BIGNONIACEAEPITHECOCTENICRUCIGERUM 75672                                           L     1    4
+  2 BIGNONIACEAEPITHECOCTENICRUCIGERUM 75672                                           L     2    4    3
+  5 BIGNONIACEAEPITHECOCTENICRUCIGERUM 75672                                           L     5    4    3    4   11    3
+  6 BIGNONIACEAEPITHECOCTENICRUCIGERUM 75672                                           L     5    3  2.5  2.5  2.5    3
+  1 CELASTRACEAECELASTRUS   M1         75657                                           L     4    6  2.5    6    7
+  3 CELASTRACEAECELASTRUS   M1         75657                                           L     1    4
+  4 CELASTRACEAECELASTRUS   M1         75657                                           L     2    4  2.5
+  5 CELASTRACEAECELASTRUS   M1         75657                                           L     2  2.5    3
+  6 CELASTRACEAECELASTRUS   M1         75657                                           L     7    4    8    3  2.5  2.5    4    3
+  7 CELASTRACEAECELASTRUS   M1         75657                                           L     3    5  2.5    3  
+  9 CELASTRACEAECELASTRUS   M1         75657                                           L     1    3
+ 10 CELASTRACEAECELASTRUS   M1         75657                                           L     1    3
+  5 CELASTRACEAEPERROTTETIA OVATA      75688                                                 1    5
+  1 CLETHRACEAE CLETHRA     AMERICANA  75670 75680                                           1  2.5
+  3 CLETHRACEAE CLETHRA     AMERICANA  75670 75680                                           1   43
+  4 CLETHRACEAE CLETHRA     AMERICANA  75670 75680                                           1   35
+  6 CLETHRACEAE CLETHRA     AMERICANA  75670 75680                                           2   27    4
+  8 CLETHRACEAE CLETHRA     AMERICANA  75670 75680                                           1   52
+  4 CYATHEACEAE ALSOPHILA   FIRMA      75686                                                 1   12
+  5 CYATHEACEAE ALSOPHILA   FIRMA      75686                                                 2   13   11
+  6 CYATHEACEAE ALSOPHILA   FIRMA      75686                                                 3   14    9   14
+ 10 FABACEAE    INGA        M1         75701                                                 1    6
+  4 FABACEAE    LONCHOCARPUSM1         75683                                                 1    4
+  1 FAGACEAE    QUERCUS     GERMANA    75668 75698                                           1   12
+  2 FAGACEAE    QUERCUS     GERMANA    75668 75698                                           2   59   25
+  3 FAGACEAE    QUERCUS     GERMANA    75668 75698                                           2   11   27
+  7 FAGACEAE    QUERCUS     GERMANA    75668 75698                                           2   95    7
+  8 FAGACEAE    QUERCUS     GERMANA    75668 75698                                           2   21   22
+  9 FAGACEAE    QUERCUS     GERMANA    75668 75698                                           1   29   18
+ 10 FAGACEAE    QUERCUS     GERMANA    75668 75698                                           2   46   30
+  2 FAGACEAE    QUERCUS     M1         75675                                                 1    6
+  7 FAGACEAE    QUERCUS     M1         75697                                                 2  2.5   28
+  7 FAGACEAE    QUERCUS     SAPOTIFOLIA75699                                                 1   48
+  9 FAGACEAE    QUERCUS     SAPOTIFOLIA75699                                                 1   41
+  1 FAGACEAE    QUERCUS     XALAPENSIS 75671 75702                                           1   62
+  5 FAGACEAE    QUERCUS     XALAPENSIS 75671 75702                                           1  2.5
+  9 FAGACEAE    QUERCUS     XALAPENSIS 75671 75702                                           4    3  2.5    5   32
+  1 HAMAMELIDACELIQUIDAMBER MACROPHYLLA75660                                                 1   75
+  2 HAMAMELIDACELIQUIDAMBER MACROPHYLLA75660                                                 1   24
+  5 HAMAMELIDACELIQUIDAMBER MACROPHYLLA75660                                                 1   48   61
+  6 HAMAMELIDACELIQUIDAMBER MACROPHYLLA75660                                                 1    5
+  7 HAMAMELIDACELIQUIDAMBER MACROPHYLLA75660                                                 1   54
+  9 HAMAMELIDACELIQUIDAMBER MACROPHYLLA75660                                                 3   46  2.5    5
+  8 HAMAMELIDACELIQUIDAMBER PADIFOLIA                                                        2  2.5  2.5
+  1 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     3   11    6    7
+  1 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     1    3
+  2 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     1  2.5
+  3 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     4  2.5    5    4    9  2.5
+  4 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     1    6
+  4 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     1    4
+  5 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     5   10  2.5    9  2.5    4
+  5 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     1   11
+  6 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     1   11
+  6 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     2    5  2.5    4
+  7 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     2    3  2.5  2.5
+  7 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     1    3
+  8 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     2    4    3    3    4
+ 10 LAURACEAE   CINNAMOMUM  EFFUSUM    75656 75664 75692                                     2  2.5    6
+  2 LAURACEAE   OCOTEA      M1         75676 75687                                           1  2.5
+  3 LAURACEAE   OCOTEA      M1         75676 75687                                           1    4
+  4 LAURACEAE   OCOTEA      M1         75676 75687                                           1    7
+  5 LAURACEAE   OCOTEA      M1         75676 75687                                           2    5    3
+  6 LAURACEAE   OCOTEA      M1         75676 75687                                           1    7
+  4 MALPIGHIACEABUNCHOSIA   M1         75682                                                 1  2.5
+  1 MELIACEAE   TRICHILIA   HAVANENSIS 75665                                                 1    3
+  5 MORACEAE    TROPHIS     SYMPLACOS? 75689                                                 2    6  2.5  2.5
+  2 MYRTACEAE   EUGENIA     M1         75678                                                 1    6    4
+  3 MYRTACEAE   EUGENIA     M1         75678                                                 3    7    5  2.5   10    5
+  5 MYRTACEAE   EUGENIA     M1         75678                                                 1  2.5  2.5
+  6 MYRTACEAE   EUGENIA     M1         75678                                                 1    3
+  8 MYRTACEAE   EUGENIA     M1         75678                                                 3    6    8    3
+ 10 MYRTACEAE   EUGENIA     M1         75678                                                 1    4   11
+  1 MYRTACEAE   EUGENIA     XALAPENSIS 75662                                                 8    5    4  2.5    3    3  2.5    3    5    3    3    4
+  3 MYRTACEAE   EUGENIA     XALAPENSIS 75662                                                 4    4    3    4    4  2.5  2.5    5    4  2.5    3
+  4 MYRTACEAE   EUGENIA     XALAPENSIS 75662                                                 8    3    8    4    4    5    4    3    5    5    3    4    4    3
+  5 MYRTACEAE   EUGENIA     XALAPENSIS 75662                                                 5  2.5    4  2.5  2.5    3  2.5
+  6 MYRTACEAE   EUGENIA     XALAPENSIS 75662                                                 2    4    3    4
+  7 MYRTACEAE   EUGENIA     XALAPENSIS 75662                                                 1    3
+  9 MYRTACEAE   EUGENIA     XALAPENSIS 75662                                                 1  2.5
+ 10 MYRTACEAE   EUGENIA     XALAPENSIS 75662                                                 7    5    3  2.5  2.5    3  2.5    2 52.5    3    4  2.5
+  6 OLEACEAE    LIGUSTRUM   LUCIDUM?   75695                                                 1    6
+  4 PIPERACEAE  PIPER       GLABRESCENS75685                                                 1  2.5  2.5  2.5  2.5
+  5 PIPERACEAE  PIPER       M1                                                               1  2.5
+  4 PIPERACEAE  PIPER       NUDUM      75684                                                 2  2.5    3       
+  1 RUBIACEAE   PALICOUREA  PADIFOLIA  75666                                                 2    5  2.5
+  3 RUBIACEAE   PALICOUREA  PADIFOLIA  75666                                                 1    3
+  6 RUBIACEAE   PALICOUREA  PADIFOLIA  75666                                                 3    6    3    4
+  9 RUBIACEAE   PALICOUREA  PADIFOLIA  75666                                                 2  2.5    3
+ 10 RUBIACEAE   PALICOUREA  PADIFOLIA  75666                                                 1  2.5
+  3 RUBIACEAE   PSYCHOTRIA  M1         75681                                                 1  2.5
+  1 RUBIACEAE   RANDIA      ACULEATA   75669                                                 1    3
+  4 RUBIACEAE   RANDIA      ACULEATA   75669                                                 1    4
+  5 SABIACEAE   MELIOSMA    ALBA       75690                                                 1  120
+ 10 SABIACEAE   MELIOSMA    ALBA       75690                                                 1    6
+  1 SAPINDACEAE PAULLINIA   M1         75658                                           L     1    6
+  7 SAPINDACEAE PAULLINIA   M1         75658                                           L     2    3  2.5
+  1 SIMAROUBACEAPICRAMNIA   ANTIDESMA  75673                                                 1  2.5
+  6 SMILACACEAE SMILAX      M1         75694                                           L     1  2.5
+  7 SMILACACEAE SMILAX      M1         75694                                           L     2    4    3
+  1 STAPHYLEACEATURPINIA    INSIGNIS   75661                                                 2    9   12
+  2 STAPHYLEACEATURPINIA    INSIGNIS   75661                                                 2    4    4
+  3 STAPHYLEACEATURPINIA    INSIGNIS   75661                                                 5    6    5    6    8   15
+  4 STAPHYLEACEATURPINIA    INSIGNIS   75661                                                 1    6
+  6 STAPHYLEACEATURPINIA    INSIGNIS   75661                                                 3   19   12    3   12
+  7 STAPHYLEACEATURPINIA    INSIGNIS   75661                                                 6    3    7    4    6  2.5    3    4
+  8 STAPHYLEACEATURPINIA    INSIGNIS   75661                                                 3    8    6    5
+  9 STAPHYLEACEATURPINIA    INSIGNIS   75661                                                 2   10    8
+ 10 STAPHYLEACEATURPINIA    INSIGNIS   75661                                                 7    3    4    5  2.5    4    5    6
+  1 VITACEAE    PARTHENOCISSM1         75659                                           L     2    4  2.5
+  2 VITACEAE    PARTHENOCISSM1         75659                                           L     1  2.5
+  4 VITACEAE    PARTHENOCISSM1         75659                                           L     1  2.5
+  5 VITACEAE    PARTHENOCISSM1         75659                                           L     1  2.5
+  7 VITACEAE    PARTHENOCISSM1         75659                                           L     2    3  2.5
+  1 VITACEAE    VITIS       M1         75667                                           L     2    9   14
+  6 VITACEAE    VITIS       M1         75667                                           L     2    4    3
+  9 VITACEAE    VITIS       M1         75667                                           L     1    4
+ 10 VITACEAE    VITIS       M1         75667                                           L     2    7    6

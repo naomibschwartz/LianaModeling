@@ -1,0 +1,74 @@
+LineFAMILY      GENUS       SPECIES     vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+  8 ANACARDIACEABUCHANANIA  RETICULATA  66742                                                 1   12
+  7 BURSERACEAE CANARIUM    SUBULATUM                                                         1    5
+  5 CLUSIACEAE  BAUHINIA    MALABARICA  66741                                                 1    5    5
+  2 CLUSIACEAE  CRATOXYLON  COCHINCHINEN66740                                                 1    3
+  4 CLUSIACEAE  CRATOXYLON  COCHINCHINEN66740                                                 1    3
+  9 CLUSIACEAE  CRATOXYLON  COCHINCHINEN66740                                                 1  2.5
+  4 CLUSIACEAE  DALBERGIA   CULTRATA                                                          1    9
+  8 CLUSIACEAE  DALBERGIA   NIGRESCENS                                                        1  2.5    5
+  4 CLUSIACEAE  SINDORA     MARITIMA    66739                                                 1   29
+ 10 CLUSIACEAE  SINDORA     MARITIMA    66739                                                 1    7
+ 10 COMBRETACEAETERMINALIA  CHIBULA     66746                                                 1    4
+  2 DIPTEROCARPADIPTEROCARPUINTRICATUS  66735                                                 1   83
+  3 DIPTEROCARPADIPTEROCARPUINTRICATUS  66735                                                 1   41
+  4 DIPTEROCARPADIPTEROCARPUINTRICATUS  66735                                                 1   33
+  5 DIPTEROCARPADIPTEROCARPUINTRICATUS  66735                                                 1   36
+  9 DIPTEROCARPADIPTEROCARPUINTRICATUS  66735                                                 1    3
+ 10 DIPTEROCARPADIPTEROCARPUINTRICATUS  66735                                                 2   54   50
+  1 DIPTEROCARPASHOREA      OBTUSA                                                            4   35   13   18   36
+  2 DIPTEROCARPASHOREA      OBTUSA                                                            3  2.5   34    3
+  3 DIPTEROCARPASHOREA      OBTUSA                                                            2    5   30
+  4 DIPTEROCARPASHOREA      OBTUSA                                                            7    3    5   26   18    5  2.5    8
+  5 DIPTEROCARPASHOREA      OBTUSA                                                            7    7    4    5    4    3   19    7
+  6 DIPTEROCARPASHOREA      OBTUSA                                                           12   13   19   16    4    5    6    4   12  2.5    4   13    3
+  7 DIPTEROCARPASHOREA      OBTUSA                                                            1    4
+  8 DIPTEROCARPASHOREA      OBTUSA                                                            2   18   50
+  9 DIPTEROCARPASHOREA      OBTUSA                                                            6   19    8    4   12   30   21
+  4 DIPTEROCARPASHOREA      ROXBURGHII  66737                                                 1   11
+  5 DIPTEROCARPASHOREA      ROXBURGHII  66737                                                 1   11
+  3 EBENACEAE   DIOSPYROS   CASTANEA    66736                                                 1   16
+  4 EBENACEAE   DIOSPYROS   EHRETIOIDES 66738                                                 1    7
+  5 EBENACEAE   DIOSPYROS   EHRETIOIDES 66738                                                 1    8
+  9 EBENACEAE   DIOSPYROS   EHRETIOIDES 66738                                                 1    4
+  1 EUPHORBIACEAANTIDESMA   GHAESEMBILLE                                                      1    4
+  2 EUPHORBIACEAANTIDESMA   GHAESEMBILLE                                                      2    4    6
+  5 EUPHORBIACEAANTIDESMA   GHAESEMBILLE                                                      1    7
+  7 EUPHORBIACEAAPORUSA     VILLOSA                                                           1  2.5
+  2 EUPHORBIACEAPHYLLANTHUS EMBLICA                                                           1  2.5
+  1 FABACEAE    ALBIZZIA    ODORATISSIMA66731                                                 3    4    3    4
+  4 FABACEAE    ALBIZZIA    ODORATISSIMA66731                                                 1    4
+  7 FABACEAE    BAUHINIA    MALABARICA                                                        1   12
+ 10 FABACEAE    DALBERGIA   CULTRATA                                                          1    3
+  2 FABACEAE    DALBERGIA   NIGRESCENS                                                        1    3
+  2 FABACEAE    PTEROCARPUS MACROCARPUS                                                       2    7   18
+  5 FABACEAE    PTEROCARPUS MACROCARPUS                                                       2   24    7
+  8 FABACEAE    PTEROCARPUS MACROCARPUS                                                       4   10    4    7   16
+  9 FABACEAE    PTEROCARPUS MACROCARPUS                                                       2    5   21
+  1 FABACEAE    PTEROCARPUS MAGNICARPUS                                                       3    7    5  2.5
+  6 FABACEAE    PTEROCARPUS MAGNICARPUS                                                       1   17
+  7 FABACEAE    PTEROCARPUS MAGNICARPUS                                                       3    5    5   14    5
+ 10 FABACEAE    PTEROCARPUS MAGNICARPUS                                                       1   11
+  8 FABACEAE    SINDORA     MARITIMA                                                          1    6
+  5 FABACEAE    XYLARIA     XYLORPA                                                           2    4    9
+  8 IRVINGIACEAEIRVINGIA    MALAYANA                                                          1    6
+ 10 IRVINGIACEAEIRVINGIA    MALAYANA                                                          1    5
+  5 LECYTHIDACEACAREYA      SPHAEROPA                                                         1    8
+  4 MELIACEAE   CHUKRASIA   VELUTINA                                                          2   11    6
+  8 MELIACEAE   CHUKRASIA   VELUTINA                                                          2    3  2.5    7
+  9 MELIACEAE   CHUKRASIA   VELUTINA                                                          1  2.5
+  2 OLACACEAE   ANACALOSA   ILICIODES                                                         1  2.5
+  6 RUBIACEAE   GARDENIA    SOOTEPENSIS                                                       1  2.5
+  7 RUBIACEAE   GARDENIA    SOOTEPENSIS                                                       1   14
+  8 RUBIACEAE   GARDENIA    SOOTEPENSIS                                                       1    6
+  1 RUBIACEAE   MITRAGYNA   BRUNONIS    66732                                                 2    7    3
+  3 RUBIACEAE   MITRAGYNA   BRUNONIS    66732                                                 1   17
+ 10 RUBIACEAE   MITRAGYNA   BRUNONIS    66732                                                 2    3    5
+  1 RUBIACEAE   MORINDA     COREI                                                             2    6    5
+  5 RUBIACEAE   MORINDA     COREI                                                             1   15
+  2 RUBIACEAE   PAVETTA     M1                                                                1    3
+  2 THEACEAE    ADINANDRA   M1          66734                                                 1    5
+  1 VERBENACEAE CLERODENDRONM1          66733                                                 5  2.5    4    4    3    5    6
+ 10 VERBENACEAE GMELINA     ASIATICA    66745                                                 1  2.5
+  2 VERBENACEAE VITEX       LIMONIFOLIA                                                       1    6
+ 10 VERBENACEAE VITEX       PEDUNCULARIS66744                                                 1   15

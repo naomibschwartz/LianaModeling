@@ -1,0 +1,104 @@
+Line Family       Genus           Species          VoucherVouchevouchevouchevouchevouchevouchevoucheLianN(inStem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem Stem 
+   3 ANACARDIACEAESCHINOPSIS      BALANSAE          75376                                                 1   22                                                                                       
+   1 APOCYNACEAE  ASPIDOSPERMA    QUEBRADO-BLANCO   75374 75393                                           1   29
+   3 APOCYNACEAE  ASPIDOSPERMA    QUEBRADO-BLANCO   75374 75393                                           1   39
+   5 APOCYNACEAE  ASPIDOSPERMA    QUEBRADO-BLANCO   75374 75393                                           2   14   12
+   7 APOCYNACEAE  ASPIDOSPERMA    QUEBRADO-BLANCO   75374 75393                                           2   29   16                                                                        
+   9 APOCYNACEAE  ASPIDOSPERMA    QUEBRADO-BLANCO   75374 75393                                           1   35
+  10 APOCYNACEAE  ASPIDOSPERMA    QUEBRADO-BLANCO   75374 75393                                           1   53
+   6 ASCLEPIADACEAM1              M1                75378                                                 1  2.5
+   9 ASCLEPIADACEAM1              M1                75378                                           L     1  2.5
+   4 BIGNONIACEAE ARRABIDAEA      CORALLINA         75391                                           L     3  2.5  2.5    3
+   1 BOMBACACEAE  CHORISIA        INSIGNIS          75368                                           L     1   14
+   4 BOMBACACEAE  CHORISIA        INSIGNIS          75368                                                 1   96
+   6 BOMBACACEAE  CHORISIA        INSIGNIS          75368                                                 1   66
+   2 CACTACEAE    CEREUS          PERUVIANA AFF.                                                          1  2.5
+   2 CACTACEAE    CEREUS          STENAGOMUS        75384                                                 1   26
+   6 CACTACEAE    CEREUS          STENAGOMUS        75384                                                 1   11
+   7 CACTACEAE    CEREUS          STENAGOMUS        75384                                                 1   16    9
+   5 CACTACEAE    CLEISTOCACTUS   BAUMANNII         75370                                                 2  2.5  2.5
+  10 CACTACEAE    MONVILLEA       CAVENDISHII       75383                                           L     1    4
+   6 CACTACEAE    PERESKIA        SACHAROSA         75365                                           L     1    6    4
+   1 CACTACEAE    QUIABENTIA      CHACOENSIS        75398                                                 1   15    8
+   3 CACTACEAE    STETSONIA       CORYNE            75377                                                 1   12   11
+   4 CACTACEAE    STETSONIA       CORYNE            75377                                                 1   48
+   1 CAPPARACEAE  CAPPARIS        RETUSA            75379                                                 1    3
+   2 CAPPARACEAE  CAPPARIS        RETUSA            75379                                                 1  2.5
+   3 CAPPARACEAE  CAPPARIS        RETUSA            75379                                                 1  2.5
+   4 CAPPARACEAE  CAPPARIS        RETUSA            75379                                                 2    4    3  2.5  2.5  2.5
+   5 CAPPARACEAE  CAPPARIS        RETUSA            75379                                                 1    6    5    6    4
+   6 CAPPARACEAE  CAPPARIS        RETUSA            75379                                                 2  2.5    4    3    4
+   7 CAPPARACEAE  CAPPARIS        RETUSA            75379                                                 3    3    4  2.5    3  2.5  2.5    3    4    3    3
+   9 CAPPARACEAE  CAPPARIS        RETUSA            75379                                                 1  2.5
+  10 CAPPARACEAE  CAPPARIS        RETUSA            75379                                                 2    4  2.5  2.5
+   2 CAPPARACEAE  CAPPARIS        SALICIFOLIA       75392                                                 1  2.5  2.5
+   4 CAPPARACEAE  CAPPARIS        SALICIFOLIA       75392                                                 1    3
+   7 CAPPARACEAE  CAPPARIS        SALICIFOLIA       75392                                                 1  2.5
+   8 CAPPARACEAE  CAPPARIS        SALICIFOLIA       75392                                                 1  2.5
+  10 CAPPARACEAE  CAPPARIS        SALICIFOLIA       75392                                                 2    3  2.5  2.5  2.5    4    5
+   1 CAPPARACEAE  CAPPARIS        SPECIOSA          75373                                                 2    5    6    4
+   2 CAPPARACEAE  CAPPARIS        SPECIOSA          75373                                                 1    4
+   3 CAPPARACEAE  CAPPARIS        SPECIOSA          75373                                                 1    3  2.5
+   4 CAPPARACEAE  CAPPARIS        SPECIOSA          75373                                                 2  2.5  2.5
+   5 CAPPARACEAE  CAPPARIS        SPECIOSA          75373                                                 3    4  2.5  2.5  2.5
+   6 CAPPARACEAE  CAPPARIS        SPECIOSA          75373                                                 6  2.5    3    5    6    5    4    4  2.5
+   7 CAPPARACEAE  CAPPARIS        SPECIOSA          75373                                                 4    5  2.5  2.5   11
+   8 CAPPARACEAE  CAPPARIS        SPECIOSA          75373                                                 1    4
+   9 CAPPARACEAE  CAPPARIS        SPECIOSA          75373                                                 2  2.5    7
+  10 CAPPARACEAE  CAPPARIS        SPECIOSA          75373                                                 2  2.5    4
+   3 COCHLOSPERMACCOCHLOSPERMUM   TETRAPORUM        75381                                                 1   75
+   2 CONVOLVULACEAIPOMOEA         M1                                                                      1  2.5
+   3 CONVOLVULACEAIPOMOEA         M1                                                                L     1  2.5
+   4 FABACEAE     ACACIA          FEDDEANA          75374                                           L     2  2.5  2.5  2.5  2.5
+   5 FABACEAE     ACACIA          FEDDEANA          75374                                                 2  2.5    3
+   6 FABACEAE     ACACIA          FEDDEANA          75374                                                 5  2.5    3    4    5    4   12   10    8    3    4    4    5    3
+   7 FABACEAE     ACACIA          FEDDEANA          75374                                                 2    5    8
+   8 FABACEAE     ACACIA          FEDDEANA          75374                                                 1    5    4  2.5
+   9 FABACEAE     ACACIA          FEDDEANA          75374                                                 3  2.5    7    6  2.5    3
+  10 FABACEAE     ACACIA          FEDDEANA          75374                                                 3    4    4    4  2.5  2.5  2.5  2.5
+   1 FABACEAE     ACACIA          PRAECOX           75387                                                 3  2.5  2.5    4    4    8    3  2.5    5
+   1 FABACEAE     CAESALPINIA     PARAGUARIENSIS    75382                                                 1   31   30
+   7 FABACEAE     CAESALPINIA     PARAGUARIENSIS    75382                                                 2   15    6   11   19   22   23
+   1 FABACEAE     CASSIA          CHLOROCLADA       75385                                                 1  2.5
+   2 FABACEAE     CASSIA          CHLOROCLADA       75385                                                 1  2.5
+   1 FABACEAE     CERCIDIUM       PRAECOX           75371                                                 7  2.5  2.5    3  2.5    3    3  2.5  2.5    3  2.5    6    4
+   4 FABACEAE     CERCIDIUM       PRAECOX           75371                                                 1  2.5
+   7 FABACEAE     MIMOSA          M1                75294                                                 1    4    3    3  2.5   12
+   1 FABACEAE     MIMOSA          M1                75394                                                 5  2.5    7  2.5   10  2.5
+   2 FABACEAE     MIMOSA          M1                75394                                                 8    5    5    6    4    4  2.5    4    3    3    3  2.5    4    3
+   3 FABACEAE     MIMOSA          M1                75394                                                 6    6    5    4    8    5    4    4    3    5    3  2.5    3
+   2 FABACEAE     PIPTADENIA      VIRIDIFLORA                                                             1    8    9  2.5
+   3 FABACEAE     PIPTADENIA      VIRIDIFLORA                                                             2    4   10    5    4    7
+   4 FABACEAE     PIPTADENIA      VIRIDIFLORA                                                             4    4    4    3  2.5  2.5    3    3    3  2.5
+   5 FABACEAE     PIPTADENIA      VIRIDIFLORA                                                             2    4    3    9    3
+   6 FABACEAE     PIPTADENIA      VIRIDIFLORA                                                             2  2.5  2.5    3    5  2.5    3
+   7 FABACEAE     PIPTADENIA      VIRIDIFLORA                                                             1    6    4    4    4    3    3  2.5
+   8 FABACEAE     PIPTADENIA      VIRIDIFLORA                                                             5    4    3    4    5    5    4    5    5    4  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5
+   9 FABACEAE     PIPTADENIA      VIRIDIFLORA                                                             6    4    3    5    3    6    5    3    3    4    5    3    3    4    4  2.5  2.5  2.5  2.5
+  10 FABACEAE     PIPTADENIA      VIRIDIFLORA                                                             2    4    5    3    4  2.5    7    4    3    3  2.5
+   1 MALPIGHIACEAEMASCAGNIA       BREVIFOLIA                                                              1  2.5
+   1 NYCTAGINACEAEBOUGAINVILLEA   PRAECOX           75389                                           L     2    3    3
+   2 NYCTAGINACEAEBOUGAINVILLEA   PRAECOX           75389                                                 3    3  2.5   22    4
+   3 NYCTAGINACEAEBOUGAINVILLEA   PRAECOX           75389                                                 5  2.5    6  2.5    5    3  2.5  2.5    7
+   5 NYCTAGINACEAEBOUGAINVILLEA   PRAECOX           75389                                                 1  2.5
+   6 NYCTAGINACEAEBOUGAINVILLEA   PRAECOX           75389                                                 1    8    6    5  2.5  2.5
+   8 NYCTAGINACEAEBOUGAINVILLEA   PRAECOX           75389                                                 1    7    4
+  10 NYCTAGINACEAEBOUGAINVILLEA   PRAECOX           75389                                                 1    7
+   2 OPILIACEAE   AGONANDRA       SPEGAZZINI        75380                                                 1   23   22
+   1 POLYGONACEAE RUPRECHTIA      TRIFLORA          75372                                                 9  2.5    4    3  2.5    3    4  2.5    5    4    3    6    5    4    9    5  2.5    4    4
+   2 POLYGONACEAE RUPRECHTIA      TRIFLORA          75372                                                17    5    4    3    4    4  2.5  2.5    5  2.5    5    5    4  2.5   11    4    5  2.5    6    5    4    4  2.5    5    4    5    5  2.5    3    4
+   3 POLYGONACEAE RUPRECHTIA      TRIFLORA          75372                                                21    4  2.5  2.5    3  2.5  2.5    5    5    3  2.5  2.5  2.5    5    5    7    4    5    4  2.5    4    3    4  2.5  2.5    5    3  2.5    3  2.5  2.5    3    3    3  2.5    5  2.5    3    3    3  2.5    4
+   4 POLYGONACEAE RUPRECHTIA      TRIFLORA          75372                                                32  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5    3    3    3    3    3    3    3    3    3    4    4    4    4    4    5    5    5   11   12
+   5 POLYGONACEAE RUPRECHTIA      TRIFLORA          75372                                                24    3    3    3    3    3    3    3    3    3    3    3  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5    4    4    4    5    4    5    4    4    6    5    4    8    5
+   6 POLYGONACEAE RUPRECHTIA      TRIFLORA          75372                                                19  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5    3    7    4    4    5
+   7 POLYGONACEAE RUPRECHTIA      TRIFLORA          75372                                                13    6  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5    3    3    6    3
+   8 POLYGONACEAE RUPRECHTIA      TRIFLORA          75372                                                21    3    3    3    3    3    3    3  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5    5    4    4
+   9 POLYGONACEAE RUPRECHTIA      TRIFLORA          75372                                                11  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5    3    3
+  10 POLYGONACEAE RUPRECHTIA      TRIFLORA          75372                                                15    4    4    5    3  2.5    3  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5    6    3    4
+   2 POLYGONACEAE?COCCOLOBA?      M1                                                                      1    3  2.5
+   8 RHAMNACEAE   ZIZYPHUS        MISTOL            75375                                                 2   27   19   39   11
+  10 SAPINDACEAE  SERJANIA        M1                                                                      1  2.5
+   1 SIMAROUBACEAECASTELA         COCCINEA          75388                                           L     1    7    6    3    4
+   5 SIMAROUBACEAECASTELA         COCCINEA          75388                                                 1    4    4    3    8
+   6 SIMAROUBACEAECASTELA         COCCINEA          75388                                                 1   12   14
+   9 SIMAROUBACEAECASTELA         COCCINEA          75388                                                 1    4  2.5

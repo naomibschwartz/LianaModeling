@@ -1,0 +1,128 @@
+LinFamily     Genus      species    vouchevouchevouchevo;uchvo;uchvo;uchvo;uchvo;uchLIAN(INDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 7 APOCYNACEAEAspidospermcuspa      47454                                                 2  2.5 5    2.5
+ 9 APOCYNACEAEAspidospermcuspa      47454                                                 1  7.5 5    5    2.5
+ 5 ASCLEPIADACMarsdenia  altissima  47427                                           l     1  2.5
+ 3 BIGNONIACEAArrabidaea pubescens  47423                                           L     3    5 2.5  5
+ 7 BIGNONIACEAArrabidaea pubescens  47423                                           L     4  2.5 7.5  2.5  2.5
+ 8 BIGNONIACEAArrabidaea pubescens  47423                                           L     2    5 2.5
+ 9 BIGNONIACEAArrabidaea pubescens  47423                                           L     1  2.5
+ 6 BIGNONIACEACeratophytutetragonolo-                                               L     4    5 2.5  2.5  2.5
+ 7 BIGNONIACEACeratophytutetragonolo-                                               L     1  2.5
+ 5 BIGNONIACEAClytostoma pterocalyx 47426                                           L     2  7.5 2.5
+ 6 BIGNONIACEAClytostoma pterocalyx 47426                                           L     2  2.5 5     
+ 1 BIGNONIACEACrescentia cujete     47413                                                 1  7.5 5    7.5
+ 4 BIGNONIACEACrescentia cujete     47413                                                 1  2.5 7.5
+ 5 BIGNONIACEACrescentia cujete     47413                                                 2   11 8    10   11
+ 6 BIGNONIACEATabebuia   billbergii 47451                                                 1   23
+ 3 BIGNONICEAETecoma     stans      47420                                           L     2  2.5 2.5  2.5  2.5     5   
+ 4 BORAGINACEACordia     dentata    47437 47470                                           1  2.5 9     
+10 BORAGINACEACordia     dentata    47437 47470                                           1    5  
+ 1 BORAGINACEACordia     globosa    47409                                                 1  2.5
+ 6 BURSERACEAEBursera    glabra     47446                                                 1   11 9     
+10 BURSERACEAEBursera    glabra     47446                                                 2   20 25
+ 7 BURSERACEAEBursera    simarouba  47455                                                 1   16
+ 8 BURSERACEAEBursera    simarouba  47455                                                 1   32
+ 3 CACTACEAE  Acanthocerepentagonus 47422                                           L     2    5 5
+ 6 CACTACEAE  Acanthocerepentagonus 47422                                           L     1    5 5    5
+ 6 CACTACEAE  Cereus     M1         47452                                                 2  7.5 7.5  7.5
+ 1 CACTACEAE  Pereskia   guamacho   47412                                                 1  2.5 13   10
+ 2 CACTACEAE  Pereskia   guamacho   47412                                                 1   12 7.5  2.5  5     
+ 3 CACTACEAE  Pereskia   guamacho   47412                                                 4  2.5 2.5  7.5  2.5  5    5    2.5
+ 4 CACTACEAE  Pereskia   guamacho   47412                                                 2  2.5 2.5  2.5  5
+ 5 CACTACEAE  Pereskia   guamacho   47412                                                 4   15 2.5  2.5  2.5  2.5  5    5    8    8    8    8    8    15
+ 5 CACTACEAE  Pereskia   guamacho   47412                                                 4    8 8    8    8    8    5    5    9    9    10   11   14
+ 6 CACTACEAE  Pereskia   guamacho   47412                                                 2  2.5 5     
+ 7 CACTACEAE  Pereskia   guamacho   47412                                                 2   23 20
+ 8 CACTACEAE  Pereskia   guamacho   47412                                                 4  2.5 2.5  10   7.5  18
+ 9 CACTACEAE  Pereskia   guamacho   47412                                                 3  2.5 2.5  5    5    8    8    10
+ 6 CAPPARACEAEBelencita  nemorosa   47450                                                 1  7.5 13
+10 CAPPARACEAEBelencita  nemorosa   47450                                                 2  7.5 5     
+ 5 CAPPARIDACECapparis   flexuosa   67429                                           L     1   10
+ 6 CAPPARIDACECapparis   frondosa   67448                                                 1  2.5
+ 7 CAPPARIDACECapparis   odoratissim47461                                                 1    8  
+ 9 CAPPARIDACECapparis   odoratissim47461                                                 1    8  
+10 CAPPARIDACECapparis   odoratissim47461                                                 1    5  
+ 4 CAPPARIDACECapparis   verrucosa  47430                                                 1  2.5
+ 7 CAPPARIDACECapparis   verrucosa  47430 47569                                           4  2.5 2.5  2.5  5    5
+ 9 CAPPARIDACECapparis   verrucosa  47430 47569                                           1  2.5
+ 1 CAPPARIDACECrataeva   tapia      47415                                                 1   21
+ 2 CAPPARIDACECrataeva   tapia      47415                                                 1  7.5 5    2.5
+ 4 CAPPARIDACECrataeva   tapia      47415                                                 6  2.5 2.5  2.5  17   5    5    8    9
+ 2 CELASTRACEAPristimera verrucosa  47416                                           L     5  2.5 2.5  2.5  2.5  2.5  5
+ 3 CELASTRACEAPristimera verrucosa  47416                                           L     7  2.5 2.5  2.5  2.5  2.5  2.5  2.5  2.5
+ 6 CELASTRACEAPristimera verrucosa  47416                                           L    11  2.5 2.5  2.5  5    5    2.5  2.5  2.5  2.5  2.5  2.5
+ 7 CELASTRACEAPristimera verrucosa  47416                                           L     4  2.5 2.5  2.5  2.5  2.5
+ 9 CELASTRACEAPristimera verrucosa  47416                                           L     8  2.5 2.5  2.5  7.5  2.5  2.5  2.5  2.5  2.5
+10 CELASTRACEAPristimera verrucosa  47416                                           L     1  2.5
+10 ERYTHROXYLAErythroxylucarthogense47468                                                 1    5  
+10 EUPHORBIACECroton     niveus     47467                                                 2  2.5 2.5
+ 8 EUPHORBIACEHura       crepitans  47463                                                 4   29 46   19   15
+ 9 EUPHORBIACEHura       crepitans  47463                                                 1   15
+ 4 FABACEAE   Acacia     M1         47432                                                 1  2.5
+ 5 FABACEAE   Acacia     M2         47425 47447                                           1  2.5
+ 6 FABACEAE   Acacia     M2         47425 47447                                           1   10
+ 7 FABACEAE   Bauhinia   M1         47460                                           L     2  7.5 5     
+ 1 FABACEAE   Dalbergia  M1         47411                                           L     4  2.5 2.5  5    12
+ 2 FABACEAE   Dalbergia  M1         47411                                           L     1  2.5
+ 4 FABACEAE   Dalbergia  M1         47411                                           L     2  2.5 5
+ 2 FABACEAE   Geoffroea  spinosa    47419                                                 1   13 17
+ 9 FABACEAE   Geoffroea  spinosa    47419                                                 1   51
+ 4 FABACEAE   M1         M1         47436                                                 1  2.5
+ 9 FABACEAE   M2         M1         47465                                                 1    5 5
+ 4 FABACEAE   Pithecellobdulce      47435                                                 2  2.5 2.5
+ 3 FABACEAE   Prosopis   M1         47424                                                 1  2.5 5    5
+ 5 FABACEAE   Prosopis   M1         47424                                                 1  7.5
+ 2 FLACOURTIACCasearia   corymbosa  47417                                                 1  2.5
+ 3 FLACOURTIACCasearia   corymbosa  47417                                                 3  2.5 2.5  2.5  5    5    5    7.5  8    8
+ 5 LECYTHIDACELecythis   ollaria    47428                                                 1  2.5
+ 6 LECYTHIDACELecythis   ollaria    47428                                                 1    9  
+ 4 MALPIGHIACEHeteropteriM1         47440                                           L     1  2.5 2.5
+ 6 MALPIGHIACEHeteropteriM1         47440                                           L     2  2.5 2.5
+ 1 MALPIGHIACEMalpighia  emarginata 47441                                                 1   15
+ 4 MALPIGHIACEMalpighia  emarginata 47441                                                 4  7.5 2.5  2.5  2.5
+ 5 MALPIGHIACEMalpighia  emarginata 47441                                                 3  7.5 2.5  7.5  8    8    9
+ 6 MALPIGHIACEMalpighia  emarginata 47441                                                 3  2.5 2.5  2.5  5    5    8    8    8    8    9
+ 7 MALPIGHIACEMalpighia  emarginata 47441                                                 1  2.5
+ 8 MALPIGHIACEMalpighia  emarginata 47441                                                 1  2.5      5
+10 MALPIGHIACEMalpighia  emarginata 47441                                                 4  2.5 7.5  5    5    5    7.5
+ 7 NYCTAGINACEGuapira    M1         47457                                                 1    5 8    9    11   13
+ 2 NYCTAGINACEPisonia    aculeata   47416A                                          L     2  2.5 11
+ 4 NYCTAGINACEPisonia    aculeata   47416A                                          L     2  2.5 2.5  2.5  2.5
+ 5 NYCTAGINACEPisonia    aculeata   47416A                                          L     2  2.5 2.5
+ 6 NYCTAGINACEPisonia    aculeata   47416A                                          L     1  2.5
+ 4 NYCTAGINACEPisonia    macranthoca47439                                                 1   14 13
+ 3 OPILIACEAE Agonandra  brasiliensi47421                                                 1   43
+ 9 PASSIFLORACPassiflora holosericea47466                                           L     1  2.5
+ 7 PASSIFLORACPassiflora serrulata  47459                                           L     2    5 2.5
+10 PASSIFLORACPassiflora serrulata  47459                                           L     1    5  
+10 PHYTOLACCACAchatocarpunigricans  47469                                                 1  2.5
+ 4 PHYTOLACCACSeguiera   aculeata   47431                                           L     1    5  
+ 7 PHYTOLACCACSeguiera   aculeata   47431                                           L     4  2.5 2.5  2.5  2.5  5    5    5
+ 8 PHYTOLACCACSeguiera   aculeata   47431                                           L     1  2.5 5     
+ 9 PHYTOLACCACSeguiera   aculeata   47431                                           L     1    5 5    7.5  2.5
+ 4 POLYGONACEACoccoloba  cf coronata47453 47433 47449                               L     1    5    5  2.5  7.5
+ 6 POLYGONACEACoccoloba  cf coronata47453 47433 47449                               L     3  2.5  2.5  2.5  2.5
+ 2 POLYGONACEACoccoloba  M1         47418                                           L     2  2.5 2.5
+ 7 POLYGONACEACoccoloba  M1         47418                                           L     2  2.5 2.5  2.5
+ 9 POLYGONACEACoccoloba  M1         47418                                           L     2  2.5 2.5  7.5  2.5  2.5  2.5  2.5  5    5
+ 8 RUBIACEAE  Randia     M1         47464                                                 1    5 2.5  2.5
+ 1 STERCULIACEGuazuma    ulmifolia  47410                                                 4   18 18   23   13   22   22   14   15   16
+ 2 STERCULIACEGuazuma    ulmifolia  47410                                                 1   17 13   13
+ 3 STERCULIACEGuazuma    ulmifolia  47410                                                 1   18 16   5    5
+ 6 STERCULIACEGuazuma    ulmifolia  47410                                                 1   16 14   19   5    2.5
+ 1 ULMACEAE   Celtis     iguanaea                                                   L     1    5  
+ 3 ULMACEAE   Celtis     iguanaea                                                   L     2    8 8    8    8    10
+ 4 ULMACEAE   Celtis     iguanaea                                                   L     1    5  
+ 4 ULMACEAE   Celtis     M1         47434                                                 2  2.5 2.5  2.5
+
+
+
+
+
+
+
+
+
+
+
+

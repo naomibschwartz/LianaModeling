@@ -1,0 +1,109 @@
+LineFamily         Genus          Species        vouchvouchvouchvouchvouchvouchvouchvouchLianno. StemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemdStemd
+  1 ANACARDIACEAE  OPERCULICARYA  DECARYI        2525                                          1    4
+  5 ANACARDIACEAE  OPERCULICARYA  DECARYI        2525                                          1   13
+  6 ANACARDIACEAE  OPERCULICARYA  DECARYI        2525                                          1   43
+  7 ANACARDIACEAE  OPERCULICARYA  DECARYI        2525                                          1   14
+  1 ANACARDIACEAE  POUPARTIA      MINOR          1734 1813 2415 3688                           1    4
+  2 ANACARDIACEAE  POUPARTIA      MINOR          1734 1813 2415 3688                           3    5    7   10
+  4 ANACARDIACEAE  POUPARTIA      MINOR          1734 1813 2415 3688                           5    5    7    8    3    6
+  5 ANACARDIACEAE  POUPARTIA      MINOR          1734 1813 2415 3688                           1    4
+  6 ANACARDIACEAE  POUPARTIA      MINOR          1734 1813 2415 3688                           1    5
+  1 APOCYNACEAE    PACHYPODIUM    GEAYI          2610                                          1   10
+  8 APOCYNACEAE    PACHYPODIUM    MERIDIONALE    2358                                          1    5
+  1 BIGNONIACEAE   RHIGOZUM       MADAGASCARIENSE2384                                          1    3
+  2 BIGNONIACEAE   RHIGOZUM       MADAGASCARIENSE2384                                          3    3    3    4
+  5 BIGNONIACEAE   RHIGOZUM       MADAGASCARIENSE2384                                          1    4
+  6 BIGNONIACEAE   RHIGOZUM       MADAGASCARIENSE2384                                          4    3    4    4    8
+  8 BIGNONIACEAE   RHIGOZUM       MADAGASCARIENSE2384                                          2    3    8
+  7 BIGNONIACEAE   RHIGOZUM       MADAGASCARIENSE2384                                          2    4    7
+ 10 BIGNONIACEAE   RHIGOZUM       MADAGASCARIENSE2384                                         26    3    5    4    4    5    5    6    3    3    4    3    3    5    4    4    3    3    4    5    6    3    3    3    9    4    5    5
+  5 BORAGINACEAE   BOURRERIA      TEITENSIS      2441                                          1    5    5
+  7 BORAGINACEAE   BOURRERIA      TEITENSIS      2441                                          1    7   20
+  7 BORAGINACEAE   BOURRERIA      TEITENSIS      2441                                          3    4    5    6       
+  1 BURSERACEAE    COMMIPHORA     APREVALII      1814 2563                                     4    4    7    5   15
+  2 BURSERACEAE    COMMIPHORA     APREVALII      1814 2563                                    12    7   11    8    6   12    3    9    4    7   10    5
+  5 BURSERACEAE    COMMIPHORA     APREVALII      1814 2563                                     2   23    4
+  7 BURSERACEAE    COMMIPHORA     APREVALII      1814 2563                                     1    5
+  8 BURSERACEAE    COMMIPHORA     LAXICYMIGERA   1830 2354 2412                                2   10   10
+  2 BURSERACEAE    COMMIPHORA     MARCHANDII     2521 2604                                     2    7    8
+  1 BURSERACEAE    COMMIPHORA     ORBICULARIS    2345 2520                                    40    4    5    4    4    4    5   12    4    5    5    3    4    3    3    3    4    4    4    5    5    6    3    6    5    7    5    6    7    8    9   10    4    4    4    5    8    9    9   10   12
+  2 BURSERACEAE    COMMIPHORA     ORBICULARIS    2345 2520                                     9    6    4    5    5    6    3    4    7    3       
+  5 BURSERACEAE    COMMIPHORA     ORBICULARIS    2345 2520                                    12    6    6    4    7    4    4    5    4    6    6    8    9
+  6 BURSERACEAE    COMMIPHORA     ORBICULARIS    2345 2520                                     2    5    5
+  9 BURSERACEAE    COMMIPHORA     ORBICULARIS    2345 2520                                     2    4    6
+ 10 BURSERACEAE    COMMIPHORA     ORBICULARIS    2345 2520                                     2    4    8
+  1 BURSERACEAE    COMMIPHORA     SIMPLICIFOLIA  2813                                          2    5    6
+  2 BURSERACEAE    COMMIPHORA     SIMPLICIFOLIA  2813                                          4    3    7    8    6
+ 10 BURSERACEAE    COMMIPHORA     SIMPLICIFOLIA  2813                                         15    3    4    4    4    8    4    3    3    3    3    4    5    6    3    4
+  5 BURSERACEAE    COMMIPHORA     TETRAMERA      1841 2628                                     2    6    6
+  6 BURSERACEAE    COMMIPHORA     TETRAMERA      1841 2628                                     3    4    6    6
+  2 CAPPARIDACEAE  CAPPARIS       CHRYSOMEIA     2361                                          2    3    4
+  1 CAPPARIDACEAE  MAERUA         FILIFORMIS     1732 2378 2417                                1    4
+  8 COMBRETACEAE   TERMINALIA     TRICRISTATA    1666  237                                     2    7   11
+  9 COMBRETACEAE   TERMINALIA     TRICRISTATA    1666  237                                     1    4
+  2 CRASSULACEAE   KALANCHOE      BEHARENSIS     2389                                          1    5
+  1 CUCURBITACEAE  XEROSICYOS     DANGUYI        2795                                          1    3
+  5 DIDIEREACEAE   ALLUAUDIA      PROCERA        2367                                          2   26   11
+  8 DIDIEREACEAE   ALLUAUDIA      PROCERA        2367                                          4    3    4    3    3
+  2 EBENACEAE      DIOSPYROS      LATISPATHULATA 2544                                          3    5    7    7
+  5 EBENACEAE      DIOSPYROS      LATISPATHULATA 2544                                          1    4
+  7 EBENACEAE      DIOSPYROS      LATISPATHULATA 2544                                          9    3    4    4    5    5    7    7    6    3
+  8 EBENACEAE      DIOSPYROS      LATISPATHULATA 2544                                          5    3    4    3    3    3
+  5 EUPHORBIACEAE  EUPHORBIA      OBCORDATA      2478                                          1    3
+  2 EUPHORBIACEAE  EUPHORBIA      TIRUCALLI      1765 2368 2480                                1    3
+  3 EUPHORBIACEAE  EUPHORBIA      TIRUCALLI      1765 2368 2480                                1    4
+  4 EUPHORBIACEAE  EUPHORBIA      TIRUCALLI      1765 2368 2480                                3    6    7    3  
+  6 EUPHORBIACEAE  EUPHORBIA      TIRUCALLI      1765 2368 2480                                2    3    4
+  7 EUPHORBIACEAE  EUPHORBIA      TIRUCALLI      1765 2368 2480                                1    9
+  9 EUPHORBIACEAE  EUPHORBIA      TIRUCALLI      1765 2368 2480                                6    5    6    8   12   10    4
+ 10 EUPHORBIACEAE  EUPHORBIA      TIRUCALLI      1765 2368 2480                                6    5    6    9    4    7    4
+  4 EUPHORBIACEAE  SUREGADA       CHAUVETIAE     1710 2360 2373 2505                           2    3    4
+  5 EUPHORBIACEAE  SUREGADA       CHAUVETIAE     1710 2360 2373 2505                           1    3
+  5 EUPHORBIACEAE  SUREGADA       CHAUVETIAE     1710 2360 2373 2505                           1    8
+  7 EUPHORBIACEAE  SUREGADA       CHAUVETIAE     1710 2360 2373 2505                           1    3
+  2 FABACEAE       ALBIZIA        AURISPARSA     2356 2469                                     1   13
+  3 FABACEAE       ALBIZIA        COMMIPHOROIDES 2590 2781                                    11    4    5    5    6    6    3    3    4    5    6    7
+  2 FABACEAE       ALBIZIA        TULEARENSIS    2433 2586                                     1    4
+  1 FABACEAE       BAUHINIA       GRANDIDIERI    1677 2612                                     1    3
+  4 FABACEAE       BAUHINIA       GRANDIDIERI    1677 2612                                     1    3
+  4 FABACEAE       DICHROSTACHYS  DECARYANA      2482                                          3    3    3    6
+  6 FABACEAE       DICHROSTACHYS  DECARYANA      2482                                          4    5    5    3    3
+ 10 FABACEAE       DICHROSTACHYS  DECARYANA      2482                                          1    3
+ 10 FABACEAE       GAGNEBINA      COMMERSONIANA  2508                                          1    3
+  1 FABACEAE       MIMOSA         GRANDIDIERI    2784                                          2    4    7
+  1 FABACEAE       MIMOSA         GRANDIDIERI    2784                                          1    3                                          
+  1 FABACEAE       MIMOSA         GRANDIDIERI    2784                                          2    3    5
+  1 FABACEAE       MIMOSA         GRANDIDIERI    2784                                          2    3    7
+  1 FABACEAE       MIMOSA         GRANDIDIERI    2784                                          1    5
+  1 FABACEAE       MIMOSA         GRANDIDIERI    2784                                          1    3
+  5 HERNANDIACEAE  GYROCARPUS     AMERICANUS     2350 2364                                     1    7
+  6 HERNANDIACEAE  GYROCARPUS     AMERICANUS     2350 2364                                     2    4    3
+  7 INDET          M1             M1                                                           3    8    5    6
+  8 INDET          M1             M1                                                           1    4
+  8 INDET          M1             M1                                                           1    6
+  7 INDET          M2             M1                                                           1    5
+  2 PASSIFLORACEAE ADENIA         OLABOENSIS     2352                                          4    3    3    3    6
+  4 PORTULACACEAE  TALINELLA      GREVEI         1653 1665 2779                                2    4    4
+  5 PORTULACACEAE  TALINELLA      GREVEI         1653 1665 2779                                5    5    3    4    3    5
+  6 PORTULACACEAE  TALINELLA      GREVEI         1653 1665 2779                                5    3    4    3    3    4
+  7 PORTULACACEAE  TALINELLA      GREVEI         1653 1665 2779                                6    5    3    4    5    3    3
+  8 PORTULACACEAE  TALINELLA      GREVEI         1653 1665 2779                                1    3
+  3 PTAEROXYLACEAE CEDRELOPSIS    GREVEI         2512                                          4    3    4    5    7
+  4 PTAEROXYLACEAE CEDRELOPSIS    GREVEI         2512                                          4    4    5    6    6
+  5 PTAEROXYLACEAE CEDRELOPSIS    GREVEI         2512                                         27    3    4    4    3    4    4    4    3    4    3    3    4    4    4    3    4    5    3    3    3    3    3    3    3    3    3    4
+  6 PTAEROXYLACEAE CEDRELOPSIS    GREVEI         2512                                          1    3
+  6 PTAEROXYLACEAE CEDRELOPSIS    GREVEI         2512                                          9    3    4    3    3    4    3    3    3    4
+  7 PTAEROXYLACEAE CEDRELOPSIS    GREVEI         2512                                          8    3    4    3    3    5    7    3    3
+  8 PTAEROXYLACEAE CEDRELOPSIS    GREVEI         2512                                         13    3    3    3    3    4    3    3    4    4    4    5    3    7
+  9 PTAEROXYLACEAE CEDRELOPSIS    GREVEI         2512                                          6    4    3    4    4    4    4
+ 10 PTAEROXYLACEAE CEDRELOPSIS    GREVEI         2512                                          5    3    4    4    6    3
+  7 RUBIACEAE      HYMENODICTYON  DECARYI        2778                                          1    3
+  8 RUBIACEAE      HYMENODICTYON  DECARYI        2778                                          1    7    9
+  9 SALVADORACEAE  SALVADORA      ANGUSTIFOLIA   2351                                          2    9    8
+  4 TILIACEAE      GREWIA         FRANCISCANA    1667 2487 2500 2537 2566 2656 2782            3    3    5    5
+  7 TILIACEAE      GREWIA         FRANCISCANA    1667 2487 2500 2537 2566 2656 2782            2    3    3  
+  8 TILIACEAE      GREWIA         FRANCISCANA    1667 2487 2500 2537 2566 2656 2782            6    3    4    3    3    4    4
+  9 TILIACEAE      GREWIA         FRANCISCANA    1667 2487 2500 2537 2566 2656 2782           22    4    3    4    4    5    3    4    4    5    6    3    3    3    3    3    3    4    3    4    3    3    3
+ 10 TILIACEAE      GREWIA         FRANCISCANA    1667 2487 2500 2537 2566 2656 2782            1    4
+  9 TILIACEAE      GREWIA         GREVEI         1680 2517 2582                               14    3    4    5    5    3    4    9    9    3    5    6    9    3   10
+                                                                                                       

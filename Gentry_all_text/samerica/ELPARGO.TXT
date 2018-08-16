@@ -1,0 +1,80 @@
+LinFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 3 ANACARDIACEMauria     M1         74557                                                1    5
+ 3 ARALIACEAE Oreopanax  M1         74556                                                3   11    5    8
+ 5 ARALIACEAE Oreopanax  M1         74556                                                1    6    6    8
+ 6 ARALIACEAE Oreopanax  M1         74556                                                1   19
+ 3 ASTERACEAE Baccharis  grandicapit74554                                                1    6
+ 4 ASTERACEAE Baccharis  grandicapit74554                                                2    3    3  2.5  2.5
+ 2 ASTERACEAE Grosvenoriacoelocaulis74549                                                5    3  2.5    3  2.5 2.5
+ 4 ASTERACEAE Grosvenoriacoelocaulis74549                                                1    3
+ 6 ASTERACEAE Grosvenoriacoelocaulis74549                                                4    7    4  2.5    6 3    2.5
+ 1 ASTERACEAE Gynoxys    M1         74531                                                2    6    7    7    5
+ 1 ASTERACEAE Gynoxys    M1         74532                                                1  2.5  2.5  2.5    3 3
+ 2 ASTERACEAE Gynoxys    M1         74531                                                1   11
+ 3 ASTERACEAE Gynoxys    M1         74531                                                8    4    7    5   10 11   2.5  2.5  10   2.5  3
+ 4 ASTERACEAE Gynoxys    M1         74531                                                6    5    4    6   11 6    7    2.5  5    3
+ 5 ASTERACEAE Gynoxys    M1         74531                                                3    6    5    8
+ 2 ASTERACEAE Jungia     paniculata 74551                                           L    2  2.5    4
+ 3 ASTERACEAE Jungia     paniculata 74551                                           L    1    3
+ 6 ASTERACEAE Jungia     paniculata 74551                                           L    3    3  2.5    5
+ 6 ASTERACEAE M1         M1         74894                                           L    1  2.5
+ 6 ASTERACEAE Mikania    M1         74892                                           L    1    5
+ 1 ASTERACEAE Pentacalia M1         74538                                           L    1    4
+ 2 CAPRIFOLIACViburnum   M1         74550                                                1  2.5  2.5
+ 3 CAPRIFOLIACViburnum   M1         74550                                                1  2.5
+ 2 CLUSIACEAE Clusia     multiflora 74552 74537                                          1   27
+ 1 CLUSIACEAE Clusia     multiflora 74552 74537                                          1   14
+ 3 CLUSIACEAE Clusia     multiflora 74552 74537                                          2   35   17
+ 4 CLUSIACEAE Clusia     multiflora 74552 74537                                          3   11   21   13
+ 5 CLUSIACEAE Clusia     multiflora 74552 74537                                          5   11   22   20   20 25
+ 5 CLUSIACEAE Clusia     multiflora 74552 74537                                          2    5   15
+ 6 CLUSIACEAE Clusia     multiflora 74552 74537                                          4   11   23   30   25
+ 3 ERICACEAE  M1         M1         74555                                           L    1  2.5
+ 1 LAURACEAE  Persea     ferruginea 74534                                                1   14
+ 2 LAURACEAE  Persea     ferruginea 74534                                                1   11
+ 3 LAURACEAE  Persea     ferruginea 74534                                                1    3
+ 4 LAURACEAE  Persea     ferruginea 74534                                                1   10
+ 5 LAURACEAE  Persea     ferruginea 74534                                                1    5
+ 4 LAURACEAE  Persea     M1         74890                                                4   19   30  2.5  2.5
+ 1 LOGANIACEAEDesfontainispinosa    74540                                                2   10    8    8   11
+ 1 LORANTHACEAGaiadendronpunctatum  74546                                                2  2.5    5
+ 3 LORANTHACEAGaiadendronpunctatum  74546                                                5   17   23   19   12 12
+ 5 LORANTHACEAGaiadendronpunctatum  74546                                                1    4
+ 1 MELASTOMATAMiconia    M1         74542                                                7    5    5   10   14 17   14   19   4    13   14
+ 1 MELASTOMATAMiconia    M1         74542                                                1   10    5
+ 2 MELASTOMATAMiconia    M1         74542                                                1   11
+ 5 MELASTOMATAMiconia    M1         74542                                                1    4
+ 6 MELASTOMATAMiconia    M2         74693                                                1  2.5
+ 2 MELASTOMATATibouchina M1         74548                                                2    5    3    6
+ 3 MELASTOMATATibouchina M1         74548                                                2    4  2.5  2.5
+ 4 MELASTOMATATibouchina M1         74548                                                2  2.5  2.5
+ 1 MONIMIACEAESiparuna   M1         74545                                                1  2.5
+ 2 MONIMIACEAESiparuna   M1         74545                                                3    8    4    7    5
+ 3 MONIMIACEAESiparuna   M1         74545                                                4    4    3    3    4 5    3
+ 4 MONIMIACEAESiparuna   M1         74545                                                2    3    3
+ 1 MYRICACEAE Myrica     M1         74543                                                2   14    6
+ 3 MYRICACEAE Myrica     M1         74543                                                3    4    3    4    4 18
+ 1 MYRSINACEAEMyrsine    coriacea   74533                                                1   10
+ 5 MYRSINACEAEMyrsine    coriacea   74891                                                1  2.5    4
+ 1 MYRSINACEAEMyrsine    dependens  74535 74541 74553                                    2    4    4
+ 3 MYRSINACEAEMyrsine    dependens  74535 74541 74553                                    4    5    7    5    3
+ 4 MYRSINACEAEMyrsine    dependens  74535 74541 74553                                    1    4
+ 1 PROTEACEAE Lomatia    M1         74547                                                1    4    5
+ 3 PROTEACEAE Lomatia    M1         74547                                                2    3  2.5
+ 3 PROTEACEAE Lomatia    M1         74547                                                1  2.5
+ 4 PROTEACEAE Lomatia    M1         74547                                                5   18    8    7  2.5 5    4    9
+ 3 PROTEACEAE Oreocallis grandiflora74558                                                1  2.5
+ 1 ROSACEAE   HesperomeleM1         74544                                                1    6
+ 3 ROSACEAE   HesperomeleM1         74544                                                1  2.5
+ 4 ROSACEAE   Polylepis  M1                                                              1   38
+ 1 RUBIACEAE  Palicourea M1         74536                                                1    3
+ 1 SYMPLOCACEASymplocos  M1         74529                                                3    5    9  2.5    5
+ 5 SYMPLOCACEASymplocos  M1         74529                                                1    4
+
+
+
+
+
+
+
+

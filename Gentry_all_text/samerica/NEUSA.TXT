@@ -1,0 +1,96 @@
+LineFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+  3 ARALIACEAE Oreopanax  M1         68092                                                 1  2.5
+  2 ASTERACEAE Bidens     M1         68080                                           L     1  2.5
+  1 ASTERACEAE Eupatorium M1         68078                                           L     1    3
+  3 ASTERACEAE Eupatorium M2         68097                                                 1  2.5
+  4 ASTERACEAE Eupatorium M2         68097                                                 1    7
+  2 ASTERACEAE Liabum     M1         68088                                           L     1  2.5
+  3 ASTERACEAE M1         M1         68091                                           L     1  2.5
+  4 ASTERACEAE M1         M1         68091                                           L     2  2.5    4
+  1 ASTERACEAE Senecio    M1         69071                                           L     1  2.5
+  4 ASTERACEAE Senecio    M1         69071                                           L     1    4
+  5 ASTERACEAE Senecio    M1         69071                                           L     1    6
+  4 ASTERACEAE Senecio    M2         68094                                           L     2  2.5  2.5
+  5 ASTERACEAE Senecio    M2         68094                                           L     1    3
+  2 CAPRIFOLIACViburnum   triphyllum 68083                                                 2    6    6
+  4 CAPRIFOLIACViburnum   triphyllum 68083                                                 6    6    4 3    6    5    2.5
+  1 CLETHRACEAEClethra    fimbriata  68076                                                 1  2.5
+  1 CLUSIACEAE Clusia     multiflora 68077                                                 1    8
+  3 CLUSIACEAE Clusia     multiflora 68077                                                 1  2.5    3 4    4
+  1 CUNONIACEAEWeinmannia tomentosa  68073                                                 6    8   12 10   19   8    14   28   5
+  1 CUNONIACEAEWeinmannia tomentosa  68073                                                11   11   19 28   10   5    5    7    14   5    13   20   16
+  2 CUNONIACEAEWeinmannia tomentosa  68073                                                 6   10   10 10   79   11   6    9    8    8    3    9    11   8
+  2 CUNONIACEAEWeinmannia tomentosa  68073                                                 6   22    9 8    6    32   12   9    10   6    7
+  2 CUNONIACEAEWeinmannia tomentosa  68073                                                 4   14    8 17   7    9    10   9    11
+  3 CUNONIACEAEWeinmannia tomentosa  68073                                                14   20   13 11   17   16   10   16   9    6    8    7    6    7    8
+  3 CUNONIACEAEWeinmannia tomentosa  68073                                                 4    9   12 13   11   6    7    6    12   12   7    20   7    14
+  3 CUNONIACEAEWeinmannia tomentosa  68073                                                 8    6   15 2.5  8    9    9    14   18   9    8
+  3 CUNONIACEAEWeinmannia tomentosa  68073                                                 7   13    8 8    8    15   11   5
+  4 CUNONIACEAEWeinmannia tomentosa  68073                                                 7   24   13 6    16   22   6    5
+  4 CUNONIACEAEWeinmannia tomentosa  68073                                                 8    7    9 16   11   20   16   10   22   19   6    18
+  5 CUNONIACEAEWeinmannia tomentosa  68073                                                10   10   12 8    7    4    2.5  55   15   2.5  18   2.5  15
+  5 CUNONIACEAEWeinmannia tomentosa  68073                                                 2   26    8 6    11   9    6
+  5 CUNONIACEAEWeinmannia tomentosa  68073                                                 9    5    4 2.5  2.5  2.5  6    6    9    9    11   15
+  3 ELAEOCARPACVallea     stipularis 68089                                                 2    3  2.5
+  4 ELAEOCARPACVallea     stipularis 68089                                                 2    3    8
+  1 ERICACEAE  CavendishiaM1         68066                                           L     2    5    3
+  3 ERICACEAE  CavendishiaM1         68066                                           L     2    7   10    3
+  4 ERICACEAE  CavendishiaM1         68066                                           L     1    3
+  5 ERICACEAE  CavendishiaM1         68066                                           L     2    4    3
+  1 ERICACEAE  CavendishiaM2         68072                                           L     1    5
+  3 ERICACEAE  CavendishiaM2         68072                                           L     1  2.5
+  4 ERICACEAE  CavendishiaM2         68072                                           L     2  2.5  2.5
+  1 ERICACEAE  Disterigma alaterniode68070                                           L     1  2.5
+  1 ERICACEAE  Thibaudia  floribunda 68064                                           L     2  2.5    3
+  5 GENTIANACEAMacrocarpaeglabra     68098                                                 2  2.5  2.5 3
+  4 LAURACEAE  M1         M1         68095                                                 1    4
+  5 LAURACEAE  M1         M1         68095                                                 1  2.5
+  1 LAURACEAE  Ocotea     M1         68068                                                 1   10
+  5 LAURACEAE  Ocotea     M1         68068                                                 1    5
+  1 LAURACEAE  Ocotea     M2         68093 68074                                           1  2.5
+  3 LAURACEAE  Ocotea     M2         68093 68074                                           1    3
+  4 LAURACEAE  Ocotea     M2         68093 68074                                           1  2.5
+  2 LORANTHACEAGaiadendronpunctatum  68081                                                 3   11   12 8
+  5 LORANTHACEAGaiadendronpunctatum  68081                                                 1   33
+  2 MELASTOMATABucquetia  glutinosa  68085                                                 7    7    5 5    7    6    6    4    2.5  5
+  4 MELASTOMATABucquetia  glutinosa  68085                                                 1    9
+  5 MELASTOMATABucquetia  glutinosa  68085                                                 6    6    4 2.5  6    6    3
+  2 MELASTOMATAMiconia    ligustrina 68079                                                 3    8    5 5
+  4 MELASTOMATAMiconia    ligustrina 68079                                                 2    4  2.5 4
+  5 MELASTOMATAMiconia    ligustrina 68079                                                 1    7
+  2 MELASTOMATAMiconia    M1         68087                                                 1    4    5
+  1 MYRSINACEAEGeissanthusandinus    68069                                                 4    4    7 2.5  2.5  2.5
+  1 MYRSINACEAEGeissanthusandinus    68069                                                 7    3    6 2.5  2.5  5    4    3    2.5  4    3    5    6    3
+  1 MYRSINACEAEGeissanthusandinus    68069                                                 8  2.5  2.5 3    2.5  3    2.5  2.5  5    2.5  2.5  4
+  2 MYRSINACEAEGeissanthusandinus    68069                                                 2  2.5  2.5 2.5
+  4 MYRSINACEAEGeissanthusandinus    68069                                                 4  2.5  2.5 2.5  4    8
+  5 MYRSINACEAEGeissanthusandinus    68069                                                 1  2.5
+  2 MYRSINACEAEGeissanthusM1         68082                                                 1    4    5 3
+  5 MYRSINACEAEGeissanthusM1         68082                                                 4    5    3 4    2.5
+  1 MYRSINACEAEMyrsine    dependens  68075                                                 2    4    3
+  4 MYRSINACEAEMyrsine    dependens  68075                                                 1    5    5
+  1 MYRSINACEAEMyrsine    M1         68065                                                 2   25    4 8    2.5
+  3 MYRSINACEAEMyrsine    M1         68065                                                 1  2.5
+  4 MYRSINACEAEMyrsine    M1         68065                                                 2    4    3
+  2 MYRTACEAE  CalyptranthM1         68086                                                 1  2.5
+  4 MYRTACEAE  CalyptranthM1         68086                                                 1    4
+  5 MYRTACEAE  CalyptranthM1         68086                                                 3  2.5    8 13
+  2 POLYGONACEAMuehlenbeckM1         68090                                           L     1  2.5
+  2 ROSACEAE   HesperomeleM1         68084                                                 1  2.5
+  3 ROSACEAE   HesperomeleM1         68084                                                 2  2.5    5
+  4 ROSACEAE   HesperomeleM1         68084                                                 1   11
+  5 ROSACEAE   HesperomeleM1         68084                                                 1    5
+  5 RUBIACEAE  Psychotria M1         68099                                                 1  2.5
+  4 VERBENACEAECitharexyluM1         68096                                                 1    7
+  1 WINTERACEAEDrimys     winteri    68017                                                 8    5    4 3    2.5  34   10   3    11   15
+  2 WINTERACEAEDrimys     winteri    68017                                                 1    5    6
+  3 WINTERACEAEDrimys     winteri    68017                                                 1    6
+  4 WINTERACEAEDrimys     winteri    68017                                                 7    3  2.5 7    10   2.5  13   7    5    5
+  5 WINTERACEAEDrimys     winteri    68017                                                 9    8  2.5 11   2.5  3    3    22   3    2.5  5
+
+
+
+
+
+
+

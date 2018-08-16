@@ -1,0 +1,158 @@
+LineFAMILY      GENUS       SPECIES     vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+  1 ANACARDIACEAMANGIFERA   INDICA      67875                                                 1   16
+  1 APOCYNACEAE ANODENDRON  AFFINE      67869                                           L     1  2.5
+  9 APOCYNACEAE ANODENDRON  AFFINE      67869                                           L     1  2.5
+  2 APOCYNACEAE FORMOSIA    BENTHAMIANA?67887                                           L     1  2.5
+  1 APOCYNACEAE TRACHELOSPERGRACILIPES  67871                                           H     1  2.5
+  6 APOCYNACEAE TRACHELOSPERGRACILIPES  67871                                           H     1    4
+  3 ARACEAE     ALLOCASIA   MACRORHIZA  67894                                                 1  2.5  2.5
+  6 ARACEAE     ALLOCASIA   MACRORHIZA  67894                                                 2  2.5  2.5    3    4    3    3
+  7 ARACEAE     ALLOCASIA   MACRORHIZA  67894                                                 4  2.5  2.5  2.5  2.5  2.5  2.5  2.5    3    3    3    3  2.5  2.5  2.5
+  9 ARACEAE     ALLOCASIA   MACRORHIZA  67894                                                 2   14    3    3    3
+  8 ARECACEAE   ARENGA      ENGLERI     68026                                                 1    4
+  1 ARECACEAE   CARYOTA     URENS       67872                                                 1    5
+  5 ARECACEAE   CARYOTA     URENS       67872                                                 2    7    6
+  6 ARECACEAE   DAEMONOROPS MARGARITAE                                                        2    3    3
+  5 ARECACEAE   PTYCHOSPERMAANGUSTIFOLIA68014                                                 1    6
+  9 ASCLEPIADACEMARSDENIA   TINCTORIA   68022                                           L     1  2.5
+  5 BIGNONIACEAERADERMACHERASINICA                                                            1   27
+  7 BORAGINACEAEEHRETIA     THYRSIDLORA 68018                                                 3    5   20   24
+  7 BORAGINACEAEGELONIUM    AEQUOREUM   68021                                                 1   10
+  3 CELASTRACEAECELASTRUS   KUSANOI     67895                                           L     1    6
+  8 CELASTRACEAECELASTRUS   KUSANOI     67895                                           L     2  2.5    4
+  9 CELASTRACEAECELASTRUS   KUSANOI     67895                                           L     1    3
+  1 CELASTRACEAECELASTRUS   PANICULATA  67880 68034                                     L     1    3
+  9 CELASTRACEAECELASTRUS   PANICULATA  67880 68034                                     L     1  2.5
+  1 CONVOLVULACEERYCIBE     HENRYI      67881                                           L     1    7
+  2 CONVOLVULACEERYCIBE     HENRYI      67881                                           L     1  2.5
+  4 CUCURBITACEANEOALSOMITRAINTEGRIFOLIA67898                                           L     1  2.5
+  6 CUCURBITACEANEOALSOMITRAINTEGRIFOLIA67898                                           L     1  2.5
+  2 EBENACEAE   DIOSPYROS   DISCOLOR    67885                                                 2    5    3
+  3 EBENACEAE   DIOSPYROS   DISCOLOR    67885                                                 1    6   10   12    3
+  4 EBENACEAE   DIOSPYROS   DISCOLOR    67885                                                 1    5   11
+  5 EBENACEAE   DIOSPYROS   DISCOLOR    67885                                                 1    5
+  8 EBENACEAE   DIOSPYROS   DISCOLOR    67885                                                 1    4
+  9 EBENACEAE   DIOSPYROS   DISCOLOR    67885                                                 2    4   10    3
+ 10 EBENACEAE   DIOSPYROS   DISCOLOR    67885                                                 1    9
+  1 EBENACEAE   DIOSPYROS   ERIANTHA    67867                                                 2    9    5
+  7 EBENACEAE   DIOSPYROS   ERIANTHA    67867                                                 1    5
+  1 EBENACEAE   DIOSPYROS   MARITIMA                                                         15    3    3    7    5    6    7   12   11  2.5    5  2.5   13    6   18    4    7   11    3    6  2.5   20   17   15   13
+  2 EBENACEAE   DIOSPYROS   MARITIMA                                                         19    7    7  2.5    3   14  2.5    5   10    9    5    6    5    4    8   13    8  2.5    7    4    3    9
+  3 EBENACEAE   DIOSPYROS   MARITIMA                                                         25  2.5    7   12  2.5   15  2.5   12    3    4    4   14    8    8   18  2.5  2.5   13  2.5    6    8    6    7    5    5    5   10   23  2.5    6    3
+  4 EBENACEAE   DIOSPYROS   MARITIMA                                                         19    7    3    8    7    8    3    6    6    8   20   12   24   12    9    5    8    7    8   14    4    6
+  5 EBENACEAE   DIOSPYROS   MARITIMA                                                         16    5    6    3  2.5   17    5    7   12    8  2.5   16   14   16   20   18   30    6    5    4   12   13    4  2.5
+  6 EBENACEAE   DIOSPYROS   MARITIMA                                                         15   33    4   19   16   17    9    7    6   12   14    4    3    4    8   13    6    5
+  7 EBENACEAE   DIOSPYROS   MARITIMA                                                         13    9    3    3    5    7    5    8   10  2.5   10    6  2.5    8  2.5  2.5    9   17    5
+  8 EBENACEAE   DIOSPYROS   MARITIMA                                                         16    7  2.5    4    6    6    4    3    8   10    5    7   12   12   14    5    8    6    8
+  9 EBENACEAE   DIOSPYROS   MARITIMA                                                         24    8    5    4  2.5   18    3    9    7  2.5  2.5    5   21    6   20    4    3    8    8    5    8   10    4    5    9    6    6    5
+ 10 EBENACEAE   DIOSPYROS   MARITIMA                                                         14    8    4   11    9    5   10   26  2.5    8    4   21    8   10  2.5    5    7    8  2.5
+  2 EUPHORBIACEAANTIDESMA   PENTANDRUM  67888                                                 3  2.5    3    3    9
+  4 EUPHORBIACEABISCHOFIA                                                                     1   18
+  3 EUPHORBIACEABISCHOFIA   TRIFOLIATA                                                        2   33   19    4    3
+  1 EUPHORBIACEADRYPETES    LITTORALIS  67882                                                 2  2.5  2.5
+  2 EUPHORBIACEADRYPETES    LITTORALIS  67882                                                 2    4  2.5
+  3 EUPHORBIACEADRYPETES    LITTORALIS  67882                                                 1  2.5
+  6 EUPHORBIACEADRYPETES    LITTORALIS  67882                                                 1  2.5
+  8 EUPHORBIACEADRYPETES    LITTORALIS  67882                                                 1    4
+  9 EUPHORBIACEADRYPETES    LITTORALIS  67882                                                 2    3  2.5
+ 10 EUPHORBIACEADRYPETES    LITTORALIS  67882                                                 1  2.5
+  3 EUPHORBIACEAGLOCHIDION  PHILIPPICUM 67892                                                 1   25
+ 10 EUPHORBIACEAGLOCHIDION  PHILIPPICUM 67892                                                 2   17   17
+ 10 EUPHORBIACEALIODENDRON  PHILIPPICUM 68037                                                 1    8
+  2 EUPHORBIACEAMACARANGA   TANARIUS    67890                                                 1  2.5
+  3 EUPHORBIACEAMACARANGA   TANARIUS    67890                                                 7  2.5  2.5    3  2.5  2.5    4    3
+  4 EUPHORBIACEAMACARANGA   TANARIUS    67890                                                 1  2.5
+  6 EUPHORBIACEAMACARANGA   TANARIUS    67890                                                 4    3  2.5  2.5  2.5
+  7 EUPHORBIACEAMACARANGA   TANARIUS    67890                                                 3  2.5  2.5  2.5
+  9 EUPHORBIACEAMACARANGA   TANARIUS    67890                                                 2    3   14
+  1 EUPHORBIACEAMALLOTUS    PHILIPPINENS67868                                                 1   12
+  7 EUPHORBIACEAMALLOTUS    PHILIPPINENS67868                                                 1   12
+  7 EUPHORBIACEAMALLOTUS    REPANDUS    68023                                           L     1  2.5
+  8 EUPHORBIACEAMALLOTUS    REPANDUS    68023                                           L     1  2.5
+  4 EUPHORBIACEAMELANOLEPIS MULTIGLANDUL67899                                                 1   13
+  8 EUPHORBIACEAMELANOLEPIS MULTIGLANDUL67899                                                 1   12
+  9 EUPHORBIACEAMELANOLEPIS MULTIGLANDUL67899                                                 1   10
+ 10 EUPHORBIACEAMELANOLEPIS MULTIGLANDUL67899                                                 2   18   10   15
+  6 EUPHORBIACEAMELANOLEPSISMULTIGLANDUL67899                                                 1   25
+  7 EUPHORBIACEAMELANOLEPSISMULTIGLANDUL67899                                                 2   13   13
+  1 FABACEAE    CAESALPINIA CRISTA      67878                                           L     3    3    3  2.5    5
+  3 FABACEAE    CAESALPINIA CRISTA      67878                                           L     3    4    5    3
+  7 FABACEAE    CAESALPINIA CRISTA      67878                                           L     1  2.5
+  8 FABACEAE    CAESALPINIA CRISTA      67878                                           L     2    6  2.5
+  9 FABACEAE    CAESALPINIA CRISTA      67878                                           L     4    3  2.5    4    3
+  2 FABACEAE    DERRIS      LAXIFLORA                                                   L     1   10
+  1 FABACEAE    MILLETTIA   RETICULATA  67873 68032                                     L     1    3
+  3 FABACEAE    MILLETTIA   RETICULATA  67873 68032                                     L     1   10
+  5 FABACEAE    MILLETTIA   RETICULATA  67873 68032                                     L     1   11
+  9 FABACEAE    MILLETTIA   RETICULATA  67873 68032                                     L     1    8
+  1 FABACEAE    PUERARIA    MONTANA     67870                                           L     2    5  2.5
+  2 FABACEAE    PUERARIA    MONTANA     67870                                           L     4  2.5    5  2.5  2.5
+  3 FABACEAE    PUERARIA    MONTANA     67870                                           L     1  2.5
+  4 FABACEAE    PUERARIA    MONTANA     67870                                           L     1  2.5
+  5 FABACEAE    PUERARIA    MONTANA     67870                                           L     2  2.5  2.5
+  6 FABACEAE    PUERARIA    MONTANA     67870                                           L     3  2.5  2.5    3
+  7 FABACEAE    PUERARIA    MONTANA     67870                                           L     2  2.5    4
+  9 FABACEAE    PUERARIA    MONTANA     67870                                           L     1  2.5
+  5 FLACOURTIACECASEARIA    MEMBRANACEA 68012                                                 1   17
+  8 LAURACEAE   BEILSCHMIEDIERYTHROPHLOE68027                                                 1    3
+ 10 LAURACEAE   BEILSCHMIEDIM1          68036                                                 1    8
+  5 LAURACEAE   CRYPTOCARYA CONCINNA    68011                                                 1    3
+  6 LAURACEAE   CRYPTOCARYA CONCINNA    68011                                                 1    8
+  8 LAURACEAE   LITSEA      KRUKOVII    68024                                                 1    7
+  2 LAURACEAE   PERSEA      JAPONICA    67884                                                 1   41
+  4 LEEACEAE    LEEA        GUINEENSIS  67896                                                 1  2.5
+  6 LEEACEAE    LEEA        GUINEENSIS  67896                                                 1  2.5
+  9 LEEACEAE    LEEA        GUINEENSIS  67896                                                 1    6
+ 10 LEEACEAE    LEEA        GUINEENSIS  67896                                                 1   10
+  6 LILIACEAE   DRACAENA    ANGUSTIFOLIA68015                                                 1  2.5
+  1 MALPIGHIACEAHIPTAGE     BENGALENSIS 67876                                           L     2    4    6
+  3 MALPIGHIACEAHIPTAGE     BENGALENSIS 67876                                           L     1    4
+  5 MALPIGHIACEAHIPTAGE     BENGALENSIS 67876                                           L     3   11  2.5  2.5
+  7 MALPIGHIACEAHIPTAGE     BENGALENSIS 67876                                           L     2  2.5  2.5
+  8 MALPIGHIACEAHIPTAGE     BENGALENSIS 67876                                           L     2    8  2.5
+  9 MORACEAE    FICUS       AMPELAS     68031                                                 1   14   15
+  2 MORACEAE    FICUS       BENJAMINA   67886                                           H     2    4  2.5    5   22  2.5  2.5    6   13    6   14    3   34    4    4    6    7  2.5    3    6   13
+ 10 MORACEAE    FICUS       BENJAMINA   67886                                           H     1    8    3    3
+  8 MORACEAE    FICUS       CAULOCARPA  68029                                           H     2    6  2.5
+  9 MORACEAE    FICUS       MICROCARPA  68035                                           H     1    8   19
+  4 MORACEAE    FICUS       SETICA      67900                                                 1   29
+  1 MORACEAE    MACLAISIA   SCANDENS    67877                                           L     1  2.5
+  3 MORACEAE    MACLAISIA   SCANDENS    67877                                           L     1    3
+  9 MORACEAE    MACLAISIA   SCANDENS    67877                                           L     1  2.5
+  7 MYRTACEAE   SYZGIUM     FORMOSANUM  68019                                                 1   18
+  1 NYCTAGINACEAPISONIA     ACULEATA    67883                                           L     1    3
+  2 NYCTAGINACEAPISONIA     ACULEATA    67883                                           L     1    5
+  7 OLEACEAE    FRAXINUS    FORMOSANA   68017                                                 1   11
+  7 PASSIFLORACEPASSIFLORA  SUBEROSA                                                    L     1  2.5
+  3 RHAMNACEAE  VENTILAGO   ELEGANS     67893                                           L     1    3
+  9 RHAMNACEAE  VENTILAGO   ELEGANS     67893                                           L     2    3    3
+  8 ROSACEAE    ERIOBOTRYA  DEFLEXA     68028                                                 1    8
+  1 RUBIACEAE   MUSSAENDA   PUBESCENS   67874                                                 1    3
+  5 RUBIACEAE   PSYCHOTRIA  RUBRA       68013                                                 1    4
+  7 RUTACEAE    MURRAYA     PANICULATA  68020                                                 1    5    5
+  3 SANTALACEAE CHAMPEREIA  MANILLANA   67891                                                 1    3
+  4 SANTALACEAE CHAMPEREIA  MANILLANA   67891                                                 3   13   11   13
+  5 SANTALACEAE CHAMPEREIA  MANILLANA   67891                                                 2   15    8
+  9 SANTALACEAE CHAMPEREIA  MANILLANA   67891                                                 2    3    7
+ 10 SANTALACEAE CHAMPEREIA  MANILLANA   67891                                                 1    6
+  4 SAPINDACEAE KOELREUTERIAHENRYI      67897                                                 1  2.5   34    7
+  5 SAPINDACEAE KOELREUTERIAHENRYI      67897                                                 1   12
+  8 SAPINDACEAE KOELREUTERIAHENRYI      67897                                                 3   24    8    7
+  5 SAPINDACEAE SAPINDUS    MUKOROSSII  68010                                                 2   25   26
+  6 SAPINDACEAE SAPINDUS    MUKOROSSII  68010                                                 1   37
+  9 SAPINDACEAE SAPINDUS    MUKOROSSII  68010                                                 1   14
+ 10 SAPINDACEAE SAPINDUS    MUKOROSSII  68010                                                 1    7
+  1 SAPOTACEAE  PALAQUIUM   FORMOSANUM  67879                                                 2   30   33  
+  2 SAPOTACEAE  PALAQUIUM   FORMOSANUM  67879                                                 3   19    8   30   23
+  3 SAPOTACEAE  PALAQUIUM   FORMOSANUM  67879                                                 1   32
+  4 SAPOTACEAE  PALAQUIUM   FORMOSANUM  67879                                                 4   38   33   17   25
+  6 SAPOTACEAE  PALAQUIUM   FORMOSANUM  67879                                                 1   20
+  8 SAPOTACEAE  PALAQUIUM   FORMOSANUM  67879                                                10   14   15   30   16   18  2.5   21   15    7    6    7
+  9 SAPOTACEAE  PALAQUIUM   FORMOSANUM  67879                                                 2   33  2.5
+ 10 SAPOTACEAE  PALAQUIUM   FORMOSANUM  67879                                                 1   30
+  2 SAPOTACEAE  POUTERIA    OBOVATA     67889                                                 1   14
+  9 SAPOTACEAE  POUTERIA    OBOVATA     67889                                                 1   18
+  8 VERBENACEAE PREMNA      OBTUSIFOLIA 68025                                                 1    8
+  9 VITACEAE    AMPELOPSIS  BREVIPEDUNCU68033                                           L     1    3
+  9 VITACEAE    CISSUS      REPENS      68030                                           L     1  2.5
+  6 VITACEAE    TETRASTIGMA FORMOSANUM  68016                                           L     1  2.5

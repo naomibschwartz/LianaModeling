@@ -1,0 +1,112 @@
+LineFamily      Genus      species    voucher1vouchevouchevouchevouchevouchevouchevoucheLIAN(INDSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMS
+  7 ACTINIDIACEASaurauia   M1         M2777                                                   1    3
+  9 ACTINIDIACEASaurauia   M1         M2777                                                   2    7  7.5
+  7 ARALIACEAE  Oreopanax  M1         M2779                                                   1  2.5
+  2 ASTERACEAE  M1         M1         M2762                                                   3    3    5    3    3
+  3 ASTERACEAE  M1         M1         M2762                                                   3  5.5   10  2.5  4.5
+  5 ASTERACEAE  M1         M1         M2762                                                   3    6    4    7
+  4 ASTERACEAE  M2         M1         M2767                                                   1  5.5
+  1 BETULACEAE  Carpinus   M1         M2758                                                   2  5.5  8.5   10  5.5
+  2 BETULACEAE  Carpinus   M1         M2758                                                  11  5.5  4.5    5  5.5    3    3    4    4    6    6    8
+  3 BETULACEAE  Carpinus   M1         M2758                                                   2   14  2.5
+  7 BETULACEAE  Carpinus   M1         M2758                                                   1   15
+  8 BETULACEAE  Carpinus   M1         M2758                                                   2   23   25   29  2.5    5
+ 10 BETULACEAE  Carpinus   M1         M2758                                                   1   25   23
+  1 CAPRIFOLIACEViburnum   M1         M2756                                                   5  4.5  3.5  2.5    3  2.5  2.5
+  2 CAPRIFOLIACEViburnum   M1         M2756                                                   3  2.5    3    4  4.5
+  5 CAPRIFOLIACEViburnum   M1         M2756                                                   1  3.5
+  9 CLUSIACEAE  Clusia     M1         M2781                                                   2   16  5.5
+ 10 CLUSIACEAE  Clusia     M1         M2781                                                   1   14
+  1 FAGACEAE    Quercus    M1         M2753                                                   1   52
+  3 FAGACEAE    Quercus    M1         M2764                                                   1  8.5
+  3 FAGACEAE    Quercus    M1         M2753                                                   1   11   35
+  4 FAGACEAE    Quercus    M1         M2753                                                   1   72
+  7 FAGACEAE    Quercus    M1         M2764                                                   1   39   30
+  7 FAGACEAE    Quercus    M1         M2753                                                   2   27   20
+  9 FAGACEAE    Quercus    M1         M2753                                                   1   44
+ 10 FAGACEAE    Quercus    M1         M2753                                                   1  5.5
+  5 FAGACEAE    Quercus    M2         M2769                                                   1   45
+  6 FAGACEAE    Quercus    M2         M2769                                                   5    4  3.5  2.5  2.5
+  8 FAGACEAE    Quercus    M3         M2780                                                   1   13
+  1 HYDRANGEACEAPhyllonoma laticuspis M2759                                                   1  4.5
+  8 INDET       M1         M1         -                                                       1  3.5
+  6 LOGANIACEAE Buddleia   skutdaii   M2775                                                   1    3  5.5
+  1 MELASTOMATACMiconia    M1         M2754                                                   2  2.5  2.5
+  2 MELASTOMATACMiconia    M1         M2754                                                   3    4  2.5  2.5
+  3 MELASTOMATACMiconia    M1         M2754                                                   3  2.5  2.5    3
+  5 MELASTOMATACMiconia    M1         M2754                                                   2  2.5  2.5
+  6 MELASTOMATACMiconia    M1         M2754                                                   1    3
+  9 MELASTOMATACMiconia    M1         M2754                                                   1    3
+  6 MELIACEAE   Cedrek     tonduzii   M2784                                                   1  2.5
+  3 MYRICACEAE  Myrica     cerifera   M2765                                                   1    4
+  5 MYRICACEAE  Myrica     cerifera   M2765                                                   5  2.5  6.5    5    3    3
+  6 MYRICACEAE  Myrica     cerifera   M2765                                                   2  6.5  3.5
+ 10 MYRICACEAE  Myrica     cerifera   M2765                                                   1   16
+  1 MYRICACEAE  Myrica     M1         M2751                                                  12   15  2.5  2.5  2.5    4    5    4    4    3  4.5  2.5    4  2.5
+  2 MYRICACEAE  Myrica     M1         M2751                                                   1    7
+  3 MYRICACEAE  Myrica     M1         M2751                                                   5   14   21  5.5    4    6
+  4 MYRICACEAE  Myrica     M1         M2751                                                   5    9   15    3   13    4   15   10   13  4.5
+  5 MYRICACEAE  Myrica     M1         M2751                                                   7  8.5    6   15  5.5    8    7    9
+  6 MYRICACEAE  Myrica     M1         M2751                                                  10  6.5  5.5  3.5  4.5  4.5  2.5  7.5  2.5  5.5    5
+  5 MYRSINACEAE M1         M1         M2770                                                   1    4
+  6 MYRSINACEAE M1         M1         M2770                                                   1  2.5
+  7 MYRSINACEAE M2         M1         M2778                                                   1  3.5
+ 10 MYRSINACEAE M2         M1         M2778                                                   1    8
+  1 MYRTACEAE   Myrcia     M1         M2752                                                  13   15  2.5  2.5  2.5    4    5    4    4    3  4.5  2.5    4  2.5
+  2 MYRTACEAE   Myrcia     M1         M2752                                                   1    7
+  3 MYRTACEAE   Myrcia     M1         M2752                                                   5   14   21  5.5    4    6
+  4 MYRTACEAE   Myrcia     M1         M2752                                                   5    9  7.5    3   13  4.5   10   11   12   13
+  5 MYRTACEAE   Myrcia     M1         M2752                                                   7  8.5    6   15  5.5    7    8    9
+  6 MYRTACEAE   Myrcia     M1         M2752                                                  10  6.5  5.5  3.5  4.5  2.5  2.5  4.5    5  5.5    7
+  5 ONAGRACEAE  Fuchsia    encycliandrM2772                                                   1    3
+  8 ONAGRACEAE  Fuchsia    encycliandrM2772                                                   1    4
+  5 ONAGRACEAE  Fuchsia    M1         M2772                                                   1    3
+  8 ONAGRACEAE  Fuchsia    M1         M2772                                                   1    4
+  1 PINACEAE    Pinus      M1         M2761                                                   1   70
+  2 PINACEAE    Pinus      M1         M2761                                                   1   44
+  3 PINACEAE    Pinus      M1         M2761                                                   1   92
+  5 PINACEAE    Pinus      M1         M2761                                                   1   13
+ 10 PINACEAE    Pinus      M1         M2761                                                   1   74
+  1 RHAMNACEAE  Rhamnus    M1         M2757                                                   1  2.5
+  6 RHAMNACEAE  Rhamnus    M1         M2757                                                   1    5
+  7 RHIZOPHORACECassipoureaelliptica  M2276                                                   5    4  2.5  6.5    7    4  5.5
+  9 RHIZOPHORACECassipoureaelliptica  M2276                                                   2   18  5.5
+  6 RUBIACEAE   Alibertia  edulis     M2774                                                   1  3.5
+  1 RUBIACEAE   Rondeletia M1         M2755                                                   2  7.5    8
+  2 RUBIACEAE   Rondeletia M1         M2755                                                   3    3    3    3
+  3 RUBIACEAE   Rondeletia M1         M2755                                                   8  2.5  2.5    3    4    3    3    4    4    4
+  4 RUBIACEAE   Rondeletia M1         M2755                                                   5    4  4.5    3    4    5  5.5
+  7 RUBIACEAE   Rondeletia M1         M2755                                                   5  2.5  2.5    3    5  2.5
+  8 RUBIACEAE   Rondeletia M1         M2755                                                   1  6.5    8  5.5
+  9 RUBIACEAE   Rondeletia M1         M2755                                                   2  2.5  3.5  6.5  7.5
+ 10 RUBIACEAE   Rondeletia M1         M2755                                                   4  7.5    5   17    7  6.5   22
+  1 STYRACACEAE Styrax     M1         M2752                                                   4    3    4   11  3.5
+  2 STYRACACEAE Styrax     M1         M2752                                                   7    4    7  4.5  5.5  2.5    3    4
+  3 STYRACACEAE Styrax     M1         M2752                                                   1    7
+  4 STYRACACEAE Styrax     M1         M2752                                                   3  2.5    5    5  2.5
+  5 STYRACACEAE Styrax     M1         M2752                                                   3    5  2.5  4.5
+  6 STYRACACEAE Styrax     M1         M2752                                                   1    4
+  7 STYRACACEAE Styrax     M1         M2752                                                   2   43   49
+  8 STYRACACEAE Styrax     M1         M2752                                                   2  3.5    8
+  9 STYRACACEAE Styrax     M1         M2752                                                   2    4    4
+ 10 STYRACACEAE Styrax     M1         M2752                                                   1  4.5
+  1 SYMPLOCACEAESymplocos  hartwegii  M2760                                                   1  3.5
+  2 SYMPLOCACEAESymplocos  hartwegii  M2760                                                   6  6.5  4.5    4   17    3    3    3    3    9
+  4 SYMPLOCACEAESymplocos  hartwegii  M2760                                                   1  5.5
+  5 SYMPLOCACEAESymplocos  hartwegii  M2760                                                   2    6    5   11    7    4    5    8   10   12   19   20
+  6 SYMPLOCACEAESymplocos  hartwegii  M2760                                                   4    4   12  7.5    9    5  5.5   11
+  5 VERBENACEAE M          M1         M2768                                                   1    4
+
+
+
+
+
+
+
+
+
+
+
+
+
+

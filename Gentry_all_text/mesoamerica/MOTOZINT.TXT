@@ -1,0 +1,46 @@
+LineFAMILY      GENUS      SPECIES           vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+  3 AGAVACEAE   AGAVE      M1                 2736                                                 1   26
+  2 ASTERACEAE  M2         M1                 2733                                                 1  2.5
+  4 ASTERACEAE  M2         M1                 2733                                                 1  2.5  2.5  2.5  2.5
+  1 BURSERACEAE BURSERA    BIPINNATA          2728                                                 2   16    8
+  2 BURSERACEAE BURSERA    BIPINNATA          2728                                                 1    8
+ 10 BURSERACEAE BURSERA    BIPINNATA          2728                                                 2   16   26
+  2 CACTACEAE   OPUNTIA    M1                 2730                                                 4   25  3.5  4.5    5
+ 10 CACTACEAE   OPUNTIA    M1                 2730                                                 1    4    3    3
+  8 ERICACEAE   ARBUTUS    XALAPENSIS         2741                                                 1  8.5
+  9 ERICACEAE   ARBUTUS    XALAPENSIS         2741                                                 2  4.5  3.5
+ 10 FABACEAE    ACACIA     M1                 2742                                                 2   15  8.5
+  2 FABACEAE    DESMODIUM  M1                 2731                                                 1  2.5
+  1 FABACEAE    DIPHYSA    FLORIBUNDA         2729  2739                                           2   25  3.5
+  6 FABACEAE    DIPHYSA    FLORIBUNDA         2729  2739                                           1  2.5  2.5  2.5
+  2 FABACEAE    ERYTHRINA  M1                 2734                                                 1   48
+  5 FAGACEAE    QUERCUS    AFF. BENTHAMII A.  2737                                                 7    4    4    5    4   12  8.5  5.5  5.5  5.5  3.5
+  6 FAGACEAE    QUERCUS    AFF. BENTHAMII A.  2737                                                 1   26
+  7 FAGACEAE    QUERCUS    AFF. BENTHAMII A.  2737                                                 1   46
+  6 FAGACEAE    QUERCUS    SAPOTIFOLIA LIEBM. 2740                                                 3  3.5  2.5    4
+  1 FAGACEAE    QUERCUS    SEGOVIENSIS LIEBM. 2726                                                 5   32   28   28   34   41
+  2 FAGACEAE    QUERCUS    SEGOVIENSIS LIEBM. 2726                                                 3   40    3   32
+  3 FAGACEAE    QUERCUS    SEGOVIENSIS LIEBM. 2726                                                 2   32   26
+  4 FAGACEAE    QUERCUS    SEGOVIENSIS LIEBM. 2726                                                 6   34   32   26   21   28   38
+  5 FAGACEAE    QUERCUS    SEGOVIENSIS LIEBM. 2726                                                 2    3   16
+  6 FAGACEAE    QUERCUS    SEGOVIENSIS LIEBM. 2726                                                 4   11    7  3.5  2.5  2.5
+  7 FAGACEAE    QUERCUS    SEGOVIENSIS LIEBM. 2726                                                 3   21   25  9.5
+  8 FAGACEAE    QUERCUS    SEGOVIENSIS LIEBM. 2726                                                 1   26
+  9 FAGACEAE    QUERCUS    SEGOVIENSIS LIEBM. 2726                                                 5   16    3  2.5   27   35
+ 10 FAGACEAE    QUERCUS    SEGOVIENSIS LIEBM. 2726                                                 2   28   12
+  5 FAGACEAE    QUERCUS    SKINNERI BENTH.    2738                                                 1   11
+  6 FAGACEAE    QUERCUS    SKINNERI BENTH.    2738                                                 1    4
+  7 FAGACEAE    QUERCUS    SKINNERI BENTH.    2738                                                 4   37    6  2.5   32
+  8 FAGACEAE    QUERCUS    SKINNERI BENTH.    2738                                                 2   26    8
+  9 FAGACEAE    QUERCUS    SKINNERI BENTH.    2738                                                 3  7.5   23  2.5
+  3 PINACEAE    PINUS      PSEUDOSTROBUS      2735                                                 4   24   43   32   31
+  4 PINACEAE    PINUS      PSEUDOSTROBUS      2735                                                 3   36   38  2.5
+  5 PINACEAE    PINUS      PSEUDOSTROBUS      2735                                                 6  6.5  8.5    9   15   67   64
+  6 PINACEAE    PINUS      PSEUDOSTROBUS      2735                                                 2   49   27
+  7 PINACEAE    PINUS      PSEUDOSTROBUS      2735                                                 5   14   37   50   28   13
+  8 PINACEAE    PINUS      PSEUDOSTROBUS      2735                                                 1   34
+  9 PINACEAE    PINUS      PSEUDOSTROBUS      2735                                                 1   33
+  2 VERBENACEAE LIPPIA     AFF CARDIOSTEGIA   2732                                                 1  2.5
+  9 VERBENACEAE LIPPIA     AFF CARDIOSTEGIA   2732                                                 1    4
+ 10 VERBENACEAE LIPPIA     AFF CARDIOSTEGIA   2732                                                 3  2.5  2.5  2.5
+  1 VERBENACEAE LIPPIA     CONTRAVERSA        2727                                                 1  2.5

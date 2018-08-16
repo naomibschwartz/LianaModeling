@@ -1,0 +1,256 @@
+LinFamily      Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 5 ACHATOCARPACAchatocarpugracilia                                                         1    3
+ 7 ACHATOCARPACAchatocarpugracilia                                                         2    7    4    6    4    3    5
+ 9 ACHATOCARPACAchatocarpugracilia                                                         1    4    4
+10 ACHATOCARPACAchatocarpugracilia                                                         1    5    7
+ 4 AMARANTHACEALagrezia   monosperma                                                       1    5    3 3
+ 9 ANACARDIACEASpondias   purpurea                                                         1    4
+ 4 APOCYNACEAE Stemmadenia"grandiflora"                                                    1    3
+ 2 ASTERACEAE  LasianthaeaM1                                                         L     2    3    3
+ 6 ASTERACEAE  LasianthaeaM1                                                         L     3  2.5    3    3    5    3
+10 ASTERACEAE  LasianthaeaM1                                                         L     1    3
+ 1 ASTERACEAE  Liabum     caducifolium                                               L     1    3
+ 2 ASTERACEAE  Liabum     caducifolium                                               L     1    3    3 3    4    3
+ 5 ASTERACEAE  Liabum     caducifolium                                               L     1    5    4 4    6
+ 7 ASTERACEAE  Liabum     caducifolium                                               L     1    4    3 3
+ 9 BIGNONIACEAETabebuia   chrysantha                                                       1    6
+ 1 BOMBACACEAE Ceiba      aesculifolia                                                     1    8
+ 1 BORAGINACEAEBourreria  M1                                                               3    8    3 5
+ 2 BORAGINACEAEBourreria  M1                                                               2    3    6
+ 3 BORAGINACEAEBourreria  M1                                                               3    3  2.5 12
+ 4 BORAGINACEAEBourreria  M1                                                               3    9   12 4
+ 5 BORAGINACEAEBourreria  M1                                                               6  2.5   12 3    5    9    4    2.5
+ 9 BORAGINACEAEBourreria  M1                                                               1   16
+ 2 BORAGINACEAECordia     alliodora                                                        1    8
+ 3 BORAGINACEAECordia     alliodora                                                        2  2.5    6
+ 4 BORAGINACEAECordia     alliodora                                                        1    3    2 7
+ 5 BORAGINACEAECordia     alliodora                                                        3    9    9 7    9
+ 6 BORAGINACEAECordia     alliodora                                                        1   12
+ 7 BORAGINACEAECordia     alliodora                                                        4    5    9 3    7
+ 9 BORAGINACEAECordia     alliodora                                                        1    9
+10 BORAGINACEAECordia     alliodora                                                        1    8
+ 3 BURSERACEAE Bursera    excelsa                                                          1   20    5
+ 3 BURSERACEAE Bursera    instabilis                                                       1    3
+ 3 BURSERACEAE Bursera    simarouba                                                        1   12
+ 5 BURSERACEAE Bursera    simarouba                                                        1   12
+ 9 BURSERACEAE Bursera    simarouba                                                        1    6
+ 8 CACTACEAE   Opuntia    excelsa                                                          2   11    6
+ 1 CACTACEAE   Pachycereuspecten-aboriginum                                                1    8
+ 3 CACTACEAE   Peniocereuscuixmalensis                                                     1    3
+ 6 CAPPARIDACEACapparis   indica                                                           1    7
+ 3 CAPPARIDACEAForchhammerpallida                                                          1    4
+ 5 CAPPARIDACEAForchhammerpallida                                                          1    3
+ 9 CAPPARIDACEAForchhammerpallida                                                          1  2.5
+ 2 CELASTRACEAESchaefferialottiae                                                          1    3
+ 4 CONVOLVULACEIpomea     wolcottiana                                                      1    6
+10 CONVOLVULACEIpomea     wolcottiana                                                      1   12
+10 CONVOLVULACEJacquemontiM                                                          L     1    6
+ 2 ERYTHROXYLACErythroxulumexicanum                                                        2    3    5 3    4    8    4
+ 3 ERYTHROXYLACErythroxulumexicanum                                                        1    5
+ 4 ERYTHROXYLACErythroxulumexicanum                                                        2    4    3 4    2.5  6    6
+ 8 ERYTHROXYLACErythroxulumexicanum                                                        2    3    5 2.5
+ 4 EUPHORBIACEACroton     alamosanus                                                       1    4
+ 1 EUPHORBIACEACroton     fragilis                                                         2    3    3
+ 3 EUPHORBIACEACroton     fragilis                                                         4    3  2.5 2.5  3    2.5
+ 4 EUPHORBIACEACroton     fragilis                                                         2    3  2.5
+ 5 EUPHORBIACEACroton     fragilis                                                         1  2.5
+ 6 EUPHORBIACEACroton     fragilis                                                         2    3  2.5
+ 7 EUPHORBIACEACroton     fragilis                                                         2  2.5  2.5
+ 8 EUPHORBIACEACroton     fragilis                                                         3    4    3 3
+ 9 EUPHORBIACEACroton     fragilis                                                         1    4
+10 EUPHORBIACEACroton     fragilis                                                         4    3    3 3    2.5  3    2.5
+ 1 EUPHORBIACEACroton     pseudoniveus                                                     2    6    4 3    3    5
+ 2 EUPHORBIACEACroton     pseudoniveus                                                     2  2.5    3
+ 5 EUPHORBIACEACroton     pseudoniveus                                                     3    5  2.5 4    2.5
+ 6 EUPHORBIACEACroton     pseudoniveus                                                    12  2.5  2.5 3    4    4    3    5    3    3    3    5    5    3
+ 7 EUPHORBIACEACroton     pseudoniveus                                                     4    5  2.5 5    4    5
+ 8 EUPHORBIACEACroton     pseudoniveus                                                     8    6    4 3    6    6    3    4    5    3    3    4    3    3    3    2.5
+ 9 EUPHORBIACEACroton     pseudoniveus                                                     2    5    4 3
+10 EUPHORBIACEACroton     pseudoniveus                                                     3    3    3 2.5  2.5  3
+ 5 EUPHORBIACEAEuphorbia  colletioides                                               L     2    3  2.5
+ 6 EUPHORBIACEAEuphorbia  colletioides                                               L     1  2.5
+10 EUPHORBIACEAEuphorbia  colletioides                                               L     1    4
+ 2 EUPHORBIACEAJatropha   platanifolia                                                     2    7    5 11   6
+ 1 EUPHORBIACEAJatropha   standleyi                                                        2   16   10   16   12
+ 4 EUPHORBIACEAJatropha   standleyi                                                        1   14
+ 5 EUPHORBIACEAJatropha   standleyi                                                        1   16
+10 EUPHORBIACEAJatropha   standleyi                                                        2   15   12
+ 1 EUPHORBIACEAPhyllanthusM1                                                               1    3
+ 2 EUPHORBIACEAPhyllanthusM1                                                               1  2.5
+ 3 EUPHORBIACEAPhyllanthusM1                                                               3    3  2.5 2.5
+ 4 EUPHORBIACEAPhyllanthusM1                                                               1    5
+ 6 EUPHORBIACEAPhyllanthusM1                                                               1    4
+ 8 EUPHORBIACEAPhyllanthusM1                                                               1    5
+10 EUPHORBIACEAPhyllanthusM1                                                               2    4    4
+ 2 EUPHORBIACEASapium     pedicellatum                                                     1   13
+10 FABACEAE    Adenopodia polystachya                                                L     2    6    9
+ 5 FABACEAE    Aeschynomenamorphoides                                                      1    4
+ 9 FABACEAE    Aeschynomenamorphoides                                                      1    3
+ 2 FABACEAE    Apoplanesiapaniculata                                                       2    5    5 13   10
+ 3 FABACEAE    Apoplanesiapaniculata                                                       2    3    6
+ 4 FABACEAE    Apoplanesiapaniculata                                                       3    4    8 5    4    4    6    10
+ 6 FABACEAE    Apoplanesiapaniculata                                                       3    4    4 9    9    3
+ 8 FABACEAE    Apoplanesiapaniculata                                                       4    7    7 2.5  2.5  4
+ 4 FABACEAE    Caesalpiniacaladenis                                                        1    4    4
+ 5 FABACEAE    Caesalpiniacoriara                                                          1   18  2.5
+ 2 FABACEAE    Caesalpiniaeriostachys                                                      3   15   12 20   4    4    7
+ 3 FABACEAE    Caesalpiniaeriostachys                                                      2   28    4
+ 4 FABACEAE    Caesalpiniaeriostachys                                                      1    5
+ 5 FABACEAE    Caesalpiniaeriostachys                                                      3   11    4 5    16   4    7    7    30
+ 6 FABACEAE    Caesalpiniaeriostachys                                                      2    9   14 15   12   13
+ 7 FABACEAE    Caesalpiniaeriostachys                                                      3    8   20 25   3    4
+ 9 FABACEAE    Caesalpiniaeriostachys                                                      1   22  2.5
+10 FABACEAE    Caesalpiniaeriostachys                                                      3    6   10 20   13   9    4    8    9    11
+ 8 FABACEAE    Caesalpiniaplatyloba                                                        2    6    4
+ 1 FABACEAE    Caesalpiniapulcherrima                                                      2    4    3
+ 2 FABACEAE    Caesalpiniapulcherrima                                                      8    4    4 6    6    3    4    3    3    4    4    4    4    3
+ 6 FABACEAE    Caesalpiniapulcherrima                                                      2    4    5 3
+ 8 FABACEAE    Caesalpiniapulcherrima                                                      3    5    8 5    6    3    4
+10 FABACEAE    Caesalpiniapulcherrima                                                      1    6    3
+ 4 FABACEAE    Caesalpiniasclerocarpa                                                      1   21
+ 7 FABACEAE    Caesalpiniasclerocarpa                                                      1   22
+ 8 FABACEAE    Caesalpiniasclerocarpa                                                      1   12
+ 3 FABACEAE    Calliandra gracilis                                                         1    3  2.5
+ 6 FABACEAE    Calliandra gracilis                                                         1    3
+ 5 FABACEAE    Diphysa    M1                                                               1    3
+ 2 FABACEAE    Erythrina  lanata                                                           1    4
+ 8 FABACEAE    Erythrina  lanata                                                           1    7    7
+ 1 FABACEAE    Leucaena   lanceolata                                                       1    6
+ 9 FABACEAE    Leucaena   lanceolata                                                       1    4
+10 FABACEAE    Leucaena   lanceolata                                                       2  2.5    3
+10 FABACEAE    Lonchocarpucochleatus                                                       1    3
+ 2 FABACEAE    Lonchocarpuconstrictus                                                      1    5
+ 4 FABACEAE    Lonchocarpuconstrictus                                                      1    7    8
+ 6 FABACEAE    Lonchocarpuconstrictus                                                      3    5    4 8
+ 9 FABACEAE    Lonchocarpuconstrictus                                                      1    8
+ 2 FABACEAE    Lonchocarpueriocarinalis                                                    3    3    5 4    3
+ 3 FABACEAE    Lonchocarpueriocarinalis                                                    3  2.5    4 7
+ 4 FABACEAE    Lonchocarpueriocarinalis                                                    2    5    9 9
+ 9 FABACEAE    Lonchocarpueriocarinalis                                                    3    8    9 11
+10 FABACEAE    Lonchocarpueriocarinalis                                                    3    6    3 13
+ 1 FABACEAE    Lonchocarpuparviflorus                                                      5    4    3 3    3    8    3
+ 2 FABACEAE    Lonchocarpuparviflorus                                                      3    3  2.5 3    2.5
+ 3 FABACEAE    Lonchocarpuparviflorus                                                     10  2.5  2.5 2.5  3    2.5  3    5    3    3    4    4
+ 4 FABACEAE    Lonchocarpuparviflorus                                                      4    6    2 2.5  4    5    4
+ 5 FABACEAE    Lonchocarpuparviflorus                                                     18    4    4 4    5    5    7    3    4    3    5    4    3    6    4    5    8
+ 6 FABACEAE    Lonchocarpuparviflorus                                                     10    3    5 4    4    5    3    6    8    5    6    7    7    3    5    4
+ 7 FABACEAE    Lonchocarpuparviflorus                                                      6    4    6 3    6    8    6    2.5  4
+ 8 FABACEAE    Lonchocarpuparviflorus                                                     10   10    5 3    8    4    5    4    5    4    3    7
+ 9 FABACEAE    Lonchocarpuparviflorus                                                      1    3
+10 FABACEAE    Lonchocarpuparviflorus                                                      6    8    5 4    4    5    3    3    3
+ 1 FABACEAE    Lysiloma   divaricata                                                       1    6    3 9
+10 FABACEAE    Lysiloma   microphylla                                                      1    3
+ 6 FABACEAE    Pithecellobmangense                                                         2    3  2.5
+ 1 FABACEAE    Pityrocarpaconstricta                                                       2    3    4
+ 2 FABACEAE    Pityrocarpaconstricta                                                       1    9
+10 FABACEAE    Pityrocarpaconstricta                                                       4    4    3 4    4
+ 1 FLACOURTIACECasearia   corymbosa                                                        1    3
+ 3 FLACOURTIACECasearia   corymbosa                                                        2    4    5
+ 5 FLACOURTIACECasearia   corymbosa                                                        2    4  2.5
+ 6 FLACOURTIACECasearia   corymbosa                                                        1  2.5
+ 9 FLACOURTIACECasearia   corymbosa                                                        1    4
+ 6 FLACOURTIACECasearia   tremula                                                          1    3
+ 7 FLACOURTIACECasearia   tremula                                                          1    7
+ 3 FLACOURTIACEProckia    crucis                                                           1    3
+ 5 FLACOURTIACEProckia    crucis                                                           2    3  2.5
+ 9 FLACOURTIACEProckia    crucis                                                           6    3  2.5 4    5    3    3    3    3
+ 5 HERNANDIACEAGyrocarpus americanus                                                       1    3
+ 5 MALPIGHIACEABunchosia  palmeri                                                          1  2.5
+ 1 MALPIGHIACEAHeteropteripalmeri                                                    L     2  2.5  2.5
+ 3 MALPIGHIACEAHeteropteripalmeri                                                    L     3  2.5  2.5 3
+ 4 MALPIGHIACEAHeteropteripalmeri                                                    L     1  2.5
+ 5 MALPIGHIACEAHeteropteripalmeri                                                    L     2    5    3
+ 8 MALPIGHIACEAHeteropteripalmeri                                                    L     2    4    3
+ 9 MALPIGHIACEAHeteropteripalmeri                                                    L     2    3    4
+10 MALPIGHIACEAHeteropteripalmeri                                                    L     2    7  2.5 3
+ 1 MALPIGHIACEAMalpighia  M1                                                               1    3    3
+ 2 MELIACEAE   Trichilia  trifolia ssp. palmeri                                            1  2.5
+ 3 MELIACEAE   Trichilia  trifolia ssp. palmeri                                            3    5    9 2.5  4    2.5  3
+ 6 MELIACEAE   Trichilia  trifolia ssp. palmeri                                            1    3
+ 7 MELIACEAE   Trichilia  trifolia ssp. palmeri                                            1  2.5
+ 9 MELIACEAE   Trichilia  trifolia ssp. palmeri                                            1    4
+ 5 MORACEAE    Ficus      cotinifolius                                                     1  2.5
+ 7 MYRTACEAE   Psidium    sartorianum                                                      2    5   13
+ 1 NYCTAGINACEAGuapira    M1                                                               1    3
+ 3 NYCTAGINACEAGuapira    M1                                                               3    9   21 3    8
+ 4 NYCTAGINACEAGuapira    M1                                                               2    3   12 15
+ 9 NYCTAGINACEAGuapira    M1                                                               2    8   17
+ 2 POLYGONACEAECoccoloba  liebmannii                                                       1    4
+ 6 POLYGONACEAECoccoloba  liebmannii                                                       1    3    3
+ 9 POLYGONACEAECoccoloba  liebmannii                                                       2    4    4 3
+10 POLYGONACEAECoccoloba  liebmannii                                                       2    6    6 3    3
+ 4 POLYGONACEAERuprechtia fusca                                                            1    9
+ 6 POLYGONACEAERuprechtia fusca                                                            1    6
+ 8 POLYGONACEAERuprechtia fusca                                                            1    6    7
+ 9 POLYGONACEAERuprechtia fusca                                                            2    5    8 4
+10 POLYGONACEAERuprechtia fusca                                                            1    5
+ 7 RHAMNACEAE  Colubrina  heteroneura                                                      1    3
+ 9 RHAMNACEAE  Colubrina  triflora                                                         2    6    4
+ 9 RHAMNACEAE  Karwinskia latifolia                                                        2  2.5    4
+10 RHAMNACEAE  Karwinskia latifolia                                                        1    5
+ 2 RUBIACEAE   Allenanthushondurensis                                                      1    4
+ 5 RUBIACEAE   Allenanthushondurensis var. parviflorus                                     1  2.5
+ 5 RUBIACEAE   Guettarda  divaricata                                                       2    5    6 4
+ 1 RUBIACEAE   Hamelia    versicolor                                                       1    3
+ 5 RUBIACEAE   Hintonia   latiflora                                                        1    7
+ 6 RUBIACEAE   Hintonia   latiflora                                                        2    3   13
+ 9 RUBIACEAE   Hintonia   latiflora                                                        1    3
+10 RUBIACEAE   Psychotria horizontalis                                                     1    3  2.5
+ 4 RUBIACEAE   Randia     tetracantha                                                      1  2.5  2.5
+ 7 RUBIACEAE   Randia     tetracantha                                                      1    3
+ 9 RUBIACEAE   Randia     tetracantha                                                      1    3
+ 1 RUBIACEAE   Randia     thurberi                                                         2    3    5
+ 2 RUBIACEAE   Randia     thurberi                                                         1    3
+ 3 RUBIACEAE   Randia     thurberi                                                         1    4
+ 5 RUBIACEAE   Randia     thurberi                                                         3    4    4 4    4    3
+ 6 RUBIACEAE   Randia     thurberi                                                         1  2.5
+ 7 RUBIACEAE   Randia     thurberi                                                         3  2.5    3 3
+ 8 RUBIACEAE   Randia     thurberi                                                         2  2.5    3
+ 9 RUBIACEAE   Randia     thurberi                                                         1    5
+ 9 RUBIACEAE   Randia     thurberi                                                         1    4    4
+10 RUBIACEAE   Randia     thurberi                                                         2  2.5    3 3    4    3
+ 1 RUTACEAE    Esenbeckia verlandieri                                                      2    5    3
+ 5 RUTACEAE    Esenbeckia verlandieri                                                      1    4
+ 7 RUTACEAE    Esenbeckia verlandieri                                                      1    3
+ 8 RUTACEAE    Helietta   M1                                                               1    4
+ 1 SAPINDACEAE Serjania   brachycarpa                                                L     2    3  2.5
+ 3 SAPINDACEAE Serjania   brachycarpa                                                L     3    3    3 3
+ 4 SAPINDACEAE Serjania   brachycarpa                                                L     4    3    4 2.5  5
+ 5 SAPINDACEAE Serjania   brachycarpa                                                L     2  2.5    3    3
+ 6 SAPINDACEAE Serjania   brachycarpa                                                L     1  2.5
+ 7 SAPINDACEAE Serjania   brachycarpa                                                L     2    3    3
+ 8 SAPINDACEAE Serjania   brachycarpa                                                L     2    5    4
+ 9 SAPINDACEAE Serjania   brachycarpa                                                L     3    4    9 3
+10 SAPINDACEAE Serjania   brachycarpa                                                L     3    5    4 3
+ 1 SAPINDACEAE Thouinia   paucidentata                                                     4    6    3    3    6    3    5    3    3    3    9    4 4
+ 2 SAPINDACEAE Thouinia   paucidentata                                                     7    7    7 5    5    4    5    7    2.5  3    2.5  3    4    4    2.5
+ 3 SAPINDACEAE Thouinia   paucidentata                                                     5    4    3 6    5    3    2.5  3
+ 4 SAPINDACEAE Thouinia   paucidentata                                                     4  2.5    5 4    9    5    3    5    2.5  7
+ 6 SAPINDACEAE Thouinia   paucidentata                                                     2  2.5  2.5 3    4
+ 7 SAPINDACEAE Thouinia   paucidentata                                                     2   12    8 9    10   8    8    6    5    3    6    7
+ 8 SAPINDACEAE Thouinia   paucidentata                                                     2    6    6 4    5    2.5
+ 9 SAPINDACEAE Thouinia   paucidentata                                                     1    6    5
+10 SAPINDACEAE Thouinia   paucidentata                                                     5    4    5 6    7    9    11   2.5  3       7    6    6
+ 2 STERCULIACEAHeliocarpuspallidus                                                         1   14
+ 4 STERCULIACEAHeliocarpuspallidus                                                         1    6    4 4
+10 STERCULIACEAHeliocarpuspallidus                                                         2    6    5
+10 TILIACEAE   Luehea     speciosa                                                         1    6    4 6    7
+ 6 URTICACEAE  Urera      M1                                                               1    5    6
+ 2 VERBENACEAE Citharexylohirtellum                                                        2    3    5 6
+ 9 VERBENACEAE Citharexylohirtellum                                                        1    5
+ 2 VERBENACEAE Lippia     mc vaughii                                                       4    8  2.5    5    3
+ 3 VERBENACEAE Lippia     mc vaughii                                                       1    3    3
+ 6 VERBENACEAE Lippia     mc vaughii                                                       1    4
+ 9 VERBENACEAE Lippia     mc vaughii                                                       1    8
+ 8 VIOLACEAE   Hybanthus  mexicanus                                                        1  2.5
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,109 @@
+LineFAMILY      GENUS       SPECIES    vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+  5 ARACEAE     PHILODENDRONCONSANGUINE66063                                           H     1  2.5
+  6 ARACEAE     PHILODENDRONCONSANGUINE66063                                           H     1  2.5
+  9 ARACEAE     PHILODENDRONCONSANGUINE66063                                           H     1  2.5
+  1 ARALIACEAE  SCHEFFLERA  MOROTOTONI 66038                                                 1   33
+  4 ARALIACEAE  SCHEFFLERA  MOROTOTONI 66038                                                 1    5
+  5 ARALIACEAE  SCHEFFLERA  MOROTOTONI 66038                                                 1  2.5
+ 10 ARALIACEAE  SCHEFFLERA  MOROTOTONI 66038                                                 1   44
+  1 ARECACEAE   PRESTOEA    MONTANA                                                          4    9   10   19  2.5  2.5
+  2 ARECACEAE   PRESTOEA    MONTANA                                                          1   11
+  3 ARECACEAE   PRESTOEA    MONTANA                                                          1   11
+  4 ARECACEAE   PRESTOEA    MONTANA                                                          4   11   14   15   14
+  5 ARECACEAE   PRESTOEA    MONTANA                                                          4   14    3    3    3   14   15
+  6 ARECACEAE   PRESTOEA    MONTANA                                                          2   17   13
+  8 ARECACEAE   PRESTOEA    MONTANA                                                          2   15   14
+  9 ARECACEAE   PRESTOEA    MONTANA                                                          5   11  2.5  2.5    3    3    3   21    3    3    3    3
+  2 BIGNONIACEAESCHLEGELIA  BRACHYANTHA66048                                           L     1    3
+  7 BIGNONIACEAESCHLEGELIA  BRACHYANTHA66048                                           L     1    4    3  2.5
+  8 BIGNONIACEAESCHLEGELIA  BRACHYANTHA66048                                           L     3    2    4    3
+  9 BIGNONIACEAESCHLEGELIA  BRACHYANTHA66048                                           L     1    6
+  7 BIGNONIACEAETABEBUIA    HETEROPHYLL66069                                                 1   10                   9
+  3 BORAGINACEAECORDIA      BORINQUENSI66054 66072                                           1    8
+  7 BORAGINACEAECORDIA      BORINQUENSI66054 66072                                           1    7
+  8 BORAGINACEAECORDIA      BORINQUENSI66054 66072                                           3    4    3    6
+  9 BORAGINACEAECORDIA      BORINQUENSI66054 66072                                           2    3    5
+ 10 BORAGINACEAECORDIA      BORINQUENSI66054 66072                                           1  2.5
+  1 BURSERACEAE DACRYODES   EXCELSA    66042                                                 1   35
+  2 BURSERACEAE DACRYODES   EXCELSA    66042                                                 3   29   28   14
+  3 BURSERACEAE DACRYODES   EXCELSA    66042                                                 4    9   34   58   12
+  4 BURSERACEAE DACRYODES   EXCELSA    66042                                                 2  2.5    5
+  5 BURSERACEAE DACRYODES   EXCELSA    66042                                                 5    5   13   11    4    9
+  9 BURSERACEAE DACRYODES   EXCELSA    66042                                                 1   46
+ 10 BURSERACEAE DACRYODES   EXCELSA    66042                                                 1   28
+  9 CECROPIACEAECECROPIA    SCHEBERIANA                                                      1   31
+  6 CHRYSOBALANAHIRTELLA    RUGOSA     66067                                                 1    5   11
+  7 CHRYSOBALANAHIRTELLA    RUGOSA     66067                                                 1  2.5
+  9 COMBRETACEAEBUCHENAVIA  B. TETRAPHY66077                                                 1  115
+  2 CONNARACEAE ROUREA      SURINAMENSI66049                                           L     1  2.5
+  5 CONNARACEAE ROUREA      SURINAMENSI66049                                           L     1  2.5
+  1 CYATHEACEAE CYATHEA     AQUILINA   66039 66074                                           1    7
+  4 CYATHEACEAE CYATHEA     AQUILINA   66039 66074                                           2    7    6
+  8 CYATHEACEAE CYATHEA     AQUILINA   66039 66074                                           1   10
+  2 CYATHEACEAE CYATHEA     PUERTORICENSIS                                                   3    3   12    8
+  3 CYATHEACEAE CYATHEA     PUERTORICENSIS                                                   1    8
+  5 CYATHEACEAE CYATHEA     PUERTORICENSIS                                                   1    7
+  6 CYATHEACEAE CYATHEA     PUERTORICENSIS                                                   5    6    7    6    8    9
+  7 CYATHEACEAE CYATHEA     PUERTORICEN                                                      3    7    6    6
+  8 CYATHEACEAE CYATHEA     PUERTORICENSIS                                                   1    8
+  4 DILLENIACEAEPINZONA     CORIACEA   66058                                           L     1    7
+  5 DILLENIACEAEPINZONA     CORIACEA   66058                                           L     1    7
+  1 ELAEOCARPACESLOANEA     BERTERIANA 66040                                                 5  2.5  2.5  2.5    6   25    3
+  2 ELAEOCARPACESLOANEA     BERTERIANA 66040                                                10    5  2.5    4    5    5  2.5    7    5    5    3
+  3 ELAEOCARPACESLOANEA     BERTERIANA 66040                                                17    9    7   14  2.5   21    3    3  2.5  2.5    5    6    7    5    3   17    7  2.5
+  4 ELAEOCARPACESLOANEA     BERTERIANA 66040                                                 2  2.5    7
+  5 ELAEOCARPACESLOANEA     BERTERIANA 66040                                                 4    3   40  2.5   11
+  7 ELAEOCARPACESLOANEA     BERTERIANA 66040                                                 5   19  2.5   10    4    7
+  8 ELAEOCARPACESLOANEA     BERTERIANA 66040                                                 1  2.5
+  9 ELAEOCARPACESLOANEA     BERTERIANA 66040                                                 3    8
+ 10 ELAEOCARPACESLOANEA     BERTERIANA 66040                                                 6   31   17    5    8   13    4
+  9 EUPHORBIACEAALCHORNEA   LATIFOLIA                                                        1   39
+  3 EUPHORBIACEAALCHORNEOPSIFLORIBUNDA 66051                                                 1   34
+  2 FABACEAE    INGA        LAURINA    66047 66075                                           1    4
+  3 FABACEAE    INGA        LAURINA    66047 66075                                           1   50
+  6 FABACEAE    INGA        LAURINA    66047 66075                                           1    3
+  7 FABACEAE    INGA        LAURINA    66047 66075                                           3   29   32    6
+  8 FABACEAE    INGA        LAURINA    66047 66075                                           2    8   43   13
+  3 FABACEAE    ORMOSIA     KRUGII     66055                                                 1   29
+  6 FABACEAE    ORMOSIA     KRUGII     66055                                                 1    8
+  3 FLACOURTIACECASEARIA    ARBOREA    66053                                                 1    7
+  4 FLACOURTIACECASEARIA    ARBOREA    66053                                                 5    4    7  2.5   19  2.5
+  6 FLACOURTIACECASEARIA    ARBOREA    66053                                                 2   13   11
+  8 FLACOURTIACECASEARIA    ARBOREA    66053                                                 1   11
+ 10 FLACOURTIACECASEARIA    ARBOREA    66053                                                 1   29  2.5
+  5 FLACOURTIACELAETIA      PROCERA    66062 66076                                           1   34
+  8 FLACOURTIACELAETIA      PROCERA    66062 66076                                           1   12
+  8 INDET       BUCHENAVIA? M1                                                               1   38
+  3 LAURACEAE   ANIBA?      BRACTEATE  66050                                                 1    4
+  5 LAURACEAE   OCOTEA      SINTENISII 66059                                                 2    4    3
+  2 MARCGRAVIACEMARCGRAVIA  RECTIFLORA 66046                                           H     3    3    4    6
+  3 MARCGRAVIACEMARCGRAVIA  RECTIFLORA 66046                                           H     2    3  2.5
+  8 MARCGRAVIACEMARCGRAVIA  RECTIFLORA 66046                                           H     1  2.5  
+  9 MARCGRAVIACEMARCGRAVIA  RECTIFLORA 66046                                           H     2    5    6
+ 10 MARCGRAVIACEMARCGRAVIA  RECTIFLORA 66046                                           H     1    3
+  5 MELASTOMATACCALYCOGONIUMSQUAMULOSUM66060 66066                                           1    6
+  6 MELASTOMATACCALYCOGONIUMSQUAMULOSUM66060 66066                                           1   15  2.5
+  7 MELASTOMATACCALYCOGONIUMSQUAMULOSUM66060 66066                                           1  2.5
+  9 MELASTOMATACCALYCOGONIUMSQUAMULOSUM66060 66066                                           1  2.5
+ 10 MELASTOMATACCALYCOGONIUMSQUAMULOSUM66060 66066                                           1  2.5
+  6 MELASTOMATACHENRIETTIA  FASCICULARI66073                                                 1   14
+  8 MELASTOMATACHENRIETTIA  FASCICULARI66073                                                 3   10    5   11    5    4   10
+  4 MELASTOMATACMICONIA     M1         66057                                                 1    3
+  5 MELASTOMATACMICONIA     PRASINA    66065                                                 1    3
+  1 MELIACEAE   GUAREA      GUIDONIA   66041                                                 1    7  2.5    4
+  2 MELIACEAE   GUAREA      RAMIFLORA  66064                                                 1  2.5
+  5 MELIACEAE   GUAREA      RAMIFLORA  66064                                                 2  2.5    4
+  7 MELIACEAE   GUAREA      RAMIFLORA  66064                                                 3    3    3  2.5
+  9 MYRTACEAE   EUGENIA     STAHLII    66078                                                 1    3
+  7 MYRTACEAE   MYRCIA      DEFLEXA    66068                                                 1    4
+  3 MYRTACEAE   MYRCIA      LEPTOCLADA 66052                                                 1    6
+  9 RUBIACEAE   ANTIRHEA    OBTUSIFOLIA66078                                                 1   13
+  7 RUBIACEAE   PALICOUREA  RIPARIA    66071                                                 1    5
+  8 RUBIACEAE   PALICOUREA  RIPARIA    66071                                                 1    5    4
+ 10 RUBIACEAE   PALICOUREA  RIPARIA    66071                                                 1  2.5
+  7 RUBIACEAE   PSYCHOTRIA  BERTERANIA 66056                                                 1    4
+  4 RUBIACEAE   PSYCHOTRIA  BERTERIANA 66056                                                 2    6    5
+  1 SAPINDACEAE PAULLINIA   PINNATA    66045                                           L     1  2.5
+  9 SAPOTACEAE  MANILKARA   BIDENTATA  66080                                                 1   51
+  7 SAPOTACEAE  MICROPHOLIS GARCINIIFOL66070                                                 1   51
+  1 URTICACEAE  URERA       BACCIFERA                                                        1  2.5

@@ -1,0 +1,80 @@
+LineFamily     Genus            Species        vouchevouchevouchevouchevouchevouchevouchevoucheLianN(IndStemdStemdStemdStemdStemdStemStemStemStem
+  7 ACERACEAE  ACER             RUBRUM                                                                7  2.5  2.5  2.5  2.5  2.5   5 2.5
+  6 ANACARDIACERHUS             COPALLINUM                                                            1  2.5
+  7 CORNACEAE  CORNUS           FLORIDA                                                               3    5  2.5  2.5
+  1 CORNACEAE  CORNUS           FLORIDA                                                               1    5
+  2 FAGACEAE   QUERCUS          ALBA                                                                  1  7.5
+  3 FAGACEAE   QUERCUS          ALBA                                                                  2    5   15   10
+  4 FAGACEAE   QUERCUS          ALBA                                                                  1    5
+  5 FAGACEAE   QUERCUS          ALBA                                                                  5   10  7.5   25   25 27.5
+  6 FAGACEAE   QUERCUS          ALBA                                                                  5 32.5 22.5 12.5   15 22.5
+  7 FAGACEAE   QUERCUS          ALBA                                                                  5 22.5   15   30 17.5   20
+ 10 FAGACEAE   QUERCUS          ALBA                                                                  2 17.5 17.5
+  6 FAGACEAE   QUERCUS          COCCINEA                                                              1 37.5
+  7 FAGACEAE   QUERCUS          COCCINEA                                                              1 37.5
+  3 FAGACEAE   QUERCUS          MACROCARPA                                                            1 12.5
+ 10 FAGACEAE   QUERCUS          MACROCARPA                                                            7    5  7.5  2.5  2.5   10  18  15
+  1 FAGACEAE   QUERCUS          MARILANDICA                                                           2   25    5
+  2 FAGACEAE   QUERCUS          MARILANDICA                                                           9  7.5  7.5    5 12.5   15  15  20 7.5   5
+  3 FAGACEAE   QUERCUS          MARILANDICA                                                           1  7.5
+  5 FAGACEAE   QUERCUS          MARILANDICA                                                           1  7.5
+  9 FAGACEAE   QUERCUS          MARILANDICA                                                           1    5
+  2 FAGACEAE   QUERCUS          RUBRA                                                                 2 12.5   10    5
+  4 FAGACEAE   QUERCUS          RUBRA                                                                 3  7.5    5    5    5  2.5  20  28
+  5 FAGACEAE   QUERCUS          RUBRA                                                                 2   25 17.5 17.5 12.5
+  6 FAGACEAE   QUERCUS          RUBRA                                                                 1 27.5
+  7 FAGACEAE   QUERCUS          RUBRA                                                                 2   20 22.5
+  8 FAGACEAE   QUERCUS          RUBRA                                                                 7   15 12.5  2.5  7.5  2.5  10  13  20
+  9 FAGACEAE   QUERCUS          RUBRA                                                                 3  7.5 12.5 12.5
+ 10 FAGACEAE   QUERCUS          RUBRA                                                                 3  2.5    5    5
+  9 FAGACEAE   QUERCUS          STELLATA                                                              1   20
+  1 FAGACEAE   QUERCUS          VELUTINA                                                              1  2.5
+  2 FAGACEAE   QUERCUS          VELUTINA                                                              9   20   20   10   15    5   5  10 7.5   5
+  3 FAGACEAE   QUERCUS          VELUTINA                                                              5   10  7.5    5    5 32.5
+  4 FAGACEAE   QUERCUS          VELUTINA                                                              2    5   10
+  6 FAGACEAE   QUERCUS          VELUTINA                                                              2   25 17.5
+  8 FAGACEAE   QUERCUS          VELUTINA                                                              1  2.5
+  9 FAGACEAE   QUERCUS          VELUTINA                                                              6   10 17.5   10  7.5    5 7.5
+ 10 FAGACEAE   QUERCUS          VELUTINA                                                              1   15
+  1 FAGACEAE   QUERCUS          ALBA                                                                  3 32.5    5 12.5
+  1 FAGACEAE   QUERCUS          RUBRA                                                                 5   10    5  2.5  2.5    5   5 7.5
+  1 JUGLANDACEACARYA            CORDIFORMIS                                                           3 17.5 12.5 12.5
+  8 JUGLANDACEACARYA            CORDIFORMIS                                                           1   20 12.5
+  9 JUGLANDACEACARYA            CORDIFORMIS                                                           7    5  2.5  2.5  7.5    5   5 2.5
+ 10 JUGLANDACEACARYA            CORDIFORMIS                                                           5    5    5  2.5   10  2.5
+  1 JUGLANDACEACARYA            OVATA                                                                 1  7.5
+  8 JUGLANDACEACARYA            OVATA                                                                 2  2.5    5
+  9 JUGLANDACEACARYA            TOMENTOSA                                                             1  2.5
+  9 JUGLANDACEAJUGLANS          NIGRA                                                                 1   20
+  1 JUGLANDACEACARYA            OVALIS                                                                1    5
+  4 LAURACEAE  SASSAFRAS        ALBIDUM                                                               2  7.5    5  7.5
+  5 LAURACEAE  SASSAFRAS        ALBIDUM                                                               1    5
+  7 LAURACEAE  SASSAFRAS        ALBIDUM                                                               1    5
+  1 OLEACEAE   FRAXINUS         AMERICANA                                                             1  2.5
+  8 RHAMNACEAE RHAMNUS          M1                                                                    1  2.5
+  9 RHAMNACEAE RHAMNUS          M1                                                                    2  2.5  2.5
+  3 ROSACEAE   AMELANCHIER      ARBOREA                                                               1  2.5
+  4 ROSACEAE   AMELANCHIER      ARBOREA                                                               2  2.5  2.5  2.5
+  6 ROSACEAE   AMELANCHIER      ARBOREA                                                               3    5  2.5  2.5  2.5
+ 10 ROSACEAE   AMELANCHIER      ARBOREA                                                               3    5   10    5
+  5 ROSACEAE   AMELANCHIOR      ARBOREA                                                               2  2.5  2.5
+  8 ROSACEAE   PRUNUS           AMERICANA                                                             2  2.5  2.5
+ 10 ROSACEAE   PRUNUS           VIRGINIANA                                                            1    5
+  9 ULMACEAE   ULMUS            AMERICANA                                                             1  2.5
+  8 ULMACEAE   ULMUS            RUBRA                                                                 2  7.5  7.5
+  9 VITACEAE   PARTHENOCISSUS   QUINQUEFOLIA                                                   L      1  2.5
+  4 VITACEAE   VITIS            M1                                                             L      1  2.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+

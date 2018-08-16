@@ -1,0 +1,160 @@
+LinFamily       Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+10 ANCISTROCLADAAncistroclabarteri    32832                                           L     1  2.5
+ 2 ANNONACEAE   Cleistopholpatens     32730                                                 1   20
+ 2 ANNONACEAE   Enantia    M1         32736                                                 2   24   25
+ 3 ANNONACEAE   Enantia    M1         32736                                                 1   12
+ 5 ANNONACEAE   Enantia    M1         32736                                                 1  2.5
+ 6 ANNONACEAE   Enantia    M1         32736                                                 1   24
+ 9 ANNONACEAE   Enantia    M1         32736                                                 1  2.5
+ 4 ANNONACEAE   Monodora   myristica  32753                                                 1   69
+ 5 ANNONACEAE   Monodora   myristica  32753                                                 1  2.5
+ 7 ANNONACEAE   Monodora   myristica  32753                                                 1  2.5
+10 ANNONACEAE   Monodora   myristica  32753                                                 3   12  2.5  2.5
+ 2 APOCYNACEAE  Funtumia   africana   32747 32824                                           1   15
+ 3 APOCYNACEAE  Funtumia   africana   32747 32824                                           1  2.5
+ 9 APOCYNACEAE  Funtumia   africana   32747 32824                                           1  2.5
+10 APOCYNACEAE  Funtumia   africana   32747 32824                                           1  2.5
+ 4 APOCYNACEAE  Hunteria   umbellata  32758                                                 1   17
+ 8 APOCYNACEAE  Hunteria   umbellata  32758                                                 1    5
+ 3 APOCYNACEAE  Ocinotis   pontyi     32746 32745                                     L     4  2.5  2.5  2.5  2.5
+ 1 APOCYNACEAE  Tabernaemonpenduliflor32726                                                13  2.5  2.5  2.5  2.5 2.5  2.5  2.5  2.5  5    5    5    5    8
+ 2 APOCYNACEAE  Tabernaemonpenduliflor32726                                                12  2.5  2.5  2.5  2.5 2.5  7.5  5    7.5  2.5  5    5    5
+ 3 APOCYNACEAE  Tabernaemonpenduliflor32726                                                 8  2.5  2.5    5  2.5 7.5  7.5  2.5  2.5
+ 4 APOCYNACEAE  Tabernaemonpenduliflor32726                                                11  7.5    5    5  2.5 2.5  2.5  2.5  5    2.5  2.5  2.5  5
+ 5 APOCYNACEAE  Tabernaemonpenduliflor32726                                                 5  2.5  2.5  2.5  2.5 2.5  2.5
+ 5 APOCYNACEAE  Tabernaemonpenduliflor32726                                                10  7.5  2.5  2.5  2.5 2.5  2.5  2.5  2.5  2.5  5
+ 6 APOCYNACEAE  Tabernaemonpenduliflor32726                                                10    5    5    5  2.5 2.5  5    5    7.5  2.5  2.5
+ 7 APOCYNACEAE  Tabernaemonpenduliflor32726                                                10    5  2.5    5  2.5 2.5  2.5  2.5  2.5  2.5  2.5
+ 8 APOCYNACEAE  Tabernaemonpenduliflor32726                                                10    5  2.5    5  2.5 2.5  2.5  5    2.5  7.5  2.5
+ 9 APOCYNACEAE  Tabernaemonpenduliflor32726                                                10    5  2.5  2.5  2.5 5    7.5  2.5  5    7.5  5
+10 APOCYNACEAE  Tabernaemonpenduliflor32726                                                10    5  2.5    5  2.5 5    2.5  2.5  2.5  2.5  5
+ 5 ARISTOLOCHIACPararistoloflos-avis  32765                                           L     1  2.5
+ 6 ASCLEPIACACEASecamone   M1         32783                                           L     1  2.5
+ 9 BIGNONIACEAE Markhamia  lutea      32819                                                 1  2.5
+ 5 BIGNONIACEAE Spathodea  campanulata32777                                                 1    5
+ 6 CECROPIACEAE Musanga    cecropioide-                                                     1   15
+10 CECROPIACEAE Musanga    cecropioide-                                                     1   28
+ 1 CELASTRACEAE Apodostigmapallens    32716                                           L     1  2.5  2.5
+ 2 CELASTRACEAE Apodostigmapallens    32716                                           L     2    5    5
+ 4 CELASTRACEAE Apodostigmapallens    32716                                           L     1    5
+ 2 CELASTRACEAE Hippocrateaclematoides-                                               L     2  2.5    5
+ 5 CELASTRACEAE Loesneriellafricana   ?                                               L     1  2.5
+ 5 CELASTRACEAE Salacia    debilis    32724                                           L     1  2.5
+ 1 CELASTRACEAE Salacia    debilis    32724                                           L     2  2.5  2.5
+ 9 CELASTRACEAE Simirestis welwitschii32816                                           l     1  2.5
+ 2 CLUSIACEAE   Garcinia   M1         32734                                                 1   15
+ 3 CONNARACEAE  Agelaea    obliqua    32769                                           L     1  2.5
+ 5 CONNARACEAE  Agelaea    obliqua    32769                                           L     1  2.5
+ 8 CONNARACEAE  Agelaea    obliqua    32769                                           L     1  2.5
+ 9 CONNARACEAE  Agelaea    obliqua    32769                                           L     1  2.5
+ 3 CONNARACEAE  Castanola  paradoxa   32741                                           L     1  2.5
+ 6 CONNARACEAE  M1         M1         32785                                           L     1  2.5
+ 4 CONNARACEAE  Paxia      zenkeri    32759                                           L     1  2.5
+ 1 CONVOLVULACEANeuropeltisacuminata  32722                                           L     1  2.5
+ 3 CONVOLVULACEANeuropeltisacuminata  32722                                           L     3    5  2.5  2.5
+ 4 CONVOLVULACEANeuropeltisacuminata  32722                                           L     1  2.5
+ 5 CONVOLVULACEANeuropeltisacuminata  32722                                           L     6  2.5  2.5    5  2.5 2.5  2.5
+ 6 CONVOLVULACEANeuropeltisacuminata  32722                                           L     1    5
+ 9 CONVOLVULACEANeuropeltisacuminata  32722                                           L     3  2.5  2.5  2.5
+10 CONVOLVULACEANeuropeltisacuminata  32722                                           L     1    5
+ 9 DICHAPETALACEDichapetalubarteri    32817                                           L     1  2.5
+ 1 EBENACEAE    Diospyros  alboflavesc32718 32720 32762 32787                              12   12  2.5   11   22    5  7.5   11   14   13   19   12   12
+ 2 EBENACEAE    Diospyros  alboflavesc32718 32720 32762 32787                               5  2.5  2.5    9   12   13
+ 3 EBENACEAE    Diospyros  alboflavesc32718 32720 32762 32787                               2   12  2.5
+ 4 EBENACEAE    Diospyros  alboflavesc32718 32720 32762 32787                               8   12   21   16   15   21    9   11   17
+ 5 EBENACEAE    Diospyros  alboflavesc32718 32720 32762 32787                               5   10   22  7.5    5 13
+ 6 EBENACEAE    Diospyros  alboflavesc32718 32720 32762 32787                               2    8   13
+ 7 EBENACEAE    Diospyros  alboflavesc32718 32720 32762 32787                               7    5   11    5  7.5 5    10     14
+ 8 EBENACEAE    Diospyros  alboflavesc32718 32720 32762 32787                              11   20   12   16   18 25   12   16   12   15   2.5  9
+ 9 EBENACEAE    Diospyros  alboflavesc32718 32720 32762 32787                               1  2.5
+10 EBENACEAE    Diospyros  alboflavesc32718 32720 32762 32787                               1   15
+ 1 EBENACEAE    Diospyros  barteri    32715                                                 3  2.5   13   14
+ 3 EBENACEAE    Diospyros  barteri    32715                                                 1  2.5
+ 8 EBENACEAE    Diospyros  barteri    32715                                                 1   46
+ 9 EBENACEAE    Diospyros  barteri    32715                                                 1  7.5
+ 4 EBENACEAE    Diospyros  piscatoria 32752                                                 1  2.5
+ 1 EBENACEAE    Diospyros  suaveolens 32702 32767                                           3   18   18   12
+ 5 EBENACEAE    Diospyros  suaveolens 32702 32767                                           1   20
+ 7 EBENACEAE    Diospyros  suaveolens 32702 32767                                           2   26   24
+ 3 EBENACEAE    Diospyros  undabunda  32739 32822                                           1   11
+ 9 EBENACEAE    Diospyros  undabunda  32739 32822                                           1  2.5
+ 4 EBENACEAE    Diospyros  zenkeri    32757                                                 1  2.5
+ 1 EUPHORBIACEAEAntidesma  laciniatum 32721                                                 1  2.5
+ 4 EUPHORBIACEAEDrypetes   aframensis 32765                                                 1  2.5
+ 4 EUPHORBIACEAEDrypetes   gilgiana   32761                                                 1  2.5
+ 1 EUPHORBIACEAEDrypetes   molunduana 32723                                                 2  2.5  2.5
+ 2 EUPHORBIACEAEDrypetes   molunduana 32723                                                 3  2.5  2.5  2.5
+ 3 EUPHORBIACEAEDrypetes   molunduana 32723                                                 6  2.5  2.5  2.5  2.5 2.5  2.5
+ 4 EUPHORBIACEAEDrypetes   molunduana 32723                                                 2  2.5  2.5
+ 5 EUPHORBIACEAEMacaranga  barteri    32774                                                 1   18
+ 8 EUPHORBIACEAEMacaranga  barteri    32774                                                 1  2.5
+10 EUPHORBIACEAEMacaranga  barteri    32774                                                 2   18  2.5
+ 9 EUPHORBIACEAEMacaranga  spinosa    -                                                     2   16  2.5  2.5
+ 6 EUPHORBIACEAEMargaritaridiscoidea  32782                                                 1  7.5
+ 8 FABACEAE     Acacia     kamerunensi32792                                           L     3    5  2.5  2.5
+ 9 FABACEAE     Acacia     kamerunensi32792                                           L     1  2.5
+ 2 FABACEAE     Baphia     nitida     32728                                                 5  2.5  2.5  2.5  2.5 2.5
+ 9 FABACEAE     Baphia     nitida     32728                                                 2  2.5    5
+ 1 FABACEAE     Erythrophloivorense   32725                                                 1  114
+ 5 FABACEAE     Hylodendrongabunense  32778                                                 1  2.5
+10 FABACEAE     Hylodendrongabunense  32778                                                 2  2.5   15
+ 5 FABACEAE     Leptoderrisaurantiaca 32771                                           L     1  2.5
+ 8 FABACEAE     Leptoderrisaurantiaca 32771                                           L     2    5    5
+ 6 ICACINACEAE  Ioedes     klaineana  32790                                           L     4  2.5  2.5  2.5  2.5
+ 8 ICACINACEAE  Ioedes     klaineana  32790                                           L     4  2.5  2.5  2.5    5
+ 9 ICACINACEAE  Ioedes     klaineana  32790                                           L     1  2.5
+ 3 LINACEAE     Hugonia    macrophylla32744                                           L     1    5
+ 5 LOGANIACEAE  Strychnos  congolana  32773                                           L     1  2.5
+ 2 LOGANIACEAE  Strychnos  M1         32733                                           L     1  2.5
+10 MELASTOMATACEMemecylon  afzelii    32831                                                 1  2.5
+10 MENISPERMACEATriclisia  dictyophyll32833                                           L     1  7.5
+ 9 MORACEAE     Chlorophoraexcelsa    32826                                                 1    5
+ 1 OLACACEAE    Strombosia pustulata  32719                                                 2  7.5   10
+ 2 OLACACEAE    Strombosia pustulata  32719                                                 3   23  7.5   31
+ 3 OLACACEAE    Strombosia pustulata  32719                                                 7   23   19  2.5  2.5 2.5  2.5  11
+ 4 OLACACEAE    Strombosia pustulata  32719                                                 2    9   13
+ 6 OLACACEAE    Strombosia pustulata  32719                                                 3   10   25   11   14
+ 7 OLACACEAE    Strombosia pustulata  32719                                                 5  7.5   21   23   28
+ 8 OLACACEAE    Strombosia pustulata  32719                                                 3  2.5   16   26
+10 OLACACEAE    Strombosia pustulata  32719                                                 2  2.5  2.5
+ 2 ORCHIDACEAE  Coryanthes pachyceras 32731                                                 1  2.5
+ 5 ORCHIDACEAE  Coryanthes pachyceras 32731                                                 5  2.5  2.5  2.5  2.5 5    2.5
+ 9 ORCHIDACEAE  Coryanthes pachyceras 32731                                                 3  7.5    5  2.5    5
+ 9 ORCHIDACEAE  Coryanthes pachyceras 32731                                                 2    5  2.5
+ 9 RHAMNACEAE   Gouania    longipetala32818                                           L     1  2.5
+ 5 RHAMNACEAE   Ventilago  africana   32772                                           L     3  2.5  2.5  2.5
+ 4 RUBIACEAE    Aulacocalyxjasminiflor33633                                                 1  2.5
+10 RUBIACEAE    Aulacocalyxjasminiflor33633                                                 2    5    5
+ 2 RUBIACEAE    PauridianthM1         32729                                                 1    5
+ 9 RUBIACEAE    Pauridianthpaucinervis32821                                                 1  2.5
+ 5 RUBIACEAE    Porterandiacladantha  33607                                                 1   13
+ 9 RUBIACEAE    Porterandiacladantha  33607                                                 1    5
+ 7 RUBIACEAE    Randia     macrantha  32791                                                 1  2.5
+ 6 RUBIACEAE    Rothmannia M1         32781                                                 1  2.5
+ 9 RUBIACEAE    Rothmannia M1         32781                                                 1  2.5  2.5
+ 4 RUBIACEAE    Rothmannia octomera   32764                                                 1    5
+ 5 RUBIACEAE    Sabicea    calycina   32766                                           L     1  2.5
+ 5 RUBIACEAE    Sabicea    calycina   32766                                           L     1  2.5
+ 3 STERCULIACEAESterculia  rhinopetala32740                                                 2  2.5    8
+ 2 THYMELAEACEAEOctolobus  angustatus 32732                                                 2  2.5  2.5
+ 3 THYMELAEACEAEOctolobus  angustatus 32732                                                 1  2.5
+ 4 THYMELAEACEAEOctolobus  angustatus 32732                                                 2   11   16
+ 5 THYMELAEACEAEOctolobus  angustatus 32732                                                 3   10   12  7.5
+ 4 TILIACEAE    Glyphaea   brevis     32755                                                 1  2.5
+ 5 TILIACEAE    Glyphaea   brevis     32755                                                 1  7.5
+ 6 TILIACEAE    Glyphaea   brevis     32755                                                 2    5  7.5
+ 7 TILIACEAE    Glyphaea   brevis     32755                                                 1  2.5
+ 4 ULMACEAE     Celtis     zenkeri    32760                                                 1   28
+ 1 URTICACEAE   Urera      cameroonens32717                                           L     2  2.5  2.5
+ 3 URTICACEAE   Urera      cameroonens32717                                           L     1  2.5
+ 4 URTICACEAE   Urera      cameroonens32717                                           L     1  2.5
+ 9 VIOLACEAE    Rinorea    dentata    32828                                                 1  2.5
+ 9 VIOLACEAE    Rinorea    oblongifoli32829                                                 2  2.5   11
+ 3 VITACEAE     Cissus     barbeyana  32743                                           L     1  2.5
+
+
+
+
+
+
+

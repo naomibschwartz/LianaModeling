@@ -1,0 +1,137 @@
+LineFAMILY       GENUS        SPECIES      vouchevouchevouchevouchevouchevouchevouchevoucheLIANN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+  6 ACERACEAE    ACER         CRATAEGIFOLIA                                                      3   10   11    6
+ 10 ACERACEAE    ACER         CRATAEGIFOLIA                                                      1   12
+  5 ANACARDIACEAETOXICODENDRONAMBIGUA                                                      L     1    6
+  1 ANACARDIACEAETOXICODENDRONSUCCEDEANA                                                         1    9
+  5 ANACARDIACEAETOXICODENDRONTRICHOCARPA                                                        1    4
+  1 APOCYNACEAE  TRACHELOSPERMASIATICUM                                                    L     2  2.5   12
+  2 APOCYNACEAE  TRACHELOSPERMASIATICUM                                                    L     2    6  2.5
+  4 APOCYNACEAE  TRACHELOSPERMASIATICUM                                                    L     2    3  2.5
+  5 APOCYNACEAE  TRACHELOSPERMASIATICUM                                                    L     1    3
+  6 APOCYNACEAE  TRACHELOSPERMASIATICUM                                                    L     2    4    3
+  7 APOCYNACEAE  TRACHELOSPERMASIATICUM                                                    L     4  2.5    4    3    4
+  8 APOCYNACEAE  TRACHELOSPERMASIATICUM                                                    L     2  2.5    4
+  9 APOCYNACEAE  TRACHELOSPERMASIATICUM                                                    L     5    3  2.5  2.5    4    4
+ 10 APOCYNACEAE  TRACHELOSPERMASIATICUM                                                    L     2  2.5  2.5
+  5 AQUIFOLIACEAEILEX         INTEGRA                                                            1   20
+ 10 AQUIFOLIACEAEILEX         INTEGRA                                                            1  2.5  2.5
+  1 AQUIFOLIACEAEILEX         ROTUNDA                                                            1    6
+  4 AQUIFOLIACEAEILEX         ROTUNDA                                                            1    6
+  2 ARALIACEAE   DENDROPANAX  TRIFIDA                                                            1    7
+  4 ARALIACEAE   DENDROPANAX  TRIFIDA                                                            1    5
+  6 ARALIACEAE   DENDROPANAX  TRIFIDA                                                            1    4
+  9 ARALIACEAE   DENDROPANAX  TRIFIDA                                                            1    5
+ 10 ARALIACEAE   DENDROPANAX  TRIFIDA                                                            1   12
+  4 ARALIACEAE   HEDERA       RHOMBEA                                                      L     1  2.5
+  5 ARISTOLOCHIACARISTOLOCHIA KAEMPFERI                                                    L     1  2.5
+  1 CORNACEAE    AUCUBA       JAPONICA                                                           1    3
+  2 CORNACEAE    AUCUBA       JAPONICA                                                           1    4
+  9 CORNACEAE    AUCUBA       JAPONICA                                                           1    3
+  1 DAPHNIPHYLLACDAPHNIPHYLLUMMACROPODUM                                                         1    3
+  7 EBENACEAE    DIOSPYROS    JAPONICA                                                           1   24
+  9 EBENACEAE    DIOSPYROS    JAPONICA                                                           1   22
+ 10 ELAEAGNACEAE ELEAGNUS     GLABRA                                                       L     1    4
+  5 ERICACEAE    LYONIA       OVALIFOLIA                                                         3    3    7    7   11    5
+  3 ERICACEAE    PIERIS       JAPONICA                                                           6    9  2.5    5    3    4   12    6    5   10    3    9
+  5 ERICACEAE    PIERIS       JAPONICA                                                           2   15    7
+  6 ERICACEAE    PIERIS       JAPONICA                                                           2    5    3    4
+ 10 ERICACEAE    PIERIS       JAPONICA                                                           2    5    3  2.5    3
+  5 ERICACEAE    RHODODENDRON DILATATUM                                                          2  2.5  2.5
+  7 ERICACEAE    RHODODENDRON DILATATUM                                                          1  2.5
+  6 ERICACEAE    VACCINIUM    BRACTEATUM                                                         2    5    6
+  1 EUPHORBIACEAEMALLOTUS     JAPONICUS                                                          1   13
+  1 FABACEAE     WISTERIA     FLORIBUNDA                                                   L     1    3
+  6 FABACEAE     WISTERIA     FLORIBUNDA                                                   L     1    5
+  1 FAGACEAE     CASTANOPSIS  CUSPIDATA                                                          4   15   14   20    3    9
+  3 FAGACEAE     CASTANOPSIS  CUSPIDATA                                                          3   39    7   10    5   45    3
+  4 FAGACEAE     CASTANOPSIS  CUSPIDATA                                                          5    4   19    4    3    3    3    4    8
+  5 FAGACEAE     CASTANOPSIS  CUSPIDATA                                                          1   23
+  6 FAGACEAE     CASTANOPSIS  CUSPIDATA                                                          3    3    4   29    3
+ 10 FAGACEAE     CASTANOPSIS  CUSPIDATA                                                          2   36   34
+  4 FAGACEAE     LITHOCARPUS  EDULIS                                                             1    8
+  3 FAGACEAE     QUERCUS      ACUTA                                                              1   22
+  5 FAGACEAE     QUERCUS      ACUTA                                                              7   30   19   17   42   20    6   12   11   14
+  6 FAGACEAE     QUERCUS      ACUTA                                                              6   14   28   11   25   19   43
+  7 FAGACEAE     QUERCUS      ACUTA                                                              1   15
+  7 FAGACEAE     QUERCUS      ACUTA                                                              1   15
+  7 FAGACEAE     QUERCUS      ACUTA                                                              2   51   21
+  9 FAGACEAE     QUERCUS      ACUTA                                                              1   29
+ 10 FAGACEAE     QUERCUS      ACUTA                                                              7    7   18   10   12   10   16   35
+  1 FAGACEAE     QUERCUS      GLAUCA                                                             2   13    6
+  2 FAGACEAE     QUERCUS      GLAUCA                                                             1    6
+  4 FAGACEAE     QUERCUS      GLAUCA                                                             5   12    7    4    4    3   15
+  6 FAGACEAE     QUERCUS      GLAUCA                                                             1    4
+ 10 FAGACEAE     QUERCUS      GLAUCA                                                             1    4    9
+  1 FAGACEAE     QUERCUS      SALICINA                                                           1   32
+  2 FAGACEAE     QUERCUS      SALICINA                                                           1   35
+  3 FAGACEAE     QUERCUS      SALICINA                                                           2   18   42
+  4 FAGACEAE     QUERCUS      SALICINA                                                           3   37   15   10
+  5 FAGACEAE     QUERCUS      SALICINA                                                           1   13
+  6 FAGACEAE     QUERCUS      SALICINA                                                           2   20   13
+  7 FAGACEAE     QUERCUS      SALICINA                                                           5   33    8    9   30    9
+  8 FAGACEAE     QUERCUS      SALICINA                                                           3   26   19   22
+  9 FAGACEAE     QUERCUS      SALICINA                                                           1    9
+ 10 FAGACEAE     QUERCUS      SALICINA                                                           2   10    9
+  5 FAGACEAE     QUERCUS      SERRATA                                                            1   36
+  9 FAGACEAE     QUERCUS      SESSILIFOLIA                                                       1   14
+  9 HYDRANGEACEAEDEUTZIA      SCABRA                                                             1    3
+ 10 ILLICIACEAE  ILLICIUM     ANISATUM                                                           4    6    3    3    6    4    5
+  8 LARDIZABALACESTAUNTONIA   HEXAPHYLLA                                                   L     1  2.5
+  7 LAURACEAE    ACTINODAPHNE LANCIFOLIA                                                         1    6
+  9 LAURACEAE    ACTINODAPHNE LANCIFOLIA                                                         1   23
+  4 LAURACEAE    CINNAMOMUM   JAPONICUM                                                          1    3
+ 10 LAURACEAE    CINNAMOMUM   JAPONICUM                                                          2    6    6
+  1 LAURACEAE    CINNAMOMUM   JPANICUM                                                           3   21    7   11    7
+  1 LAURACEAE    PERSEA       THUNBERGII                                                         3   11    9   12   15
+  2 LAURACEAE    PERSEA       THUNBERGII                                                         2   18    7
+  1 MORACEAE     FICUS        ERECTA                                                             2    4    3
+  2 MORACEAE     FICUS        ERECTA                                                             1    8
+  7 MORACEAE     FICUS        ERECTA                                                             1    5
+  5 MYRISTICACEAEMYRICA       RUBRA                                                              2   28   18
+ 10 MYRISTICACEAEMYRICA       RUBRA                                                              5   17   33    6   19    7   11
+  1 MYRSINACEAE  RAPANEA      NERIIFOLIA                                                         2    6    5    6    4  2.5
+  4 MYRSINACEAE  RAPANEA      NERIIFOLIA                                                         1   17    7
+  3 OLEACEAE     FRAXINUS     SIEBOLDIANA                                                        1    8
+  5 OLEACEAE     FRAXINUS     SIEBOLDIANA                                                        1   10
+  6 OLEACEAE     FRAXINUS     SIEBOLDIANA                                                        1   14
+  4 OLEACEAE     OSMANTHUS    HETEROPHYLLUS                                                      2   12   11    5    8    4
+ 10 OLEACEAE     OSMANTHUS    HETEROPHYLLUS                                                      1    5
+  1 PINACEAE     ABIES        FIRMA                                                              1   76
+  2 PINACEAE     ABIES        FIRMA                                                              2   82   87
+  3 PINACEAE     ABIES        FIRMA                                                              1   60
+  5 PINACEAE     ABIES        FIRMA                                                              1    7
+  6 PINACEAE     ABIES        FIRMA                                                              1  2.5
+  9 PINACEAE     ABIES        FIRMA                                                              1  105
+  4 PITTOSPORACEAPITTOSPORUM  TOBIRA                                                             4   13    4   26    7
+  4 ROSACEAE     POURTHIAEA   VILLOSA                                                            4    7    3  2.5    3  2.5  2.5    3
+  5 ROSACEAE     POURTHIAEA   VILLOSA                                                            2    4    3  2.5  2.5
+  6 ROSACEAE     POURTHIAEA   VILLOSA                                                            1    5
+  7 ROSACEAE     POURTHIAEA   VILLOSA                                                            1  2.5
+ 10 ROSACEAE     POURTHIAEA   VILLOSA                                                            2    3    3  2.5
+  4 TAXACEAE     TORREYA      NUCIFERA                                                           1   34
+  1 THEACEAE     CAMELIA      JAPONICA                                                           1   11
+  4 THEACEAE     CAMELIA      JAPONICA                                                           2    3    5
+  5 THEACEAE     CAMELIA      JAPONICA                                                           3    5    9    8    5
+  6 THEACEAE     CAMELIA      JAPONICA                                                           1    7
+  7 THEACEAE     CAMELIA      JAPONICA                                                           2    8    9
+  8 THEACEAE     CAMELIA      JAPONICA                                                           3    5    6    7
+  9 THEACEAE     CAMELIA      JAPONICA                                                           4    5    3    4    3    3
+ 10 THEACEAE     CAMELIA      JAPONICA                                                           3    8   11    7
+  4 THEACEAE     CLEYERA      JAPONICA                                                           2    9    7
+  5 THEACEAE     CLEYERA      JAPONICA                                                           8    3    3    4  2.5    4    3    8    8    3
+  6 THEACEAE     CLEYERA      JAPONICA                                                           3    9    4   13    7    4    3
+  7 THEACEAE     CLEYERA      JAPONICA                                                           4   10    3    6    3
+  8 THEACEAE     CLEYERA      JAPONICA                                                           2    3  2.5    3
+  9 THEACEAE     CLEYERA      JAPONICA                                                           3    5    3    6  
+ 10 THEACEAE     CLEYERA      JAPONICA                                                           5    8    4    8    5    6    5
+  1 THEACEAE     EURYA        JAPONICA                                                           6    7    4   11    6    4   10    3   78    7
+  2 THEACEAE     EURYA        JAPONICA                                                           4    9   10  2.5   11
+  3 THEACEAE     EURYA        JAPONICA                                                           4    9    3    5   10    8    6
+  4 THEACEAE     EURYA        JAPONICA                                                           3    7    6    4    3
+  5 THEACEAE     EURYA        JAPONICA                                                           5    7  2.5    6  2.5    4
+  6 THEACEAE     EURYA        JAPONICA                                                          14    3    4    4  2.5    4    4    6    5   12    3  2.5    3  2.5    3    4
+  7 THEACEAE     EURYA        JAPONICA                                                          15    5    3  2.5    3    3    5    4  2.5    3    4    6    5    4    5    4
+  8 THEACEAE     EURYA        JAPONICA                                                           3    3    4    4
+  9 THEACEAE     EURYA        JAPONICA                                                           7    7  2.5    3    5    3    4    3
+ 10 THEACEAE     EURYA        JAPONICA                                                          19    3    4    4  2.5    4  2.5    6    5    3    3    3    3    5    4    5    3    4    3  2.5    3    4
+  8 VITACEAE     VITIS        FICIFOLIA                                                    L     1    3

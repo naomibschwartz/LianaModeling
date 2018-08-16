@@ -1,0 +1,64 @@
+LineFamily     Genus            Species        vouchevouchevouchevouchevouchevouchevouchevoucheLianN(IndStemStemStemStemStemStemStemStemStemStemStem
+7   ACERACEAE  ACER             PLATANOIDES                                                           1   3
+1   BETULACEAE BETULA           PENDULA                                                               5   8   8   6   5   4
+10  BETULACEAE BETULA           PENDULA                                                               3   5  11   4
+2   BETULACEAE BETULA           PENDULA                                                               1   5
+3   BETULACEAE BETULA           PENDULA                                                               3   4  14  11
+4   BETULACEAE BETULA           PENDULA                                                               1  28
+5   BETULACEAE BETULA           PENDULA                                                               3  12   3   8
+6   BETULACEAE BETULA           PENDULA                                                               2  29  32
+9   BETULACEAE BETULA           PENDULA                                                               5  27   6   6   6   5
+5   BETULACEAE CORYLUS          AVELLANA                                                              1   4   5   5   4   5   5   5   4   5   4   3
+7   FAGACEAE   FAGUS            SYLVATICA (nn)                                                        1   4
+3   INDET      M                M                                                                     1  50
+1   PINACEAE   PICEA            ABIES                                                                 2   5   6
+10  PINACEAE   PICEA            ABIES                                                                 2   6   6
+2   PINACEAE   PICEA            ABIES                                                                 5  18  16   6   6  14
+3   PINACEAE   PICEA            ABIES                                                                 2  37  11
+4   PINACEAE   PICEA            ABIES                                                                 3   6   9  17
+6   PINACEAE   PICEA            ABIES                                                                 2   4  34
+7   PINACEAE   PICEA            ABIES                                                                 2  20   8
+8   PINACEAE   PICEA            ABIES                                                                 2  12   5
+9   PINACEAE   PICEA            ABIES                                                                 1  11
+10  PINACEAE   PINUS            SILVESTRIS                                                            1  56
+3   PINACEAE   PINUS            SILVESTRIS                                                            3  42  38  42
+8   PINACEAE   PINUS            SILVESTRIS                                                            3  40  47  54
+9   PINACEAE   PINUS            SILVESTRIS                                                            2  43  57
+1   PINACEAE   PINUS            SYLVESTRIS                                                            4  52  48  40  70
+2   PINACEAE   PINUS            SYLVESTRIS                                                            1  49
+4   PINACEAE   PINUS            SYLVESTRIS                                                            3  59  64  42
+5   PINACEAE   PINUS            SYLVESTRIS                                                            3  35  38  52
+7   RHAMNACEAE RHAMNUS?         M1                                                                    1   3
+8   RHAMNACEAE RHAMNUS?         M1                                                                    1 2.5
+1   ROSACEAE   SORBUS           AUCUPARIA                                                             2   3   6
+10  ROSACEAE   SORBUS           AUCUPARIA                                                             2  21   5   4   3
+2   ROSACEAE   SORBUS           AUCUPARIA                                                             5 2.5 2.5 2.5   8   8 2.5
+4   ROSACEAE   SORBUS           AUCUPARIA                                                             1   4
+5   ROSACEAE   SORBUS           AUCUPARIA                                                             1   6
+6   ROSACEAE   SORBUS           AUCUPARIA                                                             3  15   4  18
+7   ROSACEAE   SORBUS           AUCUPARIA                                                             4   4   3   3   8  24 2.5
+8   ROSACEAE   SORBUS           AUCUPARIA                                                             2   3   5
+10  SALICACEAE POPULUS          NIGRA?                                                                1   5
+2   SALICACEAE POPULUS          NIGRA?                                                                1  13
+3   SALICACEAE POPULUS          NIGRA?                                                                1   5
+7   SALICACEAE POPULUS          NIGRA?                                                                1  13
+8   SALICACEAE POPULUS          NIGRA?                                                                2  14  12
+1   SALICACEAE POPULUS          TREMULA                                                               1  50
+10  SALICACEAE POPULUS          TREMULA                                                               1   6
+5   SALICACEAE POPULUS          TREMULA                                                               1  10
+6   SALICACEAE POPULUS          TREMULA                                                               2  40   5
+7   SALICACEAE POPULUS          TREMULA                                                               1   9
+10  SALICACEAE SALIX            CAPREA                                                                1 2.5
+6   SALICACEAE SALIX            CAPREA                                                                3   4   3   3  15
+7   SALICACEAE SALIX            CAPREA                                                                2  17   7
+8   SALICACEAE SALIX            CAPREA                                                                1  11
+9   SALICACEAE SALIX            CAPREA                                                                2 2.5   3
+
+
+
+
+
+
+
+
+

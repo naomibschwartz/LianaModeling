@@ -1,0 +1,96 @@
+LinFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 3 ANACARDIACESchinopsis haenkeana                                                        1    5
+ 2 ANACARDIACESchinus    piliferus                                                        1   11 9    13
+ 7 ASTERACEAE Cnicothamnulorentzii                                                        1    8 7.5  5
+ 8 ASTERACEAE Cnicothamnulorentzii                                                        1   10 10   2.5  2.5  5    7.5  2.5  2.5
+ 3 ASTERACEAE Eupatorium M1                                                               2  2.5 2.5  2.5
+ 6 ASTERACEAE Eupatorium M1                                                               1  2.5
+ 7 ASTERACEAE Eupatorium M1                                                               4  2.5 2.5  2.5  2.5
+ 8 ASTERACEAE Eupatorium M1                                                               3  2.5 2.5  2.5  2.5  2.5
+ 9 ASTERACEAE Eupatorium M1                                                               1  2.5
+10 ASTERACEAE Eupatorium M1                                                               1  2.5
+ 1 BIGNONIACEAMacfadyena unguis-cati                                                L     1  2.5
+ 2 BIGNONIACEATabebuia   impetiginosa                                                     1   31
+ 5 BIGNONIACEATabebuia   impetiginosa                                                     1  2.5 11
+ 6 BIGNONIACEATabebuia   impetiginosa                                                     1   19
+ 5 BOMBACACEAEChorisia   insignis                                                         1   32
+ 7 BOMBACACEAEChorisia   insignis                                                         1   18
+ 8 BOMBACACEAEChorisia   insignis                                                         1   31
+ 9 BOMBACACEAEChorisia   insignis                                                         1   88
+ 1 CARICACEAE Carica     quercifolia                                                      1   24
+ 5 CARICACEAE Carica     quercifolia                                                      1   21
+ 8 CARICACEAE Carica     quercifolia                                                      1   15
+ 1 EUPHORBIACESebastiana brasiliensis                                                     1  2.5
+ 2 EUPHORBIACESebastiana brasiliensis                                                     1  2.5 2.5
+ 1 FABACEAE   Acacia     praecox                                                          2  2.5 5
+ 2 FABACEAE   Acacia     praecox                                                          8  2.5 2.5  2.5  2.5  5    5    8    8
+ 3 FABACEAE   Acacia     praecox                                                          8  2.5 2.5  2.5  2.5  2.5  7.5  5    2.5  5
+ 4 FABACEAE   Acacia     praecox                                                          2  2.5 5
+ 5 FABACEAE   Acacia     praecox                                                          3    5 2.5  5
+ 6 FABACEAE   Acacia     praecox                                                          6  2.5 2.5  2.5  2.5  7.5  5
+ 7 FABACEAE   Acacia     praecox                                                          3  2.5 2.5  2.5  5
+ 9 FABACEAE   Acacia     praecox                                                          4  2.5 2.5  5    2.5  2.5
+10 FABACEAE   Acacia     praecox                                                          9    5 2.5  2.5  2.5  2.5  2.5  2.5  2.5  2.5
+ 1 FABACEAE   Acacia     tucamanensis                                                     1    5
+ 2 FABACEAE   Acacia     tucamanensis                                                     1  2.5
+ 6 FABACEAE   Acacia     tucamanensis                                                     1  2.5
+ 8 FABACEAE   Acacia     tucamanensis                                                     1  2.5
+10 FABACEAE   Acacia     tucamanensis                                                     1  2.5
+ 3 FABACEAE   Acacia     visco                                                            6    5 2.5  7.5  5    9    14   7.5  5    2.5
+ 4 FABACEAE   Acacia     visco                                                            6  2.5 2.5  5    7.5  5    2.5  7.5  7.5  5    7.5  8
+ 5 FABACEAE   Acacia     visco                                                            2  2.5 2.5
+ 7 FABACEAE   Acacia     visco                                                            1    5
+ 8 FABACEAE   Acacia     visco                                                            2    5 2.5
+ 9 FABACEAE   Acacia     visco                                                            3  2.5 5    2.5
+10 FABACEAE   Acacia     visco                                                            1  2.5
+ 1 FABACEAE   Anadenanthecolubrina                                                        6   18 5    5    17   13   10
+ 2 FABACEAE   Anadenanthecolubrina                                                        2   12 14
+ 3 FABACEAE   Anadenanthecolubrina                                                        6   11 12   17   14   13   5    17
+ 4 FABACEAE   Anadenanthecolubrina                                                        7   10 15   18   13   14   13   16   5    9
+ 5 FABACEAE   Anadenanthecolubrina                                                        7   16 16   5    2.5  7.5  9    10
+ 6 FABACEAE   Anadenanthecolubrina                                                        2   21 12   19   15
+ 7 FABACEAE   Anadenanthecolubrina                                                        8   19 17   2.5  16   15   16   19   7.5  12   2.5
+ 8 FABACEAE   Anadenanthecolubrina                                                        3   14 11   9
+ 9 FABACEAE   Anadenanthecolubrina                                                        4    5 17   8    13   16   9    21   9
+10 FABACEAE   Anadenanthecolubrina                                                        8   14 16   11   16   18   10   5    7.5  11
+ 3 FABACEAE   Calliandra formosum                                                         1  2.5
+ 1 FABACEAE   Parapiptadeexcelsa                                                          1  2.5
+ 1 FABACEAE   Tipuana    tipae                                                            2   36 24
+10 MALPIGHIACEHeteropteriumbellata                                                  L     1  2.5
+ 4 NYCTAGINACEBougainvillstipitata                                                        1  2.5 13
+ 5 NYCTAGINACEBougainvillstipitata                                                        1    8
+ 7 NYCTAGINACEBougainvillstipitata                                                        1  7.5 5
+ 9 NYCTAGINACEBougainvillstipitata                                                        2  2.5 2.5
+ 4 PHYTOLACCACAchatocarpupraecox                                                          1  2.5  2.5    5
+ 4 POLYGONACEARuprechtia apetala                                                          3  2.5 2.5  2.5  2.5
+ 5 POLYGONACEARuprechtia apetala                                                          3    5 5    5    2.5  2.5
+ 6 POLYGONACEARuprechtia apetala                                                          1    5 5    5    5    7.5
+ 7 POLYGONACEARuprechtia apetala                                                          1  2.5
+ 8 POLYGONACEARuprechtia apetala                                                          1  2.5
+ 9 POLYGONACEARuprechtia apetala                                                          2    5 2.5  10   2.5  2.5  2.5
+ 9 RUBIACEAE  Randia     M1                                                               2  2.5 2.5  2.5  2.5  2.5
+ 1 SAPINDACEAEAllophylus edulis                                                           8  2.5 2.5  2.5  2.5  2.5  5    7.5  5    5    5    5    2.5  2.5  5
+ 2 SAPINDACEAEAllophylus edulis                                                           4    5 11   2.5  5    5    7.5
+ 5 SAPINDACEAESerjania   erecta                                                     L     1  2.5
+ 7 SAPINDACEAESerjania   erecta                                                     L     1  2.5
+ 1 SOLANACEAE Solanum    verbascifolium                                                   1    5
+ 1 ULMACEAE   Celtis     pubescens                                                        1    5
+ 2 ULMACEAE   Celtis     pubescens                                                        1    5 2.5
+ 3 ULMACEAE   Celtis     pubescens                                                        1  2.5 2.5
+ 5 ULMACEAE   Celtis     pubescens                                                        1    5 5
+ 9 ULMACEAE   Celtis     pubescens                                                        1    5 2.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

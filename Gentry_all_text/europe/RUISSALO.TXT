@@ -1,0 +1,64 @@
+LineFamily     Genus            Species        vouchevouchevouchevouchevouchevouchevouchevoucheLianN(IndStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStem
+1   ACERACEAE  ACER             PLATANOIDES                                                           6   3   6   8   7   8   8   9
+10  ACERACEAE  ACER             PLATANOIDES                                                           2  16   4
+2   ACERACEAE  ACER             PLATANOIDES                                                          10 2.5   5   4   5   5   5 2.5  11  12   5
+3   ACERACEAE  ACER             PLATANOIDES                                                           6   4   5   5   3   3   8  11
+4   ACERACEAE  ACER             PLATANOIDES                                                           6   4   3 2.5   3   4   3
+5   ACERACEAE  ACER             PLATANOIDES                                                           6   3  10  22  10   4   3   4   5
+6   ACERACEAE  ACER             PLATANOIDES                                                           2  13   8
+7   ACERACEAE  ACER             PLATANOIDES                                                          17   4   7  10   5   3   5   7   7   6   8   3   4   4   4   7   3   3   5   3
+8   ACERACEAE  ACER             PLATANOIDES                                                           6 2.5   3 2.5   5   8  43
+9   ACERACEAE  ACER             PLATANOIDES                                                           4 2.5  28   9   5   5   6  11  16
+1   BETULACEAE BETULA           PENDULA                                                               4   6  34   9   4
+10  BETULACEAE BETULA           PENDULA                                                               1  48
+3   BETULACEAE BETULA           PENDULA                                                               3   4   3   9
+4   BETULACEAE BETULA           PENDULA                                                               4   3  25   4  17
+6   BETULACEAE BETULA           PENDULA                                                               3   6   3   5
+7   BETULACEAE BETULA           PENDULA                                                               5  44   8   9   9  12
+8   BETULACEAE BETULA           PENDULA                                                               1   6
+4   CAPRIFOLIACSAMBUCUS         RACEMOSA                                                              1 2.5
+1   FAGACEAE   QUERCUS          ROBUR                                                                 1  54
+10  FAGACEAE   QUERCUS          ROBUR                                                                10  53  12   8   6   7  54  10  12  21   8
+2   FAGACEAE   QUERCUS          ROBUR                                                                 1  29
+3   FAGACEAE   QUERCUS          ROBUR                                                                 1  10
+4   FAGACEAE   QUERCUS          ROBUR                                                                 2  19  10
+5   FAGACEAE   QUERCUS          ROBUR                                                                 7  74   8  15   6  12   3  20
+6   FAGACEAE   QUERCUS          ROBUR                                                                 7   5   5   3   5  10   7   3 2.5 2.5
+7   FAGACEAE   QUERCUS          ROBUR                                                                 2  47   3
+8   FAGACEAE   QUERCUS          ROBUR                                                                 3   5  76  75
+9   FAGACEAE   QUERCUS          ROBUR                                                                 3   7   6  10
+3   PINACEAE   PICEA            ABIES                                                                 2  36  59
+6   ROSACEAE   MALUS            PUMILA                                                                1   4   5
+1   ROSACEAE   PRUNUS           PADUS                                                                 9   4   8   6   7   6   3   9   6   4
+2   ROSACEAE   PRUNUS           PADUS                                                                 3   4  20   5
+3   ROSACEAE   PRUNUS           PADUS                                                                 6   3 2.5 2.5   7   7   6
+4   ROSACEAE   PRUNUS           PADUS                                                                 1 2.5
+5   ROSACEAE   PRUNUS           PADUS                                                                 2   3 2.5
+6   ROSACEAE   PRUNUS           PADUS                                                                 1   4
+7   ROSACEAE   PRUNUS           PADUS                                                                 4   4   5   5   4
+8   ROSACEAE   PRUNUS           PADUS                                                                 6   3   5   3 2.5 2.5   4
+9   ROSACEAE   PRUNUS           PADUS                                                                 4   7   6 2.5   6
+1   ROSACEAE   SORBUS           AUCUPARIA                                                             4  10   6   3 2.5
+10  ROSACEAE   SORBUS           AUCUPARIA                                                             4   3   4   4   4   4   5
+2   ROSACEAE   SORBUS           AUCUPARIA                                                             3 2.5 2.5   5   4
+3   ROSACEAE   SORBUS           AUCUPARIA                                                             9 2.5   5   3   4   3   3   3   3   8   6
+4   ROSACEAE   SORBUS           AUCUPARIA                                                             6   4   4  12 2.5 2.5   4
+5   ROSACEAE   SORBUS           AUCUPARIA                                                            13   3   3   4   7 2.5 2.5   5   4 2.5   4   5   5   3   7   4   5   4   5
+6   ROSACEAE   SORBUS           AUCUPARIA                                                             8   8   3   3 2.5   6   4   3   3   4
+7   ROSACEAE   SORBUS           AUCUPARIA                                                            13   5   3   7   6   6 2.5 2.5   5   6   4   4   3   7
+8   ROSACEAE   SORBUS           AUCUPARIA                                                             4   8   3 2.5 2.5
+9   ROSACEAE   SORBUS           AUCUPARIA                                                             2   5  12   3
+1   SALICACEAE SALIX            CAPREA                                                                1  14
+3   SALICACEAE SALIX            CAPREA                                                                1   7
+10  ULMACEAE   ULMUS            GLABRA                                                                1   9
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,144 @@
+LinFamily       Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(ISTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 4 ANACARDIACEAEAstronium  graveolens                                                     2   10  2.5
+ 6 ANACARDIACEAESpondias   M1                                                             1   15
+ 6 APOCYNACEAE  Aspidospermcuspa                                                          1  7.5
+ 8 APOCYNACEAE  Aspidospermcuspa                                                          1  2.5
+ 3 APOCYNACEAE  Stemmadeniagrandiflora                                                    2    5    5
+ 1 BIGNONIACEAE Arrabidaea corallina                                                  L   2  2.5  2.5
+ 8 BIGNONIACEAE Arrabidaea corallina                                                  L   1  2.5
+ 1 BIGNONIACEAE Arrabidaea oxycarpa                                                   L   2  2.5  2.5  2.5
+ 3 BIGNONIACEAE Arrabidaea oxycarpa                                                   L   2    5  2.5  2.5
+ 8 BIGNONIACEAE Arrabidaea oxycarpa                                                   L   1  2.5
+10 BIGNONIACEAE Arrabidaea oxycarpa                                                   L   2  2.5  2.5
+ 1 BIGNONIACEAE Arrabidaea pubescens                                                  L   3    5  2.5  2.5
+ 2 BIGNONIACEAE Arrabidaea pubescens                                                  L   1  2.5
+ 4 BIGNONIACEAE Arrabidaea pubescens                                                  L   3  2.5    5  2.5
+ 5 BIGNONIACEAE Arrabidaea pubescens                                                  L   5    5  2.5  2.5  2.5    5
+ 6 BIGNONIACEAE Arrabidaea pubescens                                                  L   2  2.5  2.5
+ 7 BIGNONIACEAE Arrabidaea pubescens                                                  L   4    5  2.5  2.5  2.5
+ 3 BIGNONIACEAE Ceratophytutetragonolo                                                L   1    5
+ 3 BIGNONIACEAE Cydista    aequinoctia                                                L   2  2.5  2.5
+ 1 BIGNONIACEAE Mansoa     verrucifera                                                L   3  2.5  2.5  2.5
+ 2 BIGNONIACEAE Mansoa     verrucifera                                                L   5  2.5  2.5  2.5  2.5    5
+ 3 BIGNONIACEAE Mansoa     verrucifera                                                L   1    5
+ 4 BIGNONIACEAE Mansoa     verrucifera                                                L   1  2.5
+ 5 BIGNONIACEAE Mansoa     verrucifera                                                L   1  2.5
+ 6 BIGNONIACEAE Mansoa     verrucifera                                                L   2  2.5  2.5
+ 7 BIGNONIACEAE Mansoa     verrucifera                                                L   1  2.5
+ 3 BIGNONIACEAE Memora     patula                                                     L   4  2.5  2.5  2.5    5
+ 4 BIGNONIACEAE Memora     patula                                                     L   1  2.5
+ 3 BIGNONIACEAE Phryganocydcorymbosa                                                  L   1    5
+ 7 BIGNONIACEAE Pleonotoma clematis                                                   L   1  2.5
+ 1 BIGNONIACEAE Tabebuia   billbergii                                                     5  2.5    5  7.5  2.5   15
+ 2 BIGNONIACEAE Tabebuia   billbergii                                                     2  2.5    5
+ 1 BIGNONIACEAE Tabebuia   ochracea                                                       2    5    5  2.5
+ 5 BIGNONIACEAE Tabebuia   ochracea                                                       1   20
+ 7 BIGNONIACEAE Tabebuia   ochracea                                                       4  2.5  2.5  2.5  2.5
+ 8 BIGNONIACEAE Tabebuia   ochracea                                                       3    5  7.5  2.5
+10 BIGNONIACEAE Tabebuia   ochracea                                                       2  2.5  2.5
+ 3 BIGNONIACEAE Tabebuia   rosea                                                          1   37
+ 3 BURSERACEAE  Bursera    simarouba                                                      1   60
+ 3 CACTACEAE    M1         M1                                                             1  7.5
+ 1 CACTACEAE    Pereskia   guamacho                                                       1   12
+ 9 CAPPARIDACEAECapparis   hastata    14854                                               1  7.5
+10 CAPPARIDACEAECapparis   hastata    14854                                               2  2.5  2.5
+ 1 CAPPARIDACEAECapparis   pachaca    14810                                               1  2.5
+ 1 CAPPARIDACEAECapparis   pachaca    14810                                               2  2.5    5
+10 CAPPARIDACEAECapparis   pachaca    14810                                               1  2.5
+ 4 CAPPARIDACEAECapparis   verrucosa                                                      1  2.5
+ 4 CAPPARIDACEAEMorisonia  americana                                                      1  2.5
+ 9 CAPPARIDACEAESteriphoma paradoxa   14856                                               1  2.5
+10 CAPPARIDACEAESteriphoma paradoxa   14856                                               1  2.5
+ 1 CELASTRACEAE Hippocrateavolubilis                                                  L   1  2.5
+ 4 EUPHORBIACEAEHura       crepitans                                                      1    5
+ 6 EUPHORBIACEAEManihot    esculenta  14850                                               1  2.5
+ 1 EUPHORBIACEAEPhyllanthusbotryanthus                                                    2  2.5  2.5  2.5    5  2.5 2.5  2.5
+ 6 EUPHORBIACEAEPhyllanthusbotryanthus                                                    1  7.5
+ 5 EUPHORBIACEAESebastianiaM1                                                             1  2.5
+ 3 FABACEAE     Acacia     flexuosa   14841                                               1   10    5
+ 5 FABACEAE     Acacia     flexuosa   14841                                               1  2.5
+ 2 FABACEAE     Acacia     glomerosa  14861                                               5    5   15   12  7.5   12 7.5  10   15   10   7.5
+ 3 FABACEAE     Acacia     glomerosa  14861                                               1   20
+ 8 FABACEAE     Acacia     glomerosa  14861                                               5   12    5  2.5  2.5  7.5 10
+ 9 FABACEAE     Acacia     glomerosa  14861                                               9    5  2.5    5  7.5    5 5    2.5  2.5  5    5
+10 FABACEAE     Acacia     glomerosa  14861                                               6  2.5    5    5    5   10 7.5
+ 6 FABACEAE     Acacia     tamarindifo14830                                               2   20    5
+ 7 FABACEAE     Acacia     tamarindifo14830                                               4  2.5    5    5   15
+10 FABACEAE     Acacia     tamarindifo14830                                               9  2.5  2.5  7.5    5  2.5 5    2.5  7.5  7.5
+10 FABACEAE     Bauhinia   M1                                                         L   2  2.5  2.5
+ 8 FABACEAE     Cassia     bacillaris 14860                                               1  2.5
+ 8 FABACEAE     Cassia     emarginata 14848                                               9    5  2.5   10    5  2.5 2.5  7.5  5    2.5  5
+ 9 FABACEAE     Cassia     emarginata 14848                                               4  2.5  2.5  2.5  2.5
+ 1 FABACEAE     Coursetia  arborea    14801                                               1  2.5
+ 2 FABACEAE     Coursetia  arborea    14801                                               1  2.5
+ 4 FABACEAE     Coursetia  arborea    14801                                               3    5    5  2.5
+ 5 FABACEAE     Coursetia  arborea    14801                                               2  2.5  7.5
+ 7 FABACEAE     Coursetia  arborea    14801                                               6  2.5  2.5  2.5  2.5  2.5 5
+10 FABACEAE     Coursetia  arborea    14801                                               1   12
+ 8 FABACEAE     Enterolobiucyclocarpum                                                    1   27
+ 4 FABACEAE     Erythrina  pallida    14823                                               1   12
+ 1 FABACEAE     LonchocarpuM1         14813                                               1    5
+ 4 FABACEAE     M1         M1         14871                                               1  2.5
+ 3 FABACEAE     Machaerium latialatum 14836                                               1  2.5
+ 4 FABACEAE     Machaerium latialatum 14836                                               1   10
+ 5 FABACEAE     Machaerium latialatum 14836                                               8    5  2.5  2.5  7.5    5 5    7.5  7.5
+ 6 FABACEAE     Machaerium latialatum 14836                                               1    5
+ 6 FABACEAE     Machaerium latialatum 14836                                               1  2.5
+ 7 FABACEAE     Machaerium latialatum 14836                                               2    5  7.5
+10 FABACEAE     Machaerium latialatum 14836                                               3  2.5    5  2.5  2.5
+10 FABACEAE     Machaerium latialatum 14836                                               1  2.5  2.5  7.5    5
+ 1 FABACEAE     Machaerium moritizianu                                                L   1  2.5
+ 2 FABACEAE     Machaerium moritizianu                                                L   4  2.5    5  2.5  2.5  7.5 5
+ 6 FABACEAE     Machaerium moritizianu                                                L   2    5  7.5
+ 7 FABACEAE     Machaerium moritizianu                                                L   2  2.5  2.5
+ 9 FABACEAE     Machaerium moritizianu                                                L   1    5
+10 FABACEAE     Machaerium moritizianu                                                L   4  2.5  7.5  7.5  7.5    5
+ 5 FABACEAE     PithecellobM1                                                             1   25
+ 6 FABACEAE     PithecellobM2         14852                                               2   25    5
+ 5 LOGANIACEAE  Strychnos  fendleri   14849                                               5   17    5  7.5  2.5  2.5 2.5  2.5
+ 6 LOGANIACEAE  Strychnos  fendleri   14849                                               1  7.5
+ 7 LOGANIACEAE  Strychnos  fendleri   14849                                               3    5    5    5
+ 4 MALPIGHIACEAEBunchosia  mollis     14800                                               1    5
+ 5 MALPIGHIACEAEBunchosia  mollis     14800                                               1  2.5
+ 5 MALPIGHIACEAEMalpighia  emarginata 14831                                               1  2.5
+ 7 MALPIGHIACEAEMalpighia  emarginata 14831                                               4  2.5  2.5  2.5  2.5
+ 9 MALPIGHIACEAEMalpighia  emarginata 14831                                               1  2.5
+10 MALPIGHIACEAEMalpighia  emarginata 14831                                               1  2.5  2.5  2.5
+ 3 MELIACEAE    Trichilia  pallida                                                        1  7.5
+ 3 MELIACEAE    Trichilia  trifolia                                                       1  2.5
+ 6 MYRTACEAE    Eugenia    M1         14862                                               1    5  2.5
+ 5 MYRTACEAE    Eugenia    monticola                                                      1  2.5
+ 1 NYCTAGINACEAEGuapira    pacurero   14874                                               2    5   12   10    5  7.5
+ 3 NYCTAGINACEAEGuapira    pacurero   14874                                               1  2.5
+ 6 NYCTAGINACEAEM1         M1         14863                                               1   15
+ 6 NYCTAGINACEAEM2         M1                                                             1    5
+ 1 NYCTAGINACEAENeea       M1         14805                                               2    5 12.5   10    5  7.5
+10 PASSIFLORACEAPassiflora serrulata                                                  L   2  2.5  2.5
+ 2 POLYGONACEAE Coccoloba  cf padiform14816                                               1  2.5
+ 9 POLYGONACEAE Coccoloba  cf padiform14816                                               1   15   12
+ 7 RUBIACEAE    Chomelia   M1         14857                                               1  7.5
+ 4 RUBIACEAE    M1         M1         14865                                               1  2.5
+ 5 RUBIACEAE    M2         M1                                                             1    5
+ 1 RUBIACEAE    Randia     armata     14804                                               1  2.5
+ 4 RUBIACEAE    Randia     armata     14804                                               1  2.5
+10 RUBIACEAE    Randia     armata     14804                                               1  2.5  2.5  2.5
+ 7 SAPINDACEAE  Paullinia  glomerulosa                                                L   1  2.5
+ 3 SAPINDACEAE  Paullinia  leiocarpa  14866                                           L   1  2.5
+ 9 SAPINDACEAE  Paullinia  leiocarpa  14866                                           L   1  2.5
+ 5 SAPINDACEAE  Talisia    olivaeformi14829                                               2  2.5    5
+ 6 SAPINDACEAE  Talisia    olivaeformi14829                                               1  2.5
+ 5 SOLANACEAE   Solanum    cf diaboli 14864                                               1  2.5
+ 1 SOLANACEAE   Solanum    M1         14808                                           L   1  2.5  2.5
+ 4 THEOPHRASTACEJacquinia  M1         14843                                               1  7.5
+ 7 THEOPHRASTACEJacquinia  M1         14843                                               1    5  2.5
+
+
+
+
+
+
+
+
+
+
+

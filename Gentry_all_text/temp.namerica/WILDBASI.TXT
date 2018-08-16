@@ -1,0 +1,48 @@
+LineFamily        Genus            Species        vouchevouchevouchevouchevouchevouchevouchevoucheLianN(IndStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStemStem
+2   AQUIFOLIACEAE ILEX             VOMITORIA                                                             4   3   3   6 2.5   5   6   3   5   5
+3   AQUIFOLIACEAE ILEX             VOMITORIA                                                            20   4   4   3 2.5   4   4 2.5 2.5   5   4   4   3   3   3 2.5 2.5   3   4   3 2.5
+4   AQUIFOLIACEAE ILEX             VOMITORIA                                                             5 2.5   3 2.5   5   4   5   3
+1   CUPRESSACEAE  JUNIPERUS        ASHEI                                                                 5   5 2.5 2.5   8   7  15   7   8
+1   CUPRESSACEAE  JUNIPERUS        ASHEI                                                                 9  12  13  12   8  17 2.5  21  17  14  11  10   6   5   5   5 2.5
+2   CUPRESSACEAE  JUNIPERUS        ASHEI                                                                 7  10  24  10  10   8  14  10  19  24   5   4
+3   CUPRESSACEAE  JUNIPERUS        ASHEI                                                                10  14   5   3   7   6   3 2.5  12   3 2.5   3
+4   CUPRESSACEAE  JUNIPERUS        ASHEI                                                                12   7   6   3   3   6   4   6   4   7   6   7   9   7  18  11   6 2.5
+4   EBENACEAE     DIOSPYROS        TEXANA                                                                1 2.5 2.5 2.5 2.5 2.5
+1   FABACEAE      SOPHORA          SECUNDIFLORA                                                          4 2.5 2.5   4   5
+1   FAGACEAE      QUERCUS          FUSIFORMIS                                                            1  23
+4   FAGACEAE      QUERCUS          FUSIFORMIS                                                           77   4   7   4   5   9   6  17  45
+4   FAGACEAE      QUERCUS          SINUATA                                                               1   4
+1   FAGACEAE      QUERCUS          TEXANA                                                                3   7   8   8  13
+2   FAGACEAE      QUERCUS          TEXANA                                                                8  12   9   7  11  11  13  12  22   3 2.5   5 2.5
+3   FAGACEAE      QUERCUS          TEXANA                                                                7  12  14  13  15  14   7  15  15  11   5   3
+4   FAGACEAE      QUERCUS          TEXANA                                                                7 2.5 2.5   6   5   6   3  12   3 2.5
+1   GARRYACEAE    GARRYA           O. var LINDHEIMERI                                                    1 2.5 2.5
+2   GARRYACEAE    GARRYA           O. var LINDHEIMERI                                                    3 2.5   3 2.5
+3   GARRYACEAE    GARRYA           O. var LINDHEIMERI                                                    1 2.5
+4   GARRYACEAE    GARRYA           O. var LINDHEIMERI                                                    1 2.5
+1   JUGLANDACEAE  CARYA            ILLINOINENSIS                                                         1   7   5   5
+4   JUGLANDACEAE  CARYA            ILLINOINENSIS                                                         1   5
+3   OLEACEAE      FRAXINUS         PENNSYLVANICA                                                         1   3
+2   RHAMNACEAE    RHAMNUS          CAROLINIANA                                                           2 2.5   3
+4   SALICACEAE    SALIX            NIGRA                                                                 1   6
+1   SAPOTACEAE    BUMELIA          LANUGINOSA                                                            2 2.5   7
+2   SAPOTACEAE    BUMELIA          LANUGINOSA                                                            1   6
+2   ULMACEAE      CELTIS           RETICULATA                                                            2   3 2.5
+4   ULMACEAE      CELTIS           RETICULATA                                                            1   8
+2   ULMACEAE      ULMUS            CRASSIFOLIA                                                           2   4 2.5 2.5
+3   ULMACEAE      ULMUS            CRASSIFOLIA                                                           1 2.5
+4   ULMACEAE      ULMUS            CRASSIFOLIA                                                           1 2.5
+2   VITACEAE      VITIS            MUSTANGENSIS                                                   L      2   4   3
+3   VITACEAE      VITIS            MUSTANGENSIS                                                   L      1 2.5
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,272 @@
+LinFamily      Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 1 ANNONACEAE  Uvaria     goeziana   34352                                           L    1    5
+ 6 APOCYNACEAE Alyxia     ruscifolia 34409                                                1  2.5
+ 4 APOCYNACEAE Melodinus  australis  34393                                           L    1  2.5
+ 6 APOCYNACEAE Melodinus  australis  34393                                           L    1  2.5
+10 APOCYNACEAE Melodinus  australis  34393                                           L    1  2.5
+10 APOCYNACEAE Melodinus  M1         34459                                           L    1  2.5
+ 7 ARALIACEAE  Polyscias  australiana                                                     3    5 2.5  2.5
+10 ARALIACEAE  Polyscias  australiana                                                     1  2.5
+ 6 ARAUCARIACEAAgathis    microstachy                                                     1   69
+ 6 ARECACEAE   Calamus    australis                                                  L    1  2.5
+ 8 ARECACEAE   Calamus    australis                                                  L    2  2.5 2.5
+ 1 ARECACEAE   Calamus    moti                                                       L    1  2.5 2.5
+ 2 ARECACEAE   Calamus    moti                                                       L    2  2.5 2.5  2.5  2.5  2.5
+ 3 ARECACEAE   Calamus    moti                                                       L    1  2.5
+ 4 ARECACEAE   Calamus    moti                                                       L    2  2.5 2.5  2.5
+ 6 BALANOPACEAEBalanops   australiana34408                                                1  2.5
+ 7 BALANOPACEAEBalanops   australiana34408                                                1   32
+ 1 BIGNONIACEAEHausmaniantjacunda    34349                                           L    2    5  7.5
+ 7 BURSERACEAE Canarium   australasic34430                                                1  2.5
+10 CELASTRACEAECaryospermuarborescens34449                                                1  2.5
+ 7 CELASTRACEAEHypsophila halleyana  34428                                                2  2.5  2.5
+ 3 CLUSIACEAE  Garcinia   aff hustein34375                                                1  2.5
+ 5 CLUSIACEAE  Garcinia   aff hustein34375                                                1   12
+ 6 CLUSIACEAE  Garcinia   aff hustein34375                                                2   23   14
+ 1 CUNONIACEAE Ceratopetalsucirubrum 34391                                                1   20
+ 2 CUNONIACEAE Ceratopetalsucirubrum 34391                                                2   31 7.5
+ 4 CUNONIACEAE Ceratopetalsucirubrum 34391                                                1  2.5
+ 5 CYATHEACEAEACyathea    rebeccae                                                        7    5 2.5  2.5  2.5  2.5  2.5  2.5
+ 6 CYATHEACEAEACyathea    rebeccae                                                        2  2.5 2.5
+ 9 CYATHEACEAEACyathea    rebeccae                                                        4  2.5 2.5  2.5  2.5
+10 CYATHEACEAEACyathea    rebeccae                                                        3  2.5 2.5  2.5
+ 3 DAVIDSONIACEDavidsonia pruriens                                                        1    5
+ 4 DAVIDSONIACEDavidsonia pruriens                                                        1  2.5
+ 8 EBENACEAE   Diospyros  hemicycloid34426                                                1  7.5
+10 ELAEOCARPACEAristoteliamegalosperm                                                     1    5
+ 5 ELAEOCARPACEElaeocarpusarahemicus                                                      1   19
+ 3 ELAEOCARPACEElaeocarpuslargifloren34381                                                1    5
+ 4 ELAEOCARPACEElaeocarpussericopetal34446                                                1   16
+ 7 ELAEOCARPACEElaeocarpussericopetal34446                                                1   33
+ 9 ELAEOCARPACEElaeocarpussericopetal34446                                                2  2.5 39
+ 5 ELAEOCARPACEElaeocarpussp. nov.   34404                                                1  2.5
+ 1 ELAEOCARPACESloanea    australis  34346                                                1  2.5
+ 5 ELAEOCARPACESloanea    australis  34346                                                1    9
+ 2 ELAEOCARPACESloanea    macbrydei  34367 34451                                          2  2.5
+ 9 ELAEOCARPACESloanea    macbrydei  34367 34451                                          1  2.5
+10 ELAEOCARPACESloanea    macbrydei  34367 34451                                          1  2.5
+ 3 EUPHORBIACEAAntidesma  erostre                                                         1   10
+10 EUPHORBIACEAAntidesma  erostre                                                         1   12
+ 4 EUPHORBIACEAMacaranga  subdentata 34392 34457                                          2  2.5 10   2.5
+ 9 EUPHORBIACEAMacaranga  subdentata 34392 34457                                          2    5 10
+10 EUPHORBIACEAMacaranga  subdentata 34392 34457                                          1  2.5
+ 1 EUPHORBIACEARockinghamiangustifoli34357 34387                                          2   11 7.5
+ 2 EUPHORBIACEARockinghamiangustifoli34357 34387                                          2   15 17
+ 4 EUPHORBIACEARockinghamiangustifoli34357 34387                                          2  2.5 2.5
+ 8 EUPHORBIACEARockinghamiangustifoli34357 34387                                          2   23 10
+ 2 FABACEAE    Lonchocarpustipularis 34364                                           L    2  2.5 10
+ 8 FLACOURTIACECasearia   M1                                                              1    5
+ 9 FLACOURTIACECasearia   M1                                                              1    5
+ 3 GROSSULARIACPolyosma   alangiacea                                                      1   15
+ 4 GROSSULARIACPolyosma   alangiacea                                                      1    9
+ 1 ICACINACEAE Apodytes   brachystyli34359 34394                                          2    5 2.5
+ 3 ICACINACEAE Apodytes   brachystyli34359 34394                                          1   16
+ 4 ICACINACEAE Apodytes   brachystyli34359 34394                                          1    5
+ 6 ICACINACEAE Apodytes   brachystyli34359 34394                                          1   14
+ 7 ICACINACEAE Apodytes   brachystyli34359 34394                                          1  2.5
+10 ICACINACEAE Apodytes   brachystyli34359 34394                                          1   11
+ 1 ICACINACEAE Citronella smythii    34356                                                2   14 5
+ 6 ICACINACEAE Citronella smythii    34356                                                1   10
+10 ICACINACEAE Citronella smythii    34356                                                1  7.5
+ 1 LAURACEAE   Beilschmiedaff obligandra                                                  1   25  
+ 7 LAURACEAE   Beilschmiedbancrofftii34429                                                1  2.5
+ 8 LAURACEAE   Beilschmiedbancrofftii34429                                                1   32
+10 LAURACEAE   Beilschmiedbancroftii                                                      1    5
+ 3 LAURACEAE   BielschmiedM1                                                              1   20
+ 6 LAURACEAE   Cryptocaryaaff hypogla33419                                                1  2.5
+ 5 LAURACEAE   Cryptocaryaaff rigida 34399                                                1  2.5
+ 9 LAURACEAE   Cryptocaryaaff rigida 34399                                                2    5   24
+ 5 LAURACEAE   Cryptocaryaangulata                                                        1   33
+ 9 LAURACEAE   Cryptocaryaangulata                                                        1   16
+ 3 LAURACEAE   Cryptocaryacinnamonifo34410 34443                                          2    5   18
+ 6 LAURACEAE   Cryptocaryacinnamonifo34410 34443                                          1  2.5
+ 7 LAURACEAE   Cryptocaryacinnamonifo34410 34443                                          2    5 14
+ 9 LAURACEAE   Cryptocaryacinnamonifo34410 34443                                          1    5
+ 3 LAURACEAE   Cryptocaryacorrugata                                                       1  2.5
+ 4 LAURACEAE   Cryptocaryahypospodia 34389                                                1  2.5
+ 5 LAURACEAE   CryptocaryaM1         34423A34403                                          2  2.5 2.5
+ 6 LAURACEAE   CryptocaryaM1         34423A34403                                          1  7.5
+ 2 LAURACEAE   Cryptocaryamackinonium34439                                                1   15
+ 8 LAURACEAE   Cryptocaryamackinonium34439                                                1  2.5
+ 6 LAURACEAE   Cryptocaryasp. nov.   34412                                                1  2.5
+ 7 LAURACEAE   Endiandra  cowleana                                                        1   11
+ 3 LAURACEAE   Endiandra  hypotephra                                                      1  7.5
+ 5 LAURACEAE   Endiandra  hypotephra                                                      1    5
+ 7 LAURACEAE   Endiandra  hypotephra                                                      1  7.5
+10 LAURACEAE   Endiandra  hypotephra                                                      1   10
+ 3 LILIACEAE   Ripogonum  papuanum                                                   L    1  2.5
+ 3 LILIACEAE   Ripogonum  papuanum                                                   L    1  2.5
+ 8 LOGANIACEAE Fagraea    gracilipes 34440                                                1  2.5
+ 8 MENISPERMACECaronia    M1         34440A                                          L    1  2.5
+ 6 MENISPERMACEFawcettia  tinosporoid34414                                           L    2  2.5  2.5
+ 2 MENISPERMACEHypserpa   laurina    34369 34396 34443                               L    1  2.5
+ 5 MENISPERMACEHypserpa   laurina    34369 34396 34443                               L    1  2.5
+ 9 MENISPERMACEHypserpa   laurina    34369 34396 34443                               L    1  2.5
+ 3 MENISPERMACEPachygonia pubescens  34380                                           L    2    5 2.5
+ 3 MONIMIACEAE Austromatthelegans    34371 34402 34418                                    1  2.5
+ 5 MONIMIACEAE Austromatthelegans    34371 34402 34418                                    1  2.5
+ 6 MONIMIACEAE Austromatthelegans    34371 34402 34418                                    2  2.5 2.5
+ 1 MONIMIACEAE Daphnandra repandula  34360                                                1  2.5
+ 6 MONIMIACEAE Daphnandra repandula  34360                                                1  2.5
+ 1 MONIMIACEAE Doryphora  aromatica  34355                                                1   12
+ 3 MONIMIACEAE Hedycarya  loxocarpa  34376                                                1  7.5
+ 2 MONIMIACEAE Stegantheraaustraliana34363 34444                                          1  2.5
+ 7 MONIMIACEAE Stegantheraaustraliana34363 34444                                          2  2.5 5
+ 9 MONIMIACEAE Stegantheraaustraliana34363 34444                                          2  2.5 2.5
+10 MONIMIACEAE Stegantheraaustraliana34363 34444                                          1  2.5
+ 8 MORACEAE    Ficus      destruans                                                  H    1  2.5 2.5  2.5
+ 9 MORACEAE    Ficus      destruans                                                  H    1  2.5 2.5  7.5  5    7.5  2.5  2.5  2.5
+ 1 MYRSINACEAE Ardisia    brevipedata34350                                                1  2.5
+ 3 MYRSINACEAE Rapanea    achradifoli34377 34460                                          1  2.5
+10 MYRSINACEAE Rapanea    achradifoli34377 34460                                          1  2.5
+ 6 MYRTACEAE   Austromyrtudelachayii 34417                                                1  2.5
+ 7 MYRTACEAE   Austromyrtudelachayii 34417                                                1  2.5
+10 MYRTACEAE   Austromyrtulucida     34453                                                2   10 2.5
+ 1 MYRTACEAE   Austromyrtushephardii 34354                                                1  2.5
+ 6 MYRTACEAE   Austromyrtushephardii 34354                                                1    5
+ 9 MYRTACEAE   Eugenia    aff luehmannii                                                  1   10
+ 3 MYRTACEAE   Eugenia    angophoroid34383                                                5    5 11   5    2.5  2.5
+ 4 MYRTACEAE   Eugenia    angophoroid34383                                                1  2.5
+ 6 MYRTACEAE   Eugenia    angophoroid34383                                                1  2.5
+ 7 MYRTACEAE   Eugenia    angophoroid34383                                                1  2.5
+ 2 MYRTACEAE   Eugenia    cormiflora 34365                                                1  2.5
+ 5 MYRTACEAE   Eugenia    cormiflora 34365                                                1  7.5
+ 7 MYRTACEAE   Eugenia    cormiflora 34365                                                1    5
+ 9 MYRTACEAE   Eugenia    cormiflora 34365                                                2   19 16
+10 MYRTACEAE   Eugenia    cormiflora 34365                                                1   15
+ 5 MYRTACEAE   Eugenia    cryptophleb34397                                                1  2.5
+ 2 MYRTACEAE   Eugenia    kuranda    34370                                                1  2.5
+ 8 MYRTACEAE   Eugenia    kuranda    34370                                                1   78
+ 3 MYRTACEAE   M1         M1         34382                                                1  2.5
+ 6 MYRTACEAE   Syzygium   cormiflora 34420                                                1  2.5
+ 7 MYRTACEAE   Syzygium   cormiflora 34420                                                1  2.5
+ 9 MYRTACEAE   Syzygium   cormiflora 34420                                                1    5
+ 3 OCHNACEAE   Brackenridgaustraliana34384                                                6   15 10   5    2.5  5    9
+ 4 OCHNACEAE   Brackenridgaustraliana34384                                                1  2.5
+ 5 OCHNACEAE   Brackenridgaustraliana34384                                                2    5 5
+ 6 OCHNACEAE   Brackenridgaustraliana34384                                                3   10 14   2.5
+ 7 OCHNACEAE   Brackenridgaustraliana34384                                                3    5 18   2.5
+ 8 OCHNACEAE   Brackenridgaustraliana34384                                                1  2.5
+ 9 OCHNACEAE   Brackenridgaustraliana34384                                                4  7.5 5    14   2.5
+10 OCHNACEAE   Brackenridgaustraliana34384                                                3   13 7.5  2.5
+ 2 OLEACEAE    Linociera  axillaris  34450                                                1    5
+ 5 OLEACEAE    Linociera  axillaris  34450                                                1    5
+ 8 OLEACEAE    Linociera  axillaris  34450                                                1  2.5
+ 9 OLEACEAE    Linociera  axillaris  34450                                                1    5
+10 OLEACEAE    Linociera  axillaris  34450                                                1  2.5
+ 9 PANDANACEAE Freycinetiaexcelsa    34442                                           L    1  2.5 2.5
+ 1 PANDANACEAE Pandanus   monticola  34348                                                1  2.5
+ 3 PANDANACEAE Pandanus   monticola  34348                                                1  2.5
+ 4 PANDANACEAE Pandanus   monticola  34348                                                2    5 2.5
+ 7 PANDANACEAE Pandanus   monticola  34348                                                1  2.5
+ 6 PODOCARPACEAAgathis    microstachys                                                    1   69
+ 3 PROTEACEAE  Buckinghamicelsissima 34378                                                1  2.5
+ 1 PROTEACEAE  Cardwellia sublimis                                                        1   35
+ 3 PROTEACEAE  Cardwellia sublimis                                                        1   23
+ 6 PROTEACEAE  Cardwellia sublimis                                                        1  7.5
+ 7 PROTEACEAE  Cardwellia sublimis                                                        1  2.5
+ 9 PROTEACEAE  Cardwellia sublimis                                                        1   40
+ 4 PROTEACEAE  Carnarvoniaaralifolia                                                      1   17
+ 4 PROTEACEAE  Darlingia  darlingiana                                                     1   46
+ 7 PROTEACEAE  Darlingia  darlingiana                                                     1   13
+ 4 PROTEACEAE  Musgravea  stenostachy                                                     1    5
+ 6 PROTEACEAE  Musgravea  stenostachy                                                     1   25
+ 1 PROTEACEAE  Opisthiolepheterophyll34347                                                5  7.5 2.5  5    68   16
+ 3 PROTEACEAE  Oreocallis wickhamii  34373                                                1  2.5
+ 7 PROTEACEAE  Oreocallis wickhamii  34373                                                1   62
+ 2 PROTEACEAE  Placospermucoriaceum  34366                                                1  2.5
+ 3 PROTEACEAE  Placospermucoriaceum  34366                                                1  2.5
+ 6 PROTEACEAE  Placospermucoriaceum  34366                                                1  2.5
+ 2 PROTEACEAE  Stenocarpusreticulatus                                                     2   22 12
+ 3 RHAMNACEAE  Alphitonia whitei                                                          1   33
+ 2 RUBIACEAE   Antirhea   myrtoides  34405 34401 34416 34456 34462                        1   10
+ 3 RUBIACEAE   Antirhea   myrtoides  34405 34401 34416 34456 34462                        1  2.5
+ 4 RUBIACEAE   Antirhea   myrtoides  34405 34401 34416 34456 34462                        1    9
+ 5 RUBIACEAE   Antirhea   myrtoides  34405 34401 34416 34456 34462                        7  2.5 2.5  5    5    2.5  7.5  2.5
+ 6 RUBIACEAE   Antirhea   myrtoides  34405 34401 34416 34456 34462                        1  2.5
+ 6 RUBIACEAE   Antirhea   myrtoides  34405 34401 34416 34456 34462                        1  2.5
+ 7 RUBIACEAE   Antirhea   myrtoides  34405 34401 34416 34456 34462                        2    9 10
+ 9 RUBIACEAE   Antirhea   myrtoides  34405 34401 34416 34456 34462                        6  7.5 5    2.5  5    7.5  9
+10 RUBIACEAE   Antirhea   myrtoides  34405 34401 34416 34456 34462                        3    9 2.5  2.5
+ 2 RUBIACEAE   Antirhea   tenuifolia 34390                                                1    5
+ 3 RUBIACEAE   Antirhea   tenuifolia 34390                                                1   12
+ 4 RUBIACEAE   Antirhea   tenuifolia 34390                                                1  2.5
+ 8 RUBIACEAE   Antirhea   tenuifolia 34390                                                1   17
+ 6 RUBIACEAE   Canthium   coprosmoide34455                                                1   20
+10 RUBIACEAE   Canthium   coprosmoide34455                                                1  2.5
+ 5 RUBIACEAE   Canthium   odoratum                                                        1   35
+ 7 RUBIACEAE   Morinda    acutifolia 34432                                           L    1  7.5
+ 3 RUBIACEAE   Psychotria dallachyanu34372                                                1  2.5
+ 2 RUBIACEAE   Psychotria simmondsian34368                                                1  2.5
+ 4 RUBIACEAE   Randia     fitzalanii 34461                                                1   10
+ 7 RUBIACEAE   Randia     fitzalanii 34461                                                1  7.5
+10 RUBIACEAE   Randia     fitzalanii 34461                                                1    9
+ 3 RUTACEAE    Euodia     halophylla 34385                                                1  2.5
+ 4 RUTACEAE    Euodia     halophylla 34385                                                1    5
+ 1 RUTACEAE    Euodia     xanthoxyloi34358                                                1   10
+ 3 RUTACEAE    Flindersia bourjotiana34374 34388 34452                                    2    5  2.5
+ 4 RUTACEAE    Flindersia bourjotiana34374 34388 34452                                    1  2.5
+ 5 RUTACEAE    Flindersia bourjotiana34374 34388 34452                                    1   20
+ 6 RUTACEAE    Flindersia bourjotiana34374 34388 34452                                    2   41 34
+ 7 RUTACEAE    Flindersia bourjotiana34374 34388 34452                                    3  2.5 22   37
+ 9 RUTACEAE    Flindersia bourjotiana34374 34388 34452                                    1  2.5
+10 RUTACEAE    Flindersia bourjotiana34374 34388 34452                                    1  2.5
+ 2 RUTACEAE    Halfordia  scleroxyla                                                      1   19
+ 4 RUTACEAE    Halfordia  scleroxyla                                                      1   17
+ 8 SAPINDACEAE Alectryon  semicinereu                                                     1   12
+ 1 SAPINDACEAE Castanosporalphandi   34351                                                1   58
+ 4 SAPINDACEAE Harpullia  rhyticarpa 34411 34423                                          1    5
+ 6 SAPINDACEAE Harpullia  rhyticarpa 34411 34423                                          2  2.5 2.5
+ 7 SAPINDACEAE Mischocarpuanodontus                                                       1  2.5
+ 5 SAPINDACEAE Synima     cordieri   34447                                                1    5
+ 7 SAPINDACEAE Synima     cordieri   34447                                                1    5
+ 9 SAPINDACEAE Synima     cordieri   34447                                                1    5
+ 5 SAPOTACEAE  Planchonellaff obovoid34398 34441                                          1  2.5
+ 8 SAPOTACEAE  Planchonellaff obovoid34398 34441                                          1  2.5
+10 SAPOTACEAE  Planchonellaff obovoid34398 34441                                          1    5
+ 9 SAPOTACEAE  Planchonelleuphlebia                                                       1    5
+10 SAPOTACEAE  Planchonelleuphlebia                                                       1  2.5
+ 4 SAPOTACEAE  Planchonellpapyracea  34400                                                1  2.5
+ 5 SAPOTACEAE  Planchonellpapyracea  34400                                                1  2.5
+ 6 SAPOTACEAE  Planchonellpapyracea  34400                                                1  2.5
+ 7 SAPOTACEAE  Planchonellpapyracea  34400                                                1  2.5
+10 SAPOTACEAE  Planchonellpapyracea  34400                                                1  7.5
+ 2 SAPOTACEAE  Planchonellsp. nov.                                                        1   36
+ 3 SAPOTACEAE  Planchonellsp. nov.                                                        3  7.5 35   15
+ 5 SAPOTACEAE  Planchonellsp. nov.                                                        1   10
+ 6 SAPOTACEAE  Planchonellsp. nov.                                                        1   21
+ 7 SAPOTACEAE  Planchonellsp. nov.                                                        1    5 5
+ 9 SAPOTACEAE  Planchonellsp. nov.                                                        1   16
+10 SAPOTACEAE  Planchonellsp. nov.                                                        1    8
+10 SAPOTACEAE  Planchonellsp. nov.                                                        1  2.5
+ 2 STERCULIACEASterculia  laurifolia 34366 34361                                          2  2.5 2.5
+ 3 STERCULIACEASterculia  laurifolia 34366 34361                                          5  7.5 19   2.5  5    2.5
+ 6 STERCULIACEASterculia  laurifolia 34366 34361                                          2    5 2.5
+ 7 STERCULIACEASterculia  laurifolia 34366 34361                                          1  2.5
+10 STERCULIACEASterculia  laurifolia 34366 34361                                          2  2.5 5
+ 6 SYMPLOCACEAESymplocos  stamellii  34415                                                1  2.5
+ 9 SYMPLOCACEAESymplocos  stamellii  34415                                                1  2.5
+ 2 VITACEAE    Cissus     penninervis34362                                           L    1    5
+ 5 VITACEAE    Cissus     penninervis34362                                           L    1    5
+ 7 VITACEAE    Cissus     penninervis34362                                           L    1  7.5
+ 9 VITACEAE    Cissus     penninervis34362                                           L    1    5
+ 1 VITACEAE    Cissus     repens     34353                                           L    2  2.5 2.5
+ 8 WINTERACEAE Bubbia     semecarpoid34437                                                1    5
+ 7 WINTERACEAE Drimys     insipida                                                        1  2.5
+ 1 XANTHOPHYLLAXanthophylloctandrum                                                       1   18
+ 2 XANTHOPHYLLAXanthophylloctandrum                                                       1  7.5
+ 5 XANTHOPHYLLAXanthophylloctandrum                                                       1   14
+ 6 XANTHOPHYLLAXanthophylloctandrum                                                       1   25
+ 7 XANTHOPHYLLAXanthophylloctandrum                                                       2  7.5 20
+ 9 XANTHOPHYLLAXanthophylloctandrum                                                       1   19
+10 XANTHOPHYLLAXanthophylloctandrum                                                       1   26
+
+
+
+
+
+
+
+
+
+

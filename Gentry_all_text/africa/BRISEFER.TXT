@@ -1,0 +1,262 @@
+SUB FAMILY       GENUS             SPECIES      VOUCVOUCVOUCVOUCVOUCVOUCVOUCVOUCLIANN OF STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM STEM 
+  3 ANNONACEAE   XYLOPIA           RICHARDI                                            1    8
+  4 ANNONACEAE   XYLOPIA           RICHARDI                                            1    3
+  6 ANNONACEAE   XYLOPIA           RICHARDI                                            1   18
+  9 ANNONACEAE   XYLOPIA           RICHARDI                                            2    3   13
+ 10 ANNONACEAE   XYLOPIA           RICHARDI                                            1   13
+  8 APOCYNACEAE  TABERMAEMONTANA   PERSICARIIFOLIA                                     7    3    3    3    3    3    3    8
+  1 APOCYNACEAE  TABERNAEMONTANA   PERSICARIIFOLIA                                     4    3    3    3    8
+  2 APOCYNACEAE  TABERNAEMONTANA   PERSICARIIFOLIA                                     6    3    3    3    8    8    8
+  3 APOCYNACEAE  TABERNAEMONTANA   PERSICARIIFOLIA                                     8    3    3    3    3    8    8    8    8
+  4 APOCYNACEAE  TABERNAEMONTANA   PERSICARIIFOLIA                                     3    3    3    8
+  5 APOCYNACEAE  TABERNAEMONTANA   PERSICARIIFOLIA                                     9    3    3    3    3    3    3    3    3    3
+  6 APOCYNACEAE  TABERNAEMONTANA   PERSICARIIFOLIA                                     5    3    3    3    3    8
+  7 APOCYNACEAE  TABERNAEMONTANA   PERSICARIIFOLIA                                     3    3    3    8
+  9 APOCYNACEAE  TABERNAEMONTANA   PERSICARIIFOLIA                                     8    3    3    3    3    3    3    3    8
+ 10 APOCYNACEAE  TABERNAEMONTANA   PERSICARIIFOLIA                                     5    3    3    8    8    8
+  3 BURSERACEAE  CANARIUM          PANICULATUM                                         1    8
+  5 BURSERACEAE  CANARIUM          PANICULATUM                                         1    3
+  6 BURSERACEAE  CANARIUM          PANICULATUM                                         3    8    8   43
+  8 BURSERACEAE  CANARIUM          PANICULATUM                                         3    8   13   23
+  1 BURSERACEAE  CANARIUM          PANICULATUM                                         3    3   23   23
+  1 BURSERACEAE  PROTIUM           OBTUSIFOLIUM                                        2   13   28
+  3 BURSERACEAE  PROTIUM           OBTUSIFOLIUM                                        2   13   28
+  5 BURSERACEAE  PROTIUM           OBTUSIFOLIUM                                        3   23   33   33
+  6 BURSERACEAE  PROTIUM           OBTUSIFOLIUM                                        2   18   33
+  7 BURSERACEAE  PROTIUM           OBTUSIFOLIUM                                        3    8   13   18
+  8 BURSERACEAE  PROTIUM           OBTUSIFOLIUM                                        1   33
+ 10 BURSERACEAE  PROTIUM           OBTUSIFOLIUM                                        1   23
+  1 CELASTRACEAE ELAEODENDRON      ORIENTALE                                           2    3    8
+  2 CELASTRACEAE ELAEODENDRON      ORIENTALE                                           2    3   28
+  3 CELASTRACEAE ELAEODENDRON      ORIENTALE                                           1    3
+  4 CELASTRACEAE ELAEODENDRON      ORIENTALE                                           4    8    8    8   13
+  6 CELASTRACEAE ELAEODENDRON      ORIENTALE                                           2    3    3
+  7 CELASTRACEAE ELAEODENDRON      ORIENTALE                                           4    3    3    3    8
+  8 CELASTRACEAE ELAEODENDRON      ORIENTALE                                           3    3   13   18
+  9 CELASTRACEAE ELAEODENDRON      ORIENTALE                                           1    3
+ 10 CELASTRACEAE ELAEODENDRON      ORIENTALE                                           3    3    3    8
+  2 CELASTRACEAE PLEUROSTYLIA      LEUCOCARPA                                          1   13
+  3 CELASTRACEAE PLEUROSTYLIA      LEUCOCARPA                                          1    3
+  4 CELASTRACEAE PLEUROSTYLIA      LEUCOCARPA                                          1    3
+  5 CELASTRACEAE PLEUROSTYLIA      LEUCOCARPA                                          1    8
+  6 CELASTRACEAE PLEUROSTYLIA      LEUCOCARPA                                          1    3
+  7 CELASTRACEAE PLEUROSTYLIA      LEUCOCARPA                                          2    3    8
+  8 CELASTRACEAE PLEUROSTYLIA      LEUCOCARPA                                          2    8    8
+  9 CELASTRACEAE PLEUROSTYLIA      LEUCOCARPA                                          1    3
+ 10 CELASTRACEAE PLEUROSTYLIA      LEUCOCARPA                                          3    3    3    8
+  3 CHRYSOBALANACGRANGERIA         BORBONICA                                           3    3    3   33
+  4 CHRYSOBALANACGRANGERIA         BORBONICA                                           1    3
+  8 CHRYSOBALANACGRANGERIA         BORBONICA                                           3    3    3    3
+  6 CHRYSOBALANCEGRANGERIA         BORBONICA                                           1    8
+  3 CLUSIACEAE   CALOPHYLLUM       TACAMAHACA                                          1    3
+  2 CONNARACEAE  CNESTIS           GLABRA                                              1    3
+  5 CONNARACEAE  CNESTIS           POLYPHYLLA                                   L      2    3    3
+  7 CONNARACEAE  CNESTIS           POLYPHYLLA                                   L      2    3    3
+ 10 CONNARACEAE  CNESTIS           POLYPHYLLA                                   L      2    3    3
+  6 CONNARACEAE  CNESTIS           POLYPHYLLA                                   L      1    3
+  1 EBENACEAE    DIOSPYROS         TESSELLARIA                                         6    8    8   13   18   23   23
+  2 EBENACEAE    DIOSPYROS         TESSELLARIA                                         6   13   13   13   23   43
+  3 EBENACEAE    DIOSPYROS         TESSELLARIA                                         7    3    3    3    3    8    8   18
+  4 EBENACEAE    DIOSPYROS         TESSELLARIA                                         3   13   23   28
+  5 EBENACEAE    DIOSPYROS         TESSELLARIA                                         7    3    8    8    8   13   18   28
+  6 EBENACEAE    DIOSPYROS         TESSELLARIA                                         6   13   13   18   23   38   38
+  7 EBENACEAE    DIOSPYROS         TESSELLARIA                                         8    3    8    8    8    8    8   13   18
+  8 EBENACEAE    DIOSPYROS         TESSELLARIA                                         4    3    8   13   18
+  9 EBENACEAE    DIOSPYROS         TESSELLARIA                                         7    3    3    8    8    8   18   33
+ 10 EBENACEAE    DIOSPYROS         TESSELLARIA                                         5    3    3    3   13   13
+  7 ERYTHROXYLACEERYTHROXYLUM      LONGIFOLIA                                          1    3
+  8 ERYTHROXYLACEERYTHROXYLUM      LONGIFOLIA                                          1    3
+  1 ERYTHROXYLACEERYTHROXYLUM      MACROCARPA                                          1    3
+  3 ERYTHROXYLACEERYTHROXYLUM      MACROCARPA                                          1    3
+  6 ERYTHROXYLACEERYTHROXYLUM      MACROCARPA                                          1    3
+  9 ERYTHROXYLACEERYTHROXYLUM      MACROCARPA                                          1   13
+  1 EUPHORBIACAEACORDEMOYA         INTEGRIFOLIA                                        4    8    8    8   13
+  1 EUPHORBIACEAEANTIDESMA         INTEGRIFOLIA                                        2    3    8
+  2 EUPHORBIACEAEANTIDESMA         MADAGASCARIENSE                                     1    8
+  3 EUPHORBIACEAEANTIDESMA         MADAGASCARIENSE                                     3    3    3    8
+  4 EUPHORBIACEAEANTIDESMA         MADAGASCARIENSE                                     3    3   13   18
+  5 EUPHORBIACEAEANTIDESMA         MADAGASCARIENSE                                     3    8   13   23
+  6 EUPHORBIACEAEANTIDESMA         MADAGASCARIENSE                                     1    3
+  8 EUPHORBIACEAEANTIDESMA         MADAGASCARIENSE                                     3    8    8   13
+  9 EUPHORBIACEAEANTIDESMA         MADAGASCARIENSE                                     1    8
+ 10 EUPHORBIACEAEANTIDESMA         MADAGASCARIENSE                                     2    8    8
+  1 EUPHORBIACEAELAUTEMBERGIA      NERAUDIANA                                          4    8    8    8    8
+  2 EUPHORBIACEAELAUTEMBERGIA      NERAUDIANA                                          1    8
+  3 EUPHORBIACEAELAUTEMBERGIA      NERAUDIANA                                          3    3    8    8
+  4 EUPHORBIACEAELAUTEMBERGIA      NERAUDIANA                                          1    8
+  6 EUPHORBIACEAELAUTEMBERGIA      NERAUDIANA                                          1    8
+  8 EUPHORBIACEAELAUTEMBERGIA      NERAUDIANA                                          5    3    8    8    8   13
+  9 EUPHORBIACEAELAUTEMBERGIA      NERAUDIANA                                          2    3    8
+ 10 EUPHORBIACEAELAUTEMBERGIA      NERAUDIANA                                          2    8   13
+  1 EUPHORBIACEAESECURINEGA        DURISSIMA                                           5    3    3    3    8   13
+  2 EUPHORBIACEAESECURINEGA        DURISSIMA                                           4    3    3    3   23
+  3 EUPHORBIACEAESECURINEGA        DURISSIMA                                           5    3    3    3    3    8
+  4 EUPHORBIACEAESECURINEGA        DURISSIMA                                           1    3
+  5 EUPHORBIACEAESECURINEGA        DURISSIMA                                           5    3    3    3    8   33
+  6 EUPHORBIACEAESECURINEGA        DURISSIMA                                           7    3    3    3    3    8    8    8
+  7 EUPHORBIACEAESECURINEGA        DURISSIMA                                           8    3    3    3    3    3    3    3    3
+  8 EUPHORBIACEAESECURINEGA        DURISSIMA                                           7    3    3    3    3    3    8    8
+  9 EUPHORBIACEAESECURINEGA        DURISSIMA                                           4    3    3    3    8
+ 10 EUPHORBIACEAESECURINEGA        DURISSIMA                                           2    3    3
+  3 FLACOURTIACEAAPHLOIA           THEAEFORMIS                                         3    3    3    8
+  4 FLACOURTIACEAAPHLOIA           THEAEFORMIS                                         3    3    3    3
+  5 FLACOURTIACEAAPHLOIA           THEAEFORMIS                                         2    3    8
+  6 FLACOURTIACEAAPHLOIA           THEAEFORMIS                                         1    3
+  7 FLACOURTIACEAAPHLOIA           THEAEFORMIS                                         4    3   13   18   23
+  8 FLACOURTIACEAAPHLOIA           THEAEFORMIS                                         2    3    3
+  9 FLACOURTIACEAAPHLOIA           THEAEFORMIS                                         1    3
+ 10 FLACOURTIACEAAPHLOIA           THEAEFORMIS                                         1    3
+  1 FLACOURTIACEACASEARIA          CORIACEA                                            1    3
+  7 FLACOURTIACEACASEARIA          CORIACEA                                            1    3
+  5 FLACOURTIACEACASEARIA          CORIACEAE                                           1    8
+  1 FLACOURTIACEAERYTHROSPERMUM    VAR AMPLIFOLIUM                                     3    8    8    8
+  4 FLACOURTIACEAERYTHROSPERMUM    VAR AMPLIFOLIUM                                     5    3    8   13   13   13
+  5 FLACOURTIACEAERYTHROSPERMUM    VAR AMPLIFOLIUM                                     4    3    3    8   13
+  6 FLACOURTIACEAERYTHROSPERMUM    VAR AMPLIFOLIUM                                     2    3    8
+  7 FLACOURTIACEAERYTHROSPERMUM    VAR AMPLIFOLIUM                                     2    3    3
+  8 FLACOURTIACEAERYTHROSPERMUM    VAR AMPLIFOLIUM                                     2    8    8
+ 10 FLACOURTIACEAERYTHROSPERMUM    VAR AMPLIFOLIUM                                     4    3    3    3    8
+  6 FLACOURTIACEAERYTHROSPERMUM    VAR PYRIFOLIUM                                      9    3    3    3    3    3    3    3    3    8
+  1 FLACOURTIACEAERYTHROSPERMUM    VERTICILLATUM                                      12    3    3    3    3    3    3    3    3    8    8    8    8
+  2 FLACOURTIACEAERYTHROSPERMUM    VERTICILLATUM                                       8    3    3    3    3    8    8    8    8
+  3 FLACOURTIACEAERYTHROSPERMUM    VERTICILLATUM                                      12    3    3    3    3    3    3    3    3    3    8    8    8
+  4 FLACOURTIACEAERYTHROSPERMUM    VERTICILLATUM                                      14    3    3    3    3    3    3    3    3    3    3    3    8    8    8
+  7 FLACOURTIACEAERYTHROSPERMUM    VERTICILLATUM                                       5    3    3    3    8    8
+  8 FLACOURTIACEAERYTHROSPERMUM    VERTICILLATUM                                       8    3    3    3    3    3    8    8    8
+  9 FLACOURTIACEAERYTHROSPERMUM    VERTICILLATUM                                       5    3    3    3    8   13
+  2 FLACOURTIACEAERYTHROSPERMUM    VAR AMPLIFOLIUM                                     1    3
+ 10 FLACOURTIACEAERYTHROSPERMUM    VERTICILLATUM                                      14    3    3    3    3    3    3    3    3    8    8    8    8   13   18
+  6 FLACOURTIACEAHOMALIUM          M1                                                  3    3    3    3
+  7 FLACOURTIACEAHOMALIUM          M1                                                  1    3
+  1 FLACOURTIACEALUDIA             MAURITIANA                                          1    8
+  2 FLACOURTIACEALUDIA             MAURITIANA                                          1    3
+  4 FLACOURTIACEALUDIA             MAURITIANA                                          2    3    8
+  6 ICACINACEAE  APODYTES          DIMIDIATA                                           1    8
+  9 INDET        M1                M1                                                  1    3
+ 10 INDET        M2                M1                                                  1    8
+  3 LAURACEAE    OCOTEA            M1                                                  1   18
+  5 LAURACEAE    OCOTEA            M1                                                  1   13
+  1 LINACEAE     HUGONIA           SERRATA                                      L      2    8    8
+  2 LINACEAE     HUGONIA           SERRATA                                      L      1    3
+  4 LINACEAE     HUGONIA           SERRATA                                      L      1    3
+  6 LINACEAE     HUGONIA           SERRATA                                      L      1    3
+ 10 LINACEAE     HUGONIA           SERRATA                                      L      3    3    3    3
+  4 LOGANIACEAE  NUXIA             VERTICILLATUM                                       1    8
+  8 LOGANIACEAE  NUXIA             VERTICILLATUM                                       1    3
+  9 LOGANIACEAE  NUXIA             VERTICILLATUM                                       1   38
+  7 MALPIGHIACEAEHIPTAGE           M1                                                  2    3    3
+  1 MELASTOMATACEMEMECYLON         OVALIFOLIUM                                         1    3
+  2 MELASTOMATACEMEMECYLON         OVALIFOLIUM                                         2    3    3
+  3 MELASTOMATACEMEMECYLON         OVALIFOLIUM                                         3    3    3    3
+  4 MELASTOMATACEMEMECYLON         OVALIFOLIUM                                         4    3    3    3    3
+  9 MELASTOMATACEMEMECYLON         OVALIFOLIUM                                         3    3    3    3
+ 10 MELASTOMATACEMEMECYLON         OVALIFOLIUM                                         2    3    3
+  1 MELASTOMATACEMEMECYLON         TRINERVE                                            2    3    3
+  2 MELASTOMATACEMEMECYLON         TRINERVE                                            2    3    8
+  3 MELASTOMATACEMEMECYLON         TRINERVE                                            1    3
+  6 MELASTOMATACEMEMECYLON         TRINERVE                                            2    3    3
+  7 MELASTOMATACEMEMECYLON         TRINERVE                                            2    8    8
+  8 MELASTOMATACEMEMECYLON         TRINERVE                                            2    3    3
+  3 MONIMIACEAE  TAMBOURISSA       ODORATA                                             2    3    3
+  7 MONIMIACEAE  TAMBOURISSA       PELTATA                                             1    3
+  8 MONIMIACEAE  TAMBOURISSA       PELTATA                                             1    3
+  8 MYRISTICACEAEEUGENIA           M1                                                  1    3
+  4 MYRSINACEAE  BADULA            SIEBERI                                             1    8
+  6 MYRSINACEAE  BADULA            SIEBERI                                             3    3    3    3
+  2 MYRTACEAE    EUGENIA           ELLIPTICA                                           1    8
+  7 MYRTACEAE    EUGENIA           ELLIPTICA                                           2    8   18
+  8 MYRTACEAE    EUGENIA           ELLIPTICA                                           1   13
+  2 MYRTACEAE    EUGENIA           POLLICINA                                           1   13
+  3 MYRTACEAE    EUGENIA           POLLICINA                                           3    3    8   18
+  4 MYRTACEAE    EUGENIA           POLLICINA                                           4    3    3   13   18
+  7 MYRTACEAE    EUGENIA           POLLICINA                                           2    3    8
+  9 MYRTACEAE    EUGENIA           POLLICINA                                           1   13
+  2 MYRTACEAE    MONIAMIASTRUM     GLOBOSUM                                            6    3    3    3    3   13   18
+  3 MYRTACEAE    MONIAMIASTRUM     GLOBOSUM                                            8    3    3    8    8    8    8   13   13
+  4 MYRTACEAE    MONIAMIASTRUM     GLOBOSUM                                            2    3    3
+  6 MYRTACEAE    MONIAMIASTRUM     GLOBOSUM                                            5    3    3    3   13   23
+  7 MYRTACEAE    MONIAMIASTRUM     GLOBOSUM                                            2    3    3
+ 10 MYRTACEAE    MONIAMIASTRUM     GLOBOSUM                                            1   23
+  8 MYRTACEAE    MONIOMIASTRUM     GLOBOSUM                                            1    8
+  1 MYRTACEAE    PSIDIUM           CATTLEIANUM                                        17    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    8    8
+  2 MYRTACEAE    PSIDIUM           CATTLEIANUM                                         3    3    3    3
+  3 MYRTACEAE    PSIDIUM           CATTLEIANUM                                        23    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3   18
+  4 MYRTACEAE    PSIDIUM           CATTLEIANUM                                        30    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    8
+  6 MYRTACEAE    PSIDIUM           CATTLEIANUM                                        48    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    8
+  7 MYRTACEAE    PSIDIUM           CATTLEIANUM                                        41    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3
+  8 MYRTACEAE    PSIDIUM           CATTLEIANUM                                        31    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    8    8    8    8    8   18
+  9 MYRTACEAE    PSIDIUM           CATTLEIANUM                                        25    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    8    8    8    8
+ 10 MYRTACEAE    PSIDIUM           CATTLEIANUM                                        31    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    8    8    8    8    8
+  5 MYRTACEAE    PSIDIUM           CATTLEIANUM                                        13    3    3    3    3    3    3    3    3    3    3    3    3    3
+  4 MYRTACEAE    PSILOXYLON        MAURITIANUM                                         1    3
+  3 MYRTACEAE    SYZYGIUM          COMMERSONII                                         1    8
+  6 MYRTACEAE    SYZYGIUM          COMMERSONII                                         1    3
+  7 MYRTACEAE    SYZYGIUM          COMMERSONII                                         4    3    8    8    8
+  9 MYRTACEAE    SYZYGIUM          COMMERSONII                                         1   13
+  2 MYRTACEAE    SYZYGIUM          GLOMMER VAR LANCEOLATUM                             1    8
+  2 MYRTACEAE    SYZYGIUM          GLOMMERATUM                                         2   13   28
+  3 MYRTACEAE    SYZYGIUM          GLOMMERATUM                                         3   13   23   28
+  4 MYRTACEAE    SYZYGIUM          GLOMMERATUM                                         2    8   18
+  8 MYRTACEAE    SYZYGIUM          GLOMMERATUM                                         3   13   23   38
+  9 MYRTACEAE    SYZYGIUM          GLOMMERATUM                                         3   18   23   50  
+  5 MYRTACEAE    SYZYGIUM          M1                                                  1   23
+  6 MYRTACEAE    SYZYGIUM          M1                                                  1   33
+  7 MYRTACEAE    SYZYGIUM          GLOMMERATUM                                         5    3    8    8    8    8
+  3 MYRTACEAE    SYZYGIUM          OBOVERTUM                                           1   18
+  3 OCHNACEAE    OCHNA             MAURITIANA                                          2    3    8
+  5 OCHNACEAE    OCHNA             MAURITIANA                                          2    8    8
+  6 OCHNACEAE    OCHNA             MAURITIANA                                          1    3
+  8 OCHNACEAE    OCHNA             MAURITIANA                                          1    3
+  4 OCHRACEAE    OCHNA             MAURITIANA                                          1    3
+  9 OLEACACEAE   LIGUSTRUM         WALKERI                                            10    3    3    3    3    8    8    8    8    8    8
+  1 OLEACEAE     LIGUSTRUM         WALKERI                                             4    3    3    3    8
+  2 OLEACEAE     LIGUSTRUM         WALKERI                                             5    3    3    3    8   13
+  3 OLEACEAE     LIGUSTRUM         WALKERI                                            11    3    3    3    3    3    3    3    3    3    8    8
+  4 OLEACEAE     LIGUSTRUM         WALKERI                                            12    3    3    3    3    3    3    3    8    8    8    8    8
+  6 OLEACEAE     LIGUSTRUM         WALKERI                                            13    3    3    3    3    3    3    3    3    3    8    8    8    8
+  7 OLEACEAE     LIGUSTRUM         WALKERI                                            27    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    3    8    8
+  8 OLEACEAE     LIGUSTRUM         WALKERI                                             3    3    3    8
+ 10 OLEACEAE     LIGUSTRUM         WALKERI                                             2    8    8
+  6 OLEACEAE     OLEA              LANCIA                                              1    3
+  7 RHAMNACEAE   SCUTIA            M1                                                  1    3
+  9 RHAMNACEAE   SCUTIA            M1                                                  1    3
+ 10 RHAMNACEAE   SCUTIA            M1                                                  1    3
+  7 RUBIACEAE    ANTIRHEA          VERTICILLATUM                                       2    8   13
+  2 RUBIACEAE    BERTIERA          ZALUZANIA                                           1    8
+  6 RUBIACEAE    DANAIS            FRAGRANS                                            1    3
+  7 RUBIACEAE    DANAIS            FRAGRANS                                     L      1    3
+  3 RUBIACEAE    FERNELIA          BUXIFOLIA                                           3    8    8   13
+  7 RUBIACEAE    FERNELIA          BUXIFOLIA                                           9    3    3    3    8    8    8    8    8   13
+  8 RUBIACEAE    FERNELIA          BUXIFOLIA                                           1    8
+  9 RUBIACEAE    FERNELIA          BUXIFOLIA                                           2    8    8
+ 10 RUBIACEAE    FERNELIA          BUXIFOLIA                                           1   13
+  1 RUBIACEAE    GAERTNERA         PSYCHOTRIOIDES                                      1    3
+  2 RUBIACEAE    GAERTNERA         PSYCHOTRIOIDES                                      1    3
+  3 RUBIACEAE    GAERTNERA         PSYCHOTRIOIDES                                      3    3    3   13
+  4 RUBIACEAE    GAERTNERA         PSYCHOTRIOIDES                                      6    3    3    3    3    8    8
+  6 RUBIACEAE    GAERTNERA         PSYCHOTRIOIDES                                      4    3    3    8   18
+  7 RUBIACEAE    GAERTNERA         PSYCHOTRIOIDES                                      3    3    3    3
+  8 RUBIACEAE    GAERTNERA         PSYCHOTRIOIDES                                      3    3    3    3
+  6 RUBIACEAE    M1                M1                                                  1    3
+  1 RUBIACEAE    PSATHURA          TERNIFLORA                                          1    3
+ 10 RUBIACEAE    PSATHURA          TERNIFLORA                                          1    3
+  5 SAPINDACEAE  ALLOPHYLLIS       INTEGRIFOLIA                                        1    8
+  2 SAPINDACEAE  MOLINAEA          ARBOREA                                             3    3    3    3
+  1 SAPOTACEAE   LABOURDONNAISIA   GLAUCA                                              3   13   13  123
+  2 SAPOTACEAE   LABOURDONNAISIA   GLAUCA                                              1    8
+  3 SAPOTACEAE   LABOURDONNAISIA   GLAUCA                                             10    3    8    8    8    8   13   13   18   23   38
+  4 SAPOTACEAE   LABOURDONNAISIA   GLAUCA                                              1   33
+  6 SAPOTACEAE   LABOURDONNAISIA   GLAUCA                                              3    8    8   13
+  7 SAPOTACEAE   LABOURDONNAISIA   GLAUCA                                              1   13
+  8 SAPOTACEAE   LABOURDONNAISIA   GLAUCA                                              7    3    8    8   13   18   23   28
+  9 SAPOTACEAE   LABOURDONNAISIA   GLAUCA                                              1    8
+ 10 SAPOTACEAE   LABOURDONNAISIA   GLAUCA                                              1   43
+  1 SAPOTACEAE   MIMUSOPS          PETIOLARIS                                          1    3
+  2 SAPOTACEAE   MIMUSOPS          PETIOLARIS                                          2   38   43
+  4 SAPOTACEAE   MIMUSOPS          PETIOLARIS                                          2    8   28
+  8 SAPOTACEAE   MIMUSOPS          PETIOLARIS                                          3    3    3    3
+  9 SAPOTACEAE   MIMUSOPS          PETIOLARIS                                          1   28
+ 10 SAPOTACEAE   MIMUSOPS          PETIOLARIS                                          3    3    3   28
+  3 SAPOTACEAE   SIDEROXYLON       CINERVE                                             1    8
+  5 SAPOTACEAE   SIDEROXYLON       CINERVE                                             1   18
+  7 SAPOTACEAE   SIDEROXYLON       CINERVE                                             2   13   23

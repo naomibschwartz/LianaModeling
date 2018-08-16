@@ -1,0 +1,160 @@
+LineFamily      Genus      species  vouchevouchevouchevouchevouchevouchevouchevoucheLIN(INSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMSSTEMS
+  5 APOCYNACEAE Prestonia  mollis   58213                                           L   1    4
+  4 ASTERACEAE  Critoniopsiwoytkowsk58270                                           L   1    3
+  4 ASTERACEAE  Critoniopsiwoytkowsk58270                                           L   1  2.5
+  5 ASTERACEAE  Verbesina  M1       58290                                               1  2.5
+  6 ASTERACEAE  Verbesina  M1       58290                                               1  2.5
+  1 ASTERACEAE  Vernonia   patens   58244                                               1  2.5  2.5
+  2 BIGNONIACEAEArrabidaea corallina58255                                           L   1    5    5
+  3 BIGNONIACEAEArrabidaea corallina58255                                           L   1    5
+ 10 BIGNONIACEAEMacranthisilongiflor58296                                           L   2    5    4
+ 10 BIGNONIACEAEMansoa     hymenaea 58293                                           L   1   12
+  5 BIGNONIACEAETabebuia   chrysanth58278                                               3   15   18    5
+  5 BIGNONIACEAETabebuia   ochracea 58277                                               1   17
+  2 BOMBACACEAE Ceiba      trichista-                                                   1   24
+  3 BOMBACACEAE Ceiba      trichista-                                                   1  130
+  3 BOMBACACEAE Eriotheca  M1       58268                                               1   15
+  5 BOMBACACEAE Eriotheca  M1       58268                                               1   34
+  6 BOMBACACEAE Eriotheca  M1       58268                                               1   17
+  8 BOMBACACEAE Eriotheca  M1       58268                                               1   17
+  4 BORAGINACEAECordia     cf alliodora                                                 1    3
+  6 BORAGINACEAECordia     curassavi58280                                               2    3  2.5    3
+  8 BORAGINACEAECordia     curassavi58280                                               1    3
+  3 BORAGINACEAETournefortiternifoli58266                                           L   2    3    3  2.5    5
+  3 CACTACEAE   Hylocereus polyrhizu58267                                           H   1    4
+ 10 CACTACEAE   Hylocereus polyrhizu58267                                           H   1    4
+ 10 CACTACEAE   Hylocereus polyrhizu58267                                           H   1    4
+  4 CACTACEAE   M          M1       58269                                               1   19
+  2 CELASTRACEAEMaytenus   emarginat58254                                               2   11   10
+  3 CELASTRACEAEMaytenus   octagonus58267                                               1    6
+  5 CELASTRACEAEMaytenus   octagonus58267                                               1    3  2.5
+  2 COMBRETACEAETerminalia valverdae58279 58246                                         1    9
+  5 COMBRETACEAETerminalia valverdae58279 58246                                         1   14
+  6 COMBRETACEAETerminalia valverdae58279 58246                                         2   34  2.5
+  7 COMBRETACEAETerminalia valverdae58279 58246                                         2    8   18
+  8 COMBRETACEAETerminalia valverdae58279 58246                                         1   10
+  9 CONVOLVULACETurbinia   corymbosa58290                                           L   1  2.5
+  1 ERYTHROXYLACErythroxyluglaucum  58247                                               1  2.5
+  2 ERYTHROXYLACErythroxyluglaucum  58247                                               1    6
+  9 ERYTHROXYLACErythroxyluglaucum  58247                                               1  2.5
+  2 EUPHORBIACEAEuphorbia  arenaria 58252                                               1  2.5
+  5 EUPHORBIACEAEuphorbia  arenaria 58252                                               1  2.5
+  6 EUPHORBIACEAEuphorbia  arenaria 58252                                               1  2.5
+  7 EUPHORBIACEAEuphorbia  arenaria 58252                                               1  2.5    3  2.5
+  1 EUPHORBIACEAMargaritarinobilis                                                      2    5  2.5    4
+  3 EUPHORBIACEAMargaritarinobilis                                                      1  2.5
+  4 EUPHORBIACEAMargaritarinobilis                                                      3  2.5  2.5    3
+  5 EUPHORBIACEAMargaritarinobilis                                                      1  2.5
+  7 EUPHORBIACEAMargaritarinobilis                                                      1    3
+  8 EUPHORBIACEAMargaritarinobilis                                                      3    4  2.5    4    3
+  9 EUPHORBIACEAMargaritarinobilis                                                      1  2.5
+  4 FABACEAE    CaesalpiniaM1                                                           1   19
+  7 FABACEAE    Cassia     M1       58285                                               1    8
+  7 FABACEAE    Cassia     mollisima58283                                               1    5
+  4 FABACEAE    Erythrina  aff amazo58272                                               1    6
+  5 FABACEAE    Erythrina  aff amazo58272                                               2   12   11
+  8 FABACEAE    Leucaena   trichodes58288                                               1    6
+  2 FABACEAE    Machaerium millei   58250 58286A                                        3    8   15    4
+  4 FABACEAE    Machaerium millei   58250 58286A                                        5    3  2.5  2.5    8    8
+  6 FABACEAE    Machaerium millei   58250 58286A                                        1  2.5
+  7 FABACEAE    Machaerium millei   58250 58286A                                        1    6
+ 10 FABACEAE    Machaerium millei   58250 58286A                                        1    7
+  3 FABACEAE    Pithecellobpaucipinn58265                                               1   18
+  4 FLACOURTIACECasearia   aculeata 58274                                           L   1  2.5
+  6 FLACOURTIACECasearia   aculeata 58274                                               1    6    4  2.5   12
+  1 FLACOURTIACECasearia   obovalis 58246                                               2    4  2.5
+  2 FLACOURTIACECasearia   obovalis 58246                                               1  2.5
+  4 FLACOURTIACECasearia   obovalis 58246                                               1  2.5
+  8 FLACOURTIACECasearia   obovalis 58246                                               1    3
+ 10 FLACOURTIACECasearia   obovalis 58246                                               8    3  2.5    4    3  2.5    3  2.5    3    5    4    3
+  2 FLACOURTIACEProckia    pentamera                                                    2    8    5
+  3 FLACOURTIACEProckia    pentamera                                                    2   10    5    5    5    3  2.5
+  8 FLACOURTIACEProckia    pentamera                                                    1    6  2.5    3
+  9 FLACOURTIACEProckia    pentamera                                                    1    5  2.5
+ 10 MALPIGHIACEAStigmaphyllellipticu58206                                           L   1  2.5
+ 10 MALPIGHIACEAStigmaphyllellipticu58206                                           L   1  2.5
+  1 MELIACEAE   Cedrela    fissilis 58241                                               1   21
+  2 MELIACEAE   Cedrela    fissilis 58241                                               3    6    3   23
+  4 MELIACEAE   Cedrela    fissilis 58241                                               1   20
+  5 MELIACEAE   Cedrela    fissilis 58241                                               2    4    6
+  6 MELIACEAE   Cedrela    fissilis 58241                                               2   12   12
+  7 MELIACEAE   Cedrela    fissilis 58241                                               1    5
+  8 MELIACEAE   Cedrela    fissilis 58241                                               2    4    9
+ 10 MORACEAE    Chlorophoratinctoria58292                                               2   13    6
+  5 MORACEAE    Ficus      citrifoli58275                                           H   1   11
+  1 MYRTACEAE   Psidium    rostratum58239                                               3   12   10   15    9    3
+  9 NYCTAGINACEAPisonia    ambigua  58289                                               1    3
+ 10 NYCTAGINACEAPisonia    ambigua  58289                                               1  2.5
+ 10 NYCTAGINACEAPisonia    ambigua  58289                                               1  2.5
+  1 OLEACEAE    Chionanthuscf elegan58242                                               3   20   13   18
+  2 OLEACEAE    Chionanthuscf elegan58242                                               4   13    4   21   25   27   24
+  3 OLEACEAE    Chionanthuscf elegan58242                                               2   13   17   14
+  4 OLEACEAE    Chionanthuscf elegan58242                                               5    4   16   13   14   14    5
+  5 OLEACEAE    Chionanthuscf elegan58242                                               2   14   10
+  7 OLEACEAE    Chionanthuscf elegan58242                                               3    8    6   17
+  8 OLEACEAE    Chionanthuscf elegan58242                                               3   21   16   26
+  9 OLEACEAE    Chionanthuscf elegan58242                                               3   26   14   25
+ 10 OLEACEAE    Chionanthuscf elegan58242                                               1   24
+  5 POLYGONACEAERuprechtia tenuiflor                                                    1  2.5
+  1 POLYGONACEAETriplaris  cumingian58248                                               1    6
+  7 POLYGONACEAETriplaris  cumingian58248                                               1    9
+  8 POLYGONACEAETriplaris  cumingian58248                                               2    4  2.5
+ 10 POLYGONACEAETriplaris  cumingian58248                                               1   10
+  7 RUBIACEAE   Randia     armata   58286                                               1  2.5
+  8 RUBIACEAE   Randia     armata   58286                                               1  2.5
+  9 RUBIACEAE   Randia     armata   58286                                               1  2.5
+  1 RUBIACEAE   Simira     M1                                                          24    4  2.5  2.5  2.5  2.5    3  2.5  2.5    3    3    3  2.5    9    4    4  2.5    4  2.5    4    3  2.5    5    9  2.5    7    4    5    7    3  2.5    4    5  2.5    3
+  2 RUBIACEAE   Simira     M1                                                          13  2.5  2.5    3    4    5  2.5  2.5  2.5  2.5  2.5    6  2.5    5  2.5  2.5    4    4    3    5
+  3 RUBIACEAE   Simira     M1                                                          14    6    8  2.5    8  2.5    6  2.5   10    6    3    4    5    3  2.5  2.5    8                                                                                                      
+  4 RUBIACEAE   Simira     M1                                                          18  2.5  2.5    3    5    6    5  2.5  2.5    4    6    3    4    3    4  2.5    8    5    6  2.5    4    4    3  2.5    4    3  2.5  2.5  2.5    3
+  5 RUBIACEAE   Simira     M1                                                           7    6    6  2.5    6    4    6    3    3    8  2.5
+  6 RUBIACEAE   Simira     M1                                                          10  2.5  2.5  2.5  2.5  2.5    4    3  2.5    3    4  2.5
+  7 RUBIACEAE   Simira     M1                                                          31  2.5    3  2.5    4    4   10    3    4  2.5    3    3    4  2.5    4  2.5  2.5    6    3  2.5  2.5  2.5  2.5    3    4  2.5    3  2.5  2.5    3    5  2.5    7  2.5   10  2.5  2.5    8  2.5    3  2.5
+  8 RUBIACEAE   Simira     M1                                                          20    7    5    3  2.5    4    3  2.5    5    3  2.5    3    4    3  2.5    8    3  2.5    4  2.5  2.5  2.5    3    6    3    9  2.5  2.5    9  2.5    3    4
+  9 RUBIACEAE   Simira     M1                                                          22    4    3  2.5  2.5  2.5  2.5    4    5    4    3  2.5  2.5  2.5  2.5    6    3    3    5    3    4    3    5    4    3    3  2.5    3  2.5
+ 10 RUBIACEAE   Simira     M1                                                          12    5  2.5    7    3    3    9    5  2.5  2.5  2.5  2.5    3    4                                                                             
+ 10 RUTACEAE    Amyris     pinnata  58291                                               1    6
+ 10 RUTACEAE    Zanthoxylumsprucei  58295                                               1  2.5
+  1 RUTACEAE    Zanthoxylumtumbezanu58238                                               6    5    3    3    6    4  2.5
+  2 RUTACEAE    Zanthoxylumtumbezanu58238                                               1  2.5
+  3 RUTACEAE    Zanthoxylumtumbezanu58238                                               2  2.5    4
+  4 RUTACEAE    Zanthoxylumtumbezanu58238                                               1    5
+  5 RUTACEAE    Zanthoxylumtumbezanu58238                                               1  2.5
+  6 RUTACEAE    Zanthoxylumtumbezanu58238                                               1   10
+  7 RUTACEAE    Zanthoxylumtumbezanu58238                                               3    3    6    3
+  8 RUTACEAE    Zanthoxylumtumbezanu58238                                               2    4  2.5
+ 10 RUTACEAE    Zanthoxylumtumbezanu58238                                               1   10    6  2.5
+ 10 RUTACEAE    Zanthoxylumtumbezanu58238                                               1   10    6  2.5
+  2 SAPINDACEAE Sapindus   saponaria58251                                               1   11
+  3 SAPINDACEAE Sapindus   saponaria58251                                               1    5
+  2 STERCULIACEAByttneria  glabresce58253                                           L   1  2.5
+  1 ULMACEAE    Celtis     iguanea                                                  L   2  2.5  2.5   10
+  3 ULMACEAE    Celtis     iguanea                                                  L   1   12
+  8 ULMACEAE    Celtis     iguanea                                                  L   1    6
+ 10 ULMACEAE    Celtis     iguanea                                                  L   1   11
+  7 URTICACEAE  Urera      baccifera58281                                               1    3
+  8 URTICACEAE  Urera      baccifera58281                                               3  2.5  2.5  2.5    3
+  1 VERBENACEAE M1         M1       58240                                               4    3    4    4    4    4    3
+  2 VERBENACEAE M1         M1       58240                                               2    5    3    4    5    4
+  3 VERBENACEAE M1         M1       58240                                               1    3
+  4 VERBENACEAE M1         M1       58240                                               1    5
+  5 VERBENACEAE M1         M1       58240                                               1    7
+  6 VERBENACEAE M1         M1       58240                                               1  2.5  2.5
+  7 VERBENACEAE M1         M1       58240                                               2    4    6    5
+  8 VERBENACEAE M1         M1       58240                                               1    6
+ 10 VERBENACEAE M1         M1       58240                                               3    5    4    5    5    4  2.5
+  1 VITACEAE    Cissus     cf alleni58243                                           L   4  2.5  2.5  2.5  2.5
+  3 VITACEAE    Cissus     cf alleni58243                                           L   2    4  2.5
+  5 VITACEAE    Cissus     cf alleni58243                                           L   2  2.5  2.5
+  7 VITACEAE    Cissus     cf alleni58243                                           L   1  2.5
+  8 VITACEAE    Cissus     cf alleni58243                                           L   2  2.5  2.5
+  9 VITACEAE    Cissus     cf alleni58243                                           L   2    3  2.5
+ 10 VITACEAE    Cissus     cf alleni58243                                           L   1  2.5
+  7 VITACEAE    Cissus     M1       58259                                           L   1  2.5
+
+
+
+
+
+
+

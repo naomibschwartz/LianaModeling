@@ -1,0 +1,96 @@
+LineFamily      Genus            Species        vouchevouchevouchevouchevouchevouchevouchevoucheLianN(IndStemStemStemStemStemStemStemStemStemStemStemStemStemStemStem
+10  ANACARDIACEARHUS             GLABRA                                                                1 2.5
+8   ANACARDIACEATOXICODENDRON    RADICANS                                                       L      2 2.5 2.5
+2   BETULACEAE  OSTRYA           VIRGINIANA                                                            6 2.5   3   3   3 2.5   4
+3   BETULACEAE  OSTRYA           VIRGINIANA                                                            2 2.5 2.5   3
+4   BETULACEAE  OSTRYA           VIRGINIANA                                                            2  13   3
+5   BETULACEAE  OSTRYA           VIRGINIANA                                                            3   3 2.5   7
+6   BETULACEAE  OSTRYA           VIRGINIANA                                                            2 2.5   3 2.5
+7   BETULACEAE  OSTRYA           VIRGINIANA                                                            2   4   3
+9   BETULACEAE  OSTRYA           VIRGINIANA                                                            1   5 2.5
+1   CORNACEAE   CORNUS           DRUMMONDII                                                           13   4 2.5 2.5   3 2.5 2.5 2.5 2.5   3   3 2.5 2.5   3 2.5   3
+10  CORNACEAE   CORNUS           DRUMMONDII                                                            4 2.5 2.5 2.5 2.5
+2   CORNACEAE   CORNUS           DRUMMONDII                                                            6   3   4 2.5 2.5   5 2.5
+3   CORNACEAE   CORNUS           DRUMMONDII                                                            1 2.5
+4   CORNACEAE   CORNUS           DRUMMONDII                                                            1 2.5
+5   CORNACEAE   CORNUS           DRUMMONDII                                                            1 2.5
+7   CORNACEAE   CORNUS           DRUMMONDII                                                            2 2.5 2.5
+8   CORNACEAE   CORNUS           DRUMMONDII                                                            6 2.5 2.5   3   3 2.5   3
+9   CORNACEAE   CORNUS           DRUMMONDII                                                            1 2.5
+1   FABACEAE    CERCIS           CANADENSIS                                                            4   5   6 2.5   6
+10  FABACEAE    CERCIS           CANADENSIS                                                            3 2.5   3   4
+2   FABACEAE    CERCIS           CANADENSIS                                                            2 2.5 2.5
+3   FABACEAE    CERCIS           CANADENSIS                                                            2   3   3
+4   FABACEAE    CERCIS           CANADENSIS                                                            4   3 2.5 2.5   4
+6   FABACEAE    CERCIS           CANADENSIS                                                            1   3
+7   FABACEAE    CERCIS           CANADENSIS                                                           10 2.5   3   3   3   3 2.5   3 2.5   4   3 2.5 2.5
+8   FABACEAE    CERCIS           CANADENSIS                                                            6 2.5 2.5 2.5   5   3   3 2.5
+9   FABACEAE    CERCIS           CANADENSIS                                                           10 2.5 2.5   3   5 2.5 2.5   4 2.5   3 2.5
+3   FABACEAE    GYMNOCLADUS      DIOICA                                                                1  25
+6   FAGACEAE    QUERCUS          MACROCARPA                                                            1  38
+9   FAGACEAE    QUERCUS          MACROCARPA                                                            2  20  13
+10  FAGACEAE    QUERCUS          MARCOCARPA                                                            1  40  10
+3   FAGACEAE    QUERCUS          aff. VELUTINA                                                         2  19  25  19
+1   FAGACEAE    QUERCUS          PRINOIDES                                                             3   9  15  11  24
+2   FAGACEAE    QUERCUS          PRINOIDES                                                             2  16  15
+5   FAGACEAE    QUERCUS          PRINOIDES                                                             2  11  13  31
+7   FAGACEAE    QUERCUS          PRINOIDES                                                             1  26
+8   FAGACEAE    QUERCUS          PRINOIDES                                                             1  14
+3   FAGACEAE    QUERCUS          RUBRA                                                                 2  32  34  32  30
+4   FAGACEAE    QUERCUS          RUBRA                                                                 2  14 2.5
+8   FAGACEAE    QUERCUS          RUBRA                                                                 3  29  18  18  31  31
+10  FAGACEAE    QUERCUS          VELUTINA                                                              2  38  31  16  24
+3   FAGACEAE    QUERCUS          VELUTINA                                                              1  36  36
+7   FAGACEAE    QUERCUS          VELUTINA                                                              3  28  30  17
+8   FAGACEAE    QUERCUS          VELUTINA                                                              1  29  32  33  20
+9   FAGACEAE    QUERCUS          VELUTINA                                                              1  33
+1   JUGLANDACEAECARYA            CORDIFORMIS                                                           2  23  25
+10  JUGLANDACEAECARYA            CORDIFORMIS                                                           1   3
+5   JUGLANDACEAECARYA            CORDIFORMIS                                                           1  26
+9   JUGLANDACEAECARYA            CORDIFORMIS                                                           1  17
+7   JUGLANDACEAECARYA            OVATA                                                                 1  38
+9   JUGLANDACEAECARYA            OVATA                                                                 1  11
+2   JUGLANDACEAEJUGLANS          NIGRA                                                                 1  25
+5   JUGLANDACEAEJUGLANS          NIGRA                                                                 1  45
+1   MORACEAE    MORUS            RUBRA                                                                 4   6   6   6   7  11   6
+3   MORACEAE    MORUS            RUBRA                                                                 4   7   4   7   5  14
+8   MORACEAE    MORUS            RUBRA                                                                 1   6
+5   OLEACEAE    FRAXINUS         AMERICANA                                                             2  10   5
+1   OLEACEAE    FRAXINUS         PENNSYLVANICA                                                         4  14  20   6   5
+10  OLEACEAE    FRAXINUS         PENNSYLVANICA                                                         8   4   4 2.5  15   5 2.5   4   7
+2   OLEACEAE    FRAXINUS         PENNSYLVANICA                                                         6   8   5 2.5 2.5   3   3
+3   OLEACEAE    FRAXINUS         PENNSYLVANICA                                                         2   5 2.5
+4   OLEACEAE    FRAXINUS         PENNSYLVANICA                                                         1  11
+6   OLEACEAE    FRAXINUS         PENNSYLVANICA                                                         2   4 2.5
+7   OLEACEAE    FRAXINUS         PENNSYLVANICA                                                         4   8   5 2.5   5
+8   OLEACEAE    FRAXINUS         PENNSYLVANICA                                                         2   3   7
+9   OLEACEAE    FRAXINUS         PENNSYLVANICA                                                         3   3   5 2.5
+4   STAPHYLEACEASTAPHYLEA        TRIFOLIATA                                                            5 2.5 2.5 2.5 2.5 2.5
+5   STAPHYLEACEASTAPHYLEA        TRIFOLIATA                                                            7   3 2.5 2.5 2.5 2.5 2.5 2.5
+10  TILIACEAE   TILIA            AMERICANA                                                             1   8
+3   TILIACEAE   TILIA            AMERICANA                                                             1  33
+5   TILIACEAE   TILIA            AMERICANA                                                             1  17  54
+6   TILIACEAE   TILIA            AMERICANA                                                             4   5  26   8  32  37  16
+5   ULMACEAE    CELTIS           OCCIDENTALIS                                                          1  25
+5   ULMACEAE    ULMUS            AMERICANA                                                             1  41
+9   ULMACEAE    ULMUS            AMERICANA                                                             1  21
+5   ULMACEAE    ULMUS            RUBRA                                                                 2  17  19
+3   VITACEAE    PARTHENOCISSUS   M1                                                             L      1 2.5
+7   VITACEAE    PARTHENOCISSUS   M1                                                             L      1 2.5
+8   VITACEAE    PARTHENOCISSUS   M1                                                             L      1 2.5
+1   VITACEAE    PARTHENOCISSUS   M1                                                             L      1 2.5
+3   VITACEAE    VITIS            M1                                                             L      1 2.5
+4   VITACEAE    VITIS            M1                                                             L      1 2.5
+9   VITACEAE    VITIS            M1                                                             L      1 2.5
+
+
+
+
+
+
+
+
+
+
+
+

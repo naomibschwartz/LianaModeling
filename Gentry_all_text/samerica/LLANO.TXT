@@ -1,0 +1,80 @@
+lINFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 2 ANACARDIACESpondias   mombin                                                           1   37
+ 3 ANACARDIACESpondias   mombin                                                           1   15
+ 1 ANNONACEAE Annona     jahnii                                                           1  2.5
+ 2 ANNONACEAE Annona     jahnii                                                           2  2.5 2.5  2.5  5
+ 3 ANNONACEAE Annona     jahnii                                                           1  7.5
+ 4 ANNONACEAE Annona     jahnii                                                           4    5 2.5  2.5  5
+ 5 ANNONACEAE Annona     jahnii                                                           1  2.5 5
+ 1 ANNONACEAE Xylopia    aromatica                                                        1    5
+ 3 BIGNONIACEAArrabidaea mollissima                                                 L     5  2.5 2.5  2.5  2.5  5    2.5  2.5  2.5  2.5  2.5  2.5
+ 5 BIGNONIACEAArrabidaea mollissima                                                 L     1  2.5
+ 1 BIGNONIACEAArrabidaea oxycarpa                                                   L     1  2.5
+ 3 BIGNONIACEAArrabidaea oxycarpa                                                   L     2  2.5 2.5
+ 4 BIGNONIACEAArrabidaea oxycarpa                                                   L     6  2.5 5    2.5  2.5  2.5  2.5
+ 2 BIGNONIACEAGodmania   aesculifolia                                                     3   17 10   2.5
+ 2 BIGNONIACEAJacaranda  obtusifolia                                                      1   15
+ 1 BIGNONIACEAPleonotoma clematis                                                   L     3  2.5 2.5  7.5
+ 3 BIGNONIACEAPleonotoma clematis                                                   L     2  2.5 2.5
+ 5 BIGNONIACEAPleonotoma clematis                                                   L     1  2.5
+ 5 BIGNONIACEATabebuia   ochracea                                                         1   17 2.5
+ 1 BIGNONIACEAXylophragmaseemannianum                                               L     2    5 2.5
+ 1 CACTACEAE  Pereskia   guamacho                                                         1   35
+ 1 COCHLOSPERMCochlospermvitifolium                                                       1    5
+ 2 COCHLOSPERMCochlospermvitifolium                                                       7  2.5 2.5  2.5  2.5  2.5  2.5  2.5
+ 3 COCHLOSPERMCochlospermvitifolium                                                       2  2.5 7.5
+ 5 COCHLOSPERMCochlospermvitifolium                                                       1  2.5
+ 1 CONNARACEAEConnarus   venezuelensis                                                    3   27 7.5  2.5
+ 2 DILLENIACEACuratella  americana                                                        1   35
+ 1 ERYTHROXYLAErythroxyluorinocensis                                                      6  7.5 7.5  2.5  2.5  12   7.5
+ 2 ERYTHROXYLAErythroxyluorinocensis                                                      1  2.5
+ 4 FABACEAE   Acacia     glomerosa                                                        1  2.5
+ 3 FABACEAE   Bowdichia  virgiloides                                                      1  2.5
+ 1 FABACEAE   Cassia     moschata                                                         1   30
+ 1 FABACEAE   Cassia     moschata                                                         1   20
+ 2 FABACEAE   Cassia     moschata                                                         1  7.5 12
+ 3 FABACEAE   Cassia     moschata                                                         1   37
+ 5 FABACEAE   Cassia     moschata                                                         1   25
+ 1 FABACEAE   Copaifera  officinalis                                                      2  2.5 5
+ 4 FABACEAE   Copaifera  officinalis                                                     10   10 2.5  2.5  2.5  5    2.5  5    5    2.5  2.5
+ 3 FABACEAE   Lonchocarpuernestii                                                         3  2.5 2.5  5
+ 4 FABACEAE   Lonchocarpuernestii                                                         2  2.5 2.5
+ 5 FABACEAE   Lonchocarpuernestii                                                         6  2.5 2.5  2.5  2.5  2.5  2.5
+ 1 FABACEAE   Pterocarpuscf bohrii                                                        2  2.5   10
+ 4 FLACOURTIACCasearia   decandra                                                         1    5
+ 2 FLACOURTIACCasearia   sylvestris                                                       1  2.5
+ 2 FLACOURTIACCasearia   sylvestris                                                       1  2.5
+ 1 FLACOURTIACXylosma    benthamiana                                                      2  2.5 2.5
+ 1 MALPIGHIACEByrsonima  crassifolia                                                      1    5
+ 2 MALPIGHIACEByrsonima  crassifolia                                                      1  2.5
+ 1 MYRTACEAE  Eugenia    biflora                                                          1  2.5
+ 2 MYRTACEAE  Eugenia    biflora                                                          2  7.5 2.5
+ 2 NYCTAGINACEGuapira    pacurero                                                         5  2.5 2.5  2.5  2.5  2.5
+ 1 OCHNACEAE  Ouratea    guildingii                                                       2   10 2.5
+ 2 PASSIFLORACPassiflora serrulata                                                  L     2  2.5 2.5  2.5  2.5  2.5  2.5  2.5
+ 1 POLYGALACEASecuridaca diversifolia                                               L     1    5
+ 1 RUBIACEAE  Chomelia   spinosa                                                          1   10
+ 2 RUBIACEAE  Chomelia   spinosa                                                          1  2.5 2.5  5
+ 3 RUBIACEAE  Chomelia   spinosa                                                          4  7.5 5    5    5    2.5  2.5  2.5
+ 4 RUBIACEAE  Chomelia   spinosa                                                          2  7.5 2.5
+ 5 RUBIACEAE  Chomelia   spinosa                                                          2  7.5 10   7.5  5    7.5  7.5
+ 2 RUBIACEAE  Genipa     americana                                                        2  2.5 2.5
+ 1 RUBIACEAE  Guettarda  divaricata                                                       2  2.5 5
+ 2 RUBIACEAE  Guettarda  divaricata                                                       3  7.5 5    7.5  2.5  7.5  5    2.5  2.5
+ 3 RUBIACEAE  Guettarda  divaricata                                                       2    5 7.5
+ 4 RUBIACEAE  Guettarda  divaricata                                                       1  2.5
+ 5 RUBIACEAE  Guettarda  divaricata                                                       3  2.5 5    5    7.5  2.5
+ 4 RUBIACEAE  Randia     aculeata                                                         5  2.5 2.5  2.5  2.5  2.5
+ 1 SAPINDACEAEAllophylus occidentalis                                                     1  2.5
+ 3 SAPINDACEAEAllophylus occidentalis                                                     4  2.5 5    5    2.5
+ 4 SAPINDACEAEAllophylus occidentalis                                                     1  2.5
+ 5 SAPINDACEAEAllophylus occidentalis                                                     1  2.5
+ 2 STERCULIACEGuazuma    ulmifolia                                                        1  7.5 5
+ 2 TILIACEAE  Luehea     candida                                                          3  2.5 2.5  2.5  2.5
+ 3 TILIACEAE  Luehea     candida                                                          4   10 5    2.5  7.5
+ 4 TILIACEAE  Luehea     candida                                                          1    5
+ 5 VOCHYSIACEAVochysia   venezuelensis                                                    1   50
+
+
+
+

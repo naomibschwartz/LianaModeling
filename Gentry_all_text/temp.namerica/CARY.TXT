@@ -1,0 +1,80 @@
+LineFamily       Genus            Species        vouchevouchevouchevouchevouchevouchevouchevoucheLianN(IndStemStemStemStemStemStemStem
+10  ACERACEAE    ACER             PENSYLVANICUM                                                         1   3
+3   ACERACEAE    ACER             PENSYLVANICUM                                                         1   5   3
+5   ACERACEAE    ACER             PENSYLVANICUM                                                         1   4   5
+8   ACERACEAE    ACER             PENSYLVANICUM                                                         5   4   4  10 2.5   7   9
+1   ACERACEAE    ACER             RUBRUM                                                                1  14
+10  ACERACEAE    ACER             RUBRUM                                                                1   4
+2   ACERACEAE    ACER             RUBRUM                                                                1  12
+4   ACERACEAE    ACER             RUBRUM                                                                1  11
+6   ACERACEAE    ACER             RUBRUM                                                                4   4  13  11  13
+8   ACERACEAE    ACER             RUBRUM                                                                2   3   7  15
+9   ACERACEAE    ACER             RUBRUM                                                                1  21
+10  ACERACEAE    ACER             SACCHARUM                                                             1  24
+2   ACERACEAE    ACER             SACCHARUM                                                             1  13
+3   ACERACEAE    ACER             SACCHARUM                                                             1  16
+7   ACERACEAE    ACER             SACCHARUM                                                             3  27  20  26  29
+8   ACERACEAE    ACER             SACCHARUM                                                             1   5
+7   BETULACEAE   BETULA           LENTA                                                                 2  23 2.5
+8   BETULACEAE   BETULA           LENTA                                                                 1  14
+9   BETULACEAE   BETULA           LENTA                                                                 1  35
+10  BETULACEAE   CARPINUS         CAROLINIANA                                                           1   3  18
+2   BETULACEAE   CARPINUS         CAROLINIANA                                                           1  10
+1   BETULACEAE   OSTRYA           VIRGINIANA                                                            4   6   3   3  10
+10  BETULACEAE   OSTRYA           VIRGINIANA                                                            5   3   4 2.5 2.5 2.5
+2   BETULACEAE   OSTRYA           VIRGINIANA                                                            3   3   3   4
+3   BETULACEAE   OSTRYA           VIRGINIANA                                                            1   3
+7   BETULACEAE   OSTRYA           VIRGINIANA                                                            7   4   3   4   4   4   4   5
+8   BETULACEAE   OSTRYA           VIRGINIANA                                                            5   4   4   5   5   3
+9   BETULACEAE   OSTRYA           VIRGINIANA                                                            2   4   3
+4   CORNACEAE    CORNUS           FLORIDA                                                               1   4
+7   FAGACEAE     CASTANEA         DENTATA                                                               1   6 2.5   4
+8   FAGACEAE     CASTANEA         DENTATA                                                               1  14
+9   FAGACEAE     CASTANEA         DENTATA                                                               1   6
+4   FAGACEAE     QUERCUS          ALBA                                                                  1  27
+3   FAGACEAE     QUERCUS          PRINOIDES                                                             1  37
+4   FAGACEAE     QUERCUS          PRINOIDES                                                             1  30
+6   FAGACEAE     QUERCUS          PRINOIDES                                                             1  26
+8   FAGACEAE     QUERCUS          PRINOIDES                                                             1  31
+1   FAGACEAE     QUERCUS          RUBRA                                                                 2  30  36  39
+10  FAGACEAE     QUERCUS          RUBRA                                                                 3  32  36  41
+2   FAGACEAE     QUERCUS          RUBRA                                                                 1  53
+3   FAGACEAE     QUERCUS          RUBRA                                                                 1  41
+4   FAGACEAE     QUERCUS          RUBRA                                                                 2  16  36  52
+5   FAGACEAE     QUERCUS          RUBRA                                                                 1  31
+9   FAGACEAE     QUERCUS          RUBRA                                                                 2   5   3
+4   FAGACEAE     QUERCUS          VELUTINA                                                              1  40
+5   FAGACEAE     QUERCUS          VELUTINA                                                              1  38
+2   HAMAMELIDACEAHAMAMELIS        VIRGINIANA                                                            3 2.5 2.5   4
+3   HAMAMELIDACEAHAMAMELIS        VIRGINIANA                                                            3 2.5 2.5   3
+4   HAMAMELIDACEAHAMAMELIS        VIRGINIANA                                                            1   3
+6   HAMAMELIDACEAHAMAMELIS        VIRGINIANA                                                            1 2.5
+2   JUGLANDACEAE CARYA            GLABRA                                                                2  14  16  13
+3   JUGLANDACEAE CARYA            M1                                                                    1  22
+2   JUGLANDACEAE CARYA            OVALIS                                                                1  14
+1   OLEACEAE     FRAXINUS         AMERICANA                                                             1   3
+10  OLEACEAE     FRAXINUS         AMERICANA                                                             1  19  33
+2   OLEACEAE     FRAXINUS         AMERICANA                                                             1   3
+4   OLEACEAE     FRAXINUS         AMERICANA                                                             3   4   8   9
+7   OLEACEAE     FRAXINUS         AMERICANA                                                             1   7
+8   OLEACEAE     FRAXINUS         AMERICANA                                                             1   3
+1   PINACEAE     PINUS            STROBUS                                                               1  24
+2   PINACEAE     PINUS            STROBUS                                                               1   8
+3   PINACEAE     PINUS            STROBUS                                                               2  14  14
+4   PINACEAE     PINUS            STROBUS                                                               3  12  30  25  25
+5   PINACEAE     PINUS            STROBUS                                                               2   9  33
+6   PINACEAE     PINUS            STROBUS                                                               1  20
+10  ROSACEAE     AMELANCHIER      ARBOREA                                                               1   3
+2   ROSACEAE     AMELANCHIER      ARBOREA                                                               1   8
+7   ROSACEAE     AMELANCHIER      ARBOREA                                                               1 2.5
+8   ROSACEAE     AMELANCHIER      ARBOREA                                                               1   4
+9   ROSACEAE     AMELANCHIER      ARBOREA                                                               1   9
+1   SALICACEAE   POPULUS          GRANDIDENTATA                                                         1  31
+
+
+
+
+
+
+
+

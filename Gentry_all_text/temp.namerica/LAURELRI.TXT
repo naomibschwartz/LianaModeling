@@ -1,0 +1,64 @@
+LineFamily       Genus            Species        vouchevouchevouchevouchevouchevouchevouchevoucheLianN(IndStemStemStemStemStemStemStemStemStemStemStemStemStem
+1   ACERACEAE    ACER             PENSYLVANICUM                                                         1   3
+2   ACERACEAE    ACER             PENSYLVANICUM                                                         4   4 2.5   6 2.5
+3   ACERACEAE    ACER             PENSYLVANICUM                                                         9   3   3   3   4   4 2.5   3   3   3
+5   ACERACEAE    ACER             PENSYLVANICUM                                                         2   4   3
+6   ACERACEAE    ACER             PENSYLVANICUM                                                         1   4
+7   ACERACEAE    ACER             PENSYLVANICUM                                                         5   4 2.5   3   4   5
+9   ACERACEAE    ACER             PENSYLVANICUM                                                         2   3   3
+1   ACERACEAE    ACER             RUBRUM                                                                1  14
+10  ACERACEAE    ACER             RUBRUM                                                                3  20  20   7   8
+4   ACERACEAE    ACER             RUBRUM                                                                1  12
+7   ACERACEAE    ACER             RUBRUM                                                                1  10
+8   ACERACEAE    ACER             RUBRUM                                                                2  20  27  25
+9   ACERACEAE    ACER             RUBRUM                                                                1  35
+1   ACERACEAE    ACER             SACCHARUM                                                             1  37
+10  ACERACEAE    ACER             SACCHARUM                                                             3   4   3   4
+2   ACERACEAE    ACER             SACCHARUM                                                            10  33  13  19  18   9  14   5   6  35  16
+3   ACERACEAE    ACER             SACCHARUM                                                             3   9   4  48
+4   ACERACEAE    ACER             SACCHARUM                                                             4   8   8   7   4
+5   ACERACEAE    ACER             SACCHARUM                                                             2   8  50
+6   ACERACEAE    ACER             SACCHARUM                                                             2   8  31
+7   ACERACEAE    ACER             SACCHARUM                                                             8   4  12  19  17 2.5   4  18   6
+8   ACERACEAE    ACER             SACCHARUM                                                             2   6   6
+9   ACERACEAE    ACER             SACCHARUM                                                             3  42   3  39
+1   BETULACEAE   BETULA           ALLEGHANIENSIS                                                        2   4 2.5
+10  BETULACEAE   BETULA           ALLEGHANIENSIS                                                        1   4   3
+3   BETULACEAE   BETULA           ALLEGHANIENSIS                                                        1   5
+1   FAGACEAE     FAGUS            GRANDIFOLIA                                                          13   4   4   3   5 2.5 109  10  21 2.5  23  49   4   4
+10  FAGACEAE     FAGUS            GRANDIFOLIA                                                           1   6
+2   FAGACEAE     FAGUS            GRANDIFOLIA                                                           1   4
+4   FAGACEAE     FAGUS            GRANDIFOLIA                                                           4  35  11  16   6
+5   FAGACEAE     FAGUS            GRANDIFOLIA                                                           2  13   5
+6   FAGACEAE     FAGUS            GRANDIFOLIA                                                           3   5   3   3
+7   FAGACEAE     FAGUS            GRANDIFOLIA                                                           5   3   5   3   3   4
+8   FAGACEAE     FAGUS            GRANDIFOLIA                                                           5 2.5   4   5   5  64
+9   FAGACEAE     FAGUS            GRANDIFOLIA                                                           6   9   3 2.5   4   5   3
+10  FAGACEAE     QUERCUS          ALBA                                                                  1  44
+1   FAGACEAE     QUERCUS          RUBRA                                                                 1  42
+9   FAGACEAE     QUERCUS          RUBRA                                                                 2  29   8
+4   FAGACEAE     QUERCUS          VELUTINA                                                              2  37  34
+4   HAMAMELIDACEAHAMAMELIS        VIRGINIANA                                                            1   4   3   3
+7   HAMAMELIDACEAHAMAMELIS        VIRGINIANA                                                            1   4   4   4
+4   MAGNOLIACEAE MAGNOLIA         ACUMINATA                                                             2   3   3
+6   OLEACEAE     FRAXINUS         AMERICANA                                                             1  33
+3   ROSACEAE     AMELANCHIER      LAEVIS                                                                1   6   3
+6   ROSACEAE     AMELANCHIER      LAEVIS                                                                1  15  12  10
+1   ROSACEAE     PRUNUS           SEROTINA                                                              1  40
+2   ROSACEAE     PRUNUS           SEROTINA                                                              1  23
+3   ROSACEAE     PRUNUS           SEROTINA                                                              2  38  39
+5   ROSACEAE     PRUNUS           SEROTINA                                                              3  21  48  49
+6   ROSACEAE     PRUNUS           SEROTINA                                                              2  38  35
+7   ROSACEAE     PRUNUS           SEROTINA                                                              3  49  36  22
+8   ROSACEAE     PRUNUS           SEROTINA                                                              2  35  40
+9   ROSACEAE     PRUNUS           SEROTINA                                                              2  35  46
+10  TILIACEAE    TILIA            AMERICANA                                                             1   9  40
+
+
+
+
+
+
+
+
+

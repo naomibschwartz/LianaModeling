@@ -1,0 +1,160 @@
+NumFamily     Genus      species    vouchevouchevouchevouchevouchevouchevouchevoucheLIAN(INDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMDSTEMD
+ 2 ANACARDIACESpondias   radlkoferi                                                       1    5
+ 1 ANNONACEAE Annona     M1                                                               1    5
+ 4 ANNONACEAE Annona     M1                                                               1   10 5    2.5
+ 5 ANNONACEAE Annona     M1                                                               1  2.5
+ 6 ANNONACEAE Annona     M1                                                               1    5 2.5
+ 7 ANNONACEAE Annona     M1                                                               2  2.5 10   7.5
+ 8 ANNONACEAE Annona     M1                                                               1    8
+ 5 APOCYNACEAEPrestonia  mollis                                                     L     1  2.5
+ 8 ASTERACEAE Pseudogynoxscabra                                                     L     1  2.5
+ 7 ASTERACEAE Vernonia   baccharoides                                                     1  2.5
+ 2 BIGNONIACEAArrabidaea corallina                                                  L     1    5
+ 3 BIGNONIACEAArrabidaea corallina                                                  L     1   12
+ 4 BIGNONIACEAArrabidaea corallina                                                  L     1  2.5
+ 1 BIGNONIACEAArrabidaea pubescens                                                  L     1    5
+ 3 BIGNONIACEAArrabidaea pubescens                                                  L     1  2.5 2.5
+ 7 BIGNONIACEAArrabidaea pubescens                                                  L     1  2.5
+ 9 BIGNONIACEAArrabidaea pubescens                                                  L     1  2.5
+10 BIGNONIACEAArrabidaea pubescens                                                  L     1   11
+ 4 BIGNONIACEAMacranthisilongiflorus                                                L     1  2.5
+ 5 BIGNONIACEAMacranthisilongiflorus                                                L     1  2.5
+10 BIGNONIACEAMacranthisilongiflorus                                                L     1  2.5
+ 1 BIGNONIACEAMansoa     hymenaea                                                   L     1  2.5
+ 9 BIGNONIACEAMansoa     hymenaea                                                   L     2   13 7.5
+ 1 BIGNONIACEAMansoa     verrucifera                                                L     1  2.5
+ 2 BIGNONIACEAMansoa     verrucifera                                                L     1  2.5
+ 4 BIGNONIACEAMansoa     verrucifera                                                L     1  2.5
+ 6 BIGNONIACEAMansoa     verrucifera                                                L     2  2.5 2.5
+10 BIGNONIACEAMansoa     verrucifera                                                L     1  2.5
+ 1 BIGNONIACEATabebuia   chrysantha                                                       1    5
+ 2 BIGNONIACEATabebuia   chrysantha                                                       1  2.5
+ 3 BIGNONIACEATabebuia   chrysantha                                                       2  7.5 2.5  15
+ 4 BIGNONIACEATabebuia   chrysantha                                                       1    5
+ 8 BIGNONIACEATabebuia   chrysantha                                                       1   10 11
+ 9 BIGNONIACEATabebuia   chrysantha                                                       1   13
+10 BIGNONIACEATabebuia   chrysantha                                                       1    9
+ 1 BOMBACACEAEBombacopsistrinitatis                                                       1   28
+ 4 BOMBACACEAEBombacopsistrinitatis                                                       1  2.5
+ 8 BOMBACACEAEBombacopsistrinitatis                                                       1  2.5
+ 3 BOMBACACEAECavanillesiplatanifolia                                                     1  120
+ 4 BOMBACACEAECavanillesiplatanifolia                                                     3   84 89   83
+10 BOMBACACEAECavanillesiplatanifolia                                                     1   90
+ 2 BOMBACACEAEEriotheca  ruizii                                                           1   63
+ 3 BOMBACACEAEEriotheca  ruizii                                                           1    5 2.5  2.5
+ 2 BOMBACACEAEPseudobombaguayasense                                                       1   10
+ 3 BOMBACACEAEPseudobombaguayasense                                                       1   20
+ 6 BOMBACACEAEPseudobombaguayasense                                                       1   56
+ 6 BORAGINACEACordia     macrantha                                                        1   19
+ 8 BORAGINACEACordia     macrantha                                                        1   28
+ 9 BORAGINACEACordia     macrantha                                                        1   15
+ 7 BORAGINACEACordia     panamensis                                                       2  2.5 2.5
+10 BORAGINACEACordia     panamensis                                                       1  2.5
+ 8 BORAGINACEACordia     sericicalyx                                                      1   15
+ 1 BURSERACEAEBursera    graveolens                                                       1   21
+ 6 BURSERACEAEBursera    graveolens                                                       1   13
+ 1 COCHLOSPERMCochlospermvitifolium                                                       1    5
+ 2 COCHLOSPERMCochlospermvitifolium                                                       2  7.5 10
+ 8 COCHLOSPERMCochlospermvitifolium                                                       1  7.5
+ 9 COMBRETACEACombretum  decandrum                                                  L     1  2.5
+ 4 COMBRETACEACombretum  pavonii                                                    L     1  2.5
+ 8 COMBRETACEACombretum  pavonii                                                    L     1  2.5
+ 9 CONVOLVULACJacquemonticiliata                                                    L     1  2.5
+ 7 CONVOLVULACTurbinia   abutiloides                                                L     1  2.5
+ 8 ERYTHROXYLAErythroxyluglaucum                                                          1   12
+ 9 ERYTHROXYLAErythroxyluglaucum                                                          1  2.5 2.5
+ 8 EUPHORBIACESapium     utile                                                            1   32
+ 1 FABACEAE   Acacia     macrantha                                                        2    5 5
+ 1 FABACEAE   Acacia     acanthophylla                                              L     1    5    5
+ 1 FABACEAE   Acacia     cf riparia                                                 L     2  2.5  2.5  2.5  2.5
+ 5 FABACEAE   Acacia     cf riparia                                                 L     1  2.5
+ 6 FABACEAE   Acacia     cf riparia                                                 L     2    5  2.5
+ 8 FABACEAE   Acacia     cf riparia                                                 L     2  2.5  2.5
+ 4 FABACEAE   Bauhinia   aculeata                                                         1  2.5
+ 9 FABACEAE   Bauhinia   aculeata                                                         1  2.5
+10 FABACEAE   Bauhinia   aculeata                                                         1    5
+ 6 FABACEAE   Centrolobiuochroxylum                                                       1  2.5
+ 5 FABACEAE   Entada     polystachya                                                L     1  7.5 9
+ 7 FABACEAE   Entada     polystachya                                                L     3    5 5    2.5
+ 9 FABACEAE   Entada     polystachya                                                L     1    5
+10 FABACEAE   Entada     polystachya                                                L     1   13
+ 4 FABACEAE   Lonchocarpuatropureus                                                       1   13 7.5
+ 5 FABACEAE   Lonchocarpuatropureus                                                       2  7.5 2.5
+ 8 FABACEAE   Lonchocarpuatropureus                                                       2  7.5 7.5
+ 9 FABACEAE   Lonchocarpuatropureus                                                       1    5 2.5  2.5  2.5
+ 1 FABACEAE   Machaerium capote                                                           2    5 2.5
+ 2 FABACEAE   Machaerium capote                                                           1    5
+ 3 FABACEAE   Machaerium capote                                                           1   11 5    5
+ 4 FABACEAE   Machaerium capote                                                           2    5 12
+ 6 FABACEAE   Machaerium capote                                                           6  7.5 5    2.5  2.5  14   5    2.5
+ 8 FABACEAE   Machaerium capote                                                           1  2.5
+ 9 FABACEAE   Machaerium capote                                                           2  2.5 13
+10 FABACEAE   Machaerium capote                                                           1  7.5
+ 3 FABACEAE   Piscidia   carthaginensis                                                   2  2.5 2.5  9
+ 6 FABACEAE   Piscidia   carthaginensis                                                   1   20
+ 5 FABACEAE   Pithecellobexcelsum                                                         1  2.5 2.5  2.5
+ 4 FABACEAE   Pithecellobpauciflorum                                                      1  2.5
+ 7 FABACEAE   Pterocarpusmagnicarpa                                                       1   26
+ 9 FABACEAE   Pterocarpusmagnicarpa                                                       1   25
+ 9 FLACOURTIACProckia    utile                                                            1  2.5 5
+ 3 LECYTHIDACEGustavia   angustifolia                                                     1  2.5
+ 4 LECYTHIDACEGustavia   angustifolia                                                     1  2.5
+ 5 LECYTHIDACEGustavia   angustifolia                                                     4  2.5 2.5  2.5  2.5  5
+ 6 LECYTHIDACEGustavia   angustifolia                                                     2    5 2.5  5
+ 7 LECYTHIDACEGustavia   angustifolia                                                     3  2.5 2.5  2.5
+ 8 LECYTHIDACEGustavia   angustifolia                                                     1   10
+ 9 LECYTHIDACEGustavia   angustifolia                                                     2  2.5 2.5
+10 LECYTHIDACEGustavia   angustifolia                                                     1   12
+ 6 MALPIGHIACEStigmaphyllM                                                          L     1  2.5
+ 2 MORACEAE   Ficus      velutina                                                         1   23
+ 1 MORACEAE   Sorocea    sprucei                                                          1  2.5 2.5
+ 4 MORACEAE   Sorocea    sprucei                                                          3   12 10    2.5  2.5
+ 5 MORACEAE   Sorocea    sprucei                                                          1  7.5 5    2.5  2.5
+ 6 MORACEAE   Sorocea    sprucei                                                          1    9 5
+ 7 MORACEAE   Sorocea    sprucei                                                          1  2.5
+ 8 MORACEAE   Sorocea    sprucei                                                          1  2.5
+ 9 MORACEAE   Sorocea    sprucei                                                          6  2.5 5    2.5  10   2.5  2.5  2.5  2.5  9    8    2.5  2.5
+ 2 MYRTACEAE  Eugenia    M1                                                               2   18 5    5    2.5  2.5
+ 7 MYRTACEAE  Eugenia    M1                                                               2    5 2.5
+ 8 MYRTACEAE  Eugenia    M1                                                               1    5
+ 6 MYRTACEAE  M1         M1                                                               1  2.5
+ 1 NYCTAGINACEPisonia    macrantha                                                        2  7.5 10   9
+10 NYCTAGINACEPisonia    macrantha                                                        2    5 5
+ 7 POLYGALACEASecuridaca coriacea                                                   L     1  2.5
+ 1 RUBIACEAE  Alseis     eggersii                                                         1   28 9
+ 6 RUBIACEAE  Alseis     eggersii                                                         2  7.5 5    7.5  5    5
+ 6 RUBIACEAE  Chiococca  alba                                                       L     1  2.5
+10 RUBIACEAE  Coutarea   hexandra                                                         1   16 8
+ 4 RUBIACEAE  Randia     M1                                                               1  2.5
+ 5 RUBIACEAE  Randia     M1                                                               1  2.5 2.5
+ 2 RUBIACEAE  Simira     ecuadorensis                                                     1    9
+ 4 RUBIACEAE  Simira     ecuadorensis                                                     3  2.5 2.5  8
+ 6 RUBIACEAE  Simira     ecuadorensis                                                     1   10
+ 7 RUBIACEAE  Simira     ecuadorensis                                                     1  2.5
+ 8 RUBIACEAE  Simira     ecuadorensis                                                     2  7.5 2.5  5
+ 9 RUBIACEAE  Simira     ecuadorensis                                                     1    5
+ 1 SAPINDACEAEAllophylus occidentalis                                                     1  2.5
+10 SAPINDACEAESapindus   saponaria                                                        1   11
+ 7 SAPINDACEAESerjania   longipes                                                   L     1  2.5
+ 5 SAPOTACEAE M1         M1                                                               3   10 9    12
+ 6 SAPOTACEAE M1         M1                                                               1    5 5
+ 7 SAPOTACEAE M1         M1                                                               3    8 5    11   7.5  16
+ 9 SAPOTACEAE M1         M1                                                               6   10 9    13   10   11   13
+10 SAPOTACEAE M1         M1                                                               4   15 9    8    15   9    10
+ 3 STERCULIACEGuazuma    ulmifolia                                                        1   10 2.5
+ 4 STERCULIACEGuazuma    ulmifolia                                                        1   11 9    5
+ 5 STERCULIACEGuazuma    ulmifolia                                                        2    9 13
+ 9 STERCULIACEGuazuma    ulmifolia                                                        2  2.5 14   7.5
+10 STERCULIACEGuazuma    ulmifolia                                                        1   12 16   23   5    7.5  7.5
+ 3 VERBENACEAEVitex      gigantea                                                         1   10 11
+ 7 VERBENACEAEVitex      gigantea                                                         2  7.5 2.5  18   5    2.5
+ 8 VERBENACEAEVitex      gigantea                                                         2  7.5 22
+ 9 VERBENACEAEVitex      gigantea                                                         2   15 10
+ 2 VITACEAE   Cissus     rhombifolia                                                L     1    5
+ 4 VITACEAE   Cissus     rhombifolia                                                L     1  2.5
+ 5 VITACEAE   Cissus     rhombifolia                                                L     1  2.5
+ 7 VITACEAE   Cissus     rhombifolia                                                L     1  2.5
+ 9 VITACEAE   Cissus     rhombifolia                                                L     2  2.5 2.5
+10 VITACEAE   Cissus     rhombifolia                                                L     2    5 2.5
+ 1 VITACEAE   Vitis      tiliifolia                                                 L     2  2.5 2.5
+ 7 VITACEAE   Vitis      tiliifolia                                                 L     2  2.5 2.5

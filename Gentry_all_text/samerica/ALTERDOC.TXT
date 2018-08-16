@@ -1,0 +1,97 @@
+LineFamily       Genus        Species     VoucVoucVoucVoucVoucVoucVoucVoucHabiN(inStemStemStemStemStemStemStem
+  4 ANACARDIACEAEANACARDIUM   M1          644                                   1   3
+  5 ANACARDIACEAEANACARDIUM   M1          644                                   1  10   5
+  4 ANACARDIACEAETAPIRIRA     GUIANENSIS  645                                   2   3   3   5   5   6
+  8 ANACARDIACEAETAPIRIRA     GUIANENSIS  645                                   1   6   3
+  4 ANNONACEAE   BOCAGEOPSIS? M1          641                                   1  15
+  1 ANNONACEAE   XYLOPIA      M1          622                                   2   4   5
+  2 ANNONACEAE   XYLOPIA      M1          622                                   1   3
+  3 ANNONACEAE   XYLOPIA      M1          622                                   4   7   9  10  11
+  4 ANNONACEAE   XYLOPIA      M1          622                                   1   8
+  6 ANNONACEAE   XYLOPIA      M1          622                                   1  13
+  8 ANNONACEAE   XYLOPIA      M1          622                                   1  12
+  4 ANNONACEAE   XYLOPIA      M2          637                                   5   5   8   5   4   5  15
+  4 BIGNONIACEAE TABEBUIA     OCHRACEA    640                                   1  24
+  5 BIGNONIACEAE TABEBUIA     OCHRACEA    640                                   1   3
+  3 CHRYSOBALANACHIRTELLA     M1          630                                   1   3
+  9 CLUSIACEAE   CLUSIA       M1          650                             H     1   6
+  1 DILLENIACEAE DAVILLA      M1          624                             L     1 2.5
+  4 DILLENIACEAE DOLIOCARPUS  M1          639                             L     1   5
+  3 ERYTHROXYLUM ERYTHROXYLON M1          634                                   1 2.5
+  5 ERYTHROXYLUM ERYTHROXYLON M1          634                                   1 2.5
+  5 FABACEAE     ANDIRA?      M1          648                                   1   3   3
+  7 FABACEAE     ANDIRA?      M1          648                                   1   3
+ 10 FABACEAE     ANDIRA?      M1          648                                   2   4   8
+  2 FABACEAE     COPAIFERA    M1          629                                   2   7   7
+  4 FABACEAE     COPAIFERA    M1          629                                   1   6
+  1 FABACEAE     DIOCLEA      M1          625                             L     1 2.5
+  8 FABACEAE     DIOCLEA      M1          625                             L     1 2.5
+  9 FABACEAE     DIOCLEA      M1          625                             L     1   4
+  5 FABACEAE     M1           M1          649                                   1  20
+  8 FABACEAE     M1           M1          649                                   1   5
+ 10 FABACEAE     M1           M1          649                                   1  11
+  1 FABACEAE     SCLEROLOBIUM M1          626                                   1  16
+  3 FABACEAE     SCLEROLOBIUM M1          626                                   2  10 2.5
+  4 FABACEAE     SCLEROLOBIUM M1          626                                   2   3  18
+  5 FABACEAE     SCLEROLOBIUM M1          626                                   4  29   3 2.5   6
+  7 FABACEAE     SCLEROLOBIUM M1          626                                   4   3  10  24   6
+  8 FABACEAE     SCLEROLOBIUM M1          626                                   7 2.5   3  12  16  14   9   8
+  9 FABACEAE     SCLEROLOBIUM M1          626                                   2  10  18
+ 10 FABACEAE     SCLEROLOBIUM M1          626                                   4  10  10  17   8
+  4 FABACEAE     STRYPHNODENDRM1          646                                   1   9
+  4 FLACOURTIACEACASEARIA     M1          636                                   2 2.5 2.5   3
+  5 FLACOURTIACEACASEARIA     M1          636                                   1 2.5
+  8 FLACOURTIACEACASEARIA     M1          636                                   2 2.5 2.5
+ 10 FLACOURTIACEACASEARIA     M1          636                                   1   5   8
+  4 FLACOURTIACEACASEARIA     M2          647                                   1   3
+  7 FLACOURTIACEACASEARIA     M2          647                                   1   3
+  8 FLACOURTIACEACASEARIA     M2          647                                   1 2.5
+  2 LYTHRACEAE   LAFOENSIA    M1          628                                   3   9  15  24
+  3 LYTHRACEAE   LAFOENSIA    M1          628                                   1  12
+  5 LYTHRACEAE   LAFOENSIA    M1          628                                   1   8
+ 10 LYTHRACEAE   LAFOENSIA    M1          628                                   2   3  11  
+  2 MALPIGHIACEAEBYRSONIMA    M1          627                                   3   3  11   9
+  3 MALPIGHIACEAEBYRSONIMA    M1          627                                   1   6
+  5 MALPIGHIACEAEBYRSONIMA    M1          627                                   2  12   5   4
+  3 MALPIGHIACEAEBYRSONIMA    M2          633                                   2   9   3
+  4 MALPIGHIACEAEBYRSONIMA    M2          633                                   1  19
+  6 MALPIGHIACEAEBYRSONIMA    M2          633                                   1   7
+  7 MALPIGHIACEAEBYRSONIMA    M2          633                                   4   7  10  24  22
+  8 MALPIGHIACEAEBYRSONIMA    M2          633                                   2   5  18
+  9 MALPIGHIACEAEBYRSONIMA    M2          633                                   1  23
+  4 MELASTOMATACEMICONIA      M1          642                                   3 2.5 2.5 2.5
+  7 MELASTOMATACEMICONIA      M1          642                                   2 2.5 2.5
+  8 MELASTOMATACEMICONIA      M1          642                                   1 2.5
+  4 MYRTACEAE    MYRCIA       GUIANENSIS  635                                   2   8 2.5
+  7 MYRTACEAE    MYRCIA       GUIANENSIS  635                                   2   4   4
+  4 MYRTACEAE    MYRCIA       PAIVAE      643                                   1   3
+  8 MYRTACEAE    MYRCIA       PAIVAE      643                                   2   3 2.5
+  4 OLACACEAE?   M1           M1          638                                   2   6  10  15  29   3
+  3 PROTEACEAE   ROUPALA      M1          632                                   1  18
+  5 PROTEACEAE   ROUPALA      M1          632                                   1  17
+  7 PROTEACEAE   ROUPALA      M1          632                                   1   3
+  4 SAPINDACEAE  CUPANIA      M1          607                                   1 2.5
+  8 SAPINDACEAE  CUPANIA      M1          607                                   1 2.5
+ 10 SAPINDACEAE  MATAYBA      M1          652                                   1   4
+  1 SAPOTACEAE   M1           M1          620                                   6 2.5 2.5   7   9   7   8  10
+  2 SAPOTACEAE   M1           M1          620                                   3  21 2.5   8   6
+  4 SAPOTACEAE   M1           M1          620                                   1  11
+  6 SAPOTACEAE   M1           M1          620                                   3  12  15   9
+  9 SAPOTACEAE   M1           M1          620                                   3   6  10  12  12  14
+ 10 SAPOTACEAE   M1           M1          620                                   3  20  17  13
+  3 SIMAROUBACEAESIMAROUBA    AMARA       631                                   1  29
+  4 SIMAROUBACEAESIMAROUBA    AMARA       631                                   1  18
+  5 SIMAROUBACEAESIMAROUBA    AMARA       631                                   1   3
+  6 SIMAROUBACEAESIMAROUBA    AMARA       631                                   2   5   3   4
+  8 SIMAROUBACEAESIMAROUBA    AMARA       631                                   1  20
+ 10 SIMAROUBACEAESIMAROUBA    AMARA       631                                   1 2.5
+  9 VOCHYSIACEAE QUALEA       GRANDIFLORA 651                                   1  15
+  1 VOCHYSIACEAE QUALEA       M1          623                                   2  16  14
+  3 VOCHYSIACEAE QUALEA       M1          623                                   1  12
+  5 VOCHYSIACEAE QUALEA       M1          623                                   2   7   4 2.5
+  8 VOCHYSIACEAE QUALEA       M1          623                                   1   5
+  9 VOCHYSIACEAE QUALEA       M1          623                                   1   4
+ 10 VOCHYSIACEAE QUALEA       M1          623                                   3   7   8   8
+  1 VOCHYSIACEAE VOCHYSIA     M1          621                                   1  18
+  2 VOCHYSIACEAE VOCHYSIA     M1          621                                   1   9
+  9 VOCHYSIACEAE VOCHYSIA     M1          621                                   2   8  30
